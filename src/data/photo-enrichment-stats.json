@@ -1,0 +1,24 @@
+{
+  "nounCandidates": 4936,
+  "wikipediaEntities": 1243,
+  "exactBilingualCandidates": 932,
+  "downloadedPhotos": 590,
+  "manualVisualReviews": 231,
+  "pending": 4577,
+  "rejectionReasons": {
+    "license, attribution or JPEG metadata not accepted": 131,
+    "individual metadata not yet available": 175,
+    "download rate limited 429": 173,
+    "insufficient source size": 38,
+    "visual review rejected": 2,
+    "metadata suggests illustration": 30,
+    "missing individual license URL": 3,
+    "graphic or intimate category excluded": 2,
+    "no unique exact bilingual entity with P18": 3693,
+    "non-photographic or illustration filename": 255,
+    "bilingual entity labels do not match after disambiguation": 54,
+    "graphic or intimate image excluded": 2,
+    "same image already used for a different card": 19
+  },
+  "bytes": 56996686
+}

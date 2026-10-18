@@ -1,0 +1,28 @@
+{
+  "url": "/data/vocabulary-c27d9b6549b8.json",
+  "fallbackUrls": [
+    "/data/vocabulary-92827cc2b828.json",
+    "/data/vocabulary-c3c6b668a3a3.json",
+    "/data/vocabulary-a7df05754988.json"
+  ],
+  "total": 7984,
+  "added": 7958,
+  "photos": 307,
+  "examples": 2515,
+  "uniqueExamples": 2438,
+  "withTwoExamples": 1101,
+  "patchedCards": 786,
+  "fixedLanguageIssues": 24,
+  "flaggedCards": 7758,
+  "withTwoReviewedExamples": 776,
+  "visuallyReviewedPhotos": 307,
+  "curated": 226,
+  "levels": {
+    "A0": 314,
+    "A1": 932,
+    "A2": 1199,
+    "B1": 1413,
+    "B2": 1309,
+    "C1": 2817
+  }
+}

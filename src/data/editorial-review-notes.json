@@ -1,0 +1,530 @@
+{
+  "method": "agent-editorial-review",
+  "independentNativeReview": false,
+  "baselineTotal": 7984,
+  "baselineWithTwoExamples": 553,
+  "reviewedOriginalCards": 26,
+  "reviewedCuratedCards": 200,
+  "newCardsWithTwoExamples": 348,
+  "authoredExamplePairs": 351,
+  "authoredExamples": 705,
+  "examplesReviewedCards": 577,
+  "reviewedStatusCards": 576,
+  "flaggedCards": 10,
+  "fixedIssues": 24,
+  "fixedCards": 23,
+  "addedContentNote": "Расширение примеров учитывается отдельно от исправлений ошибок. Часть исправлений — уточнение неполных переводов, не грубые ошибки.",
+  "limitations": [
+    "Семантическая проверка агентом не гарантирует безошибочность всех переводов.",
+    "Уровни CEFR исходной базы оценочные; сомнительные уровни отмечены, а не заменены произвольной классификацией.",
+    "Автоматический аудит структуры не является экспертной проверкой всех 7984 статей."
+  ],
+  "issues": [
+    {
+      "id": "open-353882dc8e112ae4",
+      "ro": "meci",
+      "type": "wrong-meaning",
+      "changes": {
+        "ru": {
+          "before": "спорт. ничья",
+          "after": "матч; спортивная встреча"
+        },
+        "pos": {
+          "before": "существительное",
+          "after": "существительное, ср. р."
+        },
+        "forms": {
+          "before": "",
+          "after": "meciul; meciuri"
+        }
+      },
+      "reason": "Meci обозначает встречу/матч, а ничья — egalitate.",
+      "reference": "https://dexonline.ro/definitie/meci"
+    },
+    {
+      "id": "open-7f1af712085feab3",
+      "ro": "țigară",
+      "type": "wrong-meaning",
+      "changes": {
+        "ru": {
+          "before": "сигара",
+          "after": "сигарета"
+        },
+        "forms": {
+          "before": "",
+          "after": "țigara; țigări"
+        }
+      },
+      "reason": "Основное современное значение — сигарета; сигара обозначается țigară de foi.",
+      "reference": "https://dexonline.ro/definitie/țigară"
+    },
+    {
+      "id": "open-37e1ad675a36a520",
+      "ro": "modalitate",
+      "type": "overly-narrow-meaning",
+      "changes": {
+        "ru": {
+          "before": "лингв. модальность",
+          "after": "способ; форма осуществления; модальность (в специальном контексте)"
+        },
+        "forms": {
+          "before": "",
+          "after": "modalitatea; modalități"
+        }
+      },
+      "reason": "Устранено ограничение общеупотребительного слова только лингвистическим значением.",
+      "reference": "https://dexonline.ro/definitie/modalitate"
+    },
+    {
+      "id": "open-191966faafab2706",
+      "ro": "nerăbdare",
+      "type": "wrong-meaning",
+      "changes": {
+        "ru": {
+          "before": "беспокойность, беспокойство",
+          "after": "нетерпение"
+        },
+        "forms": {
+          "before": "",
+          "after": "nerăbdarea; обычно без мн. ч."
+        }
+      },
+      "reason": "Беспокойство не передаёт основного значения ожидания с нетерпением.",
+      "reference": "https://dexonline.ro/definitie/nerăbdare"
+    },
+    {
+      "id": "open-efcb1d45530c17bf",
+      "ro": "niciun",
+      "type": "meaning-and-pos",
+      "changes": {
+        "ru": {
+          "before": "никто",
+          "after": "ни один; никакой (перед существительным)"
+        },
+        "pos": {
+          "before": "местоимение",
+          "after": "отрицательное местоименное прилагательное"
+        },
+        "forms": {
+          "before": "",
+          "after": "м. niciun; ж. nicio; род.-дат. niciunui / niciunei"
+        }
+      },
+      "reason": "Нельзя смешивать niciun перед существительным и самостоятельное nimeni «никто».",
+      "reference": "https://dexonline.ro/definitie/niciun"
+    },
+    {
+      "id": "open-6d11710d0a6b9884",
+      "ro": "citit",
+      "type": "wrong-pos",
+      "changes": {
+        "pos": {
+          "before": "глагол",
+          "after": "причастие; прилагательное"
+        },
+        "forms": {
+          "before": "",
+          "after": "citită; citiți; citite"
+        }
+      },
+      "reason": "Заголовок citit со значением «прочитанный» — причастие, а инфинитив — a citi."
+    },
+    {
+      "id": "open-a4869513c02fac5b",
+      "ro": "primăvara",
+      "type": "lemma-and-pos",
+      "changes": {
+        "ru": {
+          "before": "весна",
+          "after": "весной; весна (с определённым артиклем)"
+        },
+        "pos": {
+          "before": "существительное",
+          "after": "наречие; существительное, ж. р., определённая форма"
+        },
+        "forms": {
+          "before": "",
+          "after": "наречие не изменяется; сущ. primăvară — primăvara; primăveri"
+        }
+      },
+      "reason": "Существительное без артикля — primăvară; форма primăvara также употребляется как обстоятельство времени «весной»."
+    },
+    {
+      "id": "open-bc904d7ceaa63970",
+      "ro": "sta",
+      "type": "overly-narrow-meaning",
+      "changes": {
+        "ru": {
+          "before": "стоять",
+          "after": "стоять; сидеть; находиться; оставаться (по контексту)"
+        },
+        "forms": {
+          "before": "",
+          "after": "stau, stai, stă, stăm, stați, stau; am stat"
+        }
+      },
+      "reason": "Sta не ограничивается вертикальным положением; естественные примеры включают сидение и пребывание."
+    },
+    {
+      "id": "open-8fa628f08b7bf643",
+      "ro": "crimă",
+      "type": "imprecise-meaning",
+      "changes": {
+        "ru": {
+          "before": "юр. преступление",
+          "after": "убийство; тяжкое преступление"
+        },
+        "forms": {
+          "before": "",
+          "after": "crima; crime"
+        }
+      },
+      "reason": "Общее «преступление» слишком широко для основного современного значения."
+    },
+    {
+      "id": "open-5ca6bff1a6e27d41",
+      "ro": "urmare",
+      "type": "incomplete-meaning",
+      "changes": {
+        "ru": {
+          "before": "результат",
+          "after": "следствие; последствие; продолжение"
+        },
+        "forms": {
+          "before": "",
+          "after": "urmarea; urmări"
+        }
+      },
+      "reason": "Перевод «результат» не отражал устойчивое ca urmare и множественное urmări."
+    },
+    {
+      "id": "open-fef5df987529dd50",
+      "ro": "haină",
+      "type": "imprecise-meaning",
+      "changes": {
+        "ru": {
+          "before": "пиджак; одежда",
+          "after": "предмет одежды; верхняя одежда; пальто (по контексту)"
+        }
+      },
+      "reason": "Перевод «пиджак» ошибочно сужал широкое обозначение одежды; пиджак обычно sacou."
+    },
+    {
+      "id": "open-dd2673dc99c93321",
+      "ro": "sincer",
+      "type": "meaning-and-pos",
+      "changes": {
+        "ru": {
+          "before": "искренне",
+          "after": "искренний; честный; искренне, честно говоря"
+        },
+        "pos": {
+          "before": "наречие",
+          "after": "прилагательное; наречие"
+        },
+        "forms": {
+          "before": "",
+          "after": "sinceră; sinceri; sincere; наречие не изменяется"
+        }
+      },
+      "reason": "Добавлено основное адъективное значение и отделено наречное употребление."
+    },
+    {
+      "id": "open-d3052463b7a5e9db",
+      "ro": "scris",
+      "type": "incomplete-meaning",
+      "changes": {
+        "ru": {
+          "before": "почерк",
+          "after": "письмо; письменная речь; почерк; написанное"
+        },
+        "pos": {
+          "before": "существительное",
+          "after": "существительное, ср. р.; причастие"
+        },
+        "forms": {
+          "before": "",
+          "after": "scrisul; причастие scrisă, scriși, scrise"
+        }
+      },
+      "reason": "Одно слово «почерк» не объясняло обычное în scris «письменно»."
+    },
+    {
+      "id": "open-91a9eb5e7e990793",
+      "ro": "nume",
+      "type": "translation-format-and-meaning",
+      "changes": {
+        "ru": {
+          "before": "имя; название; грам. имя (часть речи))",
+          "after": "имя; фамилия; название; грам. имя (часть речи)"
+        },
+        "forms": {
+          "before": "",
+          "after": "numele; nume"
+        }
+      },
+      "reason": "Удалена лишняя закрывающая скобка; добавлено значение фамилии в паре nume și prenume."
+    },
+    {
+      "id": "open-ddcd4febd00c85c5",
+      "ro": "fată",
+      "type": "incomplete-meaning",
+      "changes": {
+        "ru": {
+          "before": "девушка; дочь",
+          "after": "девочка; девушка; дочь (по контексту)"
+        },
+        "forms": {
+          "before": "fete; fata; fetele; fetei; fetelor",
+          "after": "fata; fete"
+        }
+      },
+      "reason": "Добавлено базовое значение «девочка», отсутствовавшее в переводе."
+    },
+    {
+      "id": "open-1ef8ee1366c24981",
+      "ro": "dejun",
+      "type": "context-dependent-meaning",
+      "changes": {
+        "ru": {
+          "before": "завтрак",
+          "after": "завтрак; дневной приём пищи, обед (по контексту); mic dejun — завтрак"
+        }
+      },
+      "reason": "Для современного учебного употребления различены mic dejun и деловой dejun de lucru."
+    },
+    {
+      "id": "open-89e856fae299ec94",
+      "ro": "bancă",
+      "type": "incomplete-meaning",
+      "changes": {
+        "ru": {
+          "before": "банк; парта",
+          "after": "банк; скамейка; парта"
+        },
+        "pos": {
+          "before": "существительное",
+          "after": "существительное, ж. р."
+        },
+        "forms": {
+          "before": "",
+          "after": "banca; bănci"
+        }
+      },
+      "reason": "Добавлено частотное значение «скамейка», нужное для примера в парке."
+    },
+    {
+      "id": "curated-esarfa",
+      "ro": "eșarfă",
+      "type": "unnatural-translation",
+      "changes": {
+        "examples[1]": {
+          "before": {
+            "ro": "Eșarfele de mătase sunt delicate.",
+            "ru": "Шёлковые платки нежные."
+          },
+          "after": {
+            "ro": "Eșarfele de mătase se spală cu grijă.",
+            "ru": "Шёлковые платки стирают бережно."
+          }
+        }
+      },
+      "reason": "Заменён неестественный русский предикат «платки нежные» на практическую естественную пару."
+    },
+    {
+      "id": "open-f9f11413dcbb763d",
+      "ro": "cântec",
+      "type": "imprecise-meaning",
+      "changes": {
+        "ru": {
+          "before": "песня; игра (на музыкальном инструменте)",
+          "after": "песня; пение"
+        },
+        "forms": {
+          "before": "cântece; cântecul; cântecele; cântecului; cântecelor",
+          "after": "cântecul; cântece"
+        }
+      },
+      "reason": "Самостоятельное «игра на музыкальном инструменте» не является основным переводом cântec."
+    },
+    {
+      "id": "open-89ff555ce8ccaa02",
+      "ro": "rost",
+      "type": "incomplete-meaning",
+      "changes": {
+        "ru": {
+          "before": "смысл, толк",
+          "after": "смысл; толк; назначение; функция"
+        },
+        "forms": {
+          "before": "rosturi; rostul; rosturile; rostului; rosturilor",
+          "after": "rostul; rosturi"
+        }
+      },
+      "reason": "Добавлено значение назначения; фраза pe de rost переводится отдельно как «наизусть»."
+    },
+    {
+      "id": "open-9210254babb73147",
+      "ro": "bună",
+      "type": "punctuation-only-duplicate",
+      "changes": {
+        "examples[1]": {
+          "before": {
+            "ro": "Bună dimineața!",
+            "ru": "Доброе утро!",
+            "source": {
+              "name": "Tatoeba / OPUS",
+              "url": "https://tatoeba.org/en/sentences/show/4948871",
+              "translationUrl": "https://tatoeba.org/en/sentences/show/329715",
+              "license": "CC BY 2.0 FR",
+              "licenseUrl": "https://creativecommons.org/licenses/by/2.0/fr/",
+              "attribution": "Tatoeba: elenacristina260 (RO), YURY0608 (RU); OPUS v2023-04-12"
+            }
+          },
+          "after": {
+            "ro": "Bună, Ana! Ce mai faci?",
+            "ru": "Привет, Ана! Как у тебя дела?"
+          }
+        }
+      },
+      "reason": "Второй sourced пример дублировал первый по содержанию; добавлена новая авторская ситуация. Для bună используется самостоятельное приветствие, а не прилагательное."
+    },
+    {
+      "id": "open-7e974de45fbf7089",
+      "ro": "sete",
+      "type": "punctuation-only-duplicate",
+      "changes": {
+        "examples[1]": {
+          "before": {
+            "ro": "Mi-e sete.",
+            "ru": "Я хочу пить.",
+            "source": {
+              "name": "Tatoeba / OPUS",
+              "url": "https://tatoeba.org/en/sentences/show/2536749",
+              "translationUrl": "https://tatoeba.org/en/sentences/show/614946",
+              "license": "CC BY 2.0 FR",
+              "licenseUrl": "https://creativecommons.org/licenses/by/2.0/fr/",
+              "attribution": "Tatoeba: ijikure (RO), shanghainese (RU); OPUS v2023-04-12"
+            }
+          },
+          "after": {
+            "ro": "După plimbarea lungă, copiilor le era sete.",
+            "ru": "После долгой прогулки дети хотели пить."
+          }
+        }
+      },
+      "reason": "Второй sourced пример дублировал первый по содержанию; добавлена новая авторская ситуация. Для bună используется самостоятельное приветствие, а не прилагательное."
+    },
+    {
+      "id": "open-5d9c970dcd517291",
+      "ro": "dar",
+      "type": "pos-homonym-labels",
+      "changes": {
+        "pos/forms": {
+          "before": {
+            "pos": "союз, ср. р.",
+            "forms": "daruri; darul; darurile; darului; darurilor"
+          },
+          "after": {
+            "pos": "союз; существительное, ср. р. (омоним)",
+            "forms": "союз не изменяется; существительное dar — darul; daruri"
+          }
+        }
+      },
+      "reason": "Морфологический род не относится к союзу; разделены метки двух омонимов без изменения ID и заголовка."
+    },
+    {
+      "id": "open-5d9c970dcd517291",
+      "ro": "dar",
+      "type": "imprecise-translation",
+      "changes": {
+        "examples[1].ru": {
+          "before": "Я обнаружил на столе записку, но не знаю, от кого она.",
+          "after": "Я нашёл записку на столе, но не знаю, чья она."
+        }
+      },
+      "reason": "Al cui este спрашивает о принадлежности; источник сохранён, редакторское изменение явно отмечено."
+    }
+  ],
+  "needsReview": [
+    {
+      "id": "open-a219d32f17393a32",
+      "ro": "arhanghel",
+      "type": "needs-editorial-review",
+      "reason": "Специализированная религиозная лексика; B1 получен автоматическим распределением."
+    },
+    {
+      "id": "open-2f98839e2b37d8aa",
+      "ro": "aminoacid",
+      "type": "needs-editorial-review",
+      "reason": "Узкий научный термин; B1 требует пересмотра по учебной цели."
+    },
+    {
+      "id": "open-8e9de937526e4383",
+      "ro": "infrastructură",
+      "type": "needs-editorial-review",
+      "reason": "A2 для книжной общественно-политической лексики требует редакторского обоснования."
+    },
+    {
+      "id": "open-f73198d8e4538c4e",
+      "ro": "anestezie",
+      "type": "needs-editorial-review",
+      "reason": "Медицинский термин: уровень зависит от сценария и не подтверждён корпусом CEFR."
+    },
+    {
+      "id": "open-ca978112ca1bbdca",
+      "ro": "a",
+      "type": "needs-editorial-review",
+      "reason": "Смешаны показатель инфинитива и распределительный предлог; нужны отдельные значения."
+    },
+    {
+      "id": "open-f854b2aeb789d616",
+      "ro": "jos",
+      "type": "needs-editorial-review",
+      "reason": "Смешаны адъективное и наречное употребления, есть архаичные/редкие оттенки."
+    },
+    {
+      "id": "open-b2abcdf8233a4c2a",
+      "ro": "târziu",
+      "type": "needs-editorial-review",
+      "reason": "Нужно развести наречие «поздно» и прилагательное «поздний» по примерам."
+    },
+    {
+      "id": "open-1f67b597aec6c6bc",
+      "ro": "drept",
+      "type": "needs-editorial-review",
+      "reason": "Много значений и частей речи; нужен раздельный редакторский разбор."
+    },
+    {
+      "id": "open-0e3c95e036e5f842",
+      "ro": "mecanic",
+      "type": "needs-editorial-review",
+      "reason": "Прилагательное «механический» и существительное «механик» требуют отдельных помет."
+    },
+    {
+      "id": "open-e721085b53c7174a",
+      "ro": "somn",
+      "type": "needs-editorial-review",
+      "reason": "Омонимы: сон (ср. р.) и сом (м. р.); нужны отдельные группы форм."
+    }
+  ],
+  "auditFindings": [
+    {
+      "id": "open-1f67b597aec6c6bc",
+      "ro": "drept",
+      "type": "estimated-level-heuristic",
+      "resolution": "not-confirmed-as-error",
+      "reason": "Сложность зависит от значения: «прямой/правый» и «юриспруденция» имеют разные учебные требования; нужна разметка значений. Уже отмечено needs-review."
+    },
+    {
+      "id": "open-86532d7e075860ba",
+      "ro": "dragoste la prima vedere",
+      "type": "estimated-level-heuristic",
+      "resolution": "not-confirmed-as-error",
+      "reason": "Устойчивое понятное выражение может изучаться в раннем разговорном модуле. Длина выражения сама по себе не доказывает неверность A1; оценочный уровень не объявляется экспертно подтверждённым."
+    }
+  ],
+  "authoredContentNote": "351 полностью авторская пара (702 предложения); 1 новая румынская фраза в eșarfă; 2 новых вторых примера в bună/sete. Итого 705 авторских румынских фраз. Первые sourced примеры bună/sete сохранены; в dar уточнён перевод существующего sourced примера, румынский текст сохранён. Патч eșarfă также сохраняет первое исходное предложение.",
+  "followupPreservedSourceFirstExamples": 2,
+  "patchedExamplePairs": 355
+}

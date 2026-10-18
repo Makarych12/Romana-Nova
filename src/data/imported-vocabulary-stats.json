@@ -1,0 +1,51 @@
+{
+  "entries": 7921,
+  "distinctHeadwords": 7921,
+  "examples": 1230,
+  "withTwoExamples": 347,
+  "withForms": 1038,
+  "estimatedLevels": {
+    "A0": 300,
+    "A1": 900,
+    "A2": 1200,
+    "B1": 1400,
+    "B2": 1300,
+    "C1": 2821
+  },
+  "themes": {
+    "Общая лексика": 5923,
+    "Разговорная речь и выражения": 552,
+    "Дом": 39,
+    "Погода": 54,
+    "Растения и природа": 266,
+    "Работа и профессии": 75,
+    "Документы и учреждения": 64,
+    "Город": 37,
+    "Транспорт": 40,
+    "Люди": 28,
+    "Еда": 119,
+    "Эмоции": 57,
+    "Электроника": 40,
+    "Животные": 85,
+    "Семья": 33,
+    "Медицина": 168,
+    "Покупки": 24,
+    "Наука и образование": 107,
+    "Путешествия": 13,
+    "Одежда": 36,
+    "Техника и инструменты": 80,
+    "Поезда": 7,
+    "Деньги": 74
+  },
+  "rejected": {
+    "non_lexical_pos": 37,
+    "no_usable_translation": 38,
+    "name_or_invalid_headword": 349
+  },
+  "ranking": "Tatoeba Romanian token frequencies; estimated bands, not validated CEFR",
+  "sourceSha256": "6e0dc32bf359526f011f65928524968fddd8b6dffe03bab1e19d0dc5aaccc226",
+  "source": "https://kaikki.org/ruwiktionary/%D0%A0%D1%83%D0%BC%D1%8B%D0%BD%D1%81%D0%BA%D0%B8%D0%B9/kaikki.org-dictionary-%D0%A0%D1%83%D0%BC%D1%8B%D0%BD%D1%81%D0%BA%D0%B8%D0%B9.jsonl",
+  "sourceSnapshot": "ruwiktionary 2026-10-01 via Kaikki 2026-10-02",
+  "tatoebaDirectPairs": 788,
+  "quality": "reference; CEFR bands estimated, translations and examples imported rather than individually reviewed"
+}

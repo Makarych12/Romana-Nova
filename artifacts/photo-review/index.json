@@ -1,0 +1,3350 @@
+[
+  {
+    "number": 1,
+    "sheet": 1,
+    "id": "w13",
+    "ro": "măr",
+    "ru": "яблоко",
+    "image": "/photos/expanded/w13.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:Honeycrisp.jpg"
+  },
+  {
+    "number": 2,
+    "sheet": 1,
+    "id": "curated-patura",
+    "ro": "pătură",
+    "ru": "одеяло; плед",
+    "image": "/photos/expanded/curated-patura.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:Filmmaking_of_%22Black_Thursday%22_on_ulica_%C5%9Awi%C4%99toja%C5%84ska_in_Gdynia_-_24.jpg"
+  },
+  {
+    "number": 3,
+    "sheet": 1,
+    "id": "w10",
+    "ro": "tată",
+    "ru": "отец",
+    "image": "/photos/expanded/w10.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:Father_and_son_27.jpg"
+  },
+  {
+    "number": 4,
+    "sheet": 1,
+    "id": "curated-masina-de-spalat",
+    "ro": "mașină de spălat",
+    "ru": "стиральная машина",
+    "image": "/photos/expanded/curated-masina-de-spalat.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:LG_%EB%93%9C%EB%9F%BC%EC%84%B8%ED%83%81%EA%B8%B0%EC%99%80_%EC%8B%9D%EA%B8%B0%EC%84%B8%EC%B2%99%EA%B8%B0,_%EC%98%81%EA%B5%AD%EC%84%9C_%EB%AC%BC%EC%82%AC%EC%9A%A9_%ED%9A%A8%EC%9C%A8_%EC%B5%9C%EC%9A%B0%EC%88%98_%EC%A0%9C%ED%92%88_%EC%88%98%EC%83%81.jpg"
+  },
+  {
+    "number": 5,
+    "sheet": 1,
+    "id": "curated-pui",
+    "ro": "pui",
+    "ru": "цыплёнок; курятина",
+    "image": "/photos/expanded/curated-pui.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:Ayam_kampung_free_range_chicken_meat_Indonesia.JPG"
+  },
+  {
+    "number": 6,
+    "sheet": 1,
+    "id": "curated-munte",
+    "ro": "munte",
+    "ru": "гора",
+    "image": "/photos/expanded/curated-munte.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:Himalayas,_Ama_Dablam,_Nepal.jpg"
+  },
+  {
+    "number": 7,
+    "sheet": 1,
+    "id": "curated-lac",
+    "ro": "lac",
+    "ru": "озеро",
+    "image": "/photos/expanded/curated-lac.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:Gentau_Pic_du_Midi_Ossau.jpg"
+  },
+  {
+    "number": 8,
+    "sheet": 1,
+    "id": "curated-plaja",
+    "ro": "plajă",
+    "ru": "пляж",
+    "image": "/photos/expanded/curated-plaja.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:Beach,_Gili_Meno_Island,_Indonesia.jpg"
+  },
+  {
+    "number": 9,
+    "sheet": 1,
+    "id": "curated-fluture",
+    "ro": "fluture",
+    "ru": "бабочка",
+    "image": "/photos/expanded/curated-fluture.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:Butter_fly_in_Itami_greenhouse_3.jpg"
+  },
+  {
+    "number": 10,
+    "sheet": 1,
+    "id": "curated-padure",
+    "ro": "pădure",
+    "ru": "лес",
+    "image": "/photos/expanded/curated-padure.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:Brussels_Zonienwoud.jpg"
+  },
+  {
+    "number": 11,
+    "sheet": 1,
+    "id": "curated-palarie",
+    "ro": "pălărie",
+    "ru": "шляпа",
+    "image": "/photos/expanded/curated-palarie.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:Amsterdam_-_Hats_-_0931.jpg"
+  },
+  {
+    "number": 12,
+    "sheet": 1,
+    "id": "curated-umbrela",
+    "ro": "umbrelă",
+    "ru": "зонт",
+    "image": "/photos/expanded/curated-umbrela.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:M0354_000727-005_1.jpg"
+  },
+  {
+    "number": 13,
+    "sheet": 1,
+    "id": "curated-esarfa",
+    "ro": "eșarfă",
+    "ru": "шарф; шейный платок",
+    "image": "/photos/expanded/curated-esarfa.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:100%25_Kaschmir_Wolle_vonk_kaschmirprodukte.de.jpg"
+  },
+  {
+    "number": 14,
+    "sheet": 1,
+    "id": "curated-manusa",
+    "ro": "mănușă",
+    "ru": "перчатка",
+    "image": "/photos/expanded/curated-manusa.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:Centre_de_Documentaci%C3%B3_Museu_T%C3%A8xtil_de_Terrassa-_Reserves-_Teixits-_Guants002.JPG"
+  },
+  {
+    "number": 15,
+    "sheet": 1,
+    "id": "curated-trotuar",
+    "ro": "trotuar",
+    "ru": "тротуар",
+    "image": "/photos/expanded/curated-trotuar.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:Down_the_street_(2412060061).jpg"
+  },
+  {
+    "number": 16,
+    "sheet": 1,
+    "id": "curated-frana",
+    "ro": "frână",
+    "ru": "тормоз",
+    "image": "/photos/expanded/curated-frana.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:20220216Skivebremser_Jernbane.jpg"
+  },
+  {
+    "number": 17,
+    "sheet": 1,
+    "id": "curated-ciocan",
+    "ro": "ciocan",
+    "ru": "молоток",
+    "image": "/photos/expanded/curated-ciocan.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:Claw-hammer.jpg"
+  },
+  {
+    "number": 18,
+    "sheet": 1,
+    "id": "curated-scara",
+    "ro": "scară",
+    "ru": "лестница; шкала",
+    "image": "/photos/expanded/curated-scara.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:Muzeum_Sztuki_Nowoczesnej,_wn%C4%99trza,_hol_ze_schodami_017,_KsP_listopad_2024.jpg"
+  },
+  {
+    "number": 19,
+    "sheet": 1,
+    "id": "curated-bunic",
+    "ro": "bunic",
+    "ru": "дедушка",
+    "image": "/photos/expanded/curated-bunic.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:Face_detail,_Manzanar_Relocation_Center,_Manzanar,_California._Grandfather_and_grandson_of_Japanese_ancestry_at_._._._-_NARA_-_537994_(cropped).jpg"
+  },
+  {
+    "number": 20,
+    "sheet": 1,
+    "id": "curated-copil",
+    "ro": "copil",
+    "ru": "ребёнок",
+    "image": "/photos/expanded/curated-copil.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:Little_girl_of_Don_Som.jpg"
+  },
+  {
+    "number": 21,
+    "sheet": 1,
+    "id": "curated-medic",
+    "ro": "medic",
+    "ru": "врач",
+    "image": "/photos/expanded/curated-medic.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:Auscultation_of_a_women.jpg"
+  },
+  {
+    "number": 22,
+    "sheet": 1,
+    "id": "curated-electrician",
+    "ro": "electrician",
+    "ru": "электрик",
+    "image": "/photos/expanded/curated-electrician.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:Electrician_Working.jpg"
+  },
+  {
+    "number": 23,
+    "sheet": 1,
+    "id": "curated-sofer",
+    "ro": "șofer",
+    "ru": "водитель",
+    "image": "/photos/expanded/curated-sofer.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:Fut_bov_kond.JPG"
+  },
+  {
+    "number": 24,
+    "sheet": 1,
+    "id": "curated-chitanta",
+    "ro": "chitanță",
+    "ru": "квитанция",
+    "image": "/photos/expanded/curated-chitanta.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:1920_Re%C3%A7u_Berliet_consignes_16.jpg"
+  },
+  {
+    "number": 25,
+    "sheet": 1,
+    "id": "curated-spital",
+    "ro": "spital",
+    "ru": "больница",
+    "image": "/photos/expanded/curated-spital.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:Hospital-de-Bellvitge.jpg"
+  },
+  {
+    "number": 26,
+    "sheet": 1,
+    "id": "curated-febra",
+    "ro": "febră",
+    "ru": "повышенная температура; лихорадка",
+    "image": "/photos/expanded/curated-febra.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:Clinical_thermometer_38.7.JPG"
+  },
+  {
+    "number": 27,
+    "sheet": 1,
+    "id": "curated-bucurie",
+    "ro": "bucurie",
+    "ru": "радость",
+    "image": "/photos/expanded/curated-bucurie.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:Flickr_-_don_macauley_-_Happy_woman.jpg"
+  },
+  {
+    "number": 28,
+    "sheet": 1,
+    "id": "open-7b3cdde1adb6fa34",
+    "ro": "timp",
+    "ru": "время; погода",
+    "image": "/photos/expanded/open-7b3cdde1adb6fa34.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:MontreGousset001.jpg"
+  },
+  {
+    "number": 29,
+    "sheet": 1,
+    "id": "open-6df02ca00ca28629",
+    "ro": "zi",
+    "ru": "день",
+    "image": "/photos/expanded/open-6df02ca00ca28629.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:GreenwUhrWelt.jpg"
+  },
+  {
+    "number": 30,
+    "sheet": 1,
+    "id": "open-9d86caa9127e21ca",
+    "ro": "lume",
+    "ru": "мир",
+    "image": "/photos/expanded/open-9d86caa9127e21ca.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:Hubble_ultra_deep_field.jpg"
+  },
+  {
+    "number": 31,
+    "sheet": 1,
+    "id": "open-a7f32380cf333659",
+    "ro": "loc",
+    "ru": "место",
+    "image": "/photos/expanded/open-a7f32380cf333659.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:Mediterranian_Sea_Carthago_location.JPG"
+  },
+  {
+    "number": 32,
+    "sheet": 1,
+    "id": "open-02f620377a58ee42",
+    "ro": "viață",
+    "ru": "жизнь",
+    "image": "/photos/expanded/open-02f620377a58ee42.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:HumanNewborn.JPG"
+  },
+  {
+    "number": 33,
+    "sheet": 1,
+    "id": "open-5ded03ec7fda45fc",
+    "ro": "noapte",
+    "ru": "ночь",
+    "image": "/photos/expanded/open-5ded03ec7fda45fc.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:Crescent_moon,_Istanbul,_Turkey_(9603517863).jpg"
+  },
+  {
+    "number": 34,
+    "sheet": 1,
+    "id": "open-ab25bf28f5a6c4e2",
+    "ro": "cameră",
+    "ru": "комната; камера; палата",
+    "image": "/photos/expanded/open-ab25bf28f5a6c4e2.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:Japanese_youth_hostel_room.jpg"
+  },
+  {
+    "number": 35,
+    "sheet": 1,
+    "id": "open-d36c297b423fe229",
+    "ro": "muncă",
+    "ru": "работа, труд",
+    "image": "/photos/expanded/open-d36c297b423fe229.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:Ford_Madox_Brown_-_Work_-_Google_Art_Project.jpg"
+  },
+  {
+    "number": 36,
+    "sheet": 1,
+    "id": "open-64022d70be9a5394",
+    "ro": "dimineață",
+    "ru": "утро",
+    "image": "/photos/expanded/open-64022d70be9a5394.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:Ambiance_du_matin.jpg"
+  },
+  {
+    "number": 37,
+    "sheet": 1,
+    "id": "open-a269c20a0410450b",
+    "ro": "petrecere",
+    "ru": "вечеринка, праздник, торжество; времяпрепровождение",
+    "image": "/photos/expanded/open-a269c20a0410450b.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:Henri_Rousseau_(French)_-_A_Centennial_of_Independence_-_Google_Art_Project.jpg"
+  },
+  {
+    "number": 38,
+    "sheet": 1,
+    "id": "open-d9f0330aaf2ac8b9",
+    "ro": "râs",
+    "ru": "смех",
+    "image": "/photos/expanded/open-d9f0330aaf2ac8b9.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:Killian_Couppey.jpg"
+  },
+  {
+    "number": 39,
+    "sheet": 1,
+    "id": "open-09c1e55b87f0f47a",
+    "ro": "poartă",
+    "ru": "ворота",
+    "image": "/photos/expanded/open-09c1e55b87f0f47a.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:Gate_of_the_BCR_Headquarters_Building_(Bucharest,_Romania).jpg"
+  },
+  {
+    "number": 40,
+    "sheet": 1,
+    "id": "open-077031b91b2e79ca",
+    "ro": "magazin",
+    "ru": "магазин (торговая точка)",
+    "image": "/photos/expanded/open-077031b91b2e79ca.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:Comercio_en_la_plaza_del_9_de_abril_de_1947,_T%C3%A1nger,_Marruecos,_2015-12-11,_DD_78.JPG"
+  },
+  {
+    "number": 41,
+    "sheet": 1,
+    "id": "open-bc5efe441ea27181",
+    "ro": "familie",
+    "ru": "семья; лингв. языковая семья; биол. семейство",
+    "image": "/photos/expanded/open-bc5efe441ea27181.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:Inupiat_Family_from_Noatak,_Alaska,_1929,_Edward_S._Curtis_(restored).jpg"
+  },
+  {
+    "number": 42,
+    "sheet": 1,
+    "id": "open-7bf5f1b1db374caf",
+    "ro": "cale",
+    "ru": "путь, дорога; путь, способ",
+    "image": "/photos/expanded/open-7bf5f1b1db374caf.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:Entry_to_Village.jpg"
+  },
+  {
+    "number": 43,
+    "sheet": 1,
+    "id": "open-ee275d64dafcd283",
+    "ro": "restaurant",
+    "ru": "ресторан",
+    "image": "/photos/expanded/open-ee275d64dafcd283.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:Gaggenau_2016_-Restaurant-_by-RaBoe_118.jpg"
+  },
+  {
+    "number": 44,
+    "sheet": 1,
+    "id": "open-246d3e81c71dec04",
+    "ro": "martie",
+    "ru": "март",
+    "image": "/photos/expanded/open-246d3e81c71dec04.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:Breviarium_Grimani_-_M%C3%A4rz.jpg"
+  },
+  {
+    "number": 45,
+    "sheet": 1,
+    "id": "open-a460362b1a8e0630",
+    "ro": "cină",
+    "ru": "ужин",
+    "image": "/photos/expanded/open-a460362b1a8e0630.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:Leonardo_da_Vinci_(1452-1519)_-_The_Last_Supper_(1495-1498).jpg"
+  },
+  {
+    "number": 46,
+    "sheet": 1,
+    "id": "open-45e84635bc4803c5",
+    "ro": "cap",
+    "ru": "голова",
+    "image": "/photos/expanded/open-45e84635bc4803c5.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:Bald_Eagle_Head_sq.jpg"
+  },
+  {
+    "number": 47,
+    "sheet": 1,
+    "id": "open-dc4a259e8c1e0535",
+    "ro": "băiat",
+    "ru": "мальчик",
+    "image": "/photos/expanded/open-dc4a259e8c1e0535.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:Giulio_del_Torre_Zwei_Kartenspieler.jpg"
+  },
+  {
+    "number": 48,
+    "sheet": 1,
+    "id": "open-bb34299bcdea613b",
+    "ro": "parc",
+    "ru": "парк",
+    "image": "/photos/expanded/open-bb34299bcdea613b.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:Brussels_Cinquantenaire_R04.jpg"
+  },
+  {
+    "number": 49,
+    "sheet": 1,
+    "id": "open-7b2f7408b7685bb1",
+    "ro": "stație",
+    "ru": "остановка; станция (во всех значениях)",
+    "image": "/photos/expanded/open-7b2f7408b7685bb1.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:Cr%C3%A8vec%C5%93ur-le-Grand-la-Gare-1.jpg"
+  },
+  {
+    "number": 50,
+    "sheet": 1,
+    "id": "open-f161916b837da388",
+    "ro": "moarte",
+    "ru": "смерть; убийство",
+    "image": "/photos/expanded/open-f161916b837da388.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:Dead_dog_in_Ulaanbaatar.jpg"
+  },
+  {
+    "number": 51,
+    "sheet": 1,
+    "id": "open-e7b5b3f001abae43",
+    "ro": "carne",
+    "ru": "мясо",
+    "image": "/photos/expanded/open-e7b5b3f001abae43.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:FoodMeat.jpg"
+  },
+  {
+    "number": 52,
+    "sheet": 1,
+    "id": "open-22185b670ff26fa8",
+    "ro": "produs",
+    "ru": "продукт, изделие; матем. произведение (результат умножения)",
+    "image": "/photos/expanded/open-22185b670ff26fa8.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:Fredmeyer_edit_1.jpg"
+  },
+  {
+    "number": 53,
+    "sheet": 1,
+    "id": "open-f573a39b5ca3796d",
+    "ro": "culoare",
+    "ru": "цвет; краска (вещество)",
+    "image": "/photos/expanded/open-f573a39b5ca3796d.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:Colouring_pencils.jpg"
+  },
+  {
+    "number": 54,
+    "sheet": 1,
+    "id": "open-85eaf598b6de3104",
+    "ro": "plimbare",
+    "ru": "прогулка",
+    "image": "/photos/expanded/open-85eaf598b6de3104.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:Joaqu%C3%ADn_Sorolla_y_Bastida_-_Strolling_along_the_Seashore_-_Google_Art_Project.jpg"
+  },
+  {
+    "number": 55,
+    "sheet": 1,
+    "id": "open-4cf42f63d1996640",
+    "ro": "grădină",
+    "ru": "сад; огород",
+    "image": "/photos/expanded/open-4cf42f63d1996640.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:French_Formal_Garden_in_Loire_Valley.jpg"
+  },
+  {
+    "number": 56,
+    "sheet": 1,
+    "id": "open-7d4c541d56c1bf9d",
+    "ro": "iulie",
+    "ru": "июль",
+    "image": "/photos/expanded/open-7d4c541d56c1bf9d.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:Breviarium_Grimani_-_Juli.jpg"
+  },
+  {
+    "number": 57,
+    "sheet": 1,
+    "id": "open-14781fa9c5ff13d0",
+    "ro": "ochelari",
+    "ru": "очки",
+    "image": "/photos/expanded/open-14781fa9c5ff13d0.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:2023_Okulary_korekcyjne.jpg"
+  },
+  {
+    "number": 58,
+    "sheet": 1,
+    "id": "open-ebc6f21e80d1ef50",
+    "ro": "octombrie",
+    "ru": "октябрь",
+    "image": "/photos/expanded/open-ebc6f21e80d1ef50.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:Breviarium_Grimani_-_Oktober.jpg"
+  },
+  {
+    "number": 59,
+    "sheet": 1,
+    "id": "open-36e6b5a13a0304ee",
+    "ro": "suc",
+    "ru": "сок",
+    "image": "/photos/expanded/open-36e6b5a13a0304ee.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:Juicing_the_lemons_(6027988479).jpg"
+  },
+  {
+    "number": 60,
+    "sheet": 1,
+    "id": "open-a7de6800a71ddfae",
+    "ro": "lemn",
+    "ru": "древесина, дерево, лес (материал)",
+    "image": "/photos/expanded/open-a7de6800a71ddfae.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:Arquitectura_en_madera.jpg"
+  },
+  {
+    "number": 61,
+    "sheet": 1,
+    "id": "open-aea49165ba40d3f5",
+    "ro": "bilet",
+    "ru": "билет; записка",
+    "image": "/photos/expanded/open-aea49165ba40d3f5.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:Kyiv_Opera_tickets_2007_(16264583247).jpg"
+  },
+  {
+    "number": 62,
+    "sheet": 1,
+    "id": "open-933a3807a27a2ee7",
+    "ro": "pauză",
+    "ru": "пауза",
+    "image": "/photos/expanded/open-933a3807a27a2ee7.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:26._Internationales_Management_Symposium-Helferin_mit_Schild_Break_over-HSGN_028-01097.jpg"
+  },
+  {
+    "number": 63,
+    "sheet": 1,
+    "id": "open-0417b9fd862b1dfc",
+    "ro": "vară",
+    "ru": "лето",
+    "image": "/photos/expanded/open-0417b9fd862b1dfc.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:Field_Hamois_Belgium_Luc_Viatour.jpg"
+  },
+  {
+    "number": 64,
+    "sheet": 1,
+    "id": "open-d46a9ebb452d5fb6",
+    "ro": "pereche",
+    "ru": "пара",
+    "image": "/photos/expanded/open-d46a9ebb452d5fb6.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:Laurelyhardy_179.jpg"
+  },
+  {
+    "number": 65,
+    "sheet": 1,
+    "id": "open-6cd8fea6ada1d8cc",
+    "ro": "schimbare",
+    "ru": "изменение, перемена; смена, замена; обмен",
+    "image": "/photos/expanded/open-6cd8fea6ada1d8cc.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:Acraea_zetes_caterpillar_to_pupae_to_butterfly_metamorphosis_by_Nick_Hobgood.jpg"
+  },
+  {
+    "number": 66,
+    "sheet": 1,
+    "id": "open-c5b7631d769cb37d",
+    "ro": "sărut",
+    "ru": "поцелуй",
+    "image": "/photos/expanded/open-c5b7631d769cb37d.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:El_Beso_(Pinacoteca_de_Brera,_Mil%C3%A1n,_1859).jpg"
+  },
+  {
+    "number": 67,
+    "sheet": 1,
+    "id": "open-5c9c77d181101ff0",
+    "ro": "efort",
+    "ru": "усилие",
+    "image": "/photos/expanded/open-5c9c77d181101ff0.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:Fighters_Run_5.JPG"
+  },
+  {
+    "number": 68,
+    "sheet": 1,
+    "id": "open-48e0f159fbd51af7",
+    "ro": "sânge",
+    "ru": "кровь",
+    "image": "/photos/expanded/open-48e0f159fbd51af7.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:Blood_Test_(15575812743).jpg"
+  },
+  {
+    "number": 69,
+    "sheet": 1,
+    "id": "open-3b8efab1dfd11299",
+    "ro": "voce",
+    "ru": "голос",
+    "image": "/photos/expanded/open-3b8efab1dfd11299.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:Human_voice_spectrogram.jpg"
+  },
+  {
+    "number": 70,
+    "sheet": 1,
+    "id": "open-3b4d690c78aaf83b",
+    "ro": "iarnă",
+    "ru": "зима",
+    "image": "/photos/expanded/open-3b4d690c78aaf83b.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:Crater_Lake_winter_pano2.jpg"
+  },
+  {
+    "number": 71,
+    "sheet": 1,
+    "id": "open-0f640f91f016fb06",
+    "ro": "înghețată",
+    "ru": "мороженое",
+    "image": "/photos/expanded/open-0f640f91f016fb06.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:Ice_Cream_dessert_02.jpg"
+  },
+  {
+    "number": 72,
+    "sheet": 1,
+    "id": "open-ecd8ebc901ea53a7",
+    "ro": "aparat",
+    "ru": "аппарат",
+    "image": "/photos/expanded/open-ecd8ebc901ea53a7.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:Colonne_distillazione.jpg"
+  },
+  {
+    "number": 73,
+    "sheet": 1,
+    "id": "open-40041a799185c792",
+    "ro": "poezie",
+    "ru": "стихотворение; поэзия",
+    "image": "/photos/expanded/open-40041a799185c792.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:LeidenWallPoemYeats_(cropped).jpg"
+  },
+  {
+    "number": 74,
+    "sheet": 1,
+    "id": "open-270b7200e82afdc6",
+    "ro": "fizică",
+    "ru": "физика",
+    "image": "/photos/expanded/open-270b7200e82afdc6.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:CollageFisica.jpg"
+  },
+  {
+    "number": 75,
+    "sheet": 1,
+    "id": "open-39d476275d01bb55",
+    "ro": "fiică",
+    "ru": "дочь",
+    "image": "/photos/expanded/open-39d476275d01bb55.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:Jessie_Willcox_Smith_The_Pink_Bonnet_1907.jpg"
+  },
+  {
+    "number": 76,
+    "sheet": 1,
+    "id": "open-bfc936625fc68fef",
+    "ro": "păr",
+    "ru": "волосы",
+    "image": "/photos/expanded/open-bfc936625fc68fef.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:Borsten_ausgewachsenes_Mangalitza-Schwein.JPG"
+  },
+  {
+    "number": 77,
+    "sheet": 1,
+    "id": "open-db4ffd6c62ddfe5b",
+    "ro": "suflet",
+    "ru": "душа",
+    "image": "/photos/expanded/open-db4ffd6c62ddfe5b.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:Meister_von_Heiligenkreuz_001.jpg"
+  },
+  {
+    "number": 78,
+    "sheet": 1,
+    "id": "open-bbc29dffa327bc38",
+    "ro": "boală",
+    "ru": "болезнь",
+    "image": "/photos/expanded/open-bbc29dffa327bc38.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:Mycobacterium_tuberculosis.jpg"
+  },
+  {
+    "number": 79,
+    "sheet": 1,
+    "id": "open-7b8264d2befffe70",
+    "ro": "creion",
+    "ru": "карандаш",
+    "image": "/photos/expanded/open-7b8264d2befffe70.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:2014-01-16-Hittegods_(12009261426).jpg"
+  },
+  {
+    "number": 80,
+    "sheet": 1,
+    "id": "open-5a68d313c54f151d",
+    "ro": "reducere",
+    "ru": "скидка",
+    "image": "/photos/expanded/open-5a68d313c54f151d.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:Black_Weekend_20_percent_discount_poster_at_the_Sterenborg,_Winschoten_(2019)_02.jpg"
+  },
+  {
+    "number": 81,
+    "sheet": 2,
+    "id": "open-b19597728c375a59",
+    "ro": "benzină",
+    "ru": "бензин",
+    "image": "/photos/expanded/open-b19597728c375a59.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:Gasoline_in_mason_jar.jpg"
+  },
+  {
+    "number": 82,
+    "sheet": 2,
+    "id": "open-f64c8d432788367a",
+    "ro": "fum",
+    "ru": "дым",
+    "image": "/photos/expanded/open-f64c8d432788367a.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:ILIAS-LIATSOPOULOS_%CE%9D%CE%9A%CE%9B%CE%A1-4.jpg"
+  },
+  {
+    "number": 83,
+    "sheet": 2,
+    "id": "open-4c57dc59a25a6bad",
+    "ro": "japonez",
+    "ru": "японец",
+    "image": "/photos/expanded/open-4c57dc59a25a6bad.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:Hosokawa_family_1957.jpg"
+  },
+  {
+    "number": 84,
+    "sheet": 2,
+    "id": "open-5769c3430ffb019e",
+    "ro": "tablou",
+    "ru": "картина; таблица",
+    "image": "/photos/expanded/open-5769c3430ffb019e.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:Mona_Lisa,_by_Leonardo_da_Vinci,_from_C2RMF_retouched.jpg"
+  },
+  {
+    "number": 85,
+    "sheet": 2,
+    "id": "open-a9a79295ba6a753d",
+    "ro": "februarie",
+    "ru": "февраль",
+    "image": "/photos/expanded/open-a9a79295ba6a753d.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:Breviarium_Grimani_-_February.jpg"
+  },
+  {
+    "number": 86,
+    "sheet": 2,
+    "id": "open-00baadd8f5592b71",
+    "ro": "minune",
+    "ru": "чудо, диво",
+    "image": "/photos/expanded/open-00baadd8f5592b71.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:Codex_Egberti_fol._90r.jpg"
+  },
+  {
+    "number": 87,
+    "sheet": 2,
+    "id": "open-800873805a12f0b9",
+    "ro": "moschee",
+    "ru": "мечеть",
+    "image": "/photos/expanded/open-800873805a12f0b9.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:Edited_Great_Mosque_of_Mecca1_5-2019-ccsa4.0_(cropped).jpg"
+  },
+  {
+    "number": 88,
+    "sheet": 2,
+    "id": "open-cc1eda424470ae36",
+    "ro": "relație",
+    "ru": "связь, зависимость, соотношение; отношения, взаимоотношения; доклад, донесение, реляция",
+    "image": "/photos/expanded/open-cc1eda424470ae36.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:Amphiprion_ocellaris_at_Raja_Ampat.jpg"
+  },
+  {
+    "number": 89,
+    "sheet": 2,
+    "id": "open-cfb323fdad17ac4f",
+    "ro": "băutură",
+    "ru": "напиток",
+    "image": "/photos/expanded/open-cfb323fdad17ac4f.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:Maltina_in_a_cup.jpg"
+  },
+  {
+    "number": 90,
+    "sheet": 2,
+    "id": "open-ba0524ac7ad6f06e",
+    "ro": "gheață",
+    "ru": "лёд",
+    "image": "/photos/expanded/open-ba0524ac7ad6f06e.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:Eiskristalle_in_der_Eish%C3%B6hle.JPG"
+  },
+  {
+    "number": 91,
+    "sheet": 2,
+    "id": "open-00fa186a521a28d7",
+    "ro": "costum",
+    "ru": "костюм",
+    "image": "/photos/expanded/open-00fa186a521a28d7.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:Cinecitt%C3%A0_ouvre_ses_portes_(Rome)_(5855633651).jpg"
+  },
+  {
+    "number": 92,
+    "sheet": 2,
+    "id": "open-d5259acec0d80c4f",
+    "ro": "regret",
+    "ru": "сожаление",
+    "image": "/photos/expanded/open-d5259acec0d80c4f.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:Hans_Thoma_-_Der_verlorene_Sohn.jpg"
+  },
+  {
+    "number": 93,
+    "sheet": 2,
+    "id": "open-291f1c9089f0356f",
+    "ro": "coșmar",
+    "ru": "кошмар, страшный сон",
+    "image": "/photos/expanded/open-291f1c9089f0356f.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:Der_Albtraum_(Anonym_19_Jh).jpg"
+  },
+  {
+    "number": 94,
+    "sheet": 2,
+    "id": "open-c0946106b732f9f6",
+    "ro": "sos",
+    "ru": "кулин. соус, подливка",
+    "image": "/photos/expanded/open-c0946106b732f9f6.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:Lunch_sauces.jpg"
+  },
+  {
+    "number": 95,
+    "sheet": 2,
+    "id": "open-31a0cbd597eb49f7",
+    "ro": "dorință",
+    "ru": "желание",
+    "image": "/photos/expanded/open-31a0cbd597eb49f7.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:Jacob_Jordaens_-_Susanna_and_the_Elders_-_Google_Art_Project.jpg"
+  },
+  {
+    "number": 96,
+    "sheet": 2,
+    "id": "open-aee0d0c6d3176bd3",
+    "ro": "lecție",
+    "ru": "урок, занятие; урок, поучение, наставление",
+    "image": "/photos/expanded/open-aee0d0c6d3176bd3.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:Estamos_en_el_sal%C3%B3n.jpg"
+  },
+  {
+    "number": 97,
+    "sheet": 2,
+    "id": "open-6ed1cf524bfbbc5e",
+    "ro": "natură",
+    "ru": "природа; характер, натура, сущность",
+    "image": "/photos/expanded/open-6ed1cf524bfbbc5e.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:Desert_Electric.jpg"
+  },
+  {
+    "number": 98,
+    "sheet": 2,
+    "id": "open-90176e15ac2f2c13",
+    "ro": "omor",
+    "ru": "убийство",
+    "image": "/photos/expanded/open-90176e15ac2f2c13.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:Jakub_Schikaneder_-_Murder_in_the_House.JPG"
+  },
+  {
+    "number": 99,
+    "sheet": 2,
+    "id": "open-0fdb36f297a20cc6",
+    "ro": "modă",
+    "ru": "мода",
+    "image": "/photos/expanded/open-0fdb36f297a20cc6.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:E1266601_(5398889640).jpg"
+  },
+  {
+    "number": 100,
+    "sheet": 2,
+    "id": "open-258d87b62eba971f",
+    "ro": "revistă",
+    "ru": "журнал; ревю (эстрадное представление)",
+    "image": "/photos/expanded/open-258d87b62eba971f.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:HKCEC_Wan_Chai_North_%E7%81%A3%E4%BB%94%E5%8C%97_SME_Centre_interior_magazines_March_2019_SSG_03.jpg"
+  },
+  {
+    "number": 101,
+    "sheet": 2,
+    "id": "open-c34d121c20de0346",
+    "ro": "activitate",
+    "ru": "деятельность, активность",
+    "image": "/photos/expanded/open-c34d121c20de0346.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:Kampfanzug_See.jpg"
+  },
+  {
+    "number": 102,
+    "sheet": 2,
+    "id": "open-e1db60d03eb5e2f5",
+    "ro": "toamnă",
+    "ru": "осень",
+    "image": "/photos/expanded/open-e1db60d03eb5e2f5.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:Acer_saccharum_Equinox_Mountain_Vermont.jpg"
+  },
+  {
+    "number": 103,
+    "sheet": 2,
+    "id": "open-a37f9992b6d1c4e1",
+    "ro": "bou",
+    "ru": "бык, вол",
+    "image": "/photos/expanded/open-a37f9992b6d1c4e1.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:Cow_female_black_white.jpg"
+  },
+  {
+    "number": 104,
+    "sheet": 2,
+    "id": "open-c1501edc5d5a5b2d",
+    "ro": "cafenea",
+    "ru": "кафе, кофейня",
+    "image": "/photos/expanded/open-c1501edc5d5a5b2d.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:Caf%C3%A9_de_Flore.jpg"
+  },
+  {
+    "number": 105,
+    "sheet": 2,
+    "id": "open-e87deb6c848c7c8d",
+    "ro": "guvern",
+    "ru": "правительство",
+    "image": "/photos/expanded/open-e87deb6c848c7c8d.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:De_ministers_die_deel_uitmaken_van_het_derde_kabinet_Van_Agt_op_de_trappen_van_Paleis_Huis_ten_Bosch_in_%27s-Gravenhage._D_-_SFA001009248.jpg"
+  },
+  {
+    "number": 106,
+    "sheet": 2,
+    "id": "open-8e5a2d12076d3598",
+    "ro": "dietă",
+    "ru": "диета",
+    "image": "/photos/expanded/open-8e5a2d12076d3598.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:FoodSourcesOfMagnesium.jpg"
+  },
+  {
+    "number": 107,
+    "sheet": 2,
+    "id": "open-6b8226912a5b5f22",
+    "ro": "covor",
+    "ru": "ковёр",
+    "image": "/photos/expanded/open-6b8226912a5b5f22.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:Black_carpet.jpg"
+  },
+  {
+    "number": 108,
+    "sheet": 2,
+    "id": "open-16b6e1fade312710",
+    "ro": "interes",
+    "ru": "интерес",
+    "image": "/photos/expanded/open-16b6e1fade312710.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:Bundesarchiv_Bild_183-77625-0001,_Brigade_Komsomol%22_schreibt_an_den_Staatsrat%22.jpg"
+  },
+  {
+    "number": 109,
+    "sheet": 2,
+    "id": "open-13e0c84dcc4cfb2b",
+    "ro": "imaginație",
+    "ru": "воображение",
+    "image": "/photos/expanded/open-13e0c84dcc4cfb2b.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:Lieut_goverr_Gall-stone,_inspired_by_Alecto;_-or-_the_birth_of_Minerva_(BM_Y,5.25_1).jpg"
+  },
+  {
+    "number": 110,
+    "sheet": 2,
+    "id": "open-c2afdd38565b01f2",
+    "ro": "august",
+    "ru": "август",
+    "image": "/photos/expanded/open-c2afdd38565b01f2.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:Breviarium_Grimani_-_August.jpg"
+  },
+  {
+    "number": 111,
+    "sheet": 2,
+    "id": "open-ed8d8fda301f5934",
+    "ro": "ziar",
+    "ru": "газета",
+    "image": "/photos/expanded/open-ed8d8fda301f5934.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:2011_newspapers_Tehran_6030393078.jpg"
+  },
+  {
+    "number": 112,
+    "sheet": 2,
+    "id": "open-70c3fa186a248825",
+    "ro": "primăvară",
+    "ru": "весна",
+    "image": "/photos/expanded/open-70c3fa186a248825.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:Krokusse_violett.jpg"
+  },
+  {
+    "number": 113,
+    "sheet": 2,
+    "id": "open-7fdd65bbaaa687d4",
+    "ro": "imagine",
+    "ru": "образ; изображение",
+    "image": "/photos/expanded/open-7fdd65bbaaa687d4.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:1752_James_Ayscough_A_short_account_of_the_Eye_and_nature_of_vision_p30.jpg"
+  },
+  {
+    "number": 114,
+    "sheet": 2,
+    "id": "open-a530c507fd893f52",
+    "ro": "experiment",
+    "ru": "эксперимент, опыт",
+    "image": "/photos/expanded/open-a530c507fd893f52.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:Anfang_des_menschlichen_Verstandes_by_Daniel_Chorodecki_(150289189).jpg"
+  },
+  {
+    "number": 115,
+    "sheet": 2,
+    "id": "open-8bb17bf4f81a4685",
+    "ro": "ulei",
+    "ru": "масло (растительное или минеральное)",
+    "image": "/photos/expanded/open-8bb17bf4f81a4685.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:Motor_oil_refill_with_funnel.JPG"
+  },
+  {
+    "number": 116,
+    "sheet": 2,
+    "id": "open-6becf2f5726e73d2",
+    "ro": "păpușă",
+    "ru": "кукла",
+    "image": "/photos/expanded/open-6becf2f5726e73d2.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:Ch%E1%BB%A3_B%E1%BA%BFn_Th%C3%A0nh2.JPG"
+  },
+  {
+    "number": 117,
+    "sheet": 2,
+    "id": "open-b2a96c3d3fc2b6ac",
+    "ro": "ban",
+    "ru": "бан (мелкая монета в Румынии и Молдове, сотая часть лея); деньги",
+    "image": "/photos/expanded/open-b2a96c3d3fc2b6ac.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:Euro_coins_and_banknotes.jpg"
+  },
+  {
+    "number": 118,
+    "sheet": 2,
+    "id": "open-50c9c4aeb40b5b20",
+    "ro": "actor",
+    "ru": "актёр",
+    "image": "/photos/expanded/open-50c9c4aeb40b5b20.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:Chaplin_The_Kid_edit.jpg"
+  },
+  {
+    "number": 119,
+    "sheet": 2,
+    "id": "open-bacbc0a2133551d1",
+    "ro": "căpitan",
+    "ru": "капитан",
+    "image": "/photos/expanded/open-bacbc0a2133551d1.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:Captainarmbandfifa.jpg"
+  },
+  {
+    "number": 120,
+    "sheet": 2,
+    "id": "open-6d9ea5efaf7a7db5",
+    "ro": "gard",
+    "ru": "забор",
+    "image": "/photos/expanded/open-6d9ea5efaf7a7db5.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:Elizabethton_Tennessee.jpg"
+  },
+  {
+    "number": 121,
+    "sheet": 2,
+    "id": "open-82244417f956ac7c",
+    "ro": "email",
+    "ru": "эмаль",
+    "image": "/photos/expanded/open-82244417f956ac7c.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:Medallion_St_Demetrios_Louvre_OA6457.jpg"
+  },
+  {
+    "number": 122,
+    "sheet": 2,
+    "id": "open-b99e716318ad16bf",
+    "ro": "mită",
+    "ru": "взятка",
+    "image": "/photos/expanded/open-b99e716318ad16bf.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:10_-_hands_shaking_with_euro_bank_notes_inside_handshake_-_royalty_free,_without_copyright,_public_domain_photo_image_01.JPG"
+  },
+  {
+    "number": 123,
+    "sheet": 2,
+    "id": "open-a78a7c503fbd9d30",
+    "ro": "minge",
+    "ru": "мяч",
+    "image": "/photos/expanded/open-a78a7c503fbd9d30.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:Ball,_%E0%B4%AA%E0%B4%A8%E0%B5%8D%E0%B4%A4%E0%B5%8D.JPG"
+  },
+  {
+    "number": 124,
+    "sheet": 2,
+    "id": "open-2c34c42325b6d814",
+    "ro": "nuntă",
+    "ru": "свадьба",
+    "image": "/photos/expanded/open-2c34c42325b6d814.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:Edmund_Blair_Leighton_-_The_Wedding_Register.jpg"
+  },
+  {
+    "number": 125,
+    "sheet": 2,
+    "id": "open-dc9dcb3ebff4c9b8",
+    "ro": "pensie",
+    "ru": "пенсия",
+    "image": "/photos/expanded/open-dc9dcb3ebff4c9b8.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:DNB_visitor_centre_-_ritirement_pension.jpg"
+  },
+  {
+    "number": 126,
+    "sheet": 2,
+    "id": "open-cd1a09a1fc4f729b",
+    "ro": "plată",
+    "ru": "платёж, плата, оплата",
+    "image": "/photos/expanded/open-cd1a09a1fc4f729b.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:Airmen_at_Kirkuk_Regional_Air_Base_DVIDS174799.jpg"
+  },
+  {
+    "number": 127,
+    "sheet": 2,
+    "id": "open-3903718e1e0389d5",
+    "ro": "simț",
+    "ru": "чувство",
+    "image": "/photos/expanded/open-3903718e1e0389d5.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:Makart_Fuenf_Sinne.jpg"
+  },
+  {
+    "number": 128,
+    "sheet": 2,
+    "id": "open-f540d739e6101c7e",
+    "ro": "scop",
+    "ru": "цель, намерение",
+    "image": "/photos/expanded/open-f540d739e6101c7e.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:Millennium_Development_Goals,_UN_Headquarters,_New_York_City,_New_York_-_20080501.jpg"
+  },
+  {
+    "number": 129,
+    "sheet": 2,
+    "id": "open-7339a62db11d8b5f",
+    "ro": "pijama",
+    "ru": "пижама",
+    "image": "/photos/expanded/open-7339a62db11d8b5f.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:Advertisement_for_pyjamas_in_Lisi%C3%A8res_Fleuries_fabric,_from_Jardin_des_Modes,_1930.jpg"
+  },
+  {
+    "number": 130,
+    "sheet": 2,
+    "id": "open-654194577218a442",
+    "ro": "bătrânețe",
+    "ru": "старость",
+    "image": "/photos/expanded/open-654194577218a442.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:H%C3%A1zasp%C3%A1r.jpg"
+  },
+  {
+    "number": 131,
+    "sheet": 2,
+    "id": "open-9395ee07c9f2b814",
+    "ro": "fotbalist",
+    "ru": "футболист",
+    "image": "/photos/expanded/open-9395ee07c9f2b814.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:Football_in_Bloomington,_Indiana,_1995.jpg"
+  },
+  {
+    "number": 132,
+    "sheet": 2,
+    "id": "open-32f976b2b35c986b",
+    "ro": "sărbătoare",
+    "ru": "праздник; празднество, торжество",
+    "image": "/photos/expanded/open-32f976b2b35c986b.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:Carnaval_2014_-_Rio_de_Janeiro_(12973844805).jpg"
+  },
+  {
+    "number": 133,
+    "sheet": 2,
+    "id": "open-b0c29eb68723fbd1",
+    "ro": "îmbrăcăminte",
+    "ru": "одежда; обмундирование; обертка",
+    "image": "/photos/expanded/open-b0c29eb68723fbd1.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:Intore_538.jpg"
+  },
+  {
+    "number": 134,
+    "sheet": 2,
+    "id": "open-466aee88ac8408e6",
+    "ro": "inteligență",
+    "ru": "ум, разум, интеллект; интеллигентность",
+    "image": "/photos/expanded/open-466aee88ac8408e6.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:Guilford_model.jpg"
+  },
+  {
+    "number": 135,
+    "sheet": 2,
+    "id": "open-59f19ddb8ccd27b1",
+    "ro": "haos",
+    "ru": "хаос",
+    "image": "/photos/expanded/open-59f19ddb8ccd27b1.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:Lotto_Capoferri_Magnum_Chaos.jpg"
+  },
+  {
+    "number": 136,
+    "sheet": 2,
+    "id": "open-5364b92e50b1944f",
+    "ro": "lift",
+    "ru": "лифт",
+    "image": "/photos/expanded/open-5364b92e50b1944f.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:Amsterdam_Schiphol_Treinstation_lift.jpg"
+  },
+  {
+    "number": 137,
+    "sheet": 2,
+    "id": "open-143ff609478cbff0",
+    "ro": "organizație",
+    "ru": "организация (сообщество)",
+    "image": "/photos/expanded/open-143ff609478cbff0.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:ExecutiveComitee-IAU-2018-2021.jpg"
+  },
+  {
+    "number": 138,
+    "sheet": 2,
+    "id": "open-41e3af55568223f6",
+    "ro": "ambulanță",
+    "ru": "скорая помощь",
+    "image": "/photos/expanded/open-41e3af55568223f6.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:Krankentransportwagen_in_Passau.JPG"
+  },
+  {
+    "number": 139,
+    "sheet": 2,
+    "id": "open-bccb7fdff473694e",
+    "ro": "pagină",
+    "ru": "страница",
+    "image": "/photos/expanded/open-bccb7fdff473694e.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:Felicien_Rops_-_l%27homme_et_l%27artiste_1908_(144064786).jpg"
+  },
+  {
+    "number": 140,
+    "sheet": 2,
+    "id": "open-753c2a5b0d93ae88",
+    "ro": "prietenie",
+    "ru": "дружба",
+    "image": "/photos/expanded/open-753c2a5b0d93ae88.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:3_barefoot_females_smiling_and_sitting_on_a_bench.jpg"
+  },
+  {
+    "number": 141,
+    "sheet": 2,
+    "id": "open-087f4f55d26ab344",
+    "ro": "grevă",
+    "ru": "забастовка",
+    "image": "/photos/expanded/open-087f4f55d26ab344.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:La_gr%C3%A8ve_des_mineurs_du_Pas-de-Calais,_1906.jpg"
+  },
+  {
+    "number": 142,
+    "sheet": 2,
+    "id": "open-e0a36b611841b88b",
+    "ro": "poziție",
+    "ru": "положение, расположение, позиция; положение тела, поза; позиция (точка зрения)",
+    "image": "/photos/expanded/open-e0a36b611841b88b.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:GPS_data_at_Raipur_Airport.jpg"
+  },
+  {
+    "number": 143,
+    "sheet": 2,
+    "id": "open-2690cf8e23484411",
+    "ro": "cenzură",
+    "ru": "цензура",
+    "image": "/photos/expanded/open-2690cf8e23484411.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:Censored_section_of_Green_Illusions_by_Ozzie_Zehner.jpg"
+  },
+  {
+    "number": 144,
+    "sheet": 2,
+    "id": "open-5c8e8372d3d44058",
+    "ro": "conferință",
+    "ru": "конференция",
+    "image": "/photos/expanded/open-5c8e8372d3d44058.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:2013_Coffee_Fest-1.jpg"
+  },
+  {
+    "number": 145,
+    "sheet": 2,
+    "id": "open-1bf13a0ee38d0353",
+    "ro": "mină",
+    "ru": "рудник, копь",
+    "image": "/photos/expanded/open-1bf13a0ee38d0353.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:Bingham_Canyon_April_2005.jpg"
+  },
+  {
+    "number": 146,
+    "sheet": 2,
+    "id": "open-047de0f543c7e359",
+    "ro": "nas",
+    "ru": "нос",
+    "image": "/photos/expanded/open-047de0f543c7e359.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:Dog_nose.jpg"
+  },
+  {
+    "number": 147,
+    "sheet": 2,
+    "id": "open-ea370b5280619383",
+    "ro": "judecător",
+    "ru": "судья",
+    "image": "/photos/expanded/open-ea370b5280619383.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:Ceremoni%C3%ABle_kledij_van_een_rechter_Richard_Hutton,_rechter,_in_ceremoni%C3%ABle_kledij_The_Habit_of_a_Iudge_(titel_op_object)_Ceremoni%C3%ABle_kledij_van_de_Engelse_adel_(serietitel),_RP-P-1920-2746.jpg"
+  },
+  {
+    "number": 148,
+    "sheet": 2,
+    "id": "open-590d5a37601ab089",
+    "ro": "populație",
+    "ru": "население; биол. популяция",
+    "image": "/photos/expanded/open-590d5a37601ab089.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:India_-_Chennai_-_busy_T._Nagar_market_1_(3059480968).jpg"
+  },
+  {
+    "number": 149,
+    "sheet": 2,
+    "id": "open-6b03c730893763cb",
+    "ro": "socializare",
+    "ru": "социализация",
+    "image": "/photos/expanded/open-6b03c730893763cb.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:Duck_Duck_Goose.jpg"
+  },
+  {
+    "number": 150,
+    "sheet": 2,
+    "id": "open-f319b5187507bfcc",
+    "ro": "sportiv",
+    "ru": "спортсмен",
+    "image": "/photos/expanded/open-f319b5187507bfcc.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:1500finalM1.JPG"
+  },
+  {
+    "number": 151,
+    "sheet": 2,
+    "id": "open-cdeb137ff59c3b6d",
+    "ro": "ureche",
+    "ru": "ухо",
+    "image": "/photos/expanded/open-cdeb137ff59c3b6d.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:Closeup_of_a_human_ear.jpg"
+  },
+  {
+    "number": 152,
+    "sheet": 2,
+    "id": "open-1ca7aa33248d6452",
+    "ro": "vie",
+    "ru": "виноградник; виноградная лоза",
+    "image": "/photos/expanded/open-1ca7aa33248d6452.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:Gwinllan_Llanerch_vinyard,_nr_Caerdydd_(Cardiff),_Cymru_(Wales)_July_2025_09.jpg"
+  },
+  {
+    "number": 153,
+    "sheet": 2,
+    "id": "open-753b65dea98d26ed",
+    "ro": "biologie",
+    "ru": "биология",
+    "image": "/photos/expanded/open-753b65dea98d26ed.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:Biology-0001.jpg"
+  },
+  {
+    "number": 154,
+    "sheet": 2,
+    "id": "open-247ba69a6c4c53e9",
+    "ro": "zid",
+    "ru": "стена",
+    "image": "/photos/expanded/open-247ba69a6c4c53e9.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:2015_Zak%C5%82ad_Karny_w_K%C5%82odzku_02.JPG"
+  },
+  {
+    "number": 155,
+    "sheet": 2,
+    "id": "open-c0e21b2d3df5d827",
+    "ro": "bogăție",
+    "ru": "богатство",
+    "image": "/photos/expanded/open-c0e21b2d3df5d827.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:Massysm_Quentin_%E2%80%94_The_Moneylender_and_his_Wife_%E2%80%94_1514.jpg"
+  },
+  {
+    "number": 156,
+    "sheet": 2,
+    "id": "open-68c590605102c8f2",
+    "ro": "obstacol",
+    "ru": "препятствие",
+    "image": "/photos/expanded/open-68c590605102c8f2.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:Ferguson-slide.jpg"
+  },
+  {
+    "number": 157,
+    "sheet": 2,
+    "id": "open-6219a5c84ff0a191",
+    "ro": "cimitir",
+    "ru": "кладбище",
+    "image": "/photos/expanded/open-6219a5c84ff0a191.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:Cimetiere_americain_Colleville-sur-Mer.jpg"
+  },
+  {
+    "number": 158,
+    "sheet": 2,
+    "id": "open-089966b312d5d874",
+    "ro": "colecție",
+    "ru": "коллекция; собрание; сборник",
+    "image": "/photos/expanded/open-089966b312d5d874.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:Los_Angeles_County_Museum_of_Natural_History_-_Gems_and_minerals.JPG"
+  },
+  {
+    "number": 159,
+    "sheet": 2,
+    "id": "open-b3d8a7edfb47e2c2",
+    "ro": "cort",
+    "ru": "палатка",
+    "image": "/photos/expanded/open-b3d8a7edfb47e2c2.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:Campement_-_20150802_15h44_(10723).jpg"
+  },
+  {
+    "number": 160,
+    "sheet": 2,
+    "id": "open-04e52613dda1c4b2",
+    "ro": "consiliu",
+    "ru": "совет (организация); совет, совещание, заседание; мед. консилиум",
+    "image": "/photos/expanded/open-04e52613dda1c4b2.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:GLA_Chamber.jpg"
+  },
+  {
+    "number": 161,
+    "sheet": 3,
+    "id": "open-36bde66f289a3568",
+    "ro": "manual",
+    "ru": "учебник, руководство; ручной",
+    "image": "/photos/expanded/open-36bde66f289a3568.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:First_Grade_Classroom-Egypt-2018_(cropped).jpg"
+  },
+  {
+    "number": 162,
+    "sheet": 3,
+    "id": "open-7587669ca42e19e8",
+    "ro": "fragment",
+    "ru": "обломок; осколок; кусок, часть; составная часть, отрывок; фрагмент",
+    "image": "/photos/expanded/open-7587669ca42e19e8.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:Ancient_Greece_Neolithic_Pottery_Fragments.jpg"
+  },
+  {
+    "number": 163,
+    "sheet": 3,
+    "id": "open-ef91d242613c5c7a",
+    "ro": "oțel",
+    "ru": "сталь",
+    "image": "/photos/expanded/open-ef91d242613c5c7a.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:Kaltbandcoils.jpg"
+  },
+  {
+    "number": 164,
+    "sheet": 3,
+    "id": "open-603cecc0fc313665",
+    "ro": "pianist",
+    "ru": "пианист",
+    "image": "/photos/expanded/open-603cecc0fc313665.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:Khatia_Buniatishvilli07_(48466926996).jpg"
+  },
+  {
+    "number": 165,
+    "sheet": 3,
+    "id": "open-9e9cfb14027458c1",
+    "ro": "jucărie",
+    "ru": "игрушка",
+    "image": "/photos/expanded/open-9e9cfb14027458c1.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:Child_playing_with_a_toy_cart_and_horse._-front-_(9726037522).jpg"
+  },
+  {
+    "number": 166,
+    "sheet": 3,
+    "id": "open-fba2eac3ee47ff78",
+    "ro": "poker",
+    "ru": "покер (карточная игра)",
+    "image": "/photos/expanded/open-fba2eac3ee47ff78.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:Gda%C5%84sk,_Poland_(Unsplash_GikVY_KS9vQ).jpg"
+  },
+  {
+    "number": 167,
+    "sheet": 3,
+    "id": "open-80deff3ddcdd45a0",
+    "ro": "telescop",
+    "ru": "телескоп",
+    "image": "/photos/expanded/open-80deff3ddcdd45a0.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:Lunette_mg_2368.jpg"
+  },
+  {
+    "number": 168,
+    "sheet": 3,
+    "id": "open-e7cb7742ac34fcb4",
+    "ro": "absență",
+    "ru": "отсутствие",
+    "image": "/photos/expanded/open-e7cb7742ac34fcb4.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:MissingLEGOBrick.jpg"
+  },
+  {
+    "number": 169,
+    "sheet": 3,
+    "id": "open-6f14145a37f366b5",
+    "ro": "tradiție",
+    "ru": "традиция",
+    "image": "/photos/expanded/open-6f14145a37f366b5.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:Dreschen_mit_Flegel.jpg"
+  },
+  {
+    "number": 170,
+    "sheet": 3,
+    "id": "open-b52d145e53c50972",
+    "ro": "trupă",
+    "ru": "труппа; воинская часть; войска",
+    "image": "/photos/expanded/open-b52d145e53c50972.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:Le_prince_Baudouin_et_son_r%C3%A9giment_%C3%A0_Ypres_(30_ao%C3%BBt_1890).jpg"
+  },
+  {
+    "number": 171,
+    "sheet": 3,
+    "id": "open-b9df10609c42216c",
+    "ro": "ambuteiaj",
+    "ru": "пробка, затор",
+    "image": "/photos/expanded/open-b9df10609c42216c.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:Malaysia_Federal_Highway_Traffic_Jam.jpg"
+  },
+  {
+    "number": 172,
+    "sheet": 3,
+    "id": "open-42bd0008cd10b038",
+    "ro": "analiză",
+    "ru": "анализ",
+    "image": "/photos/expanded/open-42bd0008cd10b038.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:Adriaen_Van_Ostade_-_L%27Analyse_-_PDUT921_-_Mus%C3%A9e_des_Beaux-Arts_de_la_ville_de_Paris.jpg"
+  },
+  {
+    "number": 173,
+    "sheet": 3,
+    "id": "open-a47777e3c8fe4278",
+    "ro": "aniversare",
+    "ru": "день рождения",
+    "image": "/photos/expanded/open-a47777e3c8fe4278.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:Birthday_cake.jpg"
+  },
+  {
+    "number": 174,
+    "sheet": 3,
+    "id": "open-bc52f74e8b718dc9",
+    "ro": "autoritate",
+    "ru": "власть; авторитет",
+    "image": "/photos/expanded/open-bc52f74e8b718dc9.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:AuthorityOfLaw.JPG"
+  },
+  {
+    "number": 175,
+    "sheet": 3,
+    "id": "open-2cbf0e0dae20f1d7",
+    "ro": "autostradă",
+    "ru": "автомагистраль, автострада, автотрасса",
+    "image": "/photos/expanded/open-2cbf0e0dae20f1d7.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:Garching_Bundesautobahn_9.jpg"
+  },
+  {
+    "number": 176,
+    "sheet": 3,
+    "id": "open-1b5a6f8f2abac45a",
+    "ro": "bal",
+    "ru": "бал",
+    "image": "/photos/expanded/open-1b5a6f8f2abac45a.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:DancingAtGaskellBall.jpg"
+  },
+  {
+    "number": 177,
+    "sheet": 3,
+    "id": "open-cf1ad2eac6081b31",
+    "ro": "bancher",
+    "ru": "банкир",
+    "image": "/photos/expanded/open-cf1ad2eac6081b31.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:Family_bank.jpg"
+  },
+  {
+    "number": 178,
+    "sheet": 3,
+    "id": "open-43494633061904b9",
+    "ro": "coastă",
+    "ru": "бок, сторона; берег, побережье; анат. ребро",
+    "image": "/photos/expanded/open-43494633061904b9.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:Knight%27s_Point,_West_Coast.jpg"
+  },
+  {
+    "number": 179,
+    "sheet": 3,
+    "id": "open-71796d8be17da22d",
+    "ro": "cercetare",
+    "ru": "исследование; расследование, рассмотрение",
+    "image": "/photos/expanded/open-71796d8be17da22d.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:Mitarbeiterin_der_EMPA_in_St-Gallen.jpg"
+  },
+  {
+    "number": 180,
+    "sheet": 3,
+    "id": "open-4ed60a56b931d74d",
+    "ro": "cod",
+    "ru": "код",
+    "image": "/photos/expanded/open-4ed60a56b931d74d.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:Codes,_Bukit,_Bali,_Indonesia.jpg"
+  },
+  {
+    "number": 181,
+    "sheet": 3,
+    "id": "open-55ba2a6ba4707503",
+    "ro": "combustibil",
+    "ru": "топливо; горючий",
+    "image": "/photos/expanded/open-55ba2a6ba4707503.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:Fire,_Fireplace,_Rostov-on-Don,_Russia.jpg"
+  },
+  {
+    "number": 182,
+    "sheet": 3,
+    "id": "open-017fbb8689cfd65a",
+    "ro": "cărămidă",
+    "ru": "кирпич",
+    "image": "/photos/expanded/open-017fbb8689cfd65a.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:Brick.jpg"
+  },
+  {
+    "number": 183,
+    "sheet": 3,
+    "id": "open-23591dd77fbf04a2",
+    "ro": "cântar",
+    "ru": "весы",
+    "image": "/photos/expanded/open-23591dd77fbf04a2.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:Balance_%C3%A0_tabac_1850.JPG"
+  },
+  {
+    "number": 184,
+    "sheet": 3,
+    "id": "open-bf3f74c8cac4a9b8",
+    "ro": "compozitor",
+    "ru": "композитор",
+    "image": "/photos/expanded/open-bf3f74c8cac4a9b8.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:Beethoven.jpg"
+  },
+  {
+    "number": 185,
+    "sheet": 3,
+    "id": "open-1fca82cd09061ad4",
+    "ro": "cărbune",
+    "ru": "уголь",
+    "image": "/photos/expanded/open-1fca82cd09061ad4.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:Coal_(Anthracite).JPG"
+  },
+  {
+    "number": 186,
+    "sheet": 3,
+    "id": "open-be8fee98cc61fa61",
+    "ro": "daltă",
+    "ru": "долото, зубило, стамеска",
+    "image": "/photos/expanded/open-be8fee98cc61fa61.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:Bordijzer.JPG"
+  },
+  {
+    "number": 187,
+    "sheet": 3,
+    "id": "open-5e337cbf34bc43d6",
+    "ro": "democrație",
+    "ru": "демократия",
+    "image": "/photos/expanded/open-5e337cbf34bc43d6.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:Election_MG_3455.JPG"
+  },
+  {
+    "number": 188,
+    "sheet": 3,
+    "id": "open-65d4b435387e6b3e",
+    "ro": "ebraică",
+    "ru": "иврит",
+    "image": "/photos/expanded/open-65d4b435387e6b3e.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:1_QIsa_example_of_damage_col_12-13.jpg"
+  },
+  {
+    "number": 189,
+    "sheet": 3,
+    "id": "open-8d36600151c8d37d",
+    "ro": "dictatură",
+    "ru": "диктатура",
+    "image": "/photos/expanded/open-8d36600151c8d37d.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:Hitler_N%C3%BCrnberg_1935.jpg"
+  },
+  {
+    "number": 190,
+    "sheet": 3,
+    "id": "open-512eea46ceb3921d",
+    "ro": "far",
+    "ru": "маяк",
+    "image": "/photos/expanded/open-512eea46ceb3921d.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:Leuchtturm_in_Westerheversand_crop.jpg"
+  },
+  {
+    "number": 191,
+    "sheet": 3,
+    "id": "open-277e9f4d2c33c3f1",
+    "ro": "fibră",
+    "ru": "волокно",
+    "image": "/photos/expanded/open-277e9f4d2c33c3f1.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:Carbon_fiber.jpg"
+  },
+  {
+    "number": 192,
+    "sheet": 3,
+    "id": "open-8ffaaf97add883ad",
+    "ro": "festival",
+    "ru": "фестиваль",
+    "image": "/photos/expanded/open-8ffaaf97add883ad.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:Festival_de_cinema_de_plein_air_de_visan.jpg"
+  },
+  {
+    "number": 193,
+    "sheet": 3,
+    "id": "open-0ae2f6c706cff60b",
+    "ro": "flamingo",
+    "ru": "фламинго",
+    "image": "/photos/expanded/open-0ae2f6c706cff60b.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:20170425_131_Camargue_Flamingo_(33654108203).jpg"
+  },
+  {
+    "number": 194,
+    "sheet": 3,
+    "id": "open-c6083b900002d51f",
+    "ro": "fizician",
+    "ru": "физик",
+    "image": "/photos/expanded/open-c6083b900002d51f.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:Albert_Einstein_Head.jpg"
+  },
+  {
+    "number": 195,
+    "sheet": 3,
+    "id": "open-0358d5eb1f5e3138",
+    "ro": "grădiniță",
+    "ru": "детский сад",
+    "image": "/photos/expanded/open-0358d5eb1f5e3138.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:ADO_5721.jpg"
+  },
+  {
+    "number": 196,
+    "sheet": 3,
+    "id": "open-8ff189ab8c735f52",
+    "ro": "homosexualitate",
+    "ru": "гомосексуальность, гомосексуализм",
+    "image": "/photos/expanded/open-8ff189ab8c735f52.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:Kamoni.GLBT.Parade.WDC.9jun96.jpg"
+  },
+  {
+    "number": 197,
+    "sheet": 3,
+    "id": "open-0842f5422f62280a",
+    "ro": "măcăleandru",
+    "ru": "орнитол. зарянка, малиновка (Erithacus rubecula)",
+    "image": "/photos/expanded/open-0842f5422f62280a.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:European_robin_(Erithacus_rubecula)_juvenile.jpg"
+  },
+  {
+    "number": 198,
+    "sheet": 3,
+    "id": "open-c0dcdeb8aaafab07",
+    "ro": "oțet",
+    "ru": "уксус",
+    "image": "/photos/expanded/open-c0dcdeb8aaafab07.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:Eguilles_20110828_14.jpg"
+  },
+  {
+    "number": 199,
+    "sheet": 3,
+    "id": "open-1d2121dce0c97eaa",
+    "ro": "polonez",
+    "ru": "поляк",
+    "image": "/photos/expanded/open-1d2121dce0c97eaa.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:35_Notable_Poles.jpg"
+  },
+  {
+    "number": 200,
+    "sheet": 3,
+    "id": "open-255fc138d1cc148c",
+    "ro": "alamă",
+    "ru": "латунь",
+    "image": "/photos/expanded/open-255fc138d1cc148c.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:Brass.jpg"
+  },
+  {
+    "number": 201,
+    "sheet": 3,
+    "id": "open-40b7497d2505011a",
+    "ro": "alabastru",
+    "ru": "алебастр",
+    "image": "/photos/expanded/open-40b7497d2505011a.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:Alabaster.jpg"
+  },
+  {
+    "number": 202,
+    "sheet": 3,
+    "id": "open-ca7cad8166758cb9",
+    "ro": "album",
+    "ru": "альбом",
+    "image": "/photos/expanded/open-ca7cad8166758cb9.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:6PanelDigipakOasisCD2008.jpg"
+  },
+  {
+    "number": 203,
+    "sheet": 3,
+    "id": "open-44843b1c930a84ff",
+    "ro": "apicultor",
+    "ru": "пасечник, пчеловод",
+    "image": "/photos/expanded/open-44843b1c930a84ff.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:Beekeeper_keeping_bees.jpg"
+  },
+  {
+    "number": 204,
+    "sheet": 3,
+    "id": "open-742ac1006a12241e",
+    "ro": "avalanșă",
+    "ru": "лавина",
+    "image": "/photos/expanded/open-742ac1006a12241e.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:Laviin_MAL-Pamir_85_02.jpg"
+  },
+  {
+    "number": 205,
+    "sheet": 3,
+    "id": "open-94741ea49e3a3278",
+    "ro": "carton",
+    "ru": "картон",
+    "image": "/photos/expanded/open-94741ea49e3a3278.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:Almost_done_(9046914035).jpg"
+  },
+  {
+    "number": 206,
+    "sheet": 3,
+    "id": "open-43b55e38a19e853f",
+    "ro": "chimie",
+    "ru": "химия",
+    "image": "/photos/expanded/open-43b55e38a19e853f.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:Chemicals_in_flasks.jpg"
+  },
+  {
+    "number": 207,
+    "sheet": 3,
+    "id": "open-6f14bc72ac4d930d",
+    "ro": "ceremonie",
+    "ru": "церемония",
+    "image": "/photos/expanded/open-6f14bc72ac4d930d.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:Ceremony.lifeguard.london.arp.jpg"
+  },
+  {
+    "number": 208,
+    "sheet": 3,
+    "id": "open-4222f9eb2f8e4055",
+    "ro": "cavaler",
+    "ru": "рыцарь",
+    "image": "/photos/expanded/open-4222f9eb2f8e4055.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:Miniatura_dei_Carmina_regia_02.jpg"
+  },
+  {
+    "number": 209,
+    "sheet": 3,
+    "id": "open-f42f4c7ac9f39457",
+    "ro": "civilizație",
+    "ru": "цивилизация",
+    "image": "/photos/expanded/open-f42f4c7ac9f39457.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:Egypt.Giza.Sphinx.02.jpg"
+  },
+  {
+    "number": 210,
+    "sheet": 3,
+    "id": "open-61a7832d539cd5e8",
+    "ro": "colecționar",
+    "ru": "коллекционер",
+    "image": "/photos/expanded/open-61a7832d539cd5e8.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:Largest_collection_of_Converse_All-Stars.JPG"
+  },
+  {
+    "number": 211,
+    "sheet": 3,
+    "id": "open-a970ba7f3a525395",
+    "ro": "dependență",
+    "ru": "зависимость",
+    "image": "/photos/expanded/open-a970ba7f3a525395.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:Alcoholism_is_a_Prision.JPG"
+  },
+  {
+    "number": 212,
+    "sheet": 3,
+    "id": "open-4e2482a1a4258925",
+    "ro": "dictator",
+    "ru": "диктатор",
+    "image": "/photos/expanded/open-4e2482a1a4258925.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:Historical_totalitarian_leaders.jpg"
+  },
+  {
+    "number": 213,
+    "sheet": 3,
+    "id": "open-0231e4f6e4da02b8",
+    "ro": "diavol",
+    "ru": "дьявол",
+    "image": "/photos/expanded/open-0231e4f6e4da02b8.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:Michelangelo_Buonarroti_-_The_Torment_of_Saint_Anthony_-_Google_Art_Project.jpg"
+  },
+  {
+    "number": 214,
+    "sheet": 3,
+    "id": "open-44aff549d9b78bd1",
+    "ro": "explozie",
+    "ru": "взрыв",
+    "image": "/photos/expanded/open-44aff549d9b78bd1.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:Explosions.jpg"
+  },
+  {
+    "number": 215,
+    "sheet": 3,
+    "id": "open-ebbde58a4bbe357e",
+    "ro": "dig",
+    "ru": "дамба",
+    "image": "/photos/expanded/open-ebbde58a4bbe357e.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:GretnaLevee.jpg"
+  },
+  {
+    "number": 216,
+    "sheet": 3,
+    "id": "open-1aa68bff60424a29",
+    "ro": "fraternitate",
+    "ru": "братство",
+    "image": "/photos/expanded/open-1aa68bff60424a29.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:Agustinos_Recoletos.jpg"
+  },
+  {
+    "number": 217,
+    "sheet": 3,
+    "id": "open-d250f0612b0a5cd3",
+    "ro": "faună",
+    "ru": "фауна, царство животных",
+    "image": "/photos/expanded/open-d250f0612b0a5cd3.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:Australisk_fauna,_Nordisk_familjebok.jpg"
+  },
+  {
+    "number": 218,
+    "sheet": 3,
+    "id": "open-026487357a039d79",
+    "ro": "gogoașă",
+    "ru": "пончик, пышка, пампушка",
+    "image": "/photos/expanded/open-026487357a039d79.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:Krispy_Kreme_in_Delta_(14597037418).jpg"
+  },
+  {
+    "number": 219,
+    "sheet": 3,
+    "id": "open-7b98b2710e22bc14",
+    "ro": "hemoragie",
+    "ru": "мед. кровоизлияние, геморрагия",
+    "image": "/photos/expanded/open-7b98b2710e22bc14.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:Bleeding_finger.jpg"
+  },
+  {
+    "number": 220,
+    "sheet": 3,
+    "id": "open-594d9d7cb0cd339e",
+    "ro": "hrană",
+    "ru": "еда, пища",
+    "image": "/photos/expanded/open-594d9d7cb0cd339e.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:Good_Food_Display_-_NCI_Visuals_Online.jpg"
+  },
+  {
+    "number": 221,
+    "sheet": 3,
+    "id": "open-340d77ede4e60e77",
+    "ro": "imigrație",
+    "ru": "иммиграция",
+    "image": "/photos/expanded/open-340d77ede4e60e77.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:Inmigrantes_europeos_llegando_a_Argentina.jpg"
+  },
+  {
+    "number": 222,
+    "sheet": 3,
+    "id": "open-a915d575b5ded49e",
+    "ro": "ingineră",
+    "ru": "инженерка",
+    "image": "/photos/expanded/open-a915d575b5ded49e.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:Kitty_Joyner_-_Electrical_Engineer_-_GPN-2000-001933.jpg"
+  },
+  {
+    "number": 223,
+    "sheet": 3,
+    "id": "open-a2ccddb9b97e5484",
+    "ro": "laborator",
+    "ru": "лаборатория",
+    "image": "/photos/expanded/open-a2ccddb9b97e5484.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:M_Faraday_Lab_H_Moore.jpg"
+  },
+  {
+    "number": 224,
+    "sheet": 3,
+    "id": "open-8a1d2d2209ead48c",
+    "ro": "lumânare",
+    "ru": "свеча (осветительное приспособление)",
+    "image": "/photos/expanded/open-8a1d2d2209ead48c.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:%22Candle%22.JPG"
+  },
+  {
+    "number": 225,
+    "sheet": 3,
+    "id": "open-2d704e2522efe522",
+    "ro": "matematician",
+    "ru": "математик",
+    "image": "/photos/expanded/open-2d704e2522efe522.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:CMAP_-_Centre_de_Math%C3%A9matiques_Appliqu%C3%A9es_de_l%27Ecole_polytechnique_(25911635211).jpg"
+  },
+  {
+    "number": 226,
+    "sheet": 3,
+    "id": "open-ab0fa0267b812a98",
+    "ro": "meduză",
+    "ru": "медуза",
+    "image": "/photos/expanded/open-ab0fa0267b812a98.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:Jelly_cc11.jpg"
+  },
+  {
+    "number": 227,
+    "sheet": 3,
+    "id": "open-d44c7945a2fdcc26",
+    "ro": "melancolie",
+    "ru": "меланхолия",
+    "image": "/photos/expanded/open-d44c7945a2fdcc26.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:D%C3%BCrer_Melancholia_I.jpg"
+  },
+  {
+    "number": 228,
+    "sheet": 3,
+    "id": "open-d2719e6b556450e0",
+    "ro": "monarh",
+    "ru": "монарх",
+    "image": "/photos/expanded/open-d2719e6b556450e0.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:Louis_XIV_of_France.jpg"
+  },
+  {
+    "number": 229,
+    "sheet": 3,
+    "id": "open-bb6954cb1ca3a161",
+    "ro": "mărgele",
+    "ru": "бусы; ожерелье",
+    "image": "/photos/expanded/open-bb6954cb1ca3a161.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:Beads_(5843377458).jpg"
+  },
+  {
+    "number": 230,
+    "sheet": 3,
+    "id": "open-d13dae0e56798384",
+    "ro": "organism",
+    "ru": "организм",
+    "image": "/photos/expanded/open-d13dae0e56798384.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:E._coli_Bacteria_(7316101966).jpg"
+  },
+  {
+    "number": 231,
+    "sheet": 3,
+    "id": "open-45066dd976d8bf0c",
+    "ro": "paradox",
+    "ru": "парадокс",
+    "image": "/photos/expanded/open-45066dd976d8bf0c.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:LargeTribarGotschuchenAustria.JPG"
+  },
+  {
+    "number": 232,
+    "sheet": 3,
+    "id": "open-8b4bd2f26e13ff20",
+    "ro": "sinucidere",
+    "ru": "самоубийство, суицид",
+    "image": "/photos/expanded/open-8b4bd2f26e13ff20.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:Edouard_Manet_-_Le_Suicid%C3%A9.jpg"
+  },
+  {
+    "number": 233,
+    "sheet": 3,
+    "id": "open-c053594509023715",
+    "ro": "smirnă",
+    "ru": "мирра",
+    "image": "/photos/expanded/open-c053594509023715.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:Myrrh.JPG"
+  },
+  {
+    "number": 234,
+    "sheet": 3,
+    "id": "open-2023ed17cec7017e",
+    "ro": "tornadă",
+    "ru": "смерч, торнадо",
+    "image": "/photos/expanded/open-2023ed17cec7017e.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:F5_tornado_Elie_Manitoba_2007.jpg"
+  },
+  {
+    "number": 235,
+    "sheet": 3,
+    "id": "open-7489cc4908e1bbf2",
+    "ro": "târg",
+    "ru": "рынок",
+    "image": "/photos/expanded/open-7489cc4908e1bbf2.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:Grand-Bazaar_Shop.jpg"
+  },
+  {
+    "number": 236,
+    "sheet": 3,
+    "id": "open-e77b3d5abf5b9b7b",
+    "ro": "secetă",
+    "ru": "засуха",
+    "image": "/photos/expanded/open-e77b3d5abf5b9b7b.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:Drought.jpg"
+  },
+  {
+    "number": 237,
+    "sheet": 3,
+    "id": "open-d297732a960faf6f",
+    "ro": "umilință",
+    "ru": "смирение, покорность, униженность (как состояние)",
+    "image": "/photos/expanded/open-d297732a960faf6f.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:Humilitas_baptistery_Florence.jpg"
+  },
+  {
+    "number": 238,
+    "sheet": 3,
+    "id": "open-6b3361f2230bebbe",
+    "ro": "abces",
+    "ru": "абсцесс, нарыв",
+    "image": "/photos/expanded/open-6b3361f2230bebbe.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:Abszess.jpg"
+  },
+  {
+    "number": 239,
+    "sheet": 3,
+    "id": "open-577aeff8518fcd2a",
+    "ro": "abaca",
+    "ru": "абака, манильская пенька",
+    "image": "/photos/expanded/open-577aeff8518fcd2a.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:Abaca_Tree.jpg"
+  },
+  {
+    "number": 240,
+    "sheet": 3,
+    "id": "open-9a5b177bc2109946",
+    "ro": "academie",
+    "ru": "академия",
+    "image": "/photos/expanded/open-9a5b177bc2109946.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:%22The_School_of_Athens%22_by_Raffaello_Sanzio_da_Urbino.jpg"
+  },
+  {
+    "number": 241,
+    "sheet": 4,
+    "id": "open-47b2ef9c4ae5b10f",
+    "ro": "aerodinamică",
+    "ru": "аэродинамика",
+    "image": "/photos/expanded/open-47b2ef9c4ae5b10f.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:Airplane_vortex_edit.jpg"
+  },
+  {
+    "number": 242,
+    "sheet": 4,
+    "id": "open-e22d11e37f09396d",
+    "ro": "adjudecător",
+    "ru": "аукционист",
+    "image": "/photos/expanded/open-e22d11e37f09396d.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:Crosby_Garrett_Helmet_on_auction_at_Christies.jpg"
+  },
+  {
+    "number": 243,
+    "sheet": 4,
+    "id": "open-61b3192c8b0088d2",
+    "ro": "albanez",
+    "ru": "албанец",
+    "image": "/photos/expanded/open-61b3192c8b0088d2.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:A_traditional_male_folk_group_from_Skrapar.JPG"
+  },
+  {
+    "number": 244,
+    "sheet": 4,
+    "id": "open-8d6bcf73eb5d2b91",
+    "ro": "albinism",
+    "ru": "альбинизм",
+    "image": "/photos/expanded/open-8d6bcf73eb5d2b91.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:Beauty_is_in_the_eye_of_the_beholder_-_Flickr_-_Zanastardust.jpg"
+  },
+  {
+    "number": 245,
+    "sheet": 4,
+    "id": "open-af1f02f13ac4aba6",
+    "ro": "alizarină",
+    "ru": "ализарин",
+    "image": "/photos/expanded/open-af1f02f13ac4aba6.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:Alizarin-sample.jpg"
+  },
+  {
+    "number": 246,
+    "sheet": 4,
+    "id": "open-9cab7afd1e1c0a31",
+    "ro": "ametist",
+    "ru": "аметист",
+    "image": "/photos/expanded/open-9cab7afd1e1c0a31.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:Amethyst._Magaliesburg,_South_Africa.jpg"
+  },
+  {
+    "number": 247,
+    "sheet": 4,
+    "id": "open-c89f659ea3dfec48",
+    "ro": "anonimitate",
+    "ru": "анонимность",
+    "image": "/photos/expanded/open-c89f659ea3dfec48.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:Anonymous_at_Scientology_in_Los_Angeles.jpg"
+  },
+  {
+    "number": 248,
+    "sheet": 4,
+    "id": "open-7e454cb3a5e5621e",
+    "ro": "aristocrație",
+    "ru": "аристократия",
+    "image": "/photos/expanded/open-7e454cb3a5e5621e.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:1stEarlOfBolingbroke.jpg"
+  },
+  {
+    "number": 249,
+    "sheet": 4,
+    "id": "open-cd2c0f63ad37d585",
+    "ro": "anaconda",
+    "ru": "анаконда",
+    "image": "/photos/expanded/open-cd2c0f63ad37d585.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:01-COBRA-SUCURI-3M-WAGNER-MEIER_MG_2458.JPG"
+  },
+  {
+    "number": 250,
+    "sheet": 4,
+    "id": "open-f4d65b2483b34a8d",
+    "ro": "atelier",
+    "ru": "мастерская, ателье",
+    "image": "/photos/expanded/open-f4d65b2483b34a8d.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:Haltern_am_See,_Sythen,_Werkzeughalle_der_Quarzwerke_--_2015_--_4990.jpg"
+  },
+  {
+    "number": 251,
+    "sheet": 4,
+    "id": "open-6460d36aab7d028f",
+    "ro": "auroră",
+    "ru": "рассвет, заря",
+    "image": "/photos/expanded/open-6460d36aab7d028f.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:Kaohsiung_harbor_sunrise_skyline.jpg"
+  },
+  {
+    "number": 252,
+    "sheet": 4,
+    "id": "open-e5b550aff4153ff0",
+    "ro": "autogară",
+    "ru": "автовокзал",
+    "image": "/photos/expanded/open-e5b550aff4153ff0.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:Kuala_Perlis_Bus_Station.jpg"
+  },
+  {
+    "number": 253,
+    "sheet": 4,
+    "id": "open-ae8d3e5346522e5a",
+    "ro": "azot",
+    "ru": "азот",
+    "image": "/photos/expanded/open-ae8d3e5346522e5a.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:Fluessiger_Stickstoff.jpg"
+  },
+  {
+    "number": 254,
+    "sheet": 4,
+    "id": "open-b4a652fed6881265",
+    "ro": "azbest",
+    "ru": "асбест",
+    "image": "/photos/expanded/open-b4a652fed6881265.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:Crb-gmbh_querschnitt-asphaltbohrkern.jpg"
+  },
+  {
+    "number": 255,
+    "sheet": 4,
+    "id": "open-6e4648ca7efa2dad",
+    "ro": "balanța",
+    "ru": "весы",
+    "image": "/photos/expanded/open-6e4648ca7efa2dad.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:LibraCC.jpg"
+  },
+  {
+    "number": 256,
+    "sheet": 4,
+    "id": "open-7382daf22898992a",
+    "ro": "bachelită",
+    "ru": "бакелит",
+    "image": "/photos/expanded/open-7382daf22898992a.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:Bakelite_bangles.jpg"
+  },
+  {
+    "number": 257,
+    "sheet": 4,
+    "id": "open-a219d32f17393a32",
+    "ro": "arhanghel",
+    "ru": "архангел",
+    "image": "/photos/expanded/open-a219d32f17393a32.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:Guido_Reni_031.jpg"
+  },
+  {
+    "number": 258,
+    "sheet": 4,
+    "id": "open-0b778819fc2789a0",
+    "ro": "belarus",
+    "ru": "белорус",
+    "image": "/photos/expanded/open-0b778819fc2789a0.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:Folk_Festival_in_Vjazynka.JPG"
+  },
+  {
+    "number": 259,
+    "sheet": 4,
+    "id": "open-15be6920d25ff4b4",
+    "ro": "barometru",
+    "ru": "барометр",
+    "image": "/photos/expanded/open-15be6920d25ff4b4.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:Barometr,_Skwer_Bowiena,_Sopot_-_panoramio.jpg"
+  },
+  {
+    "number": 260,
+    "sheet": 4,
+    "id": "open-e3a9b07bbac935aa",
+    "ro": "biatlonist",
+    "ru": "биатлонист",
+    "image": "/photos/expanded/open-e3a9b07bbac935aa.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:Emil_Hegle_Svendsen_NM_2010_Simostranda.jpg"
+  },
+  {
+    "number": 261,
+    "sheet": 4,
+    "id": "open-0ac42eb463a6923f",
+    "ro": "bitum",
+    "ru": "битум",
+    "image": "/photos/expanded/open-0ac42eb463a6923f.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:McKittrick_Tar_Seep_North_of_Highway_58.jpg"
+  },
+  {
+    "number": 262,
+    "sheet": 4,
+    "id": "open-5054ca7c46747812",
+    "ro": "bulgar",
+    "ru": "болгарин",
+    "image": "/photos/expanded/open-5054ca7c46747812.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:Lazarki_from_Gabra.jpg"
+  },
+  {
+    "number": 263,
+    "sheet": 4,
+    "id": "open-cb1149dad6a6cb73",
+    "ro": "caisă",
+    "ru": "абрикос (плод)",
+    "image": "/photos/expanded/open-cb1149dad6a6cb73.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:Apricots.jpg"
+  },
+  {
+    "number": 264,
+    "sheet": 4,
+    "id": "open-7de65553e94d65fa",
+    "ro": "cangrenă",
+    "ru": "гангрена",
+    "image": "/photos/expanded/open-7de65553e94d65fa.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:Acral_gangrene_due_to_plague.jpg"
+  },
+  {
+    "number": 265,
+    "sheet": 4,
+    "id": "open-349cffd6623246e1",
+    "ro": "camping",
+    "ru": "кемпинг",
+    "image": "/photos/expanded/open-349cffd6623246e1.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:00_3291_Zelt_auf_dem_Autodach.jpg"
+  },
+  {
+    "number": 266,
+    "sheet": 4,
+    "id": "open-30b65263d03e2743",
+    "ro": "cardamom",
+    "ru": "кардамон",
+    "image": "/photos/expanded/open-30b65263d03e2743.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:Elettaria_cardamomum_-_K%C3%B6hler%E2%80%93s_Medizinal-Pflanzen-057.jpg"
+  },
+  {
+    "number": 267,
+    "sheet": 4,
+    "id": "open-7139ff2290a7899c",
+    "ro": "capitalism",
+    "ru": "капитализм",
+    "image": "/photos/expanded/open-7139ff2290a7899c.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:Microcosm_of_London_Plate_033_-_Corn_Exchange.jpg"
+  },
+  {
+    "number": 268,
+    "sheet": 4,
+    "id": "open-fb58917f1086551c",
+    "ro": "cartografie",
+    "ru": "картография",
+    "image": "/photos/expanded/open-fb58917f1086551c.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:Kepler-world.jpg"
+  },
+  {
+    "number": 269,
+    "sheet": 4,
+    "id": "open-53e797227c4c79b5",
+    "ro": "chanson",
+    "ru": "шансон",
+    "image": "/photos/expanded/open-53e797227c4c79b5.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:Mireille_Mathieu_Hamburg_1971_001.jpg"
+  },
+  {
+    "number": 270,
+    "sheet": 4,
+    "id": "open-c7fbb4804ad4ba3d",
+    "ro": "chihlimbar",
+    "ru": "янтарь",
+    "image": "/photos/expanded/open-c7fbb4804ad4ba3d.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:Amber_Bernstein_many_stones.jpg"
+  },
+  {
+    "number": 271,
+    "sheet": 4,
+    "id": "open-0a42f62edb77e8f3",
+    "ro": "circ",
+    "ru": "цирк",
+    "image": "/photos/expanded/open-0a42f62edb77e8f3.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:Circus_Ronaldo_door_Dirk_Annemans.jpg"
+  },
+  {
+    "number": 272,
+    "sheet": 4,
+    "id": "open-daf814d40c0a0afa",
+    "ro": "corb",
+    "ru": "ворон",
+    "image": "/photos/expanded/open-daf814d40c0a0afa.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:Corvus_corax_tingitanus_MHNT_232_HdB_Djebel_Messaad_Algerie.jpg"
+  },
+  {
+    "number": 273,
+    "sheet": 4,
+    "id": "open-e08cf0f8cba27edf",
+    "ro": "craniu",
+    "ru": "череп",
+    "image": "/photos/expanded/open-e08cf0f8cba27edf.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:Aardwolf_Skull.JPG"
+  },
+  {
+    "number": 274,
+    "sheet": 4,
+    "id": "open-92199368a9b18040",
+    "ro": "criptomonedă",
+    "ru": "криптовалюта",
+    "image": "/photos/expanded/open-92199368a9b18040.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:Cryptocurrency_logos.jpg"
+  },
+  {
+    "number": 275,
+    "sheet": 4,
+    "id": "open-09d36e1b4814e596",
+    "ro": "crematoriu",
+    "ru": "крематорий",
+    "image": "/photos/expanded/open-09d36e1b4814e596.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:Johor_Bahru_Hindu_Crematorium.jpg"
+  },
+  {
+    "number": 276,
+    "sheet": 4,
+    "id": "open-0d44ddcdfb754551",
+    "ro": "cuzinet",
+    "ru": "подшипник",
+    "image": "/photos/expanded/open-0d44ddcdfb754551.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:Ball_bearing.jpg"
+  },
+  {
+    "number": 277,
+    "sheet": 4,
+    "id": "open-51d383ff0d4e56ab",
+    "ro": "călcâi",
+    "ru": "анат. пятка, пята",
+    "image": "/photos/expanded/open-51d383ff0d4e56ab.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:Girls_heel.jpg"
+  },
+  {
+    "number": 278,
+    "sheet": 4,
+    "id": "open-46ba009386bf64da",
+    "ro": "denumire",
+    "ru": "название",
+    "image": "/photos/expanded/open-46ba009386bf64da.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:Coming_up_with_business_names.jpg"
+  },
+  {
+    "number": 279,
+    "sheet": 4,
+    "id": "open-e71b5222584b6528",
+    "ro": "drog",
+    "ru": "наркотик",
+    "image": "/photos/expanded/open-e71b5222584b6528.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:Bayer_Heroin_bottle.jpg"
+  },
+  {
+    "number": 280,
+    "sheet": 4,
+    "id": "open-16590eca254f0a73",
+    "ro": "dudă",
+    "ru": "шелковица, тут (плод)",
+    "image": "/photos/expanded/open-16590eca254f0a73.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:Mulberry_2.jpg"
+  },
+  {
+    "number": 281,
+    "sheet": 4,
+    "id": "open-1d30f0775ee1b6d5",
+    "ro": "embriologie",
+    "ru": "эмбриология",
+    "image": "/photos/expanded/open-1d30f0775ee1b6d5.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:Haeckel_drawings.jpg"
+  },
+  {
+    "number": 282,
+    "sheet": 4,
+    "id": "open-aec193f1feec387a",
+    "ro": "ecologie",
+    "ru": "экология",
+    "image": "/photos/expanded/open-aec193f1feec387a.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:Grib_skov.jpg"
+  },
+  {
+    "number": 283,
+    "sheet": 4,
+    "id": "open-6756ad4edeb16d27",
+    "ro": "enciclopedie",
+    "ru": "энциклопедия",
+    "image": "/photos/expanded/open-6756ad4edeb16d27.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:Bertelsmann_Lexikothek.jpg"
+  },
+  {
+    "number": 284,
+    "sheet": 4,
+    "id": "open-8556b7be1e667cde",
+    "ro": "extremism",
+    "ru": "экстремизм",
+    "image": "/photos/expanded/open-8556b7be1e667cde.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:2012_Sydney_protest.jpg"
+  },
+  {
+    "number": 285,
+    "sheet": 4,
+    "id": "open-07fb7efaeeedc709",
+    "ro": "fascism",
+    "ru": "фашизм",
+    "image": "/photos/expanded/open-07fb7efaeeedc709.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:Mussolini_and_Hitler_1940_(retouched).jpg"
+  },
+  {
+    "number": 286,
+    "sheet": 4,
+    "id": "open-214ebc80bb5b159f",
+    "ro": "facocer",
+    "ru": "бородавочник",
+    "image": "/photos/expanded/open-214ebc80bb5b159f.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:Desert_Warthog,_Samburu,_Kenya_04.jpg"
+  },
+  {
+    "number": 287,
+    "sheet": 4,
+    "id": "open-1e1339c9448d9a0b",
+    "ro": "feminitate",
+    "ru": "женственность",
+    "image": "/photos/expanded/open-1e1339c9448d9a0b.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:Clarice_Brown,_19,_is_a_secretary_in_the_United_Mine_Workers_Field_Service_office_in_Charleston,_West_Virginia_-_NARA_-_556470.jpg"
+  },
+  {
+    "number": 288,
+    "sheet": 4,
+    "id": "open-1ed7a8ffc6a03178",
+    "ro": "fesă",
+    "ru": "ягодица, седалище, попа",
+    "image": "/photos/expanded/open-1ed7a8ffc6a03178.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:Human_buttocks.jpg"
+  },
+  {
+    "number": 289,
+    "sheet": 4,
+    "id": "open-4519cf55037c41f7",
+    "ro": "eșafod",
+    "ru": "эшафот",
+    "image": "/photos/expanded/open-4519cf55037c41f7.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:Marie_Antoinette_Execution1.jpg"
+  },
+  {
+    "number": 290,
+    "sheet": 4,
+    "id": "open-4bc9064b1ad94465",
+    "ro": "flașnetă",
+    "ru": "шарманка",
+    "image": "/photos/expanded/open-4bc9064b1ad94465.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:Barrel_piano_-_%CE%9B%CE%B1%CF%84%CE%AD%CF%81%CE%BD%CE%B1(laterna).JPG"
+  },
+  {
+    "number": 291,
+    "sheet": 4,
+    "id": "open-907b04228f59617f",
+    "ro": "filozofie",
+    "ru": "философия",
+    "image": "/photos/expanded/open-907b04228f59617f.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:Hortus_Deliciarum,_Philosophy_and_the_seven_liberal_arts_(cropped).jpg"
+  },
+  {
+    "number": 292,
+    "sheet": 4,
+    "id": "open-7fe4757d8b279739",
+    "ro": "florinte",
+    "ru": "зеленушка",
+    "image": "/photos/expanded/open-7fe4757d8b279739.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:Chloris_chloris_chloris_MHNT_223_Gouvieux.jpg"
+  },
+  {
+    "number": 293,
+    "sheet": 4,
+    "id": "open-b83cb51088e0e4be",
+    "ro": "ghetou",
+    "ru": "гетто",
+    "image": "/photos/expanded/open-b83cb51088e0e4be.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:Bundesarchiv_N_1576_Bild-006,_Minsk,_Juden.jpg"
+  },
+  {
+    "number": 294,
+    "sheet": 4,
+    "id": "open-a7be7b0a3db60b20",
+    "ro": "gheizer",
+    "ru": "гейзер",
+    "image": "/photos/expanded/open-a7be7b0a3db60b20.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:00_1555_Pohutu_Geyser_in_Whakarewarewa_(Whaka),_New_Zealand.jpg"
+  },
+  {
+    "number": 295,
+    "sheet": 4,
+    "id": "open-ce859be86b7475e0",
+    "ro": "gospodină",
+    "ru": "домохозяйка",
+    "image": "/photos/expanded/open-ce859be86b7475e0.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:HOUSEWIFE_IN_THE_KITCHEN_OF_HER_MOBILE_HOME_IN_ONE_OF_THE_TRAILER_PARKS._THE_TWO_PARKS_WERE_CREATED_IN_RESPONSE_TO..._-_NARA_-_558298.jpg"
+  },
+  {
+    "number": 296,
+    "sheet": 4,
+    "id": "open-5cd434a7c50fbe06",
+    "ro": "girocompas",
+    "ru": "гирокомпас",
+    "image": "/photos/expanded/open-5cd434a7c50fbe06.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:Kreiselkompass_Schnitt_Ansch%C3%BCtz.jpg"
+  },
+  {
+    "number": 297,
+    "sheet": 4,
+    "id": "open-05dcd87c690ad49f",
+    "ro": "giuvaergiu",
+    "ru": "ювелир",
+    "image": "/photos/expanded/open-05dcd87c690ad49f.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:Een_edelsmid_aan_het_werk,_Bestanddeelnr_190-0470.jpg"
+  },
+  {
+    "number": 298,
+    "sheet": 4,
+    "id": "open-516bc7bc70a94ec3",
+    "ro": "granat",
+    "ru": "гранат (минерал)",
+    "image": "/photos/expanded/open-516bc7bc70a94ec3.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:GarnetCrystalUSGOV.jpg"
+  },
+  {
+    "number": 299,
+    "sheet": 4,
+    "id": "open-2d7e20ac804f1142",
+    "ro": "guașă",
+    "ru": "гуашь",
+    "image": "/photos/expanded/open-2d7e20ac804f1142.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:Gouache.jpg"
+  },
+  {
+    "number": 300,
+    "sheet": 4,
+    "id": "open-4e3662fd07584db9",
+    "ro": "heroină",
+    "ru": "героин",
+    "image": "/photos/expanded/open-4e3662fd07584db9.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:Heroin_paraphernalia.jpg"
+  },
+  {
+    "number": 301,
+    "sheet": 4,
+    "id": "open-cd13f56506e812e4",
+    "ro": "heterosexualitate",
+    "ru": "гетеросексуальность",
+    "image": "/photos/expanded/open-cd13f56506e812e4.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:Just_a_touch_is_all_I_need.jpg"
+  },
+  {
+    "number": 302,
+    "sheet": 4,
+    "id": "open-5c8879849c4953a9",
+    "ro": "helmint",
+    "ru": "биол. гельминт, глист",
+    "image": "/photos/expanded/open-5c8879849c4953a9.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:Haeckel_Platodes.jpg"
+  },
+  {
+    "number": 303,
+    "sheet": 4,
+    "id": "open-c02e950605b97542",
+    "ro": "heraldică",
+    "ru": "геральдика",
+    "image": "/photos/expanded/open-c02e950605b97542.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:Hyghalmen_Roll_Late_1400s.jpg"
+  },
+  {
+    "number": 304,
+    "sheet": 4,
+    "id": "open-e9496882f12043ad",
+    "ro": "higrometru",
+    "ru": "гигрометр, влагомер",
+    "image": "/photos/expanded/open-e9496882f12043ad.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:Hygrometer_USSR_1987.jpg"
+  },
+  {
+    "number": 305,
+    "sheet": 4,
+    "id": "open-463a9cc4f5482460",
+    "ro": "insomnie",
+    "ru": "мед. инсомния, бессонница",
+    "image": "/photos/expanded/open-463a9cc4f5482460.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:53-aspetti_di_vita_quotidiana,_insonnia,_Taccuino_Sanitatis,crop.jpg"
+  },
+  {
+    "number": 306,
+    "sheet": 4,
+    "id": "open-f33da16f46eb0865",
+    "ro": "ionosferă",
+    "ru": "ионосфера",
+    "image": "/photos/expanded/open-f33da16f46eb0865.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:Aurora_Borealis.jpg"
+  },
+  {
+    "number": 307,
+    "sheet": 4,
+    "id": "open-de7693f6b22c0a20",
+    "ro": "ischemie",
+    "ru": "ишемия",
+    "image": "/photos/expanded/open-de7693f6b22c0a20.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:Ischemia.JPG"
+  },
+  {
+    "number": 308,
+    "sheet": 4,
+    "id": "open-ec4cfde432788bc4",
+    "ro": "junglă",
+    "ru": "джунгли",
+    "image": "/photos/expanded/open-ec4cfde432788bc4.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:Jungle.jpg"
+  },
+  {
+    "number": 309,
+    "sheet": 4,
+    "id": "open-4d9632dce2f8adfc",
+    "ro": "jurnalism",
+    "ru": "журналистика",
+    "image": "/photos/expanded/open-4d9632dce2f8adfc.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:CBC_journalists_in_Montreal.jpg"
+  },
+  {
+    "number": 310,
+    "sheet": 4,
+    "id": "open-7d2b212313205613",
+    "ro": "lavă",
+    "ru": "лава",
+    "image": "/photos/expanded/open-7d2b212313205613.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:001_Volcano_eruption_of_Litli-Hr%C3%BAtur_in_Iceland_in_2023_Photo_by_Giles_Laurent.jpg"
+  },
+  {
+    "number": 311,
+    "sheet": 4,
+    "id": "open-6ecb5755a5926280",
+    "ro": "kerosen",
+    "ru": "керосин",
+    "image": "/photos/expanded/open-6ecb5755a5926280.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:4_litre_Kristallfotogen_kerosene_can_by_Aktiebolaget_Lyse_Sweden_early_20th_century.jpg"
+  },
+  {
+    "number": 312,
+    "sheet": 4,
+    "id": "open-62aa6598960524dd",
+    "ro": "injustiție",
+    "ru": "несправедливость",
+    "image": "/photos/expanded/open-62aa6598960524dd.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:Degradation_alfred_dreyfus.jpg"
+  },
+  {
+    "number": 313,
+    "sheet": 4,
+    "id": "open-1b8bd4e350c5f636",
+    "ro": "inundație",
+    "ru": "наводнение",
+    "image": "/photos/expanded/open-1b8bd4e350c5f636.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:KatrinaNewOrleansFlooded_edit2.jpg"
+  },
+  {
+    "number": 314,
+    "sheet": 4,
+    "id": "open-2ea14c21e41b459c",
+    "ro": "lingvist",
+    "ru": "лингвист",
+    "image": "/photos/expanded/open-2ea14c21e41b459c.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:Convegno_internazionale_di_Linguistica_5-7_luglio_2018_(29778729298).jpg"
+  },
+  {
+    "number": 315,
+    "sheet": 4,
+    "id": "open-ceac666aa4a77ab1",
+    "ro": "lut",
+    "ru": "глина",
+    "image": "/photos/expanded/open-ceac666aa4a77ab1.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:Clay-ss-2005.jpg"
+  },
+  {
+    "number": 316,
+    "sheet": 4,
+    "id": "open-421d06c9da1ba1e0",
+    "ro": "lăută",
+    "ru": "лютня",
+    "image": "/photos/expanded/open-421d06c9da1ba1e0.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:Lute_(by_Princess_Ruto,_2013-02-11).jpg"
+  },
+  {
+    "number": 317,
+    "sheet": 4,
+    "id": "open-f448c4864ce882a8",
+    "ro": "migrenă",
+    "ru": "мед. мигрень, гемикрания",
+    "image": "/photos/expanded/open-f448c4864ce882a8.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:Migraine.jpg"
+  },
+  {
+    "number": 318,
+    "sheet": 4,
+    "id": "open-ae0ea874e8ad89e5",
+    "ro": "micșunea",
+    "ru": "ботан. желтофиоль; лакфиоль",
+    "image": "/photos/expanded/open-ae0ea874e8ad89e5.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:Cheiranthus_cheiri_L_orange_bedder_dsc00903.jpg"
+  },
+  {
+    "number": 319,
+    "sheet": 4,
+    "id": "open-0610b9fe1176b382",
+    "ro": "motorină",
+    "ru": "солярка",
+    "image": "/photos/expanded/open-0610b9fe1176b382.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:Diesel_in_mason_jar.JPG"
+  },
+  {
+    "number": 320,
+    "sheet": 4,
+    "id": "open-dca94ddc415dbf3d",
+    "ro": "mitologie",
+    "ru": "мифология",
+    "image": "/photos/expanded/open-dca94ddc415dbf3d.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:Michel_Corneille_the_Younger_-_Iris_and_Jupiter.jpg"
+  },
+  {
+    "number": 321,
+    "sheet": 5,
+    "id": "open-f4c1958ba3a01f0f",
+    "ro": "muflon",
+    "ru": "муфлон",
+    "image": "/photos/expanded/open-f4c1958ba3a01f0f.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:Cyprus_mouflon_(Ovis_gmelini_ophion).jpg"
+  },
+  {
+    "number": 322,
+    "sheet": 5,
+    "id": "open-eab2592efd4459cd",
+    "ro": "naufragiu",
+    "ru": "кораблекрушение",
+    "image": "/photos/expanded/open-eab2592efd4459cd.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:Hovhannes_Aivazovsky_-_The_Ninth_Wave_-_Google_Art_Project.jpg"
+  },
+  {
+    "number": 323,
+    "sheet": 5,
+    "id": "open-cbb06149a662a655",
+    "ro": "nazism",
+    "ru": "нацизм",
+    "image": "/photos/expanded/open-cbb06149a662a655.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:Arbeit_Macht_Frei_Dachau_20180125-PR6A9314.jpg"
+  },
+  {
+    "number": 324,
+    "sheet": 5,
+    "id": "open-862ae23d88ab0675",
+    "ro": "naturism",
+    "ru": "натуризм",
+    "image": "/photos/expanded/open-862ae23d88ab0675.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:Bundesarchiv_Bild_183-1989-0710-419,_Berlin,_M%C3%BCggelsee,_Sonnenbad.jpg"
+  },
+  {
+    "number": 325,
+    "sheet": 5,
+    "id": "open-42d5a486f752bd25",
+    "ro": "naș",
+    "ru": "крёстный отец",
+    "image": "/photos/expanded/open-42d5a486f752bd25.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:Baptism.JPG"
+  },
+  {
+    "number": 326,
+    "sheet": 5,
+    "id": "open-2567a0f3a4071af8",
+    "ro": "naturalist",
+    "ru": "естествоиспытатель, натуралист, природовед",
+    "image": "/photos/expanded/open-2567a0f3a4071af8.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:Alexander_von_Humboldt_by_Friedrich_Georg_Weitsch.jpg"
+  },
+  {
+    "number": 327,
+    "sheet": 5,
+    "id": "open-73d5ce439de1cfe8",
+    "ro": "naționalizare",
+    "ru": "национализация",
+    "image": "/photos/expanded/open-73d5ce439de1cfe8.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:D%C3%A9cret_de_nationalisation_des_locaux_de_couvent_Sainte-C%C3%A9cile_(1793)_(Nationalization_decree_affecting_the_premises_of_the_convent_of_Sainte-C%C3%A9cile),_Grenoble,_France.jpg"
+  },
+  {
+    "number": 328,
+    "sheet": 5,
+    "id": "open-ba6ccadaa53697a7",
+    "ro": "neonazist",
+    "ru": "неонацист",
+    "image": "/photos/expanded/open-ba6ccadaa53697a7.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:02019_1209_(2)_Nationalist_attack_on_an_LGBT_equality_march_in_Rzesz%C3%B3w.jpg"
+  },
+  {
+    "number": 329,
+    "sheet": 5,
+    "id": "open-f9a0d5cbcba6eb35",
+    "ro": "ninsoare",
+    "ru": "снегопад",
+    "image": "/photos/expanded/open-f9a0d5cbcba6eb35.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:D%C3%BCsseldorf_Hofgarten_2009.jpg"
+  },
+  {
+    "number": 330,
+    "sheet": 5,
+    "id": "open-78545708a31b3ac0",
+    "ro": "nev",
+    "ru": "невус",
+    "image": "/photos/expanded/open-78545708a31b3ac0.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:Graindebeaute.jpg"
+  },
+  {
+    "number": 331,
+    "sheet": 5,
+    "id": "open-7fb61afe54defa18",
+    "ro": "nou-născut",
+    "ru": "новорождённый",
+    "image": "/photos/expanded/open-7fb61afe54defa18.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:Baby_care,_Newborn_baby_girl,_Moscow,_Russia.jpg"
+  },
+  {
+    "number": 332,
+    "sheet": 5,
+    "id": "open-28992ecc2aed947c",
+    "ro": "netbook",
+    "ru": "нетбук",
+    "image": "/photos/expanded/open-28992ecc2aed947c.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:Laptop,_Small_notebook,_Netbook,_Rostov-on-Don,_Russia.jpg"
+  },
+  {
+    "number": 333,
+    "sheet": 5,
+    "id": "open-75fa219549af442b",
+    "ro": "nudist",
+    "ru": "нудист",
+    "image": "/photos/expanded/open-75fa219549af442b.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:FYN_06.jpg"
+  },
+  {
+    "number": 334,
+    "sheet": 5,
+    "id": "open-75b80a06794d47bc",
+    "ro": "nădejde",
+    "ru": "надежда",
+    "image": "/photos/expanded/open-75b80a06794d47bc.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:Alegoria_nadziei_-_Wojniakowski.jpg"
+  },
+  {
+    "number": 335,
+    "sheet": 5,
+    "id": "open-7cb6812f41f332f4",
+    "ro": "oxid",
+    "ru": "хим. окись, оксид",
+    "image": "/photos/expanded/open-7cb6812f41f332f4.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:Iron(III)-oxide-sample.jpg"
+  },
+  {
+    "number": 336,
+    "sheet": 5,
+    "id": "open-246984b95b46b555",
+    "ro": "paleoantropologie",
+    "ru": "палеоантропология",
+    "image": "/photos/expanded/open-246984b95b46b555.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:Fossil_hominids.jpg"
+  },
+  {
+    "number": 337,
+    "sheet": 5,
+    "id": "open-b476d3254d490162",
+    "ro": "padișah",
+    "ru": "падишах",
+    "image": "/photos/expanded/open-b476d3254d490162.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:EmperorSuleiman.jpg"
+  },
+  {
+    "number": 338,
+    "sheet": 5,
+    "id": "open-7387001b513b37a0",
+    "ro": "parazitism",
+    "ru": "паразитизм",
+    "image": "/photos/expanded/open-7387001b513b37a0.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:Live_Tetragnatha_montana_(RMNH.ARA.14127)_parasitized_by_Acrodactyla_quadrisculpta_larva_(RMNH.INS.593867)_-_BDJ.1.e992.jpg"
+  },
+  {
+    "number": 339,
+    "sheet": 5,
+    "id": "open-904d1c17c5a417fe",
+    "ro": "parodie",
+    "ru": "пародия",
+    "image": "/photos/expanded/open-904d1c17c5a417fe.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:Jan_Brueghel_the_Younger,_Satire_on_Tulip_Mania,_c._1640.jpg"
+  },
+  {
+    "number": 340,
+    "sheet": 5,
+    "id": "open-3f57d8377ce02ada",
+    "ro": "perfidie",
+    "ru": "вероломство, коварство",
+    "image": "/photos/expanded/open-3f57d8377ce02ada.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:Giovanni_Domenico_Tiepolo_-_The_Procession_of_the_Trojan_Horse_in_Troy_-_WGA22382.jpg"
+  },
+  {
+    "number": 341,
+    "sheet": 5,
+    "id": "open-e73dc1b16bdffe70",
+    "ro": "pediatrie",
+    "ru": "педиатрия",
+    "image": "/photos/expanded/open-e73dc1b16bdffe70.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:Examination_of_a_boy_in_Kenya.jpg"
+  },
+  {
+    "number": 342,
+    "sheet": 5,
+    "id": "open-7c6eefba80293ea4",
+    "ro": "pigment",
+    "ru": "пигмент",
+    "image": "/photos/expanded/open-7c6eefba80293ea4.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:Indian_pigments.jpg"
+  },
+  {
+    "number": 343,
+    "sheet": 5,
+    "id": "open-f7f0da923fea049d",
+    "ro": "pirotehnie",
+    "ru": "пиротехника",
+    "image": "/photos/expanded/open-f7f0da923fea049d.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:AC-130H_Spectre_jettisons_flares.jpg"
+  },
+  {
+    "number": 344,
+    "sheet": 5,
+    "id": "open-14826579339a3351",
+    "ro": "poligamie",
+    "ru": "полигамия",
+    "image": "/photos/expanded/open-14826579339a3351.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:Chef_de_village_et_ses_femmes_(Guin%C3%A9e).jpg"
+  },
+  {
+    "number": 345,
+    "sheet": 5,
+    "id": "open-85ff87adcab02819",
+    "ro": "protestantism",
+    "ru": "протестантизм, протестантство",
+    "image": "/photos/expanded/open-85ff87adcab02819.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:Lutherbibel.jpg"
+  },
+  {
+    "number": 346,
+    "sheet": 5,
+    "id": "open-8b037f4d95c68cc0",
+    "ro": "porumbar",
+    "ru": "голубятня",
+    "image": "/photos/expanded/open-8b037f4d95c68cc0.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:2025_Go%C5%82%C4%99bnik_w_R%C3%B3%C5%BCance_(5).jpg"
+  },
+  {
+    "number": 347,
+    "sheet": 5,
+    "id": "open-ae1d259037de6c43",
+    "ro": "radiologie",
+    "ru": "радиология",
+    "image": "/photos/expanded/open-ae1d259037de6c43.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:Diagnostic_Imaging_and_Radiology_Facility_in_Navi_Mumbai,_Maharashtra,_India.jpg"
+  },
+  {
+    "number": 348,
+    "sheet": 5,
+    "id": "open-a609d2d7f515fd21",
+    "ro": "realism",
+    "ru": "реализм",
+    "image": "/photos/expanded/open-a609d2d7f515fd21.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:Gustave_Courbet_-_Bonjour_Monsieur_Courbet_-_Mus%C3%A9e_Fabre.jpg"
+  },
+  {
+    "number": 349,
+    "sheet": 5,
+    "id": "open-f8985e9b0e88c2f5",
+    "ro": "revoltă",
+    "ru": "восстание",
+    "image": "/photos/expanded/open-f8985e9b0e88c2f5.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:Kronstadt_attack.JPG"
+  },
+  {
+    "number": 350,
+    "sheet": 5,
+    "id": "open-36ea38f6b48170ce",
+    "ro": "refugiat",
+    "ru": "беженец",
+    "image": "/photos/expanded/open-36ea38f6b48170ce.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:A_Dutch_school_teacher_leads_a_group_of_refugee_children_just_disembarked_from_a_ship_at_Tilbury_Docks_in_Essex_during_1945._D24064.jpg"
+  },
+  {
+    "number": 351,
+    "sheet": 5,
+    "id": "open-fe38df2b32b502a6",
+    "ro": "reptilă",
+    "ru": "зоол. пресмыкающееся, рептилия",
+    "image": "/photos/expanded/open-fe38df2b32b502a6.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:Extant_reptilia.jpg"
+  },
+  {
+    "number": 352,
+    "sheet": 5,
+    "id": "open-51d8b9536c09b17d",
+    "ro": "robotică",
+    "ru": "робототехника",
+    "image": "/photos/expanded/open-51d8b9536c09b17d.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:Additive_manufacturing_(6790413239).jpg"
+  },
+  {
+    "number": 353,
+    "sheet": 5,
+    "id": "open-a1a0a71c2b9e98ad",
+    "ro": "răcire",
+    "ru": "остывание, охлаждение",
+    "image": "/photos/expanded/open-a1a0a71c2b9e98ad.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:Kuehlregal_USA.jpg"
+  },
+  {
+    "number": 354,
+    "sheet": 5,
+    "id": "open-dc7422e9a8fd5258",
+    "ro": "scepticism",
+    "ru": "скептицизм",
+    "image": "/photos/expanded/open-dc7422e9a8fd5258.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:Head_Karneades_Glyptothek_Munich.jpg"
+  },
+  {
+    "number": 355,
+    "sheet": 5,
+    "id": "open-775ba4cb22d6c2bd",
+    "ro": "scatiu",
+    "ru": "чиж",
+    "image": "/photos/expanded/open-775ba4cb22d6c2bd.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:Eurasian_siskin_(Spinus_spinus)_female_Biebrzanski.jpg"
+  },
+  {
+    "number": 356,
+    "sheet": 5,
+    "id": "open-4e79b854ea1ac7d5",
+    "ro": "schelărie",
+    "ru": "леса (строительные)",
+    "image": "/photos/expanded/open-4e79b854ea1ac7d5.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:Capitol_Dome_Restoration_-_Early_October_2014_(15275286649).jpg"
+  },
+  {
+    "number": 357,
+    "sheet": 5,
+    "id": "open-7ed1695b15bfcefb",
+    "ro": "scârbă",
+    "ru": "отвращение, омерзение; мерзость, гадость",
+    "image": "/photos/expanded/open-7ed1695b15bfcefb.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:Expression_of_the_Emotions_Plate_V,_2%2B3.jpg"
+  },
+  {
+    "number": 358,
+    "sheet": 5,
+    "id": "open-f63a65c2cd291ac0",
+    "ro": "simetrie",
+    "ru": "симметрия",
+    "image": "/photos/expanded/open-f63a65c2cd291ac0.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:Br%C3%BCgge-Liebfrauenkirche-Prunkgr%C3%A4ber_DSC0166.jpg"
+  },
+  {
+    "number": 359,
+    "sheet": 5,
+    "id": "open-05e83a3905ac86a7",
+    "ro": "sticlete",
+    "ru": "щегол",
+    "image": "/photos/expanded/open-05e83a3905ac86a7.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:Carduelis_carduelis_(2012).jpg"
+  },
+  {
+    "number": 360,
+    "sheet": 5,
+    "id": "open-e4f9eec109c9d43d",
+    "ro": "somnambulism",
+    "ru": "мед. лунатизм, сомнамбулизм, снохождение",
+    "image": "/photos/expanded/open-e4f9eec109c9d43d.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:Johann_Heinrich_F%C3%BCssli_-_Lady_Macbeth.jpg"
+  },
+  {
+    "number": 361,
+    "sheet": 5,
+    "id": "open-8c92e474c46989e2",
+    "ro": "stomatologie",
+    "ru": "стоматология, одонтология",
+    "image": "/photos/expanded/open-8c92e474c46989e2.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:Dental_surgery_aboard_USS_Eisenhower,_January_1990.JPEG"
+  },
+  {
+    "number": 362,
+    "sheet": 5,
+    "id": "open-737bada73f1f0770",
+    "ro": "timus",
+    "ru": "анат. тимус, вилочковая железа",
+    "image": "/photos/expanded/open-737bada73f1f0770.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:Human_thymus_posterior_view.jpg"
+  },
+  {
+    "number": 363,
+    "sheet": 5,
+    "id": "open-6b5d3793d747c120",
+    "ro": "tirbușon",
+    "ru": "штопор",
+    "image": "/photos/expanded/open-6b5d3793d747c120.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:Cork_driver-lab.jpg"
+  },
+  {
+    "number": 364,
+    "sheet": 5,
+    "id": "open-7a73df0de118407b",
+    "ro": "urangutan",
+    "ru": "орангутан",
+    "image": "/photos/expanded/open-7a73df0de118407b.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:Bornean,_Sumatran_%26_Tapanuli_orangs_(horizontal).jpg"
+  },
+  {
+    "number": 365,
+    "sheet": 5,
+    "id": "open-69c5b99503a04e4e",
+    "ro": "turbină",
+    "ru": "турбина",
+    "image": "/photos/expanded/open-69c5b99503a04e4e.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:Dampfturbine_Laeufer01.jpg"
+  },
+  {
+    "number": 366,
+    "sheet": 5,
+    "id": "open-a4175cf8acc3c9c1",
+    "ro": "undiță",
+    "ru": "удочка",
+    "image": "/photos/expanded/open-a4175cf8acc3c9c1.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:K%C3%BChlungsborn,_Blick_von_der_Seebr%C3%BCcke,_Sonnenuntergang_--_2024_--_4895-9.jpg"
+  },
+  {
+    "number": 367,
+    "sheet": 5,
+    "id": "open-85a06427e6d3f072",
+    "ro": "viezure",
+    "ru": "барсук",
+    "image": "/photos/expanded/open-85a06427e6d3f072.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:European_badger_(Meles_meles_taxus)_Drenthe.jpg"
+  },
+  {
+    "number": 368,
+    "sheet": 5,
+    "id": "open-887a2272274d1fd6",
+    "ro": "viscozitate",
+    "ru": "вязкость",
+    "image": "/photos/expanded/open-887a2272274d1fd6.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:Honey_from_jar.jpg"
+  },
+  {
+    "number": 369,
+    "sheet": 5,
+    "id": "open-1e96e68e13292dde",
+    "ro": "vitamină",
+    "ru": "витамин",
+    "image": "/photos/expanded/open-1e96e68e13292dde.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:Crystals_of_vitamin_C.jpg"
+  },
+  {
+    "number": 370,
+    "sheet": 5,
+    "id": "open-56a8c226b9cfb28f",
+    "ro": "ziarist",
+    "ru": "журналист",
+    "image": "/photos/expanded/open-56a8c226b9cfb28f.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:Landes_wla_bfkuu_denkmayr_0192_(35381936821).jpg"
+  },
+  {
+    "number": 371,
+    "sheet": 5,
+    "id": "open-b4a27d5a3449e4da",
+    "ro": "împărtășanie",
+    "ru": "религ. причастие, евхаристия",
+    "image": "/photos/expanded/open-b4a27d5a3449e4da.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:Lord%27s_cup_and_Bread.JPG"
+  },
+  {
+    "number": 372,
+    "sheet": 5,
+    "id": "open-27df7e0550838349",
+    "ro": "șamanism",
+    "ru": "шаманизм",
+    "image": "/photos/expanded/open-27df7e0550838349.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:Khagdaev1.JPG"
+  }
+]

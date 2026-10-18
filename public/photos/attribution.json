@@ -1,0 +1,534 @@
+{
+  "/photos/curated/curated-para.webp": {
+    "name": "Pears.jpg",
+    "url": "https://commons.wikimedia.org/wiki/File:Pears.jpg",
+    "license": "Public domain",
+    "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "attribution": "Keith Weller Изменения: размер уменьшен до 640 px, преобразовано в WebP."
+  },
+  "/photos/curated/curated-banana.webp": {
+    "name": "Bananavarieties.jpg",
+    "url": "https://commons.wikimedia.org/wiki/File:Bananavarieties.jpg",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "attribution": "TimothyPilgrim Изменения: размер уменьшен до 640 px, преобразовано в WebP."
+  },
+  "/photos/curated/curated-portocala.webp": {
+    "name": "Oranges_-_whole-halved-segment.jpg",
+    "url": "https://commons.wikimedia.org/wiki/File:Oranges_-_whole-halved-segment.jpg",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "Ivar Leidus Изменения: размер уменьшен до 640 px, преобразовано в WebP."
+  },
+  "/photos/curated/curated-lamaie.webp": {
+    "name": "P1030323.JPG",
+    "url": "https://commons.wikimedia.org/wiki/File:P1030323.JPG",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "Elena Chochkova Изменения: размер уменьшен до 640 px, преобразовано в WebP."
+  },
+  "/photos/curated/curated-capsuna.webp": {
+    "name": "Garden_strawberry_(Fragaria_×_ananassa)_single2.jpg",
+    "url": "https://commons.wikimedia.org/wiki/File:Garden_strawberry_(Fragaria_%C3%97_ananassa)_single2.jpg",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "\nIvar Leidus Изменения: размер уменьшен до 640 px, преобразовано в WebP."
+  },
+  "/photos/curated/curated-cireasa.webp": {
+    "name": "Cherry_season_(48216568227).jpg",
+    "url": "https://commons.wikimedia.org/wiki/File:Cherry_season_(48216568227).jpg",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "attribution": "spurekar Изменения: размер уменьшен до 640 px, преобразовано в WebP."
+  },
+  "/photos/curated/curated-pruna.webp": {
+    "name": "Plums_African_Rose_-_whole,_halved_and_slice.jpg",
+    "url": "https://commons.wikimedia.org/wiki/File:Plums_African_Rose_-_whole,_halved_and_slice.jpg",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "Ivar Leidus Изменения: размер уменьшен до 640 px, преобразовано в WebP."
+  },
+  "/photos/curated/curated-pepene-verde.webp": {
+    "name": "Taiwan_2009_Tainan_City_Organic_Farm_Watermelon_FRD_7962.jpg",
+    "url": "https://commons.wikimedia.org/wiki/File:Taiwan_2009_Tainan_City_Organic_Farm_Watermelon_FRD_7962.jpg",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "attribution": "Fred Hsu (Wikipedia:User:Fred Hsu on en.wikipedia) Изменения: размер уменьшен до 640 px, преобразовано в WebP."
+  },
+  "/photos/curated/curated-rosie.webp": {
+    "name": "Tomato_je.jpg",
+    "url": "https://commons.wikimedia.org/wiki/File:Tomato_je.jpg",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "attribution": "Softeis Изменения: размер уменьшен до 640 px, преобразовано в WebP."
+  },
+  "/photos/curated/curated-castravete.webp": {
+    "name": "ARS_cucumber.jpg",
+    "url": "https://commons.wikimedia.org/wiki/File:ARS_cucumber.jpg",
+    "license": "Public domain",
+    "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "attribution": "Stephen Ausmus, USDA ARS Изменения: размер уменьшен до 640 px, преобразовано в WebP."
+  },
+  "/photos/curated/curated-cartof.webp": {
+    "name": "Patates.jpg",
+    "url": "https://commons.wikimedia.org/wiki/File:Patates.jpg",
+    "license": "Public domain",
+    "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "attribution": "Scott Bauer, USDA ARS Изменения: размер уменьшен до 640 px, преобразовано в WebP."
+  },
+  "/photos/curated/curated-morcov.webp": {
+    "name": "Vegetable-Carrot-Bundle-wStalks.jpg",
+    "url": "https://commons.wikimedia.org/wiki/File:Vegetable-Carrot-Bundle-wStalks.jpg",
+    "license": "Public domain",
+    "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "attribution": "Evan-Amos Изменения: размер уменьшен до 640 px, преобразовано в WebP."
+  },
+  "/photos/curated/curated-ceapa.webp": {
+    "name": "Mixed_onions.jpg",
+    "url": "https://commons.wikimedia.org/wiki/File:Mixed_onions.jpg",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "attribution": "Colin Изменения: размер уменьшен до 640 px, преобразовано в WebP."
+  },
+  "/photos/curated/curated-ardei.webp": {
+    "name": "Green-Yellow-Red-Pepper-2009.jpg",
+    "url": "https://commons.wikimedia.org/wiki/File:Green-Yellow-Red-Pepper-2009.jpg",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "attribution": "Kham Tran - www.khamtran.com Изменения: размер уменьшен до 640 px, преобразовано в WebP."
+  },
+  "/photos/curated/curated-ciuperca.webp": {
+    "name": "ChampignonMushroom.jpg",
+    "url": "https://commons.wikimedia.org/wiki/File:ChampignonMushroom.jpg",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "attribution": "chris_73 Изменения: размер уменьшен до 640 px, преобразовано в WebP."
+  },
+  "/photos/curated/curated-ou.webp": {
+    "name": "Huevo_frito.jpg",
+    "url": "https://commons.wikimedia.org/wiki/File:Huevo_frito.jpg",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "Horacio Cambeiro Изменения: размер уменьшен до 640 px, преобразовано в WebP."
+  },
+  "/photos/curated/curated-lapte.webp": {
+    "name": "Glass_of_Milk_(33657535532).jpg",
+    "url": "https://commons.wikimedia.org/wiki/File:Glass_of_Milk_(33657535532).jpg",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "attribution": "NIAID Изменения: размер уменьшен до 640 px, преобразовано в WebP."
+  },
+  "/photos/curated/curated-unt.webp": {
+    "name": "Švédský_koláč_naruby_904_(cropped).JPG",
+    "url": "https://commons.wikimedia.org/wiki/File:%C5%A0v%C3%A9dsk%C3%BD_kol%C3%A1%C4%8D_naruby_904_(cropped).JPG",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "attribution": "Matěj Baťha Изменения: размер уменьшен до 640 px, преобразовано в WebP."
+  },
+  "/photos/curated/curated-miere.webp": {
+    "name": "Runny_hunny.jpg",
+    "url": "https://commons.wikimedia.org/wiki/File:Runny_hunny.jpg",
+    "license": "Public domain",
+    "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "attribution": "Scott Bauer, USDA ARS Изменения: размер уменьшен до 640 px, преобразовано в WebP."
+  },
+  "/photos/curated/curated-farfurie.webp": {
+    "name": "Botanical_plate_with_spray_of_fruiting_Indian_Bean_Tree_MET_DP-1687-038_(cropped).jpg",
+    "url": "https://commons.wikimedia.org/wiki/File:Botanical_plate_with_spray_of_fruiting_Indian_Bean_Tree_MET_DP-1687-038_(cropped).jpg",
+    "license": "CC0",
+    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "attribution": "Chelsea porcelain factory Изменения: размер уменьшен до 640 px, преобразовано в WebP."
+  },
+  "/photos/curated/curated-pahar.webp": {
+    "name": "Drinkware.jpg",
+    "url": "https://commons.wikimedia.org/wiki/File:Drinkware.jpg",
+    "license": "CC0",
+    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "attribution": "rawpixel.com Изменения: размер уменьшен до 640 px, преобразовано в WebP."
+  },
+  "/photos/curated/curated-cana.webp": {
+    "name": "Mug_of_Tea.JPG",
+    "url": "https://commons.wikimedia.org/wiki/File:Mug_of_Tea.JPG",
+    "license": "Public domain",
+    "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "attribution": "Factorylad Изменения: размер уменьшен до 640 px, преобразовано в WebP."
+  },
+  "/photos/curated/curated-lingura.webp": {
+    "name": "Soup_Spoon.jpg",
+    "url": "https://commons.wikimedia.org/wiki/File:Soup_Spoon.jpg",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "attribution": "Donovan Govan. Изменения: размер уменьшен до 640 px, преобразовано в WebP."
+  },
+  "/photos/curated/curated-furculita.webp": {
+    "name": "Assorted_forks.jpg",
+    "url": "https://commons.wikimedia.org/wiki/File:Assorted_forks.jpg",
+    "license": "CC BY-SA 3.0 us",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/us/deed.en",
+    "attribution": "Mark A. Taff, Assorted forks.jpg, Wikimedia Commons. Изменения: размер уменьшен до 640 px, преобразовано в WebP."
+  },
+  "/photos/curated/curated-cutit.webp": {
+    "name": "Cucina_012.jpg",
+    "url": "https://commons.wikimedia.org/wiki/File:Cucina_012.jpg",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "attribution": "Kagor Изменения: размер уменьшен до 640 px, преобразовано в WebP."
+  },
+  "/photos/curated/curated-pat.webp": {
+    "name": "2008-04-12_Freilichtmuseum_Detmold_(11).jpg",
+    "url": "https://commons.wikimedia.org/wiki/File:2008-04-12_Freilichtmuseum_Detmold_(11).jpg",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "attribution": "R-E-AL (talk | contribs | Gallery)  (German Wikipedia) Изменения: размер уменьшен до 640 px, преобразовано в WebP."
+  },
+  "/photos/curated/curated-perna.webp": {
+    "name": "Pillows_on_a_hotel_bed.jpg",
+    "url": "https://commons.wikimedia.org/wiki/File:Pillows_on_a_hotel_bed.jpg",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "Amin Изменения: размер уменьшен до 640 px, преобразовано в WebP."
+  },
+  "/photos/curated/curated-fereastra.webp": {
+    "name": "Atua_Kosua_shrine4.jpg",
+    "url": "https://commons.wikimedia.org/wiki/File:Atua_Kosua_shrine4.jpg",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "Shahadusadik Изменения: размер уменьшен до 640 px, преобразовано в WebP."
+  },
+  "/photos/curated/curated-cheie.webp": {
+    "name": "Solex_99_30_padlock_with_keys_(DSCF2659).jpg",
+    "url": "https://commons.wikimedia.org/wiki/File:Solex_99_30_padlock_with_keys_(DSCF2659).jpg",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+    "attribution": "Trougnouf Изменения: размер уменьшен до 640 px, преобразовано в WebP."
+  },
+  "/photos/curated/curated-lampa.webp": {
+    "name": "Wide_array_of_lamps.jpg",
+    "url": "https://commons.wikimedia.org/wiki/File:Wide_array_of_lamps.jpg",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "Ragesoss Изменения: размер уменьшен до 640 px, преобразовано в WebP."
+  },
+  "/photos/curated/curated-oglinda.webp": {
+    "name": "Mirror.jpg",
+    "url": "https://commons.wikimedia.org/wiki/File:Mirror.jpg",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "attribution": "Cgs Изменения: размер уменьшен до 640 px, преобразовано в WebP."
+  },
+  "/photos/curated/curated-prosop.webp": {
+    "name": "Zusammengelegte_Handtücher.jpg",
+    "url": "https://commons.wikimedia.org/wiki/File:Zusammengelegte_Handt%C3%BCcher.jpg",
+    "license": "Public domain",
+    "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "attribution": "User:Mattes Изменения: размер уменьшен до 640 px, преобразовано в WebP."
+  },
+  "/photos/curated/curated-frigider.webp": {
+    "name": "Open_refrigerator_with_food_at_night.jpg",
+    "url": "https://commons.wikimedia.org/wiki/File:Open_refrigerator_with_food_at_night.jpg",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "W.carter Изменения: размер уменьшен до 640 px, преобразовано в WebP."
+  },
+  "/photos/curated/curated-caine.webp": {
+    "name": "Huskiesatrest.jpg",
+    "url": "https://commons.wikimedia.org/wiki/File:Huskiesatrest.jpg",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "attribution": "M. Rehemtulla Изменения: размер уменьшен до 640 px, преобразовано в WebP."
+  },
+  "/photos/curated/curated-pisica.webp": {
+    "name": "Siam_lilacpoint.jpg",
+    "url": "https://commons.wikimedia.org/wiki/File:Siam_lilacpoint.jpg",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "attribution": "Karin Langner-Bahmann, upload von Martin Bahmann Изменения: размер уменьшен до 640 px, преобразовано в WebP."
+  },
+  "/photos/curated/curated-cal.webp": {
+    "name": "Nokota_Horses_cropped.jpg",
+    "url": "https://commons.wikimedia.org/wiki/File:Nokota_Horses_cropped.jpg",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "attribution": "Nokota_Horses.jpg: François Marchal\nderivative work: Dana boomer (talk) Изменения: размер уменьшен до 640 px, преобразовано в WebP."
+  },
+  "/photos/curated/curated-vaca.webp": {
+    "name": "Cow_(Fleckvieh_breed)_Oeschinensee_Slaunger_2009-07-07.jpg",
+    "url": "https://commons.wikimedia.org/wiki/File:Cow_(Fleckvieh_breed)_Oeschinensee_Slaunger_2009-07-07.jpg",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "attribution": "Kim Hansen Изменения: размер уменьшен до 640 px, преобразовано в WebP."
+  },
+  "/photos/curated/curated-oaie.webp": {
+    "name": "Flock_of_sheep.jpg",
+    "url": "https://commons.wikimedia.org/wiki/File:Flock_of_sheep.jpg",
+    "license": "Public domain",
+    "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "attribution": "Keith Weller Изменения: размер уменьшен до 640 px, преобразовано в WebP."
+  },
+  "/photos/curated/curated-capra.webp": {
+    "name": "Hausziege_04.jpg",
+    "url": "https://commons.wikimedia.org/wiki/File:Hausziege_04.jpg",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "attribution": "Kuebi = Armin Kübelbeck Изменения: размер уменьшен до 640 px, преобразовано в WebP."
+  },
+  "/photos/curated/curated-porc.webp": {
+    "name": "Pig_farm_Vampula_1.jpg",
+    "url": "https://commons.wikimedia.org/wiki/File:Pig_farm_Vampula_1.jpg",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "kallerna Изменения: размер уменьшен до 640 px, преобразовано в WebP."
+  },
+  "/photos/curated/curated-gaina.webp": {
+    "name": "Male_and_female_chicken_sitting_together.jpg",
+    "url": "https://commons.wikimedia.org/wiki/File:Male_and_female_chicken_sitting_together.jpg",
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "attribution": "Andrei Niemimäki from Turku, Finland Изменения: размер уменьшен до 640 px, преобразовано в WebP."
+  },
+  "/photos/curated/curated-rata.webp": {
+    "name": "Anas_platyrhynchos_male_female_quadrat.jpg",
+    "url": "https://commons.wikimedia.org/wiki/File:Anas_platyrhynchos_male_female_quadrat.jpg",
+    "license": "CC BY-SA 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.5",
+    "attribution": "\n\n\n\n\n\n\n\n\nThis picture was realized by Richard Bartz by using a Canon EF 70-300mm f/4-5.6 IS USM Lens Изменения: размер уменьшен до 640 px, преобразовано в WebP."
+  },
+  "/photos/curated/curated-iepure.webp": {
+    "name": "Oryctolagus_cuniculus_Rcdo.jpg",
+    "url": "https://commons.wikimedia.org/wiki/File:Oryctolagus_cuniculus_Rcdo.jpg",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "attribution": "JM Ligero Loarte Изменения: размер уменьшен до 640 px, преобразовано в WebP."
+  },
+  "/photos/curated/curated-urs.webp": {
+    "name": "2010-kodiak-bear-1.jpg",
+    "url": "https://commons.wikimedia.org/wiki/File:2010-kodiak-bear-1.jpg",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "attribution": "Yathin S Krishnappa Изменения: размер уменьшен до 640 px, преобразовано в WebP."
+  },
+  "/photos/curated/curated-lup.webp": {
+    "name": "Eurasian_wolf_2.jpg",
+    "url": "https://commons.wikimedia.org/wiki/File:Eurasian_wolf_2.jpg",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "User:Mas3cf Изменения: размер уменьшен до 640 px, преобразовано в WebP."
+  },
+  "/photos/curated/curated-vulpe.webp": {
+    "name": "Portrait_of_a_red_fox_in_Rautas_fjällurskog_(cropped).jpg",
+    "url": "https://commons.wikimedia.org/wiki/File:Portrait_of_a_red_fox_in_Rautas_fj%C3%A4llurskog_(cropped).jpg",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "ClaudiaTen Изменения: размер уменьшен до 640 px, преобразовано в WebP."
+  },
+  "/photos/curated/curated-elefant.webp": {
+    "name": "African_Elephant_(Loxodonta_africana)_male_(17289351322).jpg",
+    "url": "https://commons.wikimedia.org/wiki/File:African_Elephant_(Loxodonta_africana)_male_(17289351322).jpg",
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "attribution": "Bernard DUPONT from FRANCE Изменения: размер уменьшен до 640 px, преобразовано в WebP."
+  },
+  "/photos/curated/curated-albina.webp": {
+    "name": "The_Lone_Pollinator.jpg",
+    "url": "https://commons.wikimedia.org/wiki/File:The_Lone_Pollinator.jpg",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+    "attribution": "Tanner Smida Изменения: размер уменьшен до 640 px, преобразовано в WebP."
+  },
+  "/photos/curated/curated-furnica.webp": {
+    "name": "Red_Ant_-_March_2025.jpg",
+    "url": "https://commons.wikimedia.org/wiki/File:Red_Ant_-_March_2025.jpg",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "attribution": "Samantha Henneke from Seagrove, North Carolina, USA Изменения: размер уменьшен до 640 px, преобразовано в WebP."
+  },
+  "/photos/curated/curated-bicicleta.webp": {
+    "name": "Left_side_of_Flying_Pigeon.jpg",
+    "url": "https://commons.wikimedia.org/wiki/File:Left_side_of_Flying_Pigeon.jpg",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "attribution": "齐健 from Peking, People's Republic of China Изменения: размер уменьшен до 640 px, преобразовано в WebP."
+  },
+  "/photos/curated/curated-avion.webp": {
+    "name": "Airbus_A320-214,_Airbus_Industrie_JP7617615.jpg",
+    "url": "https://commons.wikimedia.org/wiki/File:Airbus_A320-214,_Airbus_Industrie_JP7617615.jpg",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "attribution": "\nPedro Aragão Изменения: размер уменьшен до 640 px, преобразовано в WebP."
+  },
+  "/photos/curated/curated-surubelnita.webp": {
+    "name": "Screw_Driver_display.jpg",
+    "url": "https://commons.wikimedia.org/wiki/File:Screw_Driver_display.jpg",
+    "license": "CC BY 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.5",
+    "attribution": "Fcb981 at English Wikipedia Изменения: размер уменьшен до 640 px, преобразовано в WebP."
+  },
+  "/photos/curated/curated-tastatura.webp": {
+    "name": "Typing_example.ogv",
+    "url": "https://commons.wikimedia.org/wiki/File:Typing_example.ogv",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "attribution": "NotFromUtrecht Изменения: размер уменьшен до 640 px, преобразовано в WebP."
+  },
+  "/photos/curated/curated-casti.webp": {
+    "name": "Słuchawki_referencyjne_K-701_firmy_AKG.jpg",
+    "url": "https://commons.wikimedia.org/wiki/File:S%C5%82uchawki_referencyjne_K-701_firmy_AKG.jpg",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "http://muzyczny.pl Изменения: размер уменьшен до 640 px, преобразовано в WebP."
+  },
+  "/photos/curated/curated-aspirator.webp": {
+    "name": "Numatic_Henry_vacuum_cleaner_(3308986870)_(cropped).jpg",
+    "url": "https://commons.wikimedia.org/wiki/File:Numatic_Henry_vacuum_cleaner_(3308986870)_(cropped).jpg",
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "attribution": "Tnarik Innael from London Изменения: размер уменьшен до 640 px, преобразовано в WebP."
+  },
+  "/photos/curated/curated-sapun.webp": {
+    "name": "Handmade_soap_cropped_and_simplified.jpg",
+    "url": "https://commons.wikimedia.org/wiki/File:Handmade_soap_cropped_and_simplified.jpg",
+    "license": "CC BY 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.5",
+    "attribution": "Malene Thyssen, simplified by HLHJ Изменения: размер уменьшен до 640 px, преобразовано в WebP."
+  },
+  "/photos/curated/curated-autobuz.webp": {
+    "name": "LTZ1328-19-20241030-160332.jpg",
+    "url": "https://commons.wikimedia.org/wiki/File:LTZ1328-19-20241030-160332.jpg",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "SIA321 Изменения: размер уменьшен до 640 px, преобразовано в WebP."
+  },
+  "/photos/curated/curated-tramvai.webp": {
+    "name": "Muzeum_MHD,_tramvaje_T3_8084_a_6149,_zepředu.jpg",
+    "url": "https://commons.wikimedia.org/wiki/File:Muzeum_MHD,_tramvaje_T3_8084_a_6149,_zep%C5%99edu.jpg",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "attribution": "ŠJů (cs:ŠJů) Изменения: размер уменьшен до 640 px, преобразовано в WebP."
+  },
+  "/photos/curated/curated-metrou.webp": {
+    "name": "Seoul-metro-2009-20180916-103548.jpg",
+    "url": "https://commons.wikimedia.org/wiki/File:Seoul-metro-2009-20180916-103548.jpg",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "LERK Изменения: размер уменьшен до 640 px, преобразовано в WebP."
+  },
+  "/photos/curated/curated-nava.webp": {
+    "name": "Containerterminal_Altenwerder_(Hamburg-Altenwerder).Iris_Bolten.4.phb.ajb.jpg",
+    "url": "https://commons.wikimedia.org/wiki/File:Containerterminal_Altenwerder_(Hamburg-Altenwerder).Iris_Bolten.4.phb.ajb.jpg",
+    "license": "CC BY-SA 3.0 de",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/de/deed.en",
+    "attribution": "Ajepbah Изменения: размер уменьшен до 640 px, преобразовано в WebP."
+  },
+  "/photos/curated/curated-camion.webp": {
+    "name": "2001_Ford_F-250_Super_Duty_XL_regular_cab_flatbed,_front_left,_05-17-2025.jpg",
+    "url": "https://commons.wikimedia.org/wiki/File:2001_Ford_F-250_Super_Duty_XL_regular_cab_flatbed,_front_left,_05-17-2025.jpg",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "MercurySable99 Изменения: размер уменьшен до 640 px, преобразовано в WebP."
+  },
+  "/photos/curated/curated-semafor.webp": {
+    "name": "Modern_British_LED_Traffic_Light.jpg",
+    "url": "https://commons.wikimedia.org/wiki/File:Modern_British_LED_Traffic_Light.jpg",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "attribution": "Unisouth Изменения: размер уменьшен до 640 px, преобразовано в WebP."
+  },
+  "/photos/curated/curated-peron.webp": {
+    "name": "Warszawa_1963.jpg",
+    "url": "https://commons.wikimedia.org/wiki/File:Warszawa_1963.jpg",
+    "license": "Public domain",
+    "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "attribution": "Jerzy Sołtan Изменения: размер уменьшен до 640 px, преобразовано в WebP."
+  },
+  "/photos/curated/curated-locomotiva.webp": {
+    "name": "R761-mx1.jpg",
+    "url": "https://commons.wikimedia.org/wiki/File:R761-mx1.jpg",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "Max Thum Изменения: размер уменьшен до 640 px, преобразовано в WebP."
+  },
+  "/photos/curated/curated-sina.webp": {
+    "name": "Australian_National_Railways_track_with_concrete_sleepers.jpg",
+    "url": "https://commons.wikimedia.org/wiki/File:Australian_National_Railways_track_with_concrete_sleepers.jpg",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+    "attribution": "Australian National Railways Commission employee Изменения: размер уменьшен до 640 px, преобразовано в WebP."
+  },
+  "/photos/curated/curated-roata.webp": {
+    "name": "Landesmuseum_Württemberg_Kelten_011.4.jpg",
+    "url": "https://commons.wikimedia.org/wiki/File:Landesmuseum_W%C3%BCrttemberg_Kelten_011.4.jpg",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "Bybbisch94, Christian Gebhardt Изменения: размер уменьшен до 640 px, преобразовано в WebP."
+  },
+  "/photos/curated/curated-bec.webp": {
+    "name": "Gluehlampe_01_KMJ.png",
+    "url": "https://commons.wikimedia.org/wiki/File:Gluehlampe_01_KMJ.png",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "attribution": "KMJ, alpha masking by Edokter Изменения: размер уменьшен до 640 px, преобразовано в WebP."
+  },
+  "/photos/curated/curated-priza.webp": {
+    "name": "French-power-socket.jpg",
+    "url": "https://commons.wikimedia.org/wiki/File:French-power-socket.jpg",
+    "license": "Public domain",
+    "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "attribution": "Etienne Rastoul (User:FF7Sephiroth) Изменения: размер уменьшен до 640 px, преобразовано в WebP."
+  },
+  "/photos/curated/curated-microfon.webp": {
+    "name": "Shure_mikrofon_55S.jpg",
+    "url": "https://commons.wikimedia.org/wiki/File:Shure_mikrofon_55S.jpg",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "attribution": "Holger.Ellgaard Изменения: размер уменьшен до 640 px, преобразовано в WebP."
+  },
+  "/photos/curated/curated-imprimanta.webp": {
+    "name": "HP_Laserjet_5_DN_1.jpg",
+    "url": "https://commons.wikimedia.org/wiki/File:HP_Laserjet_5_DN_1.jpg",
+    "license": "CC BY-SA 3.0 de",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/de/deed.en",
+    "attribution": "Thiemo Schuff Изменения: размер уменьшен до 640 px, преобразовано в WebP."
+  },
+  "/photos/curated/curated-rucsac.webp": {
+    "name": "Rucksack1.jpg",
+    "url": "https://commons.wikimedia.org/wiki/File:Rucksack1.jpg",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "attribution": "de:Benutzer:sjr Изменения: размер уменьшен до 640 px, преобразовано в WebP."
+  },
+  "/photos/curated/curated-valiza.webp": {
+    "name": "Suitcase1.jpg",
+    "url": "https://commons.wikimedia.org/wiki/File:Suitcase1.jpg",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "attribution": "JEXP Изменения: размер уменьшен до 640 px, преобразовано в WebP."
+  },
+  "/photos/water.jpg": {
+    "name": "Unsplash",
+    "url": "https://images.unsplash.com/photo-1548839140-29a749e1cf4d",
+    "license": "Unsplash License",
+    "licenseUrl": "https://unsplash.com/license",
+    "attribution": "Фото Unsplash; разрешённое использование по Unsplash License. Идентификатор оригинала: photo-1548839140-29a749e1cf4d"
+  },
+  "/photos/bread.jpg": {
+    "name": "Unsplash",
+    "url": "https://images.unsplash.com/photo-1509440159596-0249088772ff",
+    "license": "Unsplash License",
+    "licenseUrl": "https://unsplash.com/license",
+    "attribution": "Фото Unsplash; разрешённое использование по Unsplash License. Идентификатор оригинала: photo-1509440159596-0249088772ff"
+  },
+  "/photos/book.jpg": {
+    "name": "Unsplash",
+    "url": "https://images.unsplash.com/photo-1544947950-fa07a98d237f",
+    "license": "Unsplash License",
+    "licenseUrl": "https://unsplash.com/license",
+    "attribution": "Фото Unsplash; разрешённое использование по Unsplash License. Идентификатор оригинала: photo-1544947950-fa07a98d237f"
+  },
+  "/photos/coffee.jpg": {
+    "name": "Unsplash",
+    "url": "https://images.unsplash.com/photo-1509042239860-f550ce710b93",
+    "license": "Unsplash License",
+    "licenseUrl": "https://unsplash.com/license",
+    "attribution": "Фото Unsplash; разрешённое использование по Unsplash License. Идентификатор оригинала: photo-1509042239860-f550ce710b93"
+  }
+}

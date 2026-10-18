@@ -1,0 +1,3436 @@
+{
+  "w13": {
+    "status": "accepted",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Реальная фотография соответствует изображаемому значению; проверено по контактному листу."
+  },
+  "curated-patura": {
+    "status": "accepted",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Реальная фотография соответствует изображаемому значению; проверено по контактному листу."
+  },
+  "w10": {
+    "status": "accepted",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Реальная фотография соответствует изображаемому значению; проверено по контактному листу."
+  },
+  "curated-masina-de-spalat": {
+    "status": "accepted",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Реальная фотография соответствует изображаемому значению; проверено по контактному листу."
+  },
+  "curated-pui": {
+    "status": "accepted",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Реальная фотография соответствует изображаемому значению; проверено по контактному листу."
+  },
+  "curated-munte": {
+    "status": "accepted",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Реальная фотография соответствует изображаемому значению; проверено по контактному листу."
+  },
+  "curated-lac": {
+    "status": "accepted",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Реальная фотография соответствует изображаемому значению; проверено по контактному листу."
+  },
+  "curated-plaja": {
+    "status": "accepted",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Реальная фотография соответствует изображаемому значению; проверено по контактному листу."
+  },
+  "curated-fluture": {
+    "status": "accepted",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Реальная фотография соответствует изображаемому значению; проверено по контактному листу."
+  },
+  "curated-padure": {
+    "status": "accepted",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Реальная фотография соответствует изображаемому значению; проверено по контактному листу."
+  },
+  "curated-palarie": {
+    "status": "accepted",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Реальная фотография соответствует изображаемому значению; проверено по контактному листу."
+  },
+  "curated-umbrela": {
+    "status": "accepted",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Реальная фотография соответствует изображаемому значению; проверено по контактному листу."
+  },
+  "curated-esarfa": {
+    "status": "accepted",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Реальная фотография соответствует изображаемому значению; проверено по контактному листу."
+  },
+  "curated-manusa": {
+    "status": "accepted",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Реальная фотография соответствует изображаемому значению; проверено по контактному листу."
+  },
+  "curated-trotuar": {
+    "status": "accepted",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Реальная фотография соответствует изображаемому значению; проверено по контактному листу."
+  },
+  "curated-frana": {
+    "status": "accepted",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Реальная фотография соответствует изображаемому значению; проверено по контактному листу."
+  },
+  "curated-ciocan": {
+    "status": "accepted",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Реальная фотография соответствует изображаемому значению; проверено по контактному листу."
+  },
+  "curated-scara": {
+    "status": "accepted",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Реальная фотография соответствует изображаемому значению; проверено по контактному листу."
+  },
+  "curated-ecran": {
+    "status": "rejected",
+    "reason": "Historical magic lantern image is not a clear screen/monitor illustration."
+  },
+  "curated-bunic": {
+    "status": "accepted",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Реальная фотография соответствует изображаемому значению; проверено по контактному листу."
+  },
+  "curated-copil": {
+    "status": "accepted",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Реальная фотография соответствует изображаемому значению; проверено по контактному листу."
+  },
+  "curated-medic": {
+    "status": "accepted",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Реальная фотография соответствует изображаемому значению; проверено по контактному листу."
+  },
+  "curated-asistent-medical": {
+    "status": "rejected",
+    "reason": "Historical group of female nurses does not match the male-specific Russian translation медбрат."
+  },
+  "curated-electrician": {
+    "status": "accepted",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Реальная фотография соответствует изображаемому значению; проверено по контактному листу."
+  },
+  "curated-sofer": {
+    "status": "accepted",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Реальная фотография соответствует изображаемому значению; проверено по контактному листу."
+  },
+  "curated-chitanta": {
+    "status": "accepted",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Реальная фотография соответствует изображаемому значению; проверено по контактному листу."
+  },
+  "curated-spital": {
+    "status": "accepted",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Реальная фотография соответствует изображаемому значению; проверено по контактному листу."
+  },
+  "curated-febra": {
+    "status": "accepted",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Реальная фотография соответствует изображаемому значению; проверено по контактному листу."
+  },
+  "curated-bucurie": {
+    "status": "accepted",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Реальная фотография соответствует изображаемому значению; проверено по контактному листу."
+  },
+  "open-7b3cdde1adb6fa34": {
+    "status": "accepted",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Реальная фотография соответствует изображаемому значению; проверено по контактному листу."
+  },
+  "open-6df02ca00ca28629": {
+    "status": "rejected",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Картина/схема/коллаж, неверное или неоднозначное изображение значения; исключено из учебных фотографий."
+  },
+  "open-9d86caa9127e21ca": {
+    "status": "rejected",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Картина/схема/коллаж, неверное или неоднозначное изображение значения; исключено из учебных фотографий."
+  },
+  "open-a7f32380cf333659": {
+    "status": "rejected",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Картина/схема/коллаж, неверное или неоднозначное изображение значения; исключено из учебных фотографий."
+  },
+  "open-02f620377a58ee42": {
+    "status": "accepted",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Реальная фотография соответствует изображаемому значению; проверено по контактному листу."
+  },
+  "open-5ded03ec7fda45fc": {
+    "status": "accepted",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Реальная фотография соответствует изображаемому значению; проверено по контактному листу."
+  },
+  "open-ab25bf28f5a6c4e2": {
+    "status": "accepted",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Реальная фотография соответствует изображаемому значению; проверено по контактному листу."
+  },
+  "open-d36c297b423fe229": {
+    "status": "rejected",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Картина/схема/коллаж, неверное или неоднозначное изображение значения; исключено из учебных фотографий."
+  },
+  "open-64022d70be9a5394": {
+    "status": "accepted",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Реальная фотография соответствует изображаемому значению; проверено по контактному листу."
+  },
+  "open-a269c20a0410450b": {
+    "status": "rejected",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Картина/схема/коллаж, неверное или неоднозначное изображение значения; исключено из учебных фотографий."
+  },
+  "open-d9f0330aaf2ac8b9": {
+    "status": "accepted",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Реальная фотография соответствует изображаемому значению; проверено по контактному листу."
+  },
+  "open-09c1e55b87f0f47a": {
+    "status": "accepted",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Реальная фотография соответствует изображаемому значению; проверено по контактному листу."
+  },
+  "open-077031b91b2e79ca": {
+    "status": "accepted",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Реальная фотография соответствует изображаемому значению; проверено по контактному листу."
+  },
+  "open-bc5efe441ea27181": {
+    "status": "accepted",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Реальная фотография соответствует изображаемому значению; проверено по контактному листу."
+  },
+  "open-7bf5f1b1db374caf": {
+    "status": "accepted",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Реальная фотография соответствует изображаемому значению; проверено по контактному листу."
+  },
+  "open-ee275d64dafcd283": {
+    "status": "accepted",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Реальная фотография соответствует изображаемому значению; проверено по контактному листу."
+  },
+  "open-246d3e81c71dec04": {
+    "status": "rejected",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Картина/схема/коллаж, неверное или неоднозначное изображение значения; исключено из учебных фотографий."
+  },
+  "open-a460362b1a8e0630": {
+    "status": "rejected",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Картина/схема/коллаж, неверное или неоднозначное изображение значения; исключено из учебных фотографий."
+  },
+  "open-45e84635bc4803c5": {
+    "status": "rejected",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Картина/схема/коллаж, неверное или неоднозначное изображение значения; исключено из учебных фотографий."
+  },
+  "open-dc4a259e8c1e0535": {
+    "status": "rejected",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Картина/схема/коллаж, неверное или неоднозначное изображение значения; исключено из учебных фотографий."
+  },
+  "open-bb34299bcdea613b": {
+    "status": "accepted",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Реальная фотография соответствует изображаемому значению; проверено по контактному листу."
+  },
+  "open-7b2f7408b7685bb1": {
+    "status": "accepted",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Реальная фотография соответствует изображаемому значению; проверено по контактному листу."
+  },
+  "open-f161916b837da388": {
+    "status": "rejected",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Картина/схема/коллаж, неверное или неоднозначное изображение значения; исключено из учебных фотографий."
+  },
+  "open-e7b5b3f001abae43": {
+    "status": "accepted",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Реальная фотография соответствует изображаемому значению; проверено по контактному листу."
+  },
+  "open-22185b670ff26fa8": {
+    "status": "accepted",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Реальная фотография соответствует изображаемому значению; проверено по контактному листу."
+  },
+  "open-f573a39b5ca3796d": {
+    "status": "accepted",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Реальная фотография соответствует изображаемому значению; проверено по контактному листу."
+  },
+  "open-85eaf598b6de3104": {
+    "status": "rejected",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Картина/схема/коллаж, неверное или неоднозначное изображение значения; исключено из учебных фотографий."
+  },
+  "open-4cf42f63d1996640": {
+    "status": "accepted",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Реальная фотография соответствует изображаемому значению; проверено по контактному листу."
+  },
+  "open-7d4c541d56c1bf9d": {
+    "status": "rejected",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Картина/схема/коллаж, неверное или неоднозначное изображение значения; исключено из учебных фотографий."
+  },
+  "open-14781fa9c5ff13d0": {
+    "status": "accepted",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Реальная фотография соответствует изображаемому значению; проверено по контактному листу."
+  },
+  "open-ebc6f21e80d1ef50": {
+    "status": "rejected",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Картина/схема/коллаж, неверное или неоднозначное изображение значения; исключено из учебных фотографий."
+  },
+  "open-36e6b5a13a0304ee": {
+    "status": "accepted",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Реальная фотография соответствует изображаемому значению; проверено по контактному листу."
+  },
+  "open-a7de6800a71ddfae": {
+    "status": "accepted",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Реальная фотография соответствует изображаемому значению; проверено по контактному листу."
+  },
+  "open-aea49165ba40d3f5": {
+    "status": "accepted",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Реальная фотография соответствует изображаемому значению; проверено по контактному листу."
+  },
+  "open-933a3807a27a2ee7": {
+    "status": "accepted",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Реальная фотография соответствует изображаемому значению; проверено по контактному листу."
+  },
+  "open-0417b9fd862b1dfc": {
+    "status": "accepted",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Реальная фотография соответствует изображаемому значению; проверено по контактному листу."
+  },
+  "open-d46a9ebb452d5fb6": {
+    "status": "rejected",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Картина/схема/коллаж, неверное или неоднозначное изображение значения; исключено из учебных фотографий."
+  },
+  "open-6cd8fea6ada1d8cc": {
+    "status": "rejected",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Картина/схема/коллаж, неверное или неоднозначное изображение значения; исключено из учебных фотографий."
+  },
+  "open-c5b7631d769cb37d": {
+    "status": "rejected",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Картина/схема/коллаж, неверное или неоднозначное изображение значения; исключено из учебных фотографий."
+  },
+  "open-5c9c77d181101ff0": {
+    "status": "accepted",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Реальная фотография соответствует изображаемому значению; проверено по контактному листу."
+  },
+  "open-48e0f159fbd51af7": {
+    "status": "accepted",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Реальная фотография соответствует изображаемому значению; проверено по контактному листу."
+  },
+  "open-3b8efab1dfd11299": {
+    "status": "rejected",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Картина/схема/коллаж, неверное или неоднозначное изображение значения; исключено из учебных фотографий."
+  },
+  "open-3b4d690c78aaf83b": {
+    "status": "accepted",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Реальная фотография соответствует изображаемому значению; проверено по контактному листу."
+  },
+  "open-0f640f91f016fb06": {
+    "status": "accepted",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Реальная фотография соответствует изображаемому значению; проверено по контактному листу."
+  },
+  "open-ecd8ebc901ea53a7": {
+    "status": "accepted",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Реальная фотография соответствует изображаемому значению; проверено по контактному листу."
+  },
+  "open-40041a799185c792": {
+    "status": "rejected",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Картина/схема/коллаж, неверное или неоднозначное изображение значения; исключено из учебных фотографий."
+  },
+  "open-270b7200e82afdc6": {
+    "status": "rejected",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Картина/схема/коллаж, неверное или неоднозначное изображение значения; исключено из учебных фотографий."
+  },
+  "open-39d476275d01bb55": {
+    "status": "rejected",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Картина/схема/коллаж, неверное или неоднозначное изображение значения; исключено из учебных фотографий."
+  },
+  "open-bfc936625fc68fef": {
+    "status": "accepted",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Реальная фотография соответствует изображаемому значению; проверено по контактному листу."
+  },
+  "open-db4ffd6c62ddfe5b": {
+    "status": "rejected",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Картина/схема/коллаж, неверное или неоднозначное изображение значения; исключено из учебных фотографий."
+  },
+  "open-bbc29dffa327bc38": {
+    "status": "accepted",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Реальная фотография соответствует изображаемому значению; проверено по контактному листу."
+  },
+  "open-7b8264d2befffe70": {
+    "status": "accepted",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Реальная фотография соответствует изображаемому значению; проверено по контактному листу."
+  },
+  "open-5a68d313c54f151d": {
+    "status": "rejected",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Картина/схема/коллаж, неверное или неоднозначное изображение значения; исключено из учебных фотографий."
+  },
+  "open-b19597728c375a59": {
+    "status": "accepted",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Реальная фотография соответствует изображаемому значению; проверено по контактному листу."
+  },
+  "open-f64c8d432788367a": {
+    "status": "accepted",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Реальная фотография соответствует изображаемому значению; проверено по контактному листу."
+  },
+  "open-4c57dc59a25a6bad": {
+    "status": "rejected",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Картина/схема/коллаж, неверное или неоднозначное изображение значения; исключено из учебных фотографий."
+  },
+  "open-5769c3430ffb019e": {
+    "status": "rejected",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Картина/схема/коллаж, неверное или неоднозначное изображение значения; исключено из учебных фотографий."
+  },
+  "open-a9a79295ba6a753d": {
+    "status": "rejected",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Картина/схема/коллаж, неверное или неоднозначное изображение значения; исключено из учебных фотографий."
+  },
+  "open-00baadd8f5592b71": {
+    "status": "rejected",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Картина/схема/коллаж, неверное или неоднозначное изображение значения; исключено из учебных фотографий."
+  },
+  "open-800873805a12f0b9": {
+    "status": "accepted",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Реальная фотография соответствует изображаемому значению; проверено по контактному листу."
+  },
+  "open-cc1eda424470ae36": {
+    "status": "rejected",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Картина/схема/коллаж, неверное или неоднозначное изображение значения; исключено из учебных фотографий."
+  },
+  "open-cfb323fdad17ac4f": {
+    "status": "accepted",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Реальная фотография соответствует изображаемому значению; проверено по контактному листу."
+  },
+  "open-ba0524ac7ad6f06e": {
+    "status": "accepted",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Реальная фотография соответствует изображаемому значению; проверено по контактному листу."
+  },
+  "open-00fa186a521a28d7": {
+    "status": "accepted",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Реальная фотография соответствует изображаемому значению; проверено по контактному листу."
+  },
+  "open-d5259acec0d80c4f": {
+    "status": "rejected",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Картина/схема/коллаж, неверное или неоднозначное изображение значения; исключено из учебных фотографий."
+  },
+  "open-291f1c9089f0356f": {
+    "status": "rejected",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Картина/схема/коллаж, неверное или неоднозначное изображение значения; исключено из учебных фотографий."
+  },
+  "open-c0946106b732f9f6": {
+    "status": "accepted",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Реальная фотография соответствует изображаемому значению; проверено по контактному листу."
+  },
+  "open-31a0cbd597eb49f7": {
+    "status": "rejected",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Картина/схема/коллаж, неверное или неоднозначное изображение значения; исключено из учебных фотографий."
+  },
+  "open-aee0d0c6d3176bd3": {
+    "status": "accepted",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Реальная фотография соответствует изображаемому значению; проверено по контактному листу."
+  },
+  "open-6ed1cf524bfbbc5e": {
+    "status": "accepted",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Реальная фотография соответствует изображаемому значению; проверено по контактному листу."
+  },
+  "open-90176e15ac2f2c13": {
+    "status": "rejected",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Картина/схема/коллаж, неверное или неоднозначное изображение значения; исключено из учебных фотографий."
+  },
+  "open-0fdb36f297a20cc6": {
+    "status": "accepted",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Реальная фотография соответствует изображаемому значению; проверено по контактному листу."
+  },
+  "open-258d87b62eba971f": {
+    "status": "accepted",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Реальная фотография соответствует изображаемому значению; проверено по контактному листу."
+  },
+  "open-c34d121c20de0346": {
+    "status": "rejected",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Картина/схема/коллаж, неверное или неоднозначное изображение значения; исключено из учебных фотографий."
+  },
+  "open-e1db60d03eb5e2f5": {
+    "status": "accepted",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Реальная фотография соответствует изображаемому значению; проверено по контактному листу."
+  },
+  "open-a37f9992b6d1c4e1": {
+    "status": "rejected",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Картина/схема/коллаж, неверное или неоднозначное изображение значения; исключено из учебных фотографий."
+  },
+  "open-c1501edc5d5a5b2d": {
+    "status": "accepted",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Реальная фотография соответствует изображаемому значению; проверено по контактному листу."
+  },
+  "open-e87deb6c848c7c8d": {
+    "status": "rejected",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Картина/схема/коллаж, неверное или неоднозначное изображение значения; исключено из учебных фотографий."
+  },
+  "open-8e5a2d12076d3598": {
+    "status": "rejected",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Картина/схема/коллаж, неверное или неоднозначное изображение значения; исключено из учебных фотографий."
+  },
+  "open-6b8226912a5b5f22": {
+    "status": "accepted",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Реальная фотография соответствует изображаемому значению; проверено по контактному листу."
+  },
+  "open-16b6e1fade312710": {
+    "status": "rejected",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Картина/схема/коллаж, неверное или неоднозначное изображение значения; исключено из учебных фотографий."
+  },
+  "open-13e0c84dcc4cfb2b": {
+    "status": "rejected",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Картина/схема/коллаж, неверное или неоднозначное изображение значения; исключено из учебных фотографий."
+  },
+  "open-c2afdd38565b01f2": {
+    "status": "rejected",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Картина/схема/коллаж, неверное или неоднозначное изображение значения; исключено из учебных фотографий."
+  },
+  "open-ed8d8fda301f5934": {
+    "status": "accepted",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Реальная фотография соответствует изображаемому значению; проверено по контактному листу."
+  },
+  "open-70c3fa186a248825": {
+    "status": "accepted",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Реальная фотография соответствует изображаемому значению; проверено по контактному листу."
+  },
+  "open-7fdd65bbaaa687d4": {
+    "status": "rejected",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Картина/схема/коллаж, неверное или неоднозначное изображение значения; исключено из учебных фотографий."
+  },
+  "open-a530c507fd893f52": {
+    "status": "rejected",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Картина/схема/коллаж, неверное или неоднозначное изображение значения; исключено из учебных фотографий."
+  },
+  "open-8bb17bf4f81a4685": {
+    "status": "rejected",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Картина/схема/коллаж, неверное или неоднозначное изображение значения; исключено из учебных фотографий."
+  },
+  "open-6becf2f5726e73d2": {
+    "status": "accepted",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Реальная фотография соответствует изображаемому значению; проверено по контактному листу."
+  },
+  "open-b2a96c3d3fc2b6ac": {
+    "status": "rejected",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Картина/схема/коллаж, неверное или неоднозначное изображение значения; исключено из учебных фотографий."
+  },
+  "open-50c9c4aeb40b5b20": {
+    "status": "accepted",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Реальная фотография соответствует изображаемому значению; проверено по контактному листу."
+  },
+  "open-bacbc0a2133551d1": {
+    "status": "rejected",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Картина/схема/коллаж, неверное или неоднозначное изображение значения; исключено из учебных фотографий."
+  },
+  "open-6d9ea5efaf7a7db5": {
+    "status": "accepted",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Реальная фотография соответствует изображаемому значению; проверено по контактному листу."
+  },
+  "open-82244417f956ac7c": {
+    "status": "accepted",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Реальная фотография соответствует изображаемому значению; проверено по контактному листу."
+  },
+  "open-b99e716318ad16bf": {
+    "status": "rejected",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Картина/схема/коллаж, неверное или неоднозначное изображение значения; исключено из учебных фотографий."
+  },
+  "open-a78a7c503fbd9d30": {
+    "status": "accepted",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Реальная фотография соответствует изображаемому значению; проверено по контактному листу."
+  },
+  "open-2c34c42325b6d814": {
+    "status": "rejected",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Картина/схема/коллаж, неверное или неоднозначное изображение значения; исключено из учебных фотографий."
+  },
+  "open-dc9dcb3ebff4c9b8": {
+    "status": "rejected",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Картина/схема/коллаж, неверное или неоднозначное изображение значения; исключено из учебных фотографий."
+  },
+  "open-cd1a09a1fc4f729b": {
+    "status": "accepted",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Реальная фотография соответствует изображаемому значению; проверено по контактному листу."
+  },
+  "open-3903718e1e0389d5": {
+    "status": "rejected",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Картина/схема/коллаж, неверное или неоднозначное изображение значения; исключено из учебных фотографий."
+  },
+  "open-f540d739e6101c7e": {
+    "status": "rejected",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Картина/схема/коллаж, неверное или неоднозначное изображение значения; исключено из учебных фотографий."
+  },
+  "open-7339a62db11d8b5f": {
+    "status": "rejected",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Картина/схема/коллаж, неверное или неоднозначное изображение значения; исключено из учебных фотографий."
+  },
+  "open-654194577218a442": {
+    "status": "accepted",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Реальная фотография соответствует изображаемому значению; проверено по контактному листу."
+  },
+  "open-9395ee07c9f2b814": {
+    "status": "accepted",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Реальная фотография соответствует изображаемому значению; проверено по контактному листу."
+  },
+  "open-32f976b2b35c986b": {
+    "status": "accepted",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Реальная фотография соответствует изображаемому значению; проверено по контактному листу."
+  },
+  "open-b0c29eb68723fbd1": {
+    "status": "accepted",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Реальная фотография соответствует изображаемому значению; проверено по контактному листу."
+  },
+  "open-466aee88ac8408e6": {
+    "status": "rejected",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Картина/схема/коллаж, неверное или неоднозначное изображение значения; исключено из учебных фотографий."
+  },
+  "open-59f19ddb8ccd27b1": {
+    "status": "rejected",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Картина/схема/коллаж, неверное или неоднозначное изображение значения; исключено из учебных фотографий."
+  },
+  "open-5364b92e50b1944f": {
+    "status": "accepted",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Реальная фотография соответствует изображаемому значению; проверено по контактному листу."
+  },
+  "open-143ff609478cbff0": {
+    "status": "rejected",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Картина/схема/коллаж, неверное или неоднозначное изображение значения; исключено из учебных фотографий."
+  },
+  "open-41e3af55568223f6": {
+    "status": "accepted",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Реальная фотография соответствует изображаемому значению; проверено по контактному листу."
+  },
+  "open-bccb7fdff473694e": {
+    "status": "accepted",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Реальная фотография соответствует изображаемому значению; проверено по контактному листу."
+  },
+  "open-753c2a5b0d93ae88": {
+    "status": "accepted",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Реальная фотография соответствует изображаемому значению; проверено по контактному листу."
+  },
+  "open-087f4f55d26ab344": {
+    "status": "rejected",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Картина/схема/коллаж, неверное или неоднозначное изображение значения; исключено из учебных фотографий."
+  },
+  "open-e0a36b611841b88b": {
+    "status": "rejected",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Картина/схема/коллаж, неверное или неоднозначное изображение значения; исключено из учебных фотографий."
+  },
+  "open-2690cf8e23484411": {
+    "status": "rejected",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Картина/схема/коллаж, неверное или неоднозначное изображение значения; исключено из учебных фотографий."
+  },
+  "open-5c8e8372d3d44058": {
+    "status": "accepted",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Реальная фотография соответствует изображаемому значению; проверено по контактному листу."
+  },
+  "open-1bf13a0ee38d0353": {
+    "status": "accepted",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Реальная фотография соответствует изображаемому значению; проверено по контактному листу."
+  },
+  "open-047de0f543c7e359": {
+    "status": "accepted",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Реальная фотография соответствует изображаемому значению; проверено по контактному листу."
+  },
+  "open-ea370b5280619383": {
+    "status": "rejected",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Картина/схема/коллаж, неверное или неоднозначное изображение значения; исключено из учебных фотографий."
+  },
+  "open-590d5a37601ab089": {
+    "status": "accepted",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Реальная фотография соответствует изображаемому значению; проверено по контактному листу."
+  },
+  "open-6b03c730893763cb": {
+    "status": "accepted",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Реальная фотография соответствует изображаемому значению; проверено по контактному листу."
+  },
+  "open-f319b5187507bfcc": {
+    "status": "accepted",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Реальная фотография соответствует изображаемому значению; проверено по контактному листу."
+  },
+  "open-cdeb137ff59c3b6d": {
+    "status": "accepted",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Реальная фотография соответствует изображаемому значению; проверено по контактному листу."
+  },
+  "open-1ca7aa33248d6452": {
+    "status": "accepted",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Реальная фотография соответствует изображаемому значению; проверено по контактному листу."
+  },
+  "open-753b65dea98d26ed": {
+    "status": "rejected",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Картина/схема/коллаж, неверное или неоднозначное изображение значения; исключено из учебных фотографий."
+  },
+  "open-247ba69a6c4c53e9": {
+    "status": "accepted",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Реальная фотография соответствует изображаемому значению; проверено по контактному листу."
+  },
+  "open-c0e21b2d3df5d827": {
+    "status": "rejected",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Картина/схема/коллаж, неверное или неоднозначное изображение значения; исключено из учебных фотографий."
+  },
+  "open-68c590605102c8f2": {
+    "status": "accepted",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Реальная фотография соответствует изображаемому значению; проверено по контактному листу."
+  },
+  "open-6219a5c84ff0a191": {
+    "status": "accepted",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Реальная фотография соответствует изображаемому значению; проверено по контактному листу."
+  },
+  "open-089966b312d5d874": {
+    "status": "accepted",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Реальная фотография соответствует изображаемому значению; проверено по контактному листу."
+  },
+  "open-b3d8a7edfb47e2c2": {
+    "status": "accepted",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Реальная фотография соответствует изображаемому значению; проверено по контактному листу."
+  },
+  "open-04e52613dda1c4b2": {
+    "status": "accepted",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Реальная фотография соответствует изображаемому значению; проверено по контактному листу."
+  },
+  "open-36bde66f289a3568": {
+    "status": "accepted",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Реальная фотография соответствует изображаемому значению; проверено по контактному листу."
+  },
+  "open-7587669ca42e19e8": {
+    "status": "rejected",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Картина/схема/коллаж, неверное или неоднозначное изображение значения; исключено из учебных фотографий."
+  },
+  "open-ef91d242613c5c7a": {
+    "status": "accepted",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Реальная фотография соответствует изображаемому значению; проверено по контактному листу."
+  },
+  "open-603cecc0fc313665": {
+    "status": "accepted",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Реальная фотография соответствует изображаемому значению; проверено по контактному листу."
+  },
+  "open-9e9cfb14027458c1": {
+    "status": "rejected",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Картина/схема/коллаж, неверное или неоднозначное изображение значения; исключено из учебных фотографий."
+  },
+  "open-fba2eac3ee47ff78": {
+    "status": "accepted",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Реальная фотография соответствует изображаемому значению; проверено по контактному листу."
+  },
+  "open-80deff3ddcdd45a0": {
+    "status": "accepted",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Реальная фотография соответствует изображаемому значению; проверено по контактному листу."
+  },
+  "open-e7cb7742ac34fcb4": {
+    "status": "rejected",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Картина/схема/коллаж, неверное или неоднозначное изображение значения; исключено из учебных фотографий."
+  },
+  "open-6f14145a37f366b5": {
+    "status": "accepted",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Реальная фотография соответствует изображаемому значению; проверено по контактному листу."
+  },
+  "open-b52d145e53c50972": {
+    "status": "accepted",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Реальная фотография соответствует изображаемому значению; проверено по контактному листу."
+  },
+  "open-b9df10609c42216c": {
+    "status": "accepted",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Реальная фотография соответствует изображаемому значению; проверено по контактному листу."
+  },
+  "open-42bd0008cd10b038": {
+    "status": "rejected",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Картина/схема/коллаж, неверное или неоднозначное изображение значения; исключено из учебных фотографий."
+  },
+  "open-a47777e3c8fe4278": {
+    "status": "accepted",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Реальная фотография соответствует изображаемому значению; проверено по контактному листу."
+  },
+  "open-bc52f74e8b718dc9": {
+    "status": "rejected",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Картина/схема/коллаж, неверное или неоднозначное изображение значения; исключено из учебных фотографий."
+  },
+  "open-2cbf0e0dae20f1d7": {
+    "status": "accepted",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Реальная фотография соответствует изображаемому значению; проверено по контактному листу."
+  },
+  "open-1b5a6f8f2abac45a": {
+    "status": "accepted",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Реальная фотография соответствует изображаемому значению; проверено по контактному листу."
+  },
+  "open-cf1ad2eac6081b31": {
+    "status": "accepted",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Реальная фотография соответствует изображаемому значению; проверено по контактному листу."
+  },
+  "open-43494633061904b9": {
+    "status": "accepted",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Реальная фотография соответствует изображаемому значению; проверено по контактному листу."
+  },
+  "open-71796d8be17da22d": {
+    "status": "accepted",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Реальная фотография соответствует изображаемому значению; проверено по контактному листу."
+  },
+  "open-4ed60a56b931d74d": {
+    "status": "accepted",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Реальная фотография соответствует изображаемому значению; проверено по контактному листу."
+  },
+  "open-55ba2a6ba4707503": {
+    "status": "accepted",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Реальная фотография соответствует изображаемому значению; проверено по контактному листу."
+  },
+  "open-017fbb8689cfd65a": {
+    "status": "accepted",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Реальная фотография соответствует изображаемому значению; проверено по контактному листу."
+  },
+  "open-23591dd77fbf04a2": {
+    "status": "accepted",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Реальная фотография соответствует изображаемому значению; проверено по контактному листу."
+  },
+  "open-bf3f74c8cac4a9b8": {
+    "status": "rejected",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Картина/схема/коллаж, неверное или неоднозначное изображение значения; исключено из учебных фотографий."
+  },
+  "open-1fca82cd09061ad4": {
+    "status": "accepted",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Реальная фотография соответствует изображаемому значению; проверено по контактному листу."
+  },
+  "open-be8fee98cc61fa61": {
+    "status": "rejected",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Картина/схема/коллаж, неверное или неоднозначное изображение значения; исключено из учебных фотографий."
+  },
+  "open-5e337cbf34bc43d6": {
+    "status": "rejected",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Картина/схема/коллаж, неверное или неоднозначное изображение значения; исключено из учебных фотографий."
+  },
+  "open-65d4b435387e6b3e": {
+    "status": "rejected",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Картина/схема/коллаж, неверное или неоднозначное изображение значения; исключено из учебных фотографий."
+  },
+  "open-8d36600151c8d37d": {
+    "status": "rejected",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Картина/схема/коллаж, неверное или неоднозначное изображение значения; исключено из учебных фотографий."
+  },
+  "open-512eea46ceb3921d": {
+    "status": "accepted",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Реальная фотография соответствует изображаемому значению; проверено по контактному листу."
+  },
+  "open-277e9f4d2c33c3f1": {
+    "status": "accepted",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Реальная фотография соответствует изображаемому значению; проверено по контактному листу."
+  },
+  "open-8ffaaf97add883ad": {
+    "status": "accepted",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Реальная фотография соответствует изображаемому значению; проверено по контактному листу."
+  },
+  "open-0ae2f6c706cff60b": {
+    "status": "accepted",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Реальная фотография соответствует изображаемому значению; проверено по контактному листу."
+  },
+  "open-c6083b900002d51f": {
+    "status": "accepted",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Реальная фотография соответствует изображаемому значению; проверено по контактному листу."
+  },
+  "open-0358d5eb1f5e3138": {
+    "status": "accepted",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Реальная фотография соответствует изображаемому значению; проверено по контактному листу."
+  },
+  "open-8ff189ab8c735f52": {
+    "status": "rejected",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Картина/схема/коллаж, неверное или неоднозначное изображение значения; исключено из учебных фотографий."
+  },
+  "open-0842f5422f62280a": {
+    "status": "accepted",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Реальная фотография соответствует изображаемому значению; проверено по контактному листу."
+  },
+  "open-c0dcdeb8aaafab07": {
+    "status": "accepted",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Реальная фотография соответствует изображаемому значению; проверено по контактному листу."
+  },
+  "open-1d2121dce0c97eaa": {
+    "status": "rejected",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Картина/схема/коллаж, неверное или неоднозначное изображение значения; исключено из учебных фотографий."
+  },
+  "open-255fc138d1cc148c": {
+    "status": "accepted",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Реальная фотография соответствует изображаемому значению; проверено по контактному листу."
+  },
+  "open-40b7497d2505011a": {
+    "status": "accepted",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Реальная фотография соответствует изображаемому значению; проверено по контактному листу."
+  },
+  "open-ca7cad8166758cb9": {
+    "status": "accepted",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Реальная фотография соответствует изображаемому значению; проверено по контактному листу."
+  },
+  "open-44843b1c930a84ff": {
+    "status": "accepted",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Реальная фотография соответствует изображаемому значению; проверено по контактному листу."
+  },
+  "open-742ac1006a12241e": {
+    "status": "accepted",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Реальная фотография соответствует изображаемому значению; проверено по контактному листу."
+  },
+  "open-94741ea49e3a3278": {
+    "status": "accepted",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Реальная фотография соответствует изображаемому значению; проверено по контактному листу."
+  },
+  "open-43b55e38a19e853f": {
+    "status": "rejected",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Картина/схема/коллаж, неверное или неоднозначное изображение значения; исключено из учебных фотографий."
+  },
+  "open-6f14bc72ac4d930d": {
+    "status": "accepted",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Реальная фотография соответствует изображаемому значению; проверено по контактному листу."
+  },
+  "open-4222f9eb2f8e4055": {
+    "status": "rejected",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Картина/схема/коллаж, неверное или неоднозначное изображение значения; исключено из учебных фотографий."
+  },
+  "open-f42f4c7ac9f39457": {
+    "status": "rejected",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Картина/схема/коллаж, неверное или неоднозначное изображение значения; исключено из учебных фотографий."
+  },
+  "open-61a7832d539cd5e8": {
+    "status": "accepted",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Реальная фотография соответствует изображаемому значению; проверено по контактному листу."
+  },
+  "open-a970ba7f3a525395": {
+    "status": "rejected",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Картина/схема/коллаж, неверное или неоднозначное изображение значения; исключено из учебных фотографий."
+  },
+  "open-4e2482a1a4258925": {
+    "status": "rejected",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Картина/схема/коллаж, неверное или неоднозначное изображение значения; исключено из учебных фотографий."
+  },
+  "open-0231e4f6e4da02b8": {
+    "status": "rejected",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Картина/схема/коллаж, неверное или неоднозначное изображение значения; исключено из учебных фотографий."
+  },
+  "open-44aff549d9b78bd1": {
+    "status": "accepted",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Реальная фотография соответствует изображаемому значению; проверено по контактному листу."
+  },
+  "open-ebbde58a4bbe357e": {
+    "status": "accepted",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Реальная фотография соответствует изображаемому значению; проверено по контактному листу."
+  },
+  "open-1aa68bff60424a29": {
+    "status": "accepted",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Реальная фотография соответствует изображаемому значению; проверено по контактному листу."
+  },
+  "open-d250f0612b0a5cd3": {
+    "status": "rejected",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Картина/схема/коллаж, неверное или неоднозначное изображение значения; исключено из учебных фотографий."
+  },
+  "open-026487357a039d79": {
+    "status": "accepted",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Реальная фотография соответствует изображаемому значению; проверено по контактному листу."
+  },
+  "open-7b98b2710e22bc14": {
+    "status": "accepted",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Реальная фотография соответствует изображаемому значению; проверено по контактному листу."
+  },
+  "open-594d9d7cb0cd339e": {
+    "status": "accepted",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Реальная фотография соответствует изображаемому значению; проверено по контактному листу."
+  },
+  "open-340d77ede4e60e77": {
+    "status": "accepted",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Реальная фотография соответствует изображаемому значению; проверено по контактному листу."
+  },
+  "open-a915d575b5ded49e": {
+    "status": "accepted",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Реальная фотография соответствует изображаемому значению; проверено по контактному листу."
+  },
+  "open-a2ccddb9b97e5484": {
+    "status": "accepted",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Реальная фотография соответствует изображаемому значению; проверено по контактному листу."
+  },
+  "open-8a1d2d2209ead48c": {
+    "status": "accepted",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Реальная фотография соответствует изображаемому значению; проверено по контактному листу."
+  },
+  "open-2d704e2522efe522": {
+    "status": "accepted",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Реальная фотография соответствует изображаемому значению; проверено по контактному листу."
+  },
+  "open-ab0fa0267b812a98": {
+    "status": "accepted",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Реальная фотография соответствует изображаемому значению; проверено по контактному листу."
+  },
+  "open-d44c7945a2fdcc26": {
+    "status": "rejected",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Картина/схема/коллаж, неверное или неоднозначное изображение значения; исключено из учебных фотографий."
+  },
+  "open-d2719e6b556450e0": {
+    "status": "rejected",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Картина/схема/коллаж, неверное или неоднозначное изображение значения; исключено из учебных фотографий."
+  },
+  "open-bb6954cb1ca3a161": {
+    "status": "accepted",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Реальная фотография соответствует изображаемому значению; проверено по контактному листу."
+  },
+  "open-d13dae0e56798384": {
+    "status": "accepted",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Реальная фотография соответствует изображаемому значению; проверено по контактному листу."
+  },
+  "open-45066dd976d8bf0c": {
+    "status": "rejected",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Картина/схема/коллаж, неверное или неоднозначное изображение значения; исключено из учебных фотографий."
+  },
+  "open-8b4bd2f26e13ff20": {
+    "status": "rejected",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Картина/схема/коллаж, неверное или неоднозначное изображение значения; исключено из учебных фотографий."
+  },
+  "open-c053594509023715": {
+    "status": "accepted",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Реальная фотография соответствует изображаемому значению; проверено по контактному листу."
+  },
+  "open-2023ed17cec7017e": {
+    "status": "accepted",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Реальная фотография соответствует изображаемому значению; проверено по контактному листу."
+  },
+  "open-7489cc4908e1bbf2": {
+    "status": "accepted",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Реальная фотография соответствует изображаемому значению; проверено по контактному листу."
+  },
+  "open-e77b3d5abf5b9b7b": {
+    "status": "accepted",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Реальная фотография соответствует изображаемому значению; проверено по контактному листу."
+  },
+  "open-d297732a960faf6f": {
+    "status": "rejected",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Картина/схема/коллаж, неверное или неоднозначное изображение значения; исключено из учебных фотографий."
+  },
+  "open-6b3361f2230bebbe": {
+    "status": "accepted",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Реальная фотография соответствует изображаемому значению; проверено по контактному листу."
+  },
+  "open-577aeff8518fcd2a": {
+    "status": "accepted",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Реальная фотография соответствует изображаемому значению; проверено по контактному листу."
+  },
+  "open-9a5b177bc2109946": {
+    "status": "rejected",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Картина/схема/коллаж, неверное или неоднозначное изображение значения; исключено из учебных фотографий."
+  },
+  "open-47b2ef9c4ae5b10f": {
+    "status": "rejected",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Картина/схема/коллаж, неверное или неоднозначное изображение значения; исключено из учебных фотографий."
+  },
+  "open-e22d11e37f09396d": {
+    "status": "accepted",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Реальная фотография соответствует изображаемому значению; проверено по контактному листу."
+  },
+  "open-61b3192c8b0088d2": {
+    "status": "rejected",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Картина/схема/коллаж, неверное или неоднозначное изображение значения; исключено из учебных фотографий."
+  },
+  "open-8d6bcf73eb5d2b91": {
+    "status": "accepted",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Реальная фотография соответствует изображаемому значению; проверено по контактному листу."
+  },
+  "open-af1f02f13ac4aba6": {
+    "status": "accepted",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Реальная фотография соответствует изображаемому значению; проверено по контактному листу."
+  },
+  "open-9cab7afd1e1c0a31": {
+    "status": "accepted",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Реальная фотография соответствует изображаемому значению; проверено по контактному листу."
+  },
+  "open-c89f659ea3dfec48": {
+    "status": "rejected",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Картина/схема/коллаж, неверное или неоднозначное изображение значения; исключено из учебных фотографий."
+  },
+  "open-7e454cb3a5e5621e": {
+    "status": "rejected",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Картина/схема/коллаж, неверное или неоднозначное изображение значения; исключено из учебных фотографий."
+  },
+  "open-cd2c0f63ad37d585": {
+    "status": "accepted",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Реальная фотография соответствует изображаемому значению; проверено по контактному листу."
+  },
+  "open-f4d65b2483b34a8d": {
+    "status": "accepted",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Реальная фотография соответствует изображаемому значению; проверено по контактному листу."
+  },
+  "open-6460d36aab7d028f": {
+    "status": "accepted",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Реальная фотография соответствует изображаемому значению; проверено по контактному листу."
+  },
+  "open-e5b550aff4153ff0": {
+    "status": "accepted",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Реальная фотография соответствует изображаемому значению; проверено по контактному листу."
+  },
+  "open-ae8d3e5346522e5a": {
+    "status": "accepted",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Реальная фотография соответствует изображаемому значению; проверено по контактному листу."
+  },
+  "open-b4a652fed6881265": {
+    "status": "accepted",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Реальная фотография соответствует изображаемому значению; проверено по контактному листу."
+  },
+  "open-6e4648ca7efa2dad": {
+    "status": "rejected",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Картина/схема/коллаж, неверное или неоднозначное изображение значения; исключено из учебных фотографий."
+  },
+  "open-7382daf22898992a": {
+    "status": "accepted",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Реальная фотография соответствует изображаемому значению; проверено по контактному листу."
+  },
+  "open-a219d32f17393a32": {
+    "status": "rejected",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Картина/схема/коллаж, неверное или неоднозначное изображение значения; исключено из учебных фотографий."
+  },
+  "open-0b778819fc2789a0": {
+    "status": "rejected",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Картина/схема/коллаж, неверное или неоднозначное изображение значения; исключено из учебных фотографий."
+  },
+  "open-15be6920d25ff4b4": {
+    "status": "accepted",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Реальная фотография соответствует изображаемому значению; проверено по контактному листу."
+  },
+  "open-e3a9b07bbac935aa": {
+    "status": "accepted",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Реальная фотография соответствует изображаемому значению; проверено по контактному листу."
+  },
+  "open-0ac42eb463a6923f": {
+    "status": "accepted",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Реальная фотография соответствует изображаемому значению; проверено по контактному листу."
+  },
+  "open-5054ca7c46747812": {
+    "status": "rejected",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Картина/схема/коллаж, неверное или неоднозначное изображение значения; исключено из учебных фотографий."
+  },
+  "open-cb1149dad6a6cb73": {
+    "status": "accepted",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Реальная фотография соответствует изображаемому значению; проверено по контактному листу."
+  },
+  "open-7de65553e94d65fa": {
+    "status": "rejected",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Картина/схема/коллаж, неверное или неоднозначное изображение значения; исключено из учебных фотографий."
+  },
+  "open-349cffd6623246e1": {
+    "status": "accepted",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Реальная фотография соответствует изображаемому значению; проверено по контактному листу."
+  },
+  "open-30b65263d03e2743": {
+    "status": "rejected",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Картина/схема/коллаж, неверное или неоднозначное изображение значения; исключено из учебных фотографий."
+  },
+  "open-7139ff2290a7899c": {
+    "status": "rejected",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Картина/схема/коллаж, неверное или неоднозначное изображение значения; исключено из учебных фотографий."
+  },
+  "open-fb58917f1086551c": {
+    "status": "rejected",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Картина/схема/коллаж, неверное или неоднозначное изображение значения; исключено из учебных фотографий."
+  },
+  "open-53e797227c4c79b5": {
+    "status": "rejected",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Картина/схема/коллаж, неверное или неоднозначное изображение значения; исключено из учебных фотографий."
+  },
+  "open-c7fbb4804ad4ba3d": {
+    "status": "accepted",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Реальная фотография соответствует изображаемому значению; проверено по контактному листу."
+  },
+  "open-0a42f62edb77e8f3": {
+    "status": "accepted",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Реальная фотография соответствует изображаемому значению; проверено по контактному листу."
+  },
+  "open-daf814d40c0a0afa": {
+    "status": "rejected",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Картина/схема/коллаж, неверное или неоднозначное изображение значения; исключено из учебных фотографий."
+  },
+  "open-e08cf0f8cba27edf": {
+    "status": "accepted",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Реальная фотография соответствует изображаемому значению; проверено по контактному листу."
+  },
+  "open-92199368a9b18040": {
+    "status": "rejected",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Картина/схема/коллаж, неверное или неоднозначное изображение значения; исключено из учебных фотографий."
+  },
+  "open-09d36e1b4814e596": {
+    "status": "accepted",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Реальная фотография соответствует изображаемому значению; проверено по контактному листу."
+  },
+  "open-0d44ddcdfb754551": {
+    "status": "accepted",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Реальная фотография соответствует изображаемому значению; проверено по контактному листу."
+  },
+  "open-51d383ff0d4e56ab": {
+    "status": "accepted",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Реальная фотография соответствует изображаемому значению; проверено по контактному листу."
+  },
+  "open-46ba009386bf64da": {
+    "status": "rejected",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Картина/схема/коллаж, неверное или неоднозначное изображение значения; исключено из учебных фотографий."
+  },
+  "open-e71b5222584b6528": {
+    "status": "rejected",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Картина/схема/коллаж, неверное или неоднозначное изображение значения; исключено из учебных фотографий."
+  },
+  "open-16590eca254f0a73": {
+    "status": "accepted",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Реальная фотография соответствует изображаемому значению; проверено по контактному листу."
+  },
+  "open-1d30f0775ee1b6d5": {
+    "status": "rejected",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Картина/схема/коллаж, неверное или неоднозначное изображение значения; исключено из учебных фотографий."
+  },
+  "open-aec193f1feec387a": {
+    "status": "rejected",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Картина/схема/коллаж, неверное или неоднозначное изображение значения; исключено из учебных фотографий."
+  },
+  "open-6756ad4edeb16d27": {
+    "status": "accepted",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Реальная фотография соответствует изображаемому значению; проверено по контактному листу."
+  },
+  "open-8556b7be1e667cde": {
+    "status": "rejected",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Картина/схема/коллаж, неверное или неоднозначное изображение значения; исключено из учебных фотографий."
+  },
+  "open-07fb7efaeeedc709": {
+    "status": "rejected",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Картина/схема/коллаж, неверное или неоднозначное изображение значения; исключено из учебных фотографий."
+  },
+  "open-214ebc80bb5b159f": {
+    "status": "accepted",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Реальная фотография соответствует изображаемому значению; проверено по контактному листу."
+  },
+  "open-1e1339c9448d9a0b": {
+    "status": "rejected",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Картина/схема/коллаж, неверное или неоднозначное изображение значения; исключено из учебных фотографий."
+  },
+  "open-1ed7a8ffc6a03178": {
+    "status": "rejected",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Картина/схема/коллаж, неверное или неоднозначное изображение значения; исключено из учебных фотографий."
+  },
+  "open-4519cf55037c41f7": {
+    "status": "rejected",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Картина/схема/коллаж, неверное или неоднозначное изображение значения; исключено из учебных фотографий."
+  },
+  "open-4bc9064b1ad94465": {
+    "status": "accepted",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Реальная фотография соответствует изображаемому значению; проверено по контактному листу."
+  },
+  "open-907b04228f59617f": {
+    "status": "rejected",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Картина/схема/коллаж, неверное или неоднозначное изображение значения; исключено из учебных фотографий."
+  },
+  "open-7fe4757d8b279739": {
+    "status": "rejected",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Картина/схема/коллаж, неверное или неоднозначное изображение значения; исключено из учебных фотографий."
+  },
+  "open-b83cb51088e0e4be": {
+    "status": "rejected",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Картина/схема/коллаж, неверное или неоднозначное изображение значения; исключено из учебных фотографий."
+  },
+  "open-a7be7b0a3db60b20": {
+    "status": "accepted",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Реальная фотография соответствует изображаемому значению; проверено по контактному листу."
+  },
+  "open-ce859be86b7475e0": {
+    "status": "accepted",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Реальная фотография соответствует изображаемому значению; проверено по контактному листу."
+  },
+  "open-5cd434a7c50fbe06": {
+    "status": "accepted",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Реальная фотография соответствует изображаемому значению; проверено по контактному листу."
+  },
+  "open-05dcd87c690ad49f": {
+    "status": "accepted",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Реальная фотография соответствует изображаемому значению; проверено по контактному листу."
+  },
+  "open-516bc7bc70a94ec3": {
+    "status": "accepted",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Реальная фотография соответствует изображаемому значению; проверено по контактному листу."
+  },
+  "open-2d7e20ac804f1142": {
+    "status": "accepted",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Реальная фотография соответствует изображаемому значению; проверено по контактному листу."
+  },
+  "open-4e3662fd07584db9": {
+    "status": "accepted",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Реальная фотография соответствует изображаемому значению; проверено по контактному листу."
+  },
+  "open-cd13f56506e812e4": {
+    "status": "rejected",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Картина/схема/коллаж, неверное или неоднозначное изображение значения; исключено из учебных фотографий."
+  },
+  "open-5c8879849c4953a9": {
+    "status": "accepted",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Реальная фотография соответствует изображаемому значению; проверено по контактному листу."
+  },
+  "open-c02e950605b97542": {
+    "status": "rejected",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Картина/схема/коллаж, неверное или неоднозначное изображение значения; исключено из учебных фотографий."
+  },
+  "open-e9496882f12043ad": {
+    "status": "accepted",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Реальная фотография соответствует изображаемому значению; проверено по контактному листу."
+  },
+  "open-463a9cc4f5482460": {
+    "status": "rejected",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Картина/схема/коллаж, неверное или неоднозначное изображение значения; исключено из учебных фотографий."
+  },
+  "open-f33da16f46eb0865": {
+    "status": "accepted",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Реальная фотография соответствует изображаемому значению; проверено по контактному листу."
+  },
+  "open-de7693f6b22c0a20": {
+    "status": "rejected",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Картина/схема/коллаж, неверное или неоднозначное изображение значения; исключено из учебных фотографий."
+  },
+  "open-ec4cfde432788bc4": {
+    "status": "accepted",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Реальная фотография соответствует изображаемому значению; проверено по контактному листу."
+  },
+  "open-4d9632dce2f8adfc": {
+    "status": "accepted",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Реальная фотография соответствует изображаемому значению; проверено по контактному листу."
+  },
+  "open-7d2b212313205613": {
+    "status": "accepted",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Реальная фотография соответствует изображаемому значению; проверено по контактному листу."
+  },
+  "open-6ecb5755a5926280": {
+    "status": "accepted",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Реальная фотография соответствует изображаемому значению; проверено по контактному листу."
+  },
+  "open-62aa6598960524dd": {
+    "status": "rejected",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Картина/схема/коллаж, неверное или неоднозначное изображение значения; исключено из учебных фотографий."
+  },
+  "open-1b8bd4e350c5f636": {
+    "status": "accepted",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Реальная фотография соответствует изображаемому значению; проверено по контактному листу."
+  },
+  "open-2ea14c21e41b459c": {
+    "status": "rejected",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Картина/схема/коллаж, неверное или неоднозначное изображение значения; исключено из учебных фотографий."
+  },
+  "open-ceac666aa4a77ab1": {
+    "status": "accepted",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Реальная фотография соответствует изображаемому значению; проверено по контактному листу."
+  },
+  "open-421d06c9da1ba1e0": {
+    "status": "accepted",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Реальная фотография соответствует изображаемому значению; проверено по контактному листу."
+  },
+  "open-f448c4864ce882a8": {
+    "status": "rejected",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Картина/схема/коллаж, неверное или неоднозначное изображение значения; исключено из учебных фотографий."
+  },
+  "open-ae0ea874e8ad89e5": {
+    "status": "accepted",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Реальная фотография соответствует изображаемому значению; проверено по контактному листу."
+  },
+  "open-0610b9fe1176b382": {
+    "status": "accepted",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Реальная фотография соответствует изображаемому значению; проверено по контактному листу."
+  },
+  "open-dca94ddc415dbf3d": {
+    "status": "rejected",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Картина/схема/коллаж, неверное или неоднозначное изображение значения; исключено из учебных фотографий."
+  },
+  "open-f4c1958ba3a01f0f": {
+    "status": "accepted",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Реальная фотография соответствует изображаемому значению; проверено по контактному листу."
+  },
+  "open-eab2592efd4459cd": {
+    "status": "rejected",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Картина/схема/коллаж, неверное или неоднозначное изображение значения; исключено из учебных фотографий."
+  },
+  "open-cbb06149a662a655": {
+    "status": "rejected",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Картина/схема/коллаж, неверное или неоднозначное изображение значения; исключено из учебных фотографий."
+  },
+  "open-862ae23d88ab0675": {
+    "status": "rejected",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Картина/схема/коллаж, неверное или неоднозначное изображение значения; исключено из учебных фотографий."
+  },
+  "open-42d5a486f752bd25": {
+    "status": "rejected",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Картина/схема/коллаж, неверное или неоднозначное изображение значения; исключено из учебных фотографий."
+  },
+  "open-2567a0f3a4071af8": {
+    "status": "rejected",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Картина/схема/коллаж, неверное или неоднозначное изображение значения; исключено из учебных фотографий."
+  },
+  "open-73d5ce439de1cfe8": {
+    "status": "rejected",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Картина/схема/коллаж, неверное или неоднозначное изображение значения; исключено из учебных фотографий."
+  },
+  "open-ba6ccadaa53697a7": {
+    "status": "rejected",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Картина/схема/коллаж, неверное или неоднозначное изображение значения; исключено из учебных фотографий."
+  },
+  "open-f9a0d5cbcba6eb35": {
+    "status": "accepted",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Реальная фотография соответствует изображаемому значению; проверено по контактному листу."
+  },
+  "open-78545708a31b3ac0": {
+    "status": "accepted",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Реальная фотография соответствует изображаемому значению; проверено по контактному листу."
+  },
+  "open-7fb61afe54defa18": {
+    "status": "accepted",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Реальная фотография соответствует изображаемому значению; проверено по контактному листу."
+  },
+  "open-28992ecc2aed947c": {
+    "status": "accepted",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Реальная фотография соответствует изображаемому значению; проверено по контактному листу."
+  },
+  "open-75fa219549af442b": {
+    "status": "rejected",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Картина/схема/коллаж, неверное или неоднозначное изображение значения; исключено из учебных фотографий."
+  },
+  "open-75b80a06794d47bc": {
+    "status": "rejected",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Картина/схема/коллаж, неверное или неоднозначное изображение значения; исключено из учебных фотографий."
+  },
+  "open-7cb6812f41f332f4": {
+    "status": "accepted",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Реальная фотография соответствует изображаемому значению; проверено по контактному листу."
+  },
+  "open-246984b95b46b555": {
+    "status": "rejected",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Картина/схема/коллаж, неверное или неоднозначное изображение значения; исключено из учебных фотографий."
+  },
+  "open-b476d3254d490162": {
+    "status": "rejected",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Картина/схема/коллаж, неверное или неоднозначное изображение значения; исключено из учебных фотографий."
+  },
+  "open-7387001b513b37a0": {
+    "status": "accepted",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Реальная фотография соответствует изображаемому значению; проверено по контактному листу."
+  },
+  "open-904d1c17c5a417fe": {
+    "status": "rejected",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Картина/схема/коллаж, неверное или неоднозначное изображение значения; исключено из учебных фотографий."
+  },
+  "open-3f57d8377ce02ada": {
+    "status": "rejected",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Картина/схема/коллаж, неверное или неоднозначное изображение значения; исключено из учебных фотографий."
+  },
+  "open-e73dc1b16bdffe70": {
+    "status": "accepted",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Реальная фотография соответствует изображаемому значению; проверено по контактному листу."
+  },
+  "open-7c6eefba80293ea4": {
+    "status": "accepted",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Реальная фотография соответствует изображаемому значению; проверено по контактному листу."
+  },
+  "open-f7f0da923fea049d": {
+    "status": "accepted",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Реальная фотография соответствует изображаемому значению; проверено по контактному листу."
+  },
+  "open-14826579339a3351": {
+    "status": "rejected",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Картина/схема/коллаж, неверное или неоднозначное изображение значения; исключено из учебных фотографий."
+  },
+  "open-85ff87adcab02819": {
+    "status": "rejected",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Картина/схема/коллаж, неверное или неоднозначное изображение значения; исключено из учебных фотографий."
+  },
+  "open-8b037f4d95c68cc0": {
+    "status": "accepted",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Реальная фотография соответствует изображаемому значению; проверено по контактному листу."
+  },
+  "open-ae1d259037de6c43": {
+    "status": "accepted",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Реальная фотография соответствует изображаемому значению; проверено по контактному листу."
+  },
+  "open-a609d2d7f515fd21": {
+    "status": "rejected",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Картина/схема/коллаж, неверное или неоднозначное изображение значения; исключено из учебных фотографий."
+  },
+  "open-f8985e9b0e88c2f5": {
+    "status": "rejected",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Картина/схема/коллаж, неверное или неоднозначное изображение значения; исключено из учебных фотографий."
+  },
+  "open-36ea38f6b48170ce": {
+    "status": "accepted",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Реальная фотография соответствует изображаемому значению; проверено по контактному листу."
+  },
+  "open-fe38df2b32b502a6": {
+    "status": "rejected",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Картина/схема/коллаж, неверное или неоднозначное изображение значения; исключено из учебных фотографий."
+  },
+  "open-51d8b9536c09b17d": {
+    "status": "accepted",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Реальная фотография соответствует изображаемому значению; проверено по контактному листу."
+  },
+  "open-a1a0a71c2b9e98ad": {
+    "status": "accepted",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Реальная фотография соответствует изображаемому значению; проверено по контактному листу."
+  },
+  "open-dc7422e9a8fd5258": {
+    "status": "rejected",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Картина/схема/коллаж, неверное или неоднозначное изображение значения; исключено из учебных фотографий."
+  },
+  "open-775ba4cb22d6c2bd": {
+    "status": "accepted",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Реальная фотография соответствует изображаемому значению; проверено по контактному листу."
+  },
+  "open-4e79b854ea1ac7d5": {
+    "status": "accepted",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Реальная фотография соответствует изображаемому значению; проверено по контактному листу."
+  },
+  "open-7ed1695b15bfcefb": {
+    "status": "rejected",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Картина/схема/коллаж, неверное или неоднозначное изображение значения; исключено из учебных фотографий."
+  },
+  "open-f63a65c2cd291ac0": {
+    "status": "rejected",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Картина/схема/коллаж, неверное или неоднозначное изображение значения; исключено из учебных фотографий."
+  },
+  "open-05e83a3905ac86a7": {
+    "status": "accepted",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Реальная фотография соответствует изображаемому значению; проверено по контактному листу."
+  },
+  "open-e4f9eec109c9d43d": {
+    "status": "rejected",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Картина/схема/коллаж, неверное или неоднозначное изображение значения; исключено из учебных фотографий."
+  },
+  "open-8c92e474c46989e2": {
+    "status": "accepted",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Реальная фотография соответствует изображаемому значению; проверено по контактному листу."
+  },
+  "open-737bada73f1f0770": {
+    "status": "accepted",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Реальная фотография соответствует изображаемому значению; проверено по контактному листу."
+  },
+  "open-6b5d3793d747c120": {
+    "status": "accepted",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Реальная фотография соответствует изображаемому значению; проверено по контактному листу."
+  },
+  "open-7a73df0de118407b": {
+    "status": "accepted",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Реальная фотография соответствует изображаемому значению; проверено по контактному листу."
+  },
+  "open-69c5b99503a04e4e": {
+    "status": "accepted",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Реальная фотография соответствует изображаемому значению; проверено по контактному листу."
+  },
+  "open-a4175cf8acc3c9c1": {
+    "status": "accepted",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Реальная фотография соответствует изображаемому значению; проверено по контактному листу."
+  },
+  "open-85a06427e6d3f072": {
+    "status": "accepted",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Реальная фотография соответствует изображаемому значению; проверено по контактному листу."
+  },
+  "open-887a2272274d1fd6": {
+    "status": "accepted",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Реальная фотография соответствует изображаемому значению; проверено по контактному листу."
+  },
+  "open-1e96e68e13292dde": {
+    "status": "rejected",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Картина/схема/коллаж, неверное или неоднозначное изображение значения; исключено из учебных фотографий."
+  },
+  "open-56a8c226b9cfb28f": {
+    "status": "accepted",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Реальная фотография соответствует изображаемому значению; проверено по контактному листу."
+  },
+  "open-b4a27d5a3449e4da": {
+    "status": "accepted",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Реальная фотография соответствует изображаемому значению; проверено по контактному листу."
+  },
+  "open-27df7e0550838349": {
+    "status": "accepted",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Реальная фотография соответствует изображаемому значению; проверено по контактному листу."
+  },
+  "w12": {
+    "status": "accepted",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Фотография соответствует значению; просмотрен batch-2."
+  },
+  "curated-cuptor": {
+    "status": "accepted",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Фотография соответствует значению; просмотрен batch-2."
+  },
+  "w15": {
+    "status": "accepted",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Фотография соответствует значению; просмотрен batch-2."
+  },
+  "curated-motocicleta": {
+    "status": "accepted",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Фотография соответствует значению; просмотрен batch-2."
+  },
+  "curated-contract": {
+    "status": "accepted",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Фотография соответствует значению; просмотрен batch-2."
+  },
+  "curated-durere": {
+    "status": "accepted",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Фотография соответствует значению; просмотрен batch-2."
+  },
+  "curated-salariu": {
+    "status": "rejected",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Картина, схема, неверный предмет или недостаточно однозначная связь; не используется в обучении."
+  },
+  "curated-primarie": {
+    "status": "accepted",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Фотография соответствует значению; просмотрен batch-2."
+  },
+  "open-8a2539e2b69d9daf": {
+    "status": "accepted",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Фотография соответствует значению; просмотрен batch-2."
+  },
+  "open-d3052463b7a5e9db": {
+    "status": "rejected",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Картина, схема, неверный предмет или недостаточно однозначная связь; не используется в обучении."
+  },
+  "open-bf0fa77c949c10be": {
+    "status": "accepted",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Фотография соответствует значению; просмотрен batch-2."
+  },
+  "open-23b4fb10498c6c08": {
+    "status": "accepted",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Фотография соответствует значению; просмотрен batch-2."
+  },
+  "open-e30152e891aac250": {
+    "status": "rejected",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Картина, схема, неверный предмет или недостаточно однозначная связь; не используется в обучении."
+  },
+  "open-8d53a3e3672946bd": {
+    "status": "accepted",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Фотография соответствует значению; просмотрен batch-2."
+  },
+  "open-1f7330d04cde8888": {
+    "status": "accepted",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Фотография соответствует значению; просмотрен batch-2."
+  },
+  "open-91a9eb5e7e990793": {
+    "status": "rejected",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Картина, схема, неверный предмет или недостаточно однозначная связь; не используется в обучении."
+  },
+  "open-bcd5e9696c0d554a": {
+    "status": "accepted",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Фотография соответствует значению; просмотрен batch-2."
+  },
+  "open-f8d397a33fcb9725": {
+    "status": "accepted",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Фотография соответствует значению; просмотрен batch-2."
+  },
+  "open-64879f7d6b960a01": {
+    "status": "rejected",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Картина, схема, неверный предмет или недостаточно однозначная связь; не используется в обучении."
+  },
+  "open-b91c103bb992e3e9": {
+    "status": "accepted",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Фотография соответствует значению; просмотрен batch-2."
+  },
+  "open-cbde78cc776c50db": {
+    "status": "accepted",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Фотография соответствует значению; просмотрен batch-2."
+  },
+  "open-353882dc8e112ae4": {
+    "status": "accepted",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Фотография соответствует значению; просмотрен batch-2."
+  },
+  "open-2b687f9b0a248bed": {
+    "status": "rejected",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Картина, схема, неверный предмет или недостаточно однозначная связь; не используется в обучении."
+  },
+  "open-aed1e54dcffdca8d": {
+    "status": "accepted",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Фотография соответствует значению; просмотрен batch-2."
+  },
+  "open-e35449223b54bce2": {
+    "status": "rejected",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Картина, схема, неверный предмет или недостаточно однозначная связь; не используется в обучении."
+  },
+  "open-f5cacda5f3939af8": {
+    "status": "accepted",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Фотография соответствует значению; просмотрен batch-2."
+  },
+  "open-6bdd90fe42e6cde4": {
+    "status": "rejected",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Картина, схема, неверный предмет или недостаточно однозначная связь; не используется в обучении."
+  },
+  "open-8375c0cf2a0d8d17": {
+    "status": "rejected",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Картина, схема, неверный предмет или недостаточно однозначная связь; не используется в обучении."
+  },
+  "open-8b18a0f9d24fedb0": {
+    "status": "accepted",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Фотография соответствует значению; просмотрен batch-2."
+  },
+  "open-7f1f073d8bb9b2e3": {
+    "status": "accepted",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Фотография соответствует значению; просмотрен batch-2."
+  },
+  "open-beb8bfaff61e9347": {
+    "status": "rejected",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Картина, схема, неверный предмет или недостаточно однозначная связь; не используется в обучении."
+  },
+  "open-844efdee0cd2f266": {
+    "status": "accepted",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Фотография соответствует значению; просмотрен batch-2."
+  },
+  "open-47afad612b1f9cc8": {
+    "status": "accepted",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Фотография соответствует значению; просмотрен batch-2."
+  },
+  "open-57e7f97aa3902d64": {
+    "status": "rejected",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Картина, схема, неверный предмет или недостаточно однозначная связь; не используется в обучении."
+  },
+  "open-24aecb31f99ef151": {
+    "status": "accepted",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Фотография соответствует значению; просмотрен batch-2."
+  },
+  "open-d5e14ba6289c57c3": {
+    "status": "rejected",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Картина, схема, неверный предмет или недостаточно однозначная связь; не используется в обучении."
+  },
+  "open-4c13d4715c8aec4b": {
+    "status": "rejected",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Картина, схема, неверный предмет или недостаточно однозначная связь; не используется в обучении."
+  },
+  "open-0185cfd00ea7593b": {
+    "status": "accepted",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Фотография соответствует значению; просмотрен batch-2."
+  },
+  "open-b63cb424701d4bff": {
+    "status": "accepted",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Фотография соответствует значению; просмотрен batch-2."
+  },
+  "open-7f1af712085feab3": {
+    "status": "accepted",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Фотография соответствует значению; просмотрен batch-2."
+  },
+  "open-fe442c03fdd5f807": {
+    "status": "rejected",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Картина, схема, неверный предмет или недостаточно однозначная связь; не используется в обучении."
+  },
+  "open-8fa628f08b7bf643": {
+    "status": "rejected",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Картина, схема, неверный предмет или недостаточно однозначная связь; не используется в обучении."
+  },
+  "open-1b8b78766119f7d2": {
+    "status": "accepted",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Фотография соответствует значению; просмотрен batch-2."
+  },
+  "open-f0875f3e5603aed1": {
+    "status": "rejected",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Картина, схема, неверный предмет или недостаточно однозначная связь; не используется в обучении."
+  },
+  "open-7fce28b653ec1627": {
+    "status": "rejected",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Картина, схема, неверный предмет или недостаточно однозначная связь; не используется в обучении."
+  },
+  "open-9fde43e76f4bcdeb": {
+    "status": "rejected",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Картина, схема, неверный предмет или недостаточно однозначная связь; не используется в обучении."
+  },
+  "open-df4137bf0064426c": {
+    "status": "rejected",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Картина, схема, неверный предмет или недостаточно однозначная связь; не используется в обучении."
+  },
+  "open-ea59d5c0e31de437": {
+    "status": "accepted",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Фотография соответствует значению; просмотрен batch-2."
+  },
+  "open-176a11f13c92823b": {
+    "status": "accepted",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Фотография соответствует значению; просмотрен batch-2."
+  },
+  "open-f8229c61eac45b21": {
+    "status": "rejected",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Картина, схема, неверный предмет или недостаточно однозначная связь; не используется в обучении."
+  },
+  "open-9ece28e144efb66c": {
+    "status": "accepted",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Фотография соответствует значению; просмотрен batch-2."
+  },
+  "open-924610f25ef26ec8": {
+    "status": "accepted",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Фотография соответствует значению; просмотрен batch-2."
+  },
+  "open-e9f0a474a8a97ac3": {
+    "status": "rejected",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Картина, схема, неверный предмет или недостаточно однозначная связь; не используется в обучении."
+  },
+  "open-06f1370f52a55cbc": {
+    "status": "accepted",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Фотография соответствует значению; просмотрен batch-2."
+  },
+  "open-2ffed73e4a674839": {
+    "status": "accepted",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Фотография соответствует значению; просмотрен batch-2."
+  },
+  "open-478ba9965f38aaad": {
+    "status": "accepted",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Фотография соответствует значению; просмотрен batch-2."
+  },
+  "open-8635d595910d446a": {
+    "status": "rejected",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Картина, схема, неверный предмет или недостаточно однозначная связь; не используется в обучении."
+  },
+  "open-4775ed810765803b": {
+    "status": "accepted",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Фотография соответствует значению; просмотрен batch-2."
+  },
+  "open-3accf057bd88536a": {
+    "status": "accepted",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Фотография соответствует значению; просмотрен batch-2."
+  },
+  "open-aa3a05d9d57c08d6": {
+    "status": "accepted",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Фотография соответствует значению; просмотрен batch-2."
+  },
+  "open-d85c8f8053587e7e": {
+    "status": "rejected",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Картина, схема, неверный предмет или недостаточно однозначная связь; не используется в обучении."
+  },
+  "open-656ae9268897e733": {
+    "status": "rejected",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Картина, схема, неверный предмет или недостаточно однозначная связь; не используется в обучении."
+  },
+  "open-5b24c19c390f5a1a": {
+    "status": "accepted",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Фотография соответствует значению; просмотрен batch-2."
+  },
+  "open-884faea7d9b80eef": {
+    "status": "accepted",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Фотография соответствует значению; просмотрен batch-2."
+  },
+  "open-6fe5384e1ccf8fba": {
+    "status": "accepted",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Фотография соответствует значению; просмотрен batch-2."
+  },
+  "open-43cc23fa52b87b4c": {
+    "status": "accepted",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Фотография соответствует значению; просмотрен batch-2."
+  },
+  "open-ac46af4054d3944d": {
+    "status": "accepted",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Фотография соответствует значению; просмотрен batch-2."
+  },
+  "open-a32fab8f0e7562eb": {
+    "status": "accepted",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Фотография соответствует значению; просмотрен batch-2."
+  },
+  "open-65d3ac4366abf022": {
+    "status": "accepted",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Фотография соответствует значению; просмотрен batch-2."
+  },
+  "open-505d87159210b7cd": {
+    "status": "accepted",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Фотография соответствует значению; просмотрен batch-2."
+  },
+  "open-b92cb4dd1f184c7e": {
+    "status": "accepted",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Фотография соответствует значению; просмотрен batch-2."
+  },
+  "open-3526d467f3d79471": {
+    "status": "accepted",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Фотография соответствует значению; просмотрен batch-2."
+  },
+  "open-b3a403460aab7e48": {
+    "status": "accepted",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Фотография соответствует значению; просмотрен batch-2."
+  },
+  "open-e9968407663c810c": {
+    "status": "accepted",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Фотография соответствует значению; просмотрен batch-2."
+  },
+  "open-535ee5819e7ea604": {
+    "status": "rejected",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Картина, схема, неверный предмет или недостаточно однозначная связь; не используется в обучении."
+  },
+  "open-7c350d969ca07f3c": {
+    "status": "rejected",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Картина, схема, неверный предмет или недостаточно однозначная связь; не используется в обучении."
+  },
+  "open-bf1ff147854c7eee": {
+    "status": "accepted",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Фотография соответствует значению; просмотрен batch-2."
+  },
+  "open-9b54f65b000676f5": {
+    "status": "rejected",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Картина, схема, неверный предмет или недостаточно однозначная связь; не используется в обучении."
+  },
+  "open-289856b4e4b71c79": {
+    "status": "accepted",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Фотография соответствует значению; просмотрен batch-2."
+  },
+  "open-c39a7d569c97d58a": {
+    "status": "accepted",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Фотография соответствует значению; просмотрен batch-2."
+  },
+  "open-422315b1dc304f6e": {
+    "status": "rejected",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Картина, схема, неверный предмет или недостаточно однозначная связь; не используется в обучении."
+  },
+  "open-0f8e73cba49ece43": {
+    "status": "rejected",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Картина, схема, неверный предмет или недостаточно однозначная связь; не используется в обучении."
+  },
+  "open-4b77da12aa2329fe": {
+    "status": "accepted",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Фотография соответствует значению; просмотрен batch-2."
+  },
+  "open-2a96afeef14f0a44": {
+    "status": "accepted",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Фотография соответствует значению; просмотрен batch-2."
+  },
+  "open-3f75502c2182b03c": {
+    "status": "accepted",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Фотография соответствует значению; просмотрен batch-2."
+  },
+  "open-1f05f2bdadcc14b6": {
+    "status": "accepted",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Фотография соответствует значению; просмотрен batch-2."
+  },
+  "open-32687f92c724050e": {
+    "status": "rejected",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Картина, схема, неверный предмет или недостаточно однозначная связь; не используется в обучении."
+  },
+  "open-d537bc9c04d322df": {
+    "status": "accepted",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Фотография соответствует значению; просмотрен batch-2."
+  },
+  "open-3cee866e173ffa8e": {
+    "status": "accepted",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Фотография соответствует значению; просмотрен batch-2."
+  },
+  "open-db76c2f34ec3bbbb": {
+    "status": "rejected",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Картина, схема, неверный предмет или недостаточно однозначная связь; не используется в обучении."
+  },
+  "open-45f57fa9d037c614": {
+    "status": "accepted",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Фотография соответствует значению; просмотрен batch-2."
+  },
+  "open-99231e173492a284": {
+    "status": "rejected",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Картина, схема, неверный предмет или недостаточно однозначная связь; не используется в обучении."
+  },
+  "open-9b89365027123ecd": {
+    "status": "accepted",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Фотография соответствует значению; просмотрен batch-2."
+  },
+  "open-9d4ff3ed42a7be64": {
+    "status": "accepted",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Фотография соответствует значению; просмотрен batch-2."
+  },
+  "open-f1de82484c6f4300": {
+    "status": "rejected",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Картина, схема, неверный предмет или недостаточно однозначная связь; не используется в обучении."
+  },
+  "open-538b91df37c0fed7": {
+    "status": "accepted",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Фотография соответствует значению; просмотрен batch-2."
+  },
+  "open-22e1e0eabf8c2cba": {
+    "status": "accepted",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Фотография соответствует значению; просмотрен batch-2."
+  },
+  "open-6ccf89d35be9636f": {
+    "status": "accepted",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Фотография соответствует значению; просмотрен batch-2."
+  },
+  "open-5d88b4f8d72495ef": {
+    "status": "accepted",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Фотография соответствует значению; просмотрен batch-2."
+  },
+  "open-76dd3b59c2eed5a9": {
+    "status": "accepted",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Фотография соответствует значению; просмотрен batch-2."
+  },
+  "open-794b8c9575ffd4af": {
+    "status": "accepted",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Фотография соответствует значению; просмотрен batch-2."
+  },
+  "open-50eb70f1f71a1461": {
+    "status": "rejected",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Картина, схема, неверный предмет или недостаточно однозначная связь; не используется в обучении."
+  },
+  "open-09c1da946d12fcd1": {
+    "status": "rejected",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Картина, схема, неверный предмет или недостаточно однозначная связь; не используется в обучении."
+  },
+  "open-c70f8ded58aabf32": {
+    "status": "accepted",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Фотография соответствует значению; просмотрен batch-2."
+  },
+  "open-90feeac9811e7780": {
+    "status": "accepted",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Фотография соответствует значению; просмотрен batch-2."
+  },
+  "open-bd08022e8fb80701": {
+    "status": "accepted",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Фотография соответствует значению; просмотрен batch-2."
+  },
+  "open-9c5eb8c83ce29ac1": {
+    "status": "accepted",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Фотография соответствует значению; просмотрен batch-2."
+  },
+  "open-22bb2555a4e4767b": {
+    "status": "accepted",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Фотография соответствует значению; просмотрен batch-2."
+  },
+  "open-3620af06d6f2d301": {
+    "status": "rejected",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Картина, схема, неверный предмет или недостаточно однозначная связь; не используется в обучении."
+  },
+  "open-b0f90f7f50d97f58": {
+    "status": "rejected",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Картина, схема, неверный предмет или недостаточно однозначная связь; не используется в обучении."
+  },
+  "open-62f9fda2c26bf686": {
+    "status": "accepted",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Фотография соответствует значению; просмотрен batch-2."
+  },
+  "open-a2f6fe3b0d514a4c": {
+    "status": "accepted",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Фотография соответствует значению; просмотрен batch-2."
+  },
+  "open-f20d5eeede953e61": {
+    "status": "rejected",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Картина, схема, неверный предмет или недостаточно однозначная связь; не используется в обучении."
+  },
+  "open-8548e7d19852495e": {
+    "status": "accepted",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Фотография соответствует значению; просмотрен batch-2."
+  },
+  "open-30d2a49932c8ffe7": {
+    "status": "rejected",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Картина, схема, неверный предмет или недостаточно однозначная связь; не используется в обучении."
+  },
+  "open-04388b2a71d4fbaa": {
+    "status": "accepted",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Фотография соответствует значению; просмотрен batch-2."
+  },
+  "open-de54c9b116dff346": {
+    "status": "accepted",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Фотография соответствует значению; просмотрен batch-2."
+  },
+  "open-0a5e568cc97b2c3e": {
+    "status": "rejected",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Картина, схема, неверный предмет или недостаточно однозначная связь; не используется в обучении."
+  },
+  "open-b42738f348ac5232": {
+    "status": "rejected",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Картина, схема, неверный предмет или недостаточно однозначная связь; не используется в обучении."
+  },
+  "open-957cfd6bb84c2da8": {
+    "status": "rejected",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Картина, схема, неверный предмет или недостаточно однозначная связь; не используется в обучении."
+  },
+  "open-fc2de03fa64f1ee1": {
+    "status": "accepted",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Фотография соответствует значению; просмотрен batch-2."
+  },
+  "open-b2c0a4a5598e2c78": {
+    "status": "accepted",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Фотография соответствует значению; просмотрен batch-2."
+  },
+  "open-4272053f1cb84c49": {
+    "status": "rejected",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Картина, схема, неверный предмет или недостаточно однозначная связь; не используется в обучении."
+  },
+  "open-cb37790a8586667f": {
+    "status": "accepted",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Фотография соответствует значению; просмотрен batch-2."
+  },
+  "open-d8357a4cf00af101": {
+    "status": "rejected",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Картина, схема, неверный предмет или недостаточно однозначная связь; не используется в обучении."
+  },
+  "open-2bd639b283b8e192": {
+    "status": "accepted",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Фотография соответствует значению; просмотрен batch-2."
+  },
+  "open-d6a07f27460d719e": {
+    "status": "accepted",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Фотография соответствует значению; просмотрен batch-2."
+  },
+  "open-8720cea6f92cd157": {
+    "status": "rejected",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Картина, схема, неверный предмет или недостаточно однозначная связь; не используется в обучении."
+  },
+  "open-03ecab669ba200ba": {
+    "status": "accepted",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Фотография соответствует значению; просмотрен batch-2."
+  },
+  "open-7d704b396e1f9159": {
+    "status": "accepted",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Фотография соответствует значению; просмотрен batch-2."
+  },
+  "open-70dd2646537aee96": {
+    "status": "rejected",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Картина, схема, неверный предмет или недостаточно однозначная связь; не используется в обучении."
+  },
+  "open-82a533ae5743b5a4": {
+    "status": "accepted",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Фотография соответствует значению; просмотрен batch-2."
+  },
+  "open-627149e2786d1983": {
+    "status": "accepted",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Фотография соответствует значению; просмотрен batch-2."
+  },
+  "open-842bc6fbe192e3be": {
+    "status": "accepted",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Фотография соответствует значению; просмотрен batch-2."
+  },
+  "open-4e552786d7c77f8d": {
+    "status": "rejected",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Картина, схема, неверный предмет или недостаточно однозначная связь; не используется в обучении."
+  },
+  "open-264aa3f07859034d": {
+    "status": "accepted",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Фотография соответствует значению; просмотрен batch-2."
+  },
+  "open-64d2fdd6d6e0a617": {
+    "status": "accepted",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Фотография соответствует значению; просмотрен batch-2."
+  },
+  "open-7fb4656eca56a55c": {
+    "status": "rejected",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Картина, схема, неверный предмет или недостаточно однозначная связь; не используется в обучении."
+  },
+  "open-481dbb306efd2b9b": {
+    "status": "rejected",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Картина, схема, неверный предмет или недостаточно однозначная связь; не используется в обучении."
+  },
+  "open-f7579585f0ad72ec": {
+    "status": "accepted",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Фотография соответствует значению; просмотрен batch-2."
+  },
+  "open-027fe02e766655a3": {
+    "status": "rejected",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Картина, схема, неверный предмет или недостаточно однозначная связь; не используется в обучении."
+  },
+  "open-bf10736a8b2dc6cb": {
+    "status": "accepted",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Фотография соответствует значению; просмотрен batch-2."
+  },
+  "open-74e5578504a47139": {
+    "status": "rejected",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Картина, схема, неверный предмет или недостаточно однозначная связь; не используется в обучении."
+  },
+  "open-01d78cfd0e7154bf": {
+    "status": "rejected",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Картина, схема, неверный предмет или недостаточно однозначная связь; не используется в обучении."
+  },
+  "open-f7f8d605e921ad0c": {
+    "status": "accepted",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Фотография соответствует значению; просмотрен batch-2."
+  },
+  "open-5ebf1e08d312b8c4": {
+    "status": "accepted",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Фотография соответствует значению; просмотрен batch-2."
+  },
+  "open-7fa6ab75dacfed0c": {
+    "status": "rejected",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Картина, схема, неверный предмет или недостаточно однозначная связь; не используется в обучении."
+  },
+  "open-504fdcd42c136b90": {
+    "status": "accepted",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Фотография соответствует значению; просмотрен batch-2."
+  },
+  "open-2c80e939b8bed79d": {
+    "status": "accepted",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Фотография соответствует значению; просмотрен batch-2."
+  },
+  "open-05017685ee808dfc": {
+    "status": "rejected",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Картина, схема, неверный предмет или недостаточно однозначная связь; не используется в обучении."
+  },
+  "open-769db16d757479ac": {
+    "status": "accepted",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Фотография соответствует значению; просмотрен batch-2."
+  },
+  "open-8d3287c6fbb605cb": {
+    "status": "accepted",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Фотография соответствует значению; просмотрен batch-2."
+  },
+  "open-b494f88b7e090e49": {
+    "status": "accepted",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Фотография соответствует значению; просмотрен batch-2."
+  },
+  "open-ae009899db5a5378": {
+    "status": "accepted",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Фотография соответствует значению; просмотрен batch-2."
+  },
+  "open-7b119007b71df751": {
+    "status": "rejected",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Картина, схема, неверный предмет или недостаточно однозначная связь; не используется в обучении."
+  },
+  "open-6c74a0e849064ec7": {
+    "status": "accepted",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Фотография соответствует значению; просмотрен batch-2."
+  },
+  "open-db4b593cedf2b826": {
+    "status": "accepted",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Фотография соответствует значению; просмотрен batch-2."
+  },
+  "open-0b350e8823dda59a": {
+    "status": "accepted",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Фотография соответствует значению; просмотрен batch-2."
+  },
+  "open-7dbf880be5110f59": {
+    "status": "rejected",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Картина, схема, неверный предмет или недостаточно однозначная связь; не используется в обучении."
+  },
+  "open-c4577f6f825a3cfa": {
+    "status": "accepted",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Фотография соответствует значению; просмотрен batch-2."
+  },
+  "open-e9f2a75fba22ea69": {
+    "status": "accepted",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Фотография соответствует значению; просмотрен batch-2."
+  },
+  "open-6f6fdac9672558a9": {
+    "status": "rejected",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Картина, схема, неверный предмет или недостаточно однозначная связь; не используется в обучении."
+  },
+  "open-f25cd0ae8741146c": {
+    "status": "accepted",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Фотография соответствует значению; просмотрен batch-2."
+  },
+  "open-4fa885d2ae38fb75": {
+    "status": "accepted",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Фотография соответствует значению; просмотрен batch-2."
+  },
+  "open-e29f305c2984d36d": {
+    "status": "rejected",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Картина, схема, неверный предмет или недостаточно однозначная связь; не используется в обучении."
+  },
+  "open-a07ced06dc84a704": {
+    "status": "accepted",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Фотография соответствует значению; просмотрен batch-2."
+  },
+  "open-544a4d95dcdfefca": {
+    "status": "accepted",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Фотография соответствует значению; просмотрен batch-2."
+  },
+  "open-ec2cc7e2103c17ad": {
+    "status": "rejected",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Картина, схема, неверный предмет или недостаточно однозначная связь; не используется в обучении."
+  },
+  "open-48dd5ca12a0e5426": {
+    "status": "accepted",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Фотография соответствует значению; просмотрен batch-2."
+  },
+  "open-a2cb9f65e3da16e6": {
+    "status": "accepted",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Фотография соответствует значению; просмотрен batch-2."
+  },
+  "open-e358a1f44db0fbf6": {
+    "status": "rejected",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Картина, схема, неверный предмет или недостаточно однозначная связь; не используется в обучении."
+  },
+  "open-fa5e207f7bee4326": {
+    "status": "accepted",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Фотография соответствует значению; просмотрен batch-2."
+  },
+  "open-f739d7bb819bec1f": {
+    "status": "accepted",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Фотография соответствует значению; просмотрен batch-2."
+  },
+  "open-a6dafbd7b9310a15": {
+    "status": "accepted",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Фотография соответствует значению; просмотрен batch-2."
+  },
+  "open-fbcc2d9bf6ade163": {
+    "status": "accepted",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Фотография соответствует значению; просмотрен batch-2."
+  },
+  "open-12a85f00ae6ba50f": {
+    "status": "rejected",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Картина, схема, неверный предмет или недостаточно однозначная связь; не используется в обучении."
+  },
+  "open-fec95f915aa8b50d": {
+    "status": "rejected",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Картина, схема, неверный предмет или недостаточно однозначная связь; не используется в обучении."
+  },
+  "open-c8c68876719150ba": {
+    "status": "accepted",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Фотография соответствует значению; просмотрен batch-2."
+  },
+  "open-b4a1b8d34c7895a2": {
+    "status": "accepted",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Фотография соответствует значению; просмотрен batch-2."
+  },
+  "open-c751ceda78f2bcb0": {
+    "status": "rejected",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Картина, схема, неверный предмет или недостаточно однозначная связь; не используется в обучении."
+  },
+  "open-89971200417638da": {
+    "status": "accepted",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Фотография соответствует значению; просмотрен batch-2."
+  },
+  "open-e04031c5d5a68b5f": {
+    "status": "accepted",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Фотография соответствует значению; просмотрен batch-2."
+  },
+  "open-1bafc471784418c0": {
+    "status": "accepted",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Фотография соответствует значению; просмотрен batch-2."
+  },
+  "open-25aa94ebee8800cd": {
+    "status": "rejected",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Картина, схема, неверный предмет или недостаточно однозначная связь; не используется в обучении."
+  },
+  "open-11ce371ffd2ac100": {
+    "status": "accepted",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Фотография соответствует значению; просмотрен batch-2."
+  },
+  "open-02361d9784eec255": {
+    "status": "accepted",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Фотография соответствует значению; просмотрен batch-2."
+  },
+  "open-3c5299ce6264f641": {
+    "status": "accepted",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Фотография соответствует значению; просмотрен batch-2."
+  },
+  "open-5ff1c002fbd43ddf": {
+    "status": "accepted",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Фотография соответствует значению; просмотрен batch-2."
+  },
+  "open-e8b02bef55c4c2f0": {
+    "status": "rejected",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Картина, схема, неверный предмет или недостаточно однозначная связь; не используется в обучении."
+  },
+  "open-56d5617dfe4fe400": {
+    "status": "accepted",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Фотография соответствует значению; просмотрен batch-2."
+  },
+  "open-a48d00a21c84602b": {
+    "status": "rejected",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Картина, схема, неверный предмет или недостаточно однозначная связь; не используется в обучении."
+  },
+  "open-119a6224cab3647c": {
+    "status": "accepted",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Фотография соответствует значению; просмотрен batch-2."
+  },
+  "open-40777b9cda21ad18": {
+    "status": "accepted",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Фотография соответствует значению; просмотрен batch-2."
+  },
+  "open-55ed885708721edd": {
+    "status": "accepted",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Фотография соответствует значению; просмотрен batch-2."
+  },
+  "open-bb50d52a4169110d": {
+    "status": "accepted",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Фотография соответствует значению; просмотрен batch-2."
+  },
+  "open-39c5492a44fca450": {
+    "status": "accepted",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Фотография соответствует значению; просмотрен batch-2."
+  },
+  "open-d9c82be4e60e1ed8": {
+    "status": "rejected",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Картина, схема, неверный предмет или недостаточно однозначная связь; не используется в обучении."
+  },
+  "open-edf06c0497282658": {
+    "status": "accepted",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Фотография соответствует значению; просмотрен batch-2."
+  },
+  "open-c5942e4643ab689c": {
+    "status": "rejected",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-17",
+    "reason": "Картина, схема, неверный предмет или недостаточно однозначная связь; не используется в обучении."
+  }
+}

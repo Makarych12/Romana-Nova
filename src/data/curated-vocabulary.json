@@ -1,0 +1,4378 @@
+[
+  {
+    "id": "curated-para",
+    "ro": "pară",
+    "ru": "груша",
+    "level": "A0",
+    "theme": "Еда",
+    "pos": "сущ., ж. р.",
+    "forms": "para; pere",
+    "examples": [
+      {
+        "ro": "Para aceasta este coaptă.",
+        "ru": "Эта груша спелая."
+      },
+      {
+        "ro": "Pun două pere în coș.",
+        "ru": "Я кладу две груши в корзину."
+      }
+    ],
+    "image": "/photos/curated/curated-para.webp",
+    "imageSource": {
+      "name": "Pears.jpg",
+      "url": "https://commons.wikimedia.org/wiki/File:Pears.jpg",
+      "license": "Public domain",
+      "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "attribution": "Keith Weller Изменения: размер уменьшен до 640 px, преобразовано в WebP."
+    }
+  },
+  {
+    "id": "curated-banana",
+    "ro": "banană",
+    "ru": "банан",
+    "level": "A0",
+    "theme": "Еда",
+    "pos": "сущ., ж. р.",
+    "forms": "banana; banane",
+    "examples": [
+      {
+        "ro": "Curăț o banană pentru copil.",
+        "ru": "Я чищу банан для ребёнка."
+      },
+      {
+        "ro": "Bananele sunt pe masă.",
+        "ru": "Бананы на столе."
+      }
+    ],
+    "image": "/photos/curated/curated-banana.webp",
+    "imageSource": {
+      "name": "Bananavarieties.jpg",
+      "url": "https://commons.wikimedia.org/wiki/File:Bananavarieties.jpg",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "attribution": "TimothyPilgrim Изменения: размер уменьшен до 640 px, преобразовано в WebP."
+    }
+  },
+  {
+    "id": "curated-portocala",
+    "ro": "portocală",
+    "ru": "апельсин",
+    "level": "A0",
+    "theme": "Еда",
+    "pos": "сущ., ж. р.",
+    "forms": "portocala; portocale",
+    "examples": [
+      {
+        "ro": "Storci o portocală pentru suc.",
+        "ru": "Ты выжимаешь апельсин для сока."
+      },
+      {
+        "ro": "Cumpăr un kilogram de portocale.",
+        "ru": "Я покупаю килограмм апельсинов."
+      }
+    ],
+    "image": "/photos/curated/curated-portocala.webp",
+    "imageSource": {
+      "name": "Oranges_-_whole-halved-segment.jpg",
+      "url": "https://commons.wikimedia.org/wiki/File:Oranges_-_whole-halved-segment.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "attribution": "Ivar Leidus Изменения: размер уменьшен до 640 px, преобразовано в WebP."
+    }
+  },
+  {
+    "id": "curated-lamaie",
+    "ro": "lămâie",
+    "ru": "лимон",
+    "level": "A1",
+    "theme": "Еда",
+    "pos": "сущ., ж. р.",
+    "forms": "lămâia; lămâi",
+    "examples": [
+      {
+        "ro": "Pun o felie de lămâie în ceai.",
+        "ru": "Я кладу ломтик лимона в чай."
+      },
+      {
+        "ro": "Lămâile sunt foarte acre.",
+        "ru": "Лимоны очень кислые."
+      }
+    ],
+    "image": "/photos/curated/curated-lamaie.webp",
+    "imageSource": {
+      "name": "P1030323.JPG",
+      "url": "https://commons.wikimedia.org/wiki/File:P1030323.JPG",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "attribution": "Elena Chochkova Изменения: размер уменьшен до 640 px, преобразовано в WebP."
+    }
+  },
+  {
+    "id": "curated-capsuna",
+    "ro": "căpșună",
+    "ru": "клубника (ягода)",
+    "level": "A1",
+    "theme": "Еда",
+    "pos": "сущ., ж. р.",
+    "forms": "căpșuna; căpșuni",
+    "examples": [
+      {
+        "ro": "Această căpșună miroase minunat.",
+        "ru": "Эта ягода клубники чудесно пахнет."
+      },
+      {
+        "ro": "Spăl căpșunile înainte de masă.",
+        "ru": "Я мою клубнику перед едой."
+      }
+    ],
+    "image": "/photos/curated/curated-capsuna.webp",
+    "imageSource": {
+      "name": "Garden_strawberry_(Fragaria_×_ananassa)_single2.jpg",
+      "url": "https://commons.wikimedia.org/wiki/File:Garden_strawberry_(Fragaria_%C3%97_ananassa)_single2.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "attribution": "\nIvar Leidus Изменения: размер уменьшен до 640 px, преобразовано в WebP."
+    }
+  },
+  {
+    "id": "curated-cireasa",
+    "ro": "cireașă",
+    "ru": "черешня (ягода)",
+    "level": "A1",
+    "theme": "Еда",
+    "pos": "сущ., ж. р.",
+    "forms": "cireașa; cireșe",
+    "examples": [
+      {
+        "ro": "Scot sâmburele din cireașă.",
+        "ru": "Я вынимаю косточку из черешни."
+      },
+      {
+        "ro": "Cireșele se coc în iunie.",
+        "ru": "Черешня созревает в июне."
+      }
+    ],
+    "image": "/photos/curated/curated-cireasa.webp",
+    "imageSource": {
+      "name": "Cherry_season_(48216568227).jpg",
+      "url": "https://commons.wikimedia.org/wiki/File:Cherry_season_(48216568227).jpg",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "attribution": "spurekar Изменения: размер уменьшен до 640 px, преобразовано в WebP."
+    }
+  },
+  {
+    "id": "curated-strugure",
+    "ro": "strugure",
+    "ru": "гроздь винограда",
+    "level": "A2",
+    "theme": "Еда",
+    "pos": "сущ., м. р.",
+    "forms": "strugurele; struguri",
+    "examples": [
+      {
+        "ro": "Un strugure copt atârnă pe viță.",
+        "ru": "На лозе висит спелая гроздь винограда."
+      },
+      {
+        "ro": "Cumpăr struguri fără sâmburi.",
+        "ru": "Я покупаю виноград без косточек."
+      }
+    ]
+  },
+  {
+    "id": "curated-piersica",
+    "ro": "piersică",
+    "ru": "персик",
+    "level": "A1",
+    "theme": "Еда",
+    "pos": "сущ., ж. р.",
+    "forms": "piersica; piersici",
+    "examples": [
+      {
+        "ro": "Piersica are coaja catifelată.",
+        "ru": "У персика бархатистая кожица."
+      },
+      {
+        "ro": "Am ales trei piersici coapte.",
+        "ru": "Я выбрал три спелых персика."
+      }
+    ]
+  },
+  {
+    "id": "curated-pruna",
+    "ro": "prună",
+    "ru": "слива",
+    "level": "A1",
+    "theme": "Еда",
+    "pos": "сущ., ж. р.",
+    "forms": "pruna; prune",
+    "examples": [
+      {
+        "ro": "Tai pruna în două.",
+        "ru": "Я разрезаю сливу пополам."
+      },
+      {
+        "ro": "Bunica face gem de prune.",
+        "ru": "Бабушка варит сливовое варенье."
+      }
+    ],
+    "image": "/photos/curated/curated-pruna.webp",
+    "imageSource": {
+      "name": "Plums_African_Rose_-_whole,_halved_and_slice.jpg",
+      "url": "https://commons.wikimedia.org/wiki/File:Plums_African_Rose_-_whole,_halved_and_slice.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "attribution": "Ivar Leidus Изменения: размер уменьшен до 640 px, преобразовано в WebP."
+    }
+  },
+  {
+    "id": "curated-pepene-verde",
+    "ro": "pepene verde",
+    "ru": "арбуз",
+    "level": "A1",
+    "theme": "Еда",
+    "pos": "сущ., м. р.",
+    "forms": "pepenele verde; pepeni verzi",
+    "examples": [
+      {
+        "ro": "Pepenele verde este foarte greu.",
+        "ru": "Арбуз очень тяжёлый."
+      },
+      {
+        "ro": "Vara mâncăm pepeni verzi reci.",
+        "ru": "Летом мы едим охлаждённые арбузы."
+      }
+    ],
+    "image": "/photos/curated/curated-pepene-verde.webp",
+    "imageSource": {
+      "name": "Taiwan_2009_Tainan_City_Organic_Farm_Watermelon_FRD_7962.jpg",
+      "url": "https://commons.wikimedia.org/wiki/File:Taiwan_2009_Tainan_City_Organic_Farm_Watermelon_FRD_7962.jpg",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "attribution": "Fred Hsu (Wikipedia:User:Fred Hsu on en.wikipedia) Изменения: размер уменьшен до 640 px, преобразовано в WebP."
+    }
+  },
+  {
+    "id": "curated-rosie",
+    "ro": "roșie",
+    "ru": "помидор",
+    "level": "A0",
+    "theme": "Еда",
+    "pos": "сущ., ж. р.",
+    "forms": "roșia; roșii",
+    "examples": [
+      {
+        "ro": "Tai o roșie pentru salată.",
+        "ru": "Я режу помидор для салата."
+      },
+      {
+        "ro": "Roșiile cresc în grădină.",
+        "ru": "Помидоры растут в огороде."
+      }
+    ],
+    "image": "/photos/curated/curated-rosie.webp",
+    "imageSource": {
+      "name": "Tomato_je.jpg",
+      "url": "https://commons.wikimedia.org/wiki/File:Tomato_je.jpg",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "attribution": "Softeis Изменения: размер уменьшен до 640 px, преобразовано в WebP."
+    }
+  },
+  {
+    "id": "curated-castravete",
+    "ro": "castravete",
+    "ru": "огурец",
+    "level": "A1",
+    "theme": "Еда",
+    "pos": "сущ., м. р.",
+    "forms": "castravetele; castraveți",
+    "examples": [
+      {
+        "ro": "Castravetele este proaspăt.",
+        "ru": "Огурец свежий."
+      },
+      {
+        "ro": "Pun castraveți în salată.",
+        "ru": "Я кладу огурцы в салат."
+      }
+    ],
+    "image": "/photos/curated/curated-castravete.webp",
+    "imageSource": {
+      "name": "ARS_cucumber.jpg",
+      "url": "https://commons.wikimedia.org/wiki/File:ARS_cucumber.jpg",
+      "license": "Public domain",
+      "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "attribution": "Stephen Ausmus, USDA ARS Изменения: размер уменьшен до 640 px, преобразовано в WebP."
+    }
+  },
+  {
+    "id": "curated-cartof",
+    "ro": "cartof",
+    "ru": "картофель; картофелина",
+    "level": "A0",
+    "theme": "Еда",
+    "pos": "сущ., м. р.",
+    "forms": "cartoful; cartofi",
+    "examples": [
+      {
+        "ro": "Curăț un cartof mare.",
+        "ru": "Я чищу большую картофелину."
+      },
+      {
+        "ro": "Fierb cartofii pentru cină.",
+        "ru": "Я варю картофель на ужин."
+      }
+    ],
+    "image": "/photos/curated/curated-cartof.webp",
+    "imageSource": {
+      "name": "Patates.jpg",
+      "url": "https://commons.wikimedia.org/wiki/File:Patates.jpg",
+      "license": "Public domain",
+      "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "attribution": "Scott Bauer, USDA ARS Изменения: размер уменьшен до 640 px, преобразовано в WebP."
+    }
+  },
+  {
+    "id": "curated-morcov",
+    "ro": "morcov",
+    "ru": "морковь; морковка",
+    "level": "A1",
+    "theme": "Еда",
+    "pos": "сущ., м. р.",
+    "forms": "morcovul; morcovi",
+    "examples": [
+      {
+        "ro": "Rad un morcov pentru supă.",
+        "ru": "Я натираю морковку для супа."
+      },
+      {
+        "ro": "Morcovii conțin multe vitamine.",
+        "ru": "Морковь содержит много витаминов."
+      }
+    ],
+    "image": "/photos/curated/curated-morcov.webp",
+    "imageSource": {
+      "name": "Vegetable-Carrot-Bundle-wStalks.jpg",
+      "url": "https://commons.wikimedia.org/wiki/File:Vegetable-Carrot-Bundle-wStalks.jpg",
+      "license": "Public domain",
+      "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "attribution": "Evan-Amos Изменения: размер уменьшен до 640 px, преобразовано в WebP."
+    }
+  },
+  {
+    "id": "curated-ceapa",
+    "ro": "ceapă",
+    "ru": "лук; луковица",
+    "level": "A1",
+    "theme": "Еда",
+    "pos": "сущ., ж. р.",
+    "forms": "ceapa; cepe",
+    "examples": [
+      {
+        "ro": "Tai ceapa mărunt.",
+        "ru": "Я мелко режу лук."
+      },
+      {
+        "ro": "Am nevoie de două cepe.",
+        "ru": "Мне нужны две луковицы."
+      }
+    ],
+    "image": "/photos/curated/curated-ceapa.webp",
+    "imageSource": {
+      "name": "Mixed_onions.jpg",
+      "url": "https://commons.wikimedia.org/wiki/File:Mixed_onions.jpg",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "attribution": "Colin Изменения: размер уменьшен до 640 px, преобразовано в WebP."
+    }
+  },
+  {
+    "id": "curated-usturoi",
+    "ro": "usturoi",
+    "ru": "чеснок",
+    "level": "A1",
+    "theme": "Еда",
+    "pos": "сущ., м. р.",
+    "forms": "usturoiul; căței de usturoi",
+    "examples": [
+      {
+        "ro": "Adaug usturoi în sos.",
+        "ru": "Я добавляю чеснок в соус."
+      },
+      {
+        "ro": "Curăț doi căței de usturoi.",
+        "ru": "Я чищу два зубчика чеснока."
+      }
+    ]
+  },
+  {
+    "id": "curated-ardei",
+    "ro": "ardei",
+    "ru": "перец (овощ)",
+    "level": "A1",
+    "theme": "Еда",
+    "pos": "сущ., м. р.",
+    "forms": "ardeiul; ardei",
+    "examples": [
+      {
+        "ro": "Ardeiul acesta nu este iute.",
+        "ru": "Этот перец не острый."
+      },
+      {
+        "ro": "Coc ardei roșii pe grătar.",
+        "ru": "Я запекаю красные перцы на гриле."
+      }
+    ],
+    "image": "/photos/curated/curated-ardei.webp",
+    "imageSource": {
+      "name": "Green-Yellow-Red-Pepper-2009.jpg",
+      "url": "https://commons.wikimedia.org/wiki/File:Green-Yellow-Red-Pepper-2009.jpg",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "attribution": "Kham Tran - www.khamtran.com Изменения: размер уменьшен до 640 px, преобразовано в WebP."
+    }
+  },
+  {
+    "id": "curated-varza",
+    "ro": "varză",
+    "ru": "капуста",
+    "level": "A1",
+    "theme": "Еда",
+    "pos": "сущ., ж. р.",
+    "forms": "varza; verze",
+    "examples": [
+      {
+        "ro": "Toc varza pentru salată.",
+        "ru": "Я шинкую капусту для салата."
+      },
+      {
+        "ro": "Am cumpărat două verze mici.",
+        "ru": "Я купил два небольших кочана капусты."
+      }
+    ]
+  },
+  {
+    "id": "curated-ciuperca",
+    "ro": "ciupercă",
+    "ru": "гриб",
+    "level": "A1",
+    "theme": "Еда",
+    "pos": "сущ., ж. р.",
+    "forms": "ciuperca; ciuperci",
+    "examples": [
+      {
+        "ro": "Nu culege o ciupercă necunoscută.",
+        "ru": "Не срывай незнакомый гриб."
+      },
+      {
+        "ro": "Prăjesc ciupercile cu ceapă.",
+        "ru": "Я жарю грибы с луком."
+      }
+    ],
+    "image": "/photos/curated/curated-ciuperca.webp",
+    "imageSource": {
+      "name": "ChampignonMushroom.jpg",
+      "url": "https://commons.wikimedia.org/wiki/File:ChampignonMushroom.jpg",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "attribution": "chris_73 Изменения: размер уменьшен до 640 px, преобразовано в WebP."
+    }
+  },
+  {
+    "id": "curated-ou",
+    "ro": "ou",
+    "ru": "яйцо",
+    "level": "A0",
+    "theme": "Еда",
+    "pos": "сущ., ср. р.",
+    "forms": "oul; ouă",
+    "examples": [
+      {
+        "ro": "Fierb un ou la micul dejun.",
+        "ru": "Я варю яйцо на завтрак."
+      },
+      {
+        "ro": "Am nevoie de trei ouă pentru prăjitură.",
+        "ru": "Мне нужны три яйца для пирога."
+      }
+    ],
+    "image": "/photos/curated/curated-ou.webp",
+    "imageSource": {
+      "name": "Huevo_frito.jpg",
+      "url": "https://commons.wikimedia.org/wiki/File:Huevo_frito.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "attribution": "Horacio Cambeiro Изменения: размер уменьшен до 640 px, преобразовано в WebP."
+    }
+  },
+  {
+    "id": "curated-lapte",
+    "ro": "lapte",
+    "ru": "молоко",
+    "level": "A0",
+    "theme": "Еда",
+    "pos": "сущ., ср. р.",
+    "forms": "laptele; обычно без мн. ч.",
+    "examples": [
+      {
+        "ro": "Încălzesc laptele pentru cafea.",
+        "ru": "Я подогреваю молоко для кофе."
+      },
+      {
+        "ro": "Păstrează laptele în frigider.",
+        "ru": "Храни молоко в холодильнике."
+      }
+    ],
+    "image": "/photos/curated/curated-lapte.webp",
+    "imageSource": {
+      "name": "Glass_of_Milk_(33657535532).jpg",
+      "url": "https://commons.wikimedia.org/wiki/File:Glass_of_Milk_(33657535532).jpg",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "attribution": "NIAID Изменения: размер уменьшен до 640 px, преобразовано в WebP."
+    }
+  },
+  {
+    "id": "curated-branza",
+    "ro": "brânză",
+    "ru": "сыр; творог (по контексту)",
+    "level": "A1",
+    "theme": "Еда",
+    "pos": "сущ., ж. р.",
+    "forms": "brânza; brânzeturi (сорта сыра)",
+    "examples": [
+      {
+        "ro": "Îmi place brânza de oaie.",
+        "ru": "Мне нравится овечий сыр."
+      },
+      {
+        "ro": "Pun brânză proaspătă în plăcintă.",
+        "ru": "Я кладу свежий творожный сыр в пирог."
+      }
+    ]
+  },
+  {
+    "id": "curated-unt",
+    "ro": "unt",
+    "ru": "сливочное масло",
+    "level": "A1",
+    "theme": "Еда",
+    "pos": "сущ., ср. р.",
+    "forms": "untul; обычно без мн. ч.",
+    "examples": [
+      {
+        "ro": "Întind unt pe pâine.",
+        "ru": "Я намазываю масло на хлеб."
+      },
+      {
+        "ro": "Scoate untul din frigider.",
+        "ru": "Достань масло из холодильника."
+      }
+    ],
+    "image": "/photos/curated/curated-unt.webp",
+    "imageSource": {
+      "name": "Švédský_koláč_naruby_904_(cropped).JPG",
+      "url": "https://commons.wikimedia.org/wiki/File:%C5%A0v%C3%A9dsk%C3%BD_kol%C3%A1%C4%8D_naruby_904_(cropped).JPG",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "attribution": "Matěj Baťha Изменения: размер уменьшен до 640 px, преобразовано в WebP."
+    }
+  },
+  {
+    "id": "curated-orez",
+    "ro": "orez",
+    "ru": "рис",
+    "level": "A1",
+    "theme": "Еда",
+    "pos": "сущ., м. р.",
+    "forms": "orezul; обычно без мн. ч.",
+    "examples": [
+      {
+        "ro": "Spăl orezul înainte să îl fierb.",
+        "ru": "Я промываю рис перед варкой."
+      },
+      {
+        "ro": "Servim peștele cu orez.",
+        "ru": "Мы подаём рыбу с рисом."
+      }
+    ]
+  },
+  {
+    "id": "curated-sare",
+    "ro": "sare",
+    "ru": "соль",
+    "level": "A0",
+    "theme": "Еда",
+    "pos": "сущ., ж. р.",
+    "forms": "sarea; обычно без мн. ч.",
+    "examples": [
+      {
+        "ro": "Supa are prea multă sare.",
+        "ru": "В супе слишком много соли."
+      },
+      {
+        "ro": "Dă-mi sarea, te rog.",
+        "ru": "Передай мне соль, пожалуйста."
+      }
+    ]
+  },
+  {
+    "id": "curated-zahar",
+    "ro": "zahăr",
+    "ru": "сахар",
+    "level": "A0",
+    "theme": "Еда",
+    "pos": "сущ., ср. р.",
+    "forms": "zahărul; обычно без мн. ч.",
+    "examples": [
+      {
+        "ro": "Beau ceai fără zahăr.",
+        "ru": "Я пью чай без сахара."
+      },
+      {
+        "ro": "Adaug o linguriță de zahăr.",
+        "ru": "Я добавляю чайную ложку сахара."
+      }
+    ]
+  },
+  {
+    "id": "curated-miere",
+    "ro": "miere",
+    "ru": "мёд",
+    "level": "A1",
+    "theme": "Еда",
+    "pos": "сущ., ж. р.",
+    "forms": "mierea; обычно без мн. ч.",
+    "examples": [
+      {
+        "ro": "Pun miere în iaurt.",
+        "ru": "Я кладу мёд в йогурт."
+      },
+      {
+        "ro": "Mierea aceasta este de tei.",
+        "ru": "Этот мёд липовый."
+      }
+    ],
+    "image": "/photos/curated/curated-miere.webp",
+    "imageSource": {
+      "name": "Runny_hunny.jpg",
+      "url": "https://commons.wikimedia.org/wiki/File:Runny_hunny.jpg",
+      "license": "Public domain",
+      "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "attribution": "Scott Bauer, USDA ARS Изменения: размер уменьшен до 640 px, преобразовано в WebP."
+    }
+  },
+  {
+    "id": "curated-peste",
+    "ro": "pește",
+    "ru": "рыба",
+    "level": "A0",
+    "theme": "Животные",
+    "pos": "сущ., м. р.",
+    "forms": "peștele; pești",
+    "examples": [
+      {
+        "ro": "Un pește înoată în lac.",
+        "ru": "В озере плывёт рыба."
+      },
+      {
+        "ro": "La cină pregătim pește la cuptor.",
+        "ru": "На ужин мы готовим рыбу в духовке."
+      }
+    ]
+  },
+  {
+    "id": "curated-pui",
+    "ro": "pui",
+    "ru": "цыплёнок; курятина",
+    "level": "A1",
+    "theme": "Еда",
+    "pos": "сущ., м. р.",
+    "forms": "puiul; pui",
+    "examples": [
+      {
+        "ro": "Puiul urmărește găina.",
+        "ru": "Цыплёнок следует за курицей."
+      },
+      {
+        "ro": "Comand o supă de pui.",
+        "ru": "Я заказываю куриный суп."
+      }
+    ]
+  },
+  {
+    "id": "curated-farfurie",
+    "ro": "farfurie",
+    "ru": "тарелка",
+    "level": "A0",
+    "theme": "Дом",
+    "pos": "сущ., ж. р.",
+    "forms": "farfuria; farfurii",
+    "examples": [
+      {
+        "ro": "Pun farfuria pe masă.",
+        "ru": "Я ставлю тарелку на стол."
+      },
+      {
+        "ro": "Spăl farfuriile după cină.",
+        "ru": "Я мою тарелки после ужина."
+      }
+    ],
+    "image": "/photos/curated/curated-farfurie.webp",
+    "imageSource": {
+      "name": "Botanical_plate_with_spray_of_fruiting_Indian_Bean_Tree_MET_DP-1687-038_(cropped).jpg",
+      "url": "https://commons.wikimedia.org/wiki/File:Botanical_plate_with_spray_of_fruiting_Indian_Bean_Tree_MET_DP-1687-038_(cropped).jpg",
+      "license": "CC0",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "attribution": "Chelsea porcelain factory Изменения: размер уменьшен до 640 px, преобразовано в WebP."
+    }
+  },
+  {
+    "id": "curated-pahar",
+    "ro": "pahar",
+    "ru": "стакан; бокал",
+    "level": "A0",
+    "theme": "Дом",
+    "pos": "сущ., ср. р.",
+    "forms": "paharul; pahare",
+    "examples": [
+      {
+        "ro": "Aș vrea un pahar cu apă.",
+        "ru": "Я хотел бы стакан воды."
+      },
+      {
+        "ro": "Paharele sunt în dulap.",
+        "ru": "Стаканы в шкафу."
+      }
+    ],
+    "image": "/photos/curated/curated-pahar.webp",
+    "imageSource": {
+      "name": "Drinkware.jpg",
+      "url": "https://commons.wikimedia.org/wiki/File:Drinkware.jpg",
+      "license": "CC0",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "attribution": "rawpixel.com Изменения: размер уменьшен до 640 px, преобразовано в WebP."
+    }
+  },
+  {
+    "id": "curated-cana",
+    "ro": "cană",
+    "ru": "кружка",
+    "level": "A0",
+    "theme": "Дом",
+    "pos": "сущ., ж. р.",
+    "forms": "cana; căni",
+    "examples": [
+      {
+        "ro": "Cana mea este albastră.",
+        "ru": "Моя кружка синяя."
+      },
+      {
+        "ro": "Umplu două căni cu ceai.",
+        "ru": "Я наполняю две кружки чаем."
+      }
+    ],
+    "image": "/photos/curated/curated-cana.webp",
+    "imageSource": {
+      "name": "Mug_of_Tea.JPG",
+      "url": "https://commons.wikimedia.org/wiki/File:Mug_of_Tea.JPG",
+      "license": "Public domain",
+      "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "attribution": "Factorylad Изменения: размер уменьшен до 640 px, преобразовано в WebP."
+    }
+  },
+  {
+    "id": "curated-lingura",
+    "ro": "lingură",
+    "ru": "ложка",
+    "level": "A1",
+    "theme": "Дом",
+    "pos": "сущ., ж. р.",
+    "forms": "lingura; linguri",
+    "examples": [
+      {
+        "ro": "Mănânc supa cu lingura.",
+        "ru": "Я ем суп ложкой."
+      },
+      {
+        "ro": "Avem nevoie de patru linguri.",
+        "ru": "Нам нужны четыре ложки."
+      }
+    ],
+    "image": "/photos/curated/curated-lingura.webp",
+    "imageSource": {
+      "name": "Soup_Spoon.jpg",
+      "url": "https://commons.wikimedia.org/wiki/File:Soup_Spoon.jpg",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "attribution": "Donovan Govan. Изменения: размер уменьшен до 640 px, преобразовано в WebP."
+    }
+  },
+  {
+    "id": "curated-furculita",
+    "ro": "furculiță",
+    "ru": "вилка",
+    "level": "A1",
+    "theme": "Дом",
+    "pos": "сущ., ж. р.",
+    "forms": "furculița; furculițe",
+    "examples": [
+      {
+        "ro": "Furculița este lângă farfurie.",
+        "ru": "Вилка рядом с тарелкой."
+      },
+      {
+        "ro": "Pun furculițele pe masă.",
+        "ru": "Я раскладываю вилки на столе."
+      }
+    ],
+    "image": "/photos/curated/curated-furculita.webp",
+    "imageSource": {
+      "name": "Assorted_forks.jpg",
+      "url": "https://commons.wikimedia.org/wiki/File:Assorted_forks.jpg",
+      "license": "CC BY-SA 3.0 us",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/us/deed.en",
+      "attribution": "Mark A. Taff, Assorted forks.jpg, Wikimedia Commons. Изменения: размер уменьшен до 640 px, преобразовано в WebP."
+    }
+  },
+  {
+    "id": "curated-cutit",
+    "ro": "cuțit",
+    "ru": "нож",
+    "level": "A1",
+    "theme": "Дом",
+    "pos": "сущ., ср. р.",
+    "forms": "cuțitul; cuțite",
+    "examples": [
+      {
+        "ro": "Cuțitul acesta este foarte ascuțit.",
+        "ru": "Этот нож очень острый."
+      },
+      {
+        "ro": "Ține cuțitele departe de copii.",
+        "ru": "Держи ножи подальше от детей."
+      }
+    ],
+    "image": "/photos/curated/curated-cutit.webp",
+    "imageSource": {
+      "name": "Cucina_012.jpg",
+      "url": "https://commons.wikimedia.org/wiki/File:Cucina_012.jpg",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "attribution": "Kagor Изменения: размер уменьшен до 640 px, преобразовано в WebP."
+    }
+  },
+  {
+    "id": "curated-pat",
+    "ro": "pat",
+    "ru": "кровать",
+    "level": "A0",
+    "theme": "Дом",
+    "pos": "сущ., ср. р.",
+    "forms": "patul; paturi",
+    "examples": [
+      {
+        "ro": "Patul este lângă fereastră.",
+        "ru": "Кровать рядом с окном."
+      },
+      {
+        "ro": "Fac patul în fiecare dimineață.",
+        "ru": "Я застилаю кровать каждое утро."
+      }
+    ],
+    "image": "/photos/curated/curated-pat.webp",
+    "imageSource": {
+      "name": "2008-04-12_Freilichtmuseum_Detmold_(11).jpg",
+      "url": "https://commons.wikimedia.org/wiki/File:2008-04-12_Freilichtmuseum_Detmold_(11).jpg",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "attribution": "R-E-AL (talk | contribs | Gallery)  (German Wikipedia) Изменения: размер уменьшен до 640 px, преобразовано в WebP."
+    }
+  },
+  {
+    "id": "curated-perna",
+    "ro": "pernă",
+    "ru": "подушка",
+    "level": "A1",
+    "theme": "Дом",
+    "pos": "сущ., ж. р.",
+    "forms": "perna; perne",
+    "examples": [
+      {
+        "ro": "Perna este prea moale.",
+        "ru": "Подушка слишком мягкая."
+      },
+      {
+        "ro": "Pun două perne pe canapea.",
+        "ru": "Я кладу две подушки на диван."
+      }
+    ],
+    "image": "/photos/curated/curated-perna.webp",
+    "imageSource": {
+      "name": "Pillows_on_a_hotel_bed.jpg",
+      "url": "https://commons.wikimedia.org/wiki/File:Pillows_on_a_hotel_bed.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "attribution": "Amin Изменения: размер уменьшен до 640 px, преобразовано в WebP."
+    }
+  },
+  {
+    "id": "curated-patura",
+    "ro": "pătură",
+    "ru": "одеяло; плед",
+    "level": "A1",
+    "theme": "Дом",
+    "pos": "сущ., ж. р.",
+    "forms": "pătura; pături",
+    "examples": [
+      {
+        "ro": "Mă învelesc cu o pătură.",
+        "ru": "Я укрываюсь одеялом."
+      },
+      {
+        "ro": "Păturile sunt în dulap.",
+        "ru": "Одеяла в шкафу."
+      }
+    ]
+  },
+  {
+    "id": "curated-dulap",
+    "ro": "dulap",
+    "ru": "шкаф",
+    "level": "A1",
+    "theme": "Дом",
+    "pos": "сущ., ср. р.",
+    "forms": "dulapul; dulapuri",
+    "examples": [
+      {
+        "ro": "Hainele sunt în dulap.",
+        "ru": "Одежда в шкафу."
+      },
+      {
+        "ro": "Am montat două dulapuri noi.",
+        "ru": "Мы собрали два новых шкафа."
+      }
+    ]
+  },
+  {
+    "id": "curated-usa",
+    "ro": "ușă",
+    "ru": "дверь",
+    "level": "A0",
+    "theme": "Дом",
+    "pos": "сущ., ж. р.",
+    "forms": "ușa; uși",
+    "examples": [
+      {
+        "ro": "Închide ușa, te rog.",
+        "ru": "Закрой дверь, пожалуйста."
+      },
+      {
+        "ro": "Ușile se deschid automat.",
+        "ru": "Двери открываются автоматически."
+      }
+    ]
+  },
+  {
+    "id": "curated-fereastra",
+    "ro": "fereastră",
+    "ru": "окно",
+    "level": "A0",
+    "theme": "Дом",
+    "pos": "сущ., ж. р.",
+    "forms": "fereastra; ferestre",
+    "examples": [
+      {
+        "ro": "Deschid fereastra dimineața.",
+        "ru": "Я открываю окно утром."
+      },
+      {
+        "ro": "Camera are două ferestre mari.",
+        "ru": "В комнате два больших окна."
+      }
+    ],
+    "image": "/photos/curated/curated-fereastra.webp",
+    "imageSource": {
+      "name": "Atua_Kosua_shrine4.jpg",
+      "url": "https://commons.wikimedia.org/wiki/File:Atua_Kosua_shrine4.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "attribution": "Shahadusadik Изменения: размер уменьшен до 640 px, преобразовано в WebP."
+    }
+  },
+  {
+    "id": "curated-cheie",
+    "ro": "cheie",
+    "ru": "ключ",
+    "level": "A0",
+    "theme": "Дом",
+    "pos": "сущ., ж. р.",
+    "forms": "cheia; chei",
+    "examples": [
+      {
+        "ro": "Nu găsesc cheia de la casă.",
+        "ru": "Я не могу найти ключ от дома."
+      },
+      {
+        "ro": "Țin cheile în buzunar.",
+        "ru": "Я держу ключи в кармане."
+      }
+    ],
+    "image": "/photos/curated/curated-cheie.webp",
+    "imageSource": {
+      "name": "Solex_99_30_padlock_with_keys_(DSCF2659).jpg",
+      "url": "https://commons.wikimedia.org/wiki/File:Solex_99_30_padlock_with_keys_(DSCF2659).jpg",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+      "attribution": "Trougnouf Изменения: размер уменьшен до 640 px, преобразовано в WebP."
+    }
+  },
+  {
+    "id": "curated-lampa",
+    "ro": "lampă",
+    "ru": "лампа",
+    "level": "A1",
+    "theme": "Дом",
+    "pos": "сущ., ж. р.",
+    "forms": "lampa; lămpi",
+    "examples": [
+      {
+        "ro": "Aprind lampa de pe birou.",
+        "ru": "Я включаю настольную лампу."
+      },
+      {
+        "ro": "Lămpile luminează camera.",
+        "ru": "Лампы освещают комнату."
+      }
+    ],
+    "image": "/photos/curated/curated-lampa.webp",
+    "imageSource": {
+      "name": "Wide_array_of_lamps.jpg",
+      "url": "https://commons.wikimedia.org/wiki/File:Wide_array_of_lamps.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "attribution": "Ragesoss Изменения: размер уменьшен до 640 px, преобразовано в WebP."
+    }
+  },
+  {
+    "id": "curated-oglinda",
+    "ro": "oglindă",
+    "ru": "зеркало",
+    "level": "A1",
+    "theme": "Дом",
+    "pos": "сущ., ж. р.",
+    "forms": "oglinda; oglinzi",
+    "examples": [
+      {
+        "ro": "Mă uit în oglindă.",
+        "ru": "Я смотрюсь в зеркало."
+      },
+      {
+        "ro": "Oglinzile fac holul mai luminos.",
+        "ru": "Зеркала делают прихожую светлее."
+      }
+    ],
+    "image": "/photos/curated/curated-oglinda.webp",
+    "imageSource": {
+      "name": "Mirror.jpg",
+      "url": "https://commons.wikimedia.org/wiki/File:Mirror.jpg",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "attribution": "Cgs Изменения: размер уменьшен до 640 px, преобразовано в WebP."
+    }
+  },
+  {
+    "id": "curated-prosop",
+    "ro": "prosop",
+    "ru": "полотенце",
+    "level": "A1",
+    "theme": "Дом",
+    "pos": "сущ., ср. р.",
+    "forms": "prosopul; prosoape",
+    "examples": [
+      {
+        "ro": "Îmi șterg mâinile cu prosopul.",
+        "ru": "Я вытираю руки полотенцем."
+      },
+      {
+        "ro": "Prosoapele curate sunt pe raft.",
+        "ru": "Чистые полотенца на полке."
+      }
+    ],
+    "image": "/photos/curated/curated-prosop.webp",
+    "imageSource": {
+      "name": "Zusammengelegte_Handtücher.jpg",
+      "url": "https://commons.wikimedia.org/wiki/File:Zusammengelegte_Handt%C3%BCcher.jpg",
+      "license": "Public domain",
+      "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "attribution": "User:Mattes Изменения: размер уменьшен до 640 px, преобразовано в WebP."
+    }
+  },
+  {
+    "id": "curated-sapun",
+    "ro": "săpun",
+    "ru": "мыло",
+    "level": "A1",
+    "theme": "Дом",
+    "pos": "сущ., ср. р.",
+    "forms": "săpunul; săpunuri",
+    "examples": [
+      {
+        "ro": "Spală-te pe mâini cu săpun.",
+        "ru": "Вымой руки с мылом."
+      },
+      {
+        "ro": "Acest săpun miroase a lavandă.",
+        "ru": "Это мыло пахнет лавандой."
+      }
+    ],
+    "image": "/photos/curated/curated-sapun.webp",
+    "imageSource": {
+      "name": "Handmade_soap_cropped_and_simplified.jpg",
+      "url": "https://commons.wikimedia.org/wiki/File:Handmade_soap_cropped_and_simplified.jpg",
+      "license": "CC BY 2.5",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.5",
+      "attribution": "Malene Thyssen, simplified by HLHJ Изменения: размер уменьшен до 640 px, преобразовано в WebP."
+    }
+  },
+  {
+    "id": "curated-frigider",
+    "ro": "frigider",
+    "ru": "холодильник",
+    "level": "A1",
+    "theme": "Техника",
+    "pos": "сущ., ср. р.",
+    "forms": "frigiderul; frigidere",
+    "examples": [
+      {
+        "ro": "Pun legumele în frigider.",
+        "ru": "Я кладу овощи в холодильник."
+      },
+      {
+        "ro": "Frigiderul nu mai răcește.",
+        "ru": "Холодильник больше не охлаждает."
+      }
+    ],
+    "image": "/photos/curated/curated-frigider.webp",
+    "imageSource": {
+      "name": "Open_refrigerator_with_food_at_night.jpg",
+      "url": "https://commons.wikimedia.org/wiki/File:Open_refrigerator_with_food_at_night.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "attribution": "W.carter Изменения: размер уменьшен до 640 px, преобразовано в WebP."
+    }
+  },
+  {
+    "id": "curated-cuptor",
+    "ro": "cuptor",
+    "ru": "духовка; печь",
+    "level": "A2",
+    "theme": "Техника",
+    "pos": "сущ., ср. р.",
+    "forms": "cuptorul; cuptoare",
+    "examples": [
+      {
+        "ro": "Încălzesc cuptorul la două sute de grade.",
+        "ru": "Я разогреваю духовку до двухсот градусов."
+      },
+      {
+        "ro": "Pâinea se coace în cuptor.",
+        "ru": "Хлеб печётся в печи."
+      }
+    ]
+  },
+  {
+    "id": "curated-masina-de-spalat",
+    "ro": "mașină de spălat",
+    "ru": "стиральная машина",
+    "level": "A1",
+    "theme": "Техника",
+    "pos": "сущ., ж. р.",
+    "forms": "mașina de spălat; mașini de spălat",
+    "examples": [
+      {
+        "ro": "Mașina de spălat este în baie.",
+        "ru": "Стиральная машина в ванной."
+      },
+      {
+        "ro": "Nu supraîncărca mașina de spălat.",
+        "ru": "Не перегружай стиральную машину."
+      }
+    ]
+  },
+  {
+    "id": "curated-aspirator",
+    "ro": "aspirator",
+    "ru": "пылесос",
+    "level": "A2",
+    "theme": "Техника",
+    "pos": "сущ., ср. р.",
+    "forms": "aspiratorul; aspiratoare",
+    "examples": [
+      {
+        "ro": "Aspiratorul face mult zgomot.",
+        "ru": "Пылесос сильно шумит."
+      },
+      {
+        "ro": "Curăț covorul cu aspiratorul.",
+        "ru": "Я чищу ковёр пылесосом."
+      }
+    ],
+    "image": "/photos/curated/curated-aspirator.webp",
+    "imageSource": {
+      "name": "Numatic_Henry_vacuum_cleaner_(3308986870)_(cropped).jpg",
+      "url": "https://commons.wikimedia.org/wiki/File:Numatic_Henry_vacuum_cleaner_(3308986870)_(cropped).jpg",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "attribution": "Tnarik Innael from London Изменения: размер уменьшен до 640 px, преобразовано в WebP."
+    }
+  },
+  {
+    "id": "curated-caine",
+    "ro": "câine",
+    "ru": "собака",
+    "level": "A0",
+    "theme": "Животные",
+    "pos": "сущ., м. р.",
+    "forms": "câinele; câini",
+    "examples": [
+      {
+        "ro": "Câinele aleargă în parc.",
+        "ru": "Собака бегает в парке."
+      },
+      {
+        "ro": "Vecinul plimbă doi câini.",
+        "ru": "Сосед выгуливает двух собак."
+      }
+    ],
+    "image": "/photos/curated/curated-caine.webp",
+    "imageSource": {
+      "name": "Huskiesatrest.jpg",
+      "url": "https://commons.wikimedia.org/wiki/File:Huskiesatrest.jpg",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "attribution": "M. Rehemtulla Изменения: размер уменьшен до 640 px, преобразовано в WebP."
+    }
+  },
+  {
+    "id": "curated-pisica",
+    "ro": "pisică",
+    "ru": "кошка",
+    "level": "A0",
+    "theme": "Животные",
+    "pos": "сущ., ж. р.",
+    "forms": "pisica; pisici",
+    "examples": [
+      {
+        "ro": "Pisica doarme pe canapea.",
+        "ru": "Кошка спит на диване."
+      },
+      {
+        "ro": "Pisicile văd bine noaptea.",
+        "ru": "Кошки хорошо видят ночью."
+      }
+    ],
+    "image": "/photos/curated/curated-pisica.webp",
+    "imageSource": {
+      "name": "Siam_lilacpoint.jpg",
+      "url": "https://commons.wikimedia.org/wiki/File:Siam_lilacpoint.jpg",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "attribution": "Karin Langner-Bahmann, upload von Martin Bahmann Изменения: размер уменьшен до 640 px, преобразовано в WebP."
+    }
+  },
+  {
+    "id": "curated-cal",
+    "ro": "cal",
+    "ru": "лошадь",
+    "level": "A1",
+    "theme": "Животные",
+    "pos": "сущ., м. р.",
+    "forms": "calul; cai",
+    "examples": [
+      {
+        "ro": "Calul aleargă pe câmp.",
+        "ru": "Лошадь скачет по полю."
+      },
+      {
+        "ro": "La fermă sunt trei cai.",
+        "ru": "На ферме три лошади."
+      }
+    ],
+    "image": "/photos/curated/curated-cal.webp",
+    "imageSource": {
+      "name": "Nokota_Horses_cropped.jpg",
+      "url": "https://commons.wikimedia.org/wiki/File:Nokota_Horses_cropped.jpg",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "attribution": "Nokota_Horses.jpg: François Marchal\nderivative work: Dana boomer (talk) Изменения: размер уменьшен до 640 px, преобразовано в WebP."
+    }
+  },
+  {
+    "id": "curated-vaca",
+    "ro": "vacă",
+    "ru": "корова",
+    "level": "A1",
+    "theme": "Животные",
+    "pos": "сущ., ж. р.",
+    "forms": "vaca; vaci",
+    "examples": [
+      {
+        "ro": "Vaca paște lângă râu.",
+        "ru": "Корова пасётся у реки."
+      },
+      {
+        "ro": "Vacile se întorc de la pășune.",
+        "ru": "Коровы возвращаются с пастбища."
+      }
+    ],
+    "image": "/photos/curated/curated-vaca.webp",
+    "imageSource": {
+      "name": "Cow_(Fleckvieh_breed)_Oeschinensee_Slaunger_2009-07-07.jpg",
+      "url": "https://commons.wikimedia.org/wiki/File:Cow_(Fleckvieh_breed)_Oeschinensee_Slaunger_2009-07-07.jpg",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "attribution": "Kim Hansen Изменения: размер уменьшен до 640 px, преобразовано в WebP."
+    }
+  },
+  {
+    "id": "curated-oaie",
+    "ro": "oaie",
+    "ru": "овца",
+    "level": "A1",
+    "theme": "Животные",
+    "pos": "сущ., ж. р.",
+    "forms": "oaia; oi",
+    "examples": [
+      {
+        "ro": "Oaia are lână albă.",
+        "ru": "У овцы белая шерсть."
+      },
+      {
+        "ro": "Oile pasc pe deal.",
+        "ru": "Овцы пасутся на холме."
+      }
+    ],
+    "image": "/photos/curated/curated-oaie.webp",
+    "imageSource": {
+      "name": "Flock_of_sheep.jpg",
+      "url": "https://commons.wikimedia.org/wiki/File:Flock_of_sheep.jpg",
+      "license": "Public domain",
+      "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "attribution": "Keith Weller Изменения: размер уменьшен до 640 px, преобразовано в WebP."
+    }
+  },
+  {
+    "id": "curated-capra",
+    "ro": "capră",
+    "ru": "коза",
+    "level": "A1",
+    "theme": "Животные",
+    "pos": "сущ., ж. р.",
+    "forms": "capra; capre",
+    "examples": [
+      {
+        "ro": "Capra urcă pe stâncă.",
+        "ru": "Коза взбирается на скалу."
+      },
+      {
+        "ro": "Bunicul crește capre.",
+        "ru": "Дедушка разводит коз."
+      }
+    ],
+    "image": "/photos/curated/curated-capra.webp",
+    "imageSource": {
+      "name": "Hausziege_04.jpg",
+      "url": "https://commons.wikimedia.org/wiki/File:Hausziege_04.jpg",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "attribution": "Kuebi = Armin Kübelbeck Изменения: размер уменьшен до 640 px, преобразовано в WebP."
+    }
+  },
+  {
+    "id": "curated-porc",
+    "ro": "porc",
+    "ru": "свинья",
+    "level": "A1",
+    "theme": "Животные",
+    "pos": "сущ., м. р.",
+    "forms": "porcul; porci",
+    "examples": [
+      {
+        "ro": "Porcul este în țarc.",
+        "ru": "Свинья находится в загоне."
+      },
+      {
+        "ro": "La fermă se cresc porci.",
+        "ru": "На ферме разводят свиней."
+      }
+    ],
+    "image": "/photos/curated/curated-porc.webp",
+    "imageSource": {
+      "name": "Pig_farm_Vampula_1.jpg",
+      "url": "https://commons.wikimedia.org/wiki/File:Pig_farm_Vampula_1.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "attribution": "kallerna Изменения: размер уменьшен до 640 px, преобразовано в WebP."
+    }
+  },
+  {
+    "id": "curated-gaina",
+    "ro": "găină",
+    "ru": "курица",
+    "level": "A1",
+    "theme": "Животные",
+    "pos": "сущ., ж. р.",
+    "forms": "găina; găini",
+    "examples": [
+      {
+        "ro": "Găina a făcut un ou.",
+        "ru": "Курица снесла яйцо."
+      },
+      {
+        "ro": "Găinile caută boabe în curte.",
+        "ru": "Курицы ищут зёрна во дворе."
+      }
+    ],
+    "image": "/photos/curated/curated-gaina.webp",
+    "imageSource": {
+      "name": "Male_and_female_chicken_sitting_together.jpg",
+      "url": "https://commons.wikimedia.org/wiki/File:Male_and_female_chicken_sitting_together.jpg",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "attribution": "Andrei Niemimäki from Turku, Finland Изменения: размер уменьшен до 640 px, преобразовано в WebP."
+    }
+  },
+  {
+    "id": "curated-rata",
+    "ro": "rață",
+    "ru": "утка",
+    "level": "A1",
+    "theme": "Животные",
+    "pos": "сущ., ж. р.",
+    "forms": "rața; rațe",
+    "examples": [
+      {
+        "ro": "Rața înoată pe lac.",
+        "ru": "Утка плавает по озеру."
+      },
+      {
+        "ro": "Rațele se ascund în stuf.",
+        "ru": "Утки прячутся в камышах."
+      }
+    ],
+    "image": "/photos/curated/curated-rata.webp",
+    "imageSource": {
+      "name": "Anas_platyrhynchos_male_female_quadrat.jpg",
+      "url": "https://commons.wikimedia.org/wiki/File:Anas_platyrhynchos_male_female_quadrat.jpg",
+      "license": "CC BY-SA 2.5",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.5",
+      "attribution": "\n\n\n\n\n\n\n\n\nThis picture was realized by Richard Bartz by using a Canon EF 70-300mm f/4-5.6 IS USM Lens Изменения: размер уменьшен до 640 px, преобразовано в WebP."
+    }
+  },
+  {
+    "id": "curated-iepure",
+    "ro": "iepure",
+    "ru": "кролик; заяц",
+    "level": "A1",
+    "theme": "Животные",
+    "pos": "сущ., м. р.",
+    "forms": "iepurele; iepuri",
+    "examples": [
+      {
+        "ro": "Iepurele mănâncă un morcov.",
+        "ru": "Кролик ест морковку."
+      },
+      {
+        "ro": "Am văzut un iepure pe câmp.",
+        "ru": "Я видел зайца в поле."
+      }
+    ],
+    "image": "/photos/curated/curated-iepure.webp",
+    "imageSource": {
+      "name": "Oryctolagus_cuniculus_Rcdo.jpg",
+      "url": "https://commons.wikimedia.org/wiki/File:Oryctolagus_cuniculus_Rcdo.jpg",
+      "license": "CC BY 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+      "attribution": "JM Ligero Loarte Изменения: размер уменьшен до 640 px, преобразовано в WebP."
+    }
+  },
+  {
+    "id": "curated-urs",
+    "ro": "urs",
+    "ru": "медведь",
+    "level": "A1",
+    "theme": "Животные",
+    "pos": "сущ., м. р.",
+    "forms": "ursul; urși",
+    "examples": [
+      {
+        "ro": "Ursul trăiește în pădure.",
+        "ru": "Медведь живёт в лесу."
+      },
+      {
+        "ro": "Nu hrăniți urșii sălbatici.",
+        "ru": "Не кормите диких медведей."
+      }
+    ],
+    "image": "/photos/curated/curated-urs.webp",
+    "imageSource": {
+      "name": "2010-kodiak-bear-1.jpg",
+      "url": "https://commons.wikimedia.org/wiki/File:2010-kodiak-bear-1.jpg",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "attribution": "Yathin S Krishnappa Изменения: размер уменьшен до 640 px, преобразовано в WebP."
+    }
+  },
+  {
+    "id": "curated-lup",
+    "ro": "lup",
+    "ru": "волк",
+    "level": "A1",
+    "theme": "Животные",
+    "pos": "сущ., м. р.",
+    "forms": "lupul; lupi",
+    "examples": [
+      {
+        "ro": "Lupul a dispărut printre copaci.",
+        "ru": "Волк скрылся среди деревьев."
+      },
+      {
+        "ro": "Lupii trăiesc în haite.",
+        "ru": "Волки живут стаями."
+      }
+    ],
+    "image": "/photos/curated/curated-lup.webp",
+    "imageSource": {
+      "name": "Eurasian_wolf_2.jpg",
+      "url": "https://commons.wikimedia.org/wiki/File:Eurasian_wolf_2.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "attribution": "User:Mas3cf Изменения: размер уменьшен до 640 px, преобразовано в WebP."
+    }
+  },
+  {
+    "id": "curated-vulpe",
+    "ro": "vulpe",
+    "ru": "лиса",
+    "level": "A1",
+    "theme": "Животные",
+    "pos": "сущ., ж. р.",
+    "forms": "vulpea; vulpi",
+    "examples": [
+      {
+        "ro": "Vulpea are coada stufoasă.",
+        "ru": "У лисы пушистый хвост."
+      },
+      {
+        "ro": "Am văzut vulpi la marginea pădurii.",
+        "ru": "Я видел лис на опушке леса."
+      }
+    ],
+    "image": "/photos/curated/curated-vulpe.webp",
+    "imageSource": {
+      "name": "Portrait_of_a_red_fox_in_Rautas_fjällurskog_(cropped).jpg",
+      "url": "https://commons.wikimedia.org/wiki/File:Portrait_of_a_red_fox_in_Rautas_fj%C3%A4llurskog_(cropped).jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "attribution": "ClaudiaTen Изменения: размер уменьшен до 640 px, преобразовано в WebP."
+    }
+  },
+  {
+    "id": "curated-leu",
+    "ro": "leu",
+    "ru": "лев; румынский лей",
+    "level": "A1",
+    "theme": "Животные",
+    "pos": "сущ., м. р.",
+    "forms": "leul; lei",
+    "examples": [
+      {
+        "ro": "Leul se odihnește la umbră.",
+        "ru": "Лев отдыхает в тени."
+      },
+      {
+        "ro": "Un bilet costă zece lei.",
+        "ru": "Билет стоит десять леев."
+      }
+    ]
+  },
+  {
+    "id": "curated-elefant",
+    "ro": "elefant",
+    "ru": "слон",
+    "level": "A1",
+    "theme": "Животные",
+    "pos": "сущ., м. р.",
+    "forms": "elefantul; elefanți",
+    "examples": [
+      {
+        "ro": "Elefantul bea apă cu trompa.",
+        "ru": "Слон пьёт воду хоботом."
+      },
+      {
+        "ro": "Elefanții au o memorie bună.",
+        "ru": "У слонов хорошая память."
+      }
+    ],
+    "image": "/photos/curated/curated-elefant.webp",
+    "imageSource": {
+      "name": "African_Elephant_(Loxodonta_africana)_male_(17289351322).jpg",
+      "url": "https://commons.wikimedia.org/wiki/File:African_Elephant_(Loxodonta_africana)_male_(17289351322).jpg",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "attribution": "Bernard DUPONT from FRANCE Изменения: размер уменьшен до 640 px, преобразовано в WebP."
+    }
+  },
+  {
+    "id": "curated-fluture",
+    "ro": "fluture",
+    "ru": "бабочка",
+    "level": "A2",
+    "theme": "Животные",
+    "pos": "сущ., м. р.",
+    "forms": "fluturele; fluturi",
+    "examples": [
+      {
+        "ro": "Un fluture s-a așezat pe floare.",
+        "ru": "Бабочка села на цветок."
+      },
+      {
+        "ro": "Primăvara apar mulți fluturi.",
+        "ru": "Весной появляется много бабочек."
+      }
+    ]
+  },
+  {
+    "id": "curated-albina",
+    "ro": "albină",
+    "ru": "пчела",
+    "level": "A2",
+    "theme": "Животные",
+    "pos": "сущ., ж. р.",
+    "forms": "albina; albine",
+    "examples": [
+      {
+        "ro": "Albina adună nectar.",
+        "ru": "Пчела собирает нектар."
+      },
+      {
+        "ro": "Albinele polenizează florile.",
+        "ru": "Пчёлы опыляют цветы."
+      }
+    ],
+    "image": "/photos/curated/curated-albina.webp",
+    "imageSource": {
+      "name": "The_Lone_Pollinator.jpg",
+      "url": "https://commons.wikimedia.org/wiki/File:The_Lone_Pollinator.jpg",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+      "attribution": "Tanner Smida Изменения: размер уменьшен до 640 px, преобразовано в WebP."
+    }
+  },
+  {
+    "id": "curated-furnica",
+    "ro": "furnică",
+    "ru": "муравей",
+    "level": "A2",
+    "theme": "Животные",
+    "pos": "сущ., ж. р.",
+    "forms": "furnica; furnici",
+    "examples": [
+      {
+        "ro": "Furnica duce o firimitură.",
+        "ru": "Муравей несёт крошку."
+      },
+      {
+        "ro": "Furnicile trăiesc în colonii.",
+        "ru": "Муравьи живут колониями."
+      }
+    ],
+    "image": "/photos/curated/curated-furnica.webp",
+    "imageSource": {
+      "name": "Red_Ant_-_March_2025.jpg",
+      "url": "https://commons.wikimedia.org/wiki/File:Red_Ant_-_March_2025.jpg",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "attribution": "Samantha Henneke from Seagrove, North Carolina, USA Изменения: размер уменьшен до 640 px, преобразовано в WebP."
+    }
+  },
+  {
+    "id": "curated-pasare",
+    "ro": "pasăre",
+    "ru": "птица",
+    "level": "A0",
+    "theme": "Животные",
+    "pos": "сущ., ж. р.",
+    "forms": "pasărea; păsări",
+    "examples": [
+      {
+        "ro": "O pasăre cântă la fereastră.",
+        "ru": "У окна поёт птица."
+      },
+      {
+        "ro": "Toamna, unele păsări pleacă spre sud.",
+        "ru": "Осенью некоторые птицы улетают на юг."
+      }
+    ]
+  },
+  {
+    "id": "curated-copac",
+    "ro": "copac",
+    "ru": "дерево",
+    "level": "A0",
+    "theme": "Природа",
+    "pos": "сущ., м. р.",
+    "forms": "copacul; copaci",
+    "examples": [
+      {
+        "ro": "Copacul din curte este înalt.",
+        "ru": "Дерево во дворе высокое."
+      },
+      {
+        "ro": "Plantăm copaci primăvara.",
+        "ru": "Весной мы сажаем деревья."
+      }
+    ]
+  },
+  {
+    "id": "curated-floare",
+    "ro": "floare",
+    "ru": "цветок",
+    "level": "A0",
+    "theme": "Природа",
+    "pos": "сущ., ж. р.",
+    "forms": "floarea; flori",
+    "examples": [
+      {
+        "ro": "Floarea are petale galbene.",
+        "ru": "У цветка жёлтые лепестки."
+      },
+      {
+        "ro": "Îi ofer mamei flori.",
+        "ru": "Я дарю маме цветы."
+      }
+    ]
+  },
+  {
+    "id": "curated-frunza",
+    "ro": "frunză",
+    "ru": "лист (растения)",
+    "level": "A1",
+    "theme": "Природа",
+    "pos": "сущ., ж. р.",
+    "forms": "frunza; frunze",
+    "examples": [
+      {
+        "ro": "O frunză cade din copac.",
+        "ru": "С дерева падает лист."
+      },
+      {
+        "ro": "Frunzele se îngălbenesc toamna.",
+        "ru": "Осенью листья желтеют."
+      }
+    ]
+  },
+  {
+    "id": "curated-iarba",
+    "ro": "iarbă",
+    "ru": "трава",
+    "level": "A1",
+    "theme": "Природа",
+    "pos": "сущ., ж. р.",
+    "forms": "iarba; обычно без мн. ч.",
+    "examples": [
+      {
+        "ro": "Iarba este udă după ploaie.",
+        "ru": "Трава мокрая после дождя."
+      },
+      {
+        "ro": "Copiii se joacă pe iarbă.",
+        "ru": "Дети играют на траве."
+      }
+    ]
+  },
+  {
+    "id": "curated-munte",
+    "ro": "munte",
+    "ru": "гора",
+    "level": "A1",
+    "theme": "Природа",
+    "pos": "сущ., м. р.",
+    "forms": "muntele; munți",
+    "examples": [
+      {
+        "ro": "Urcăm pe munte dimineața.",
+        "ru": "Утром мы поднимаемся на гору."
+      },
+      {
+        "ro": "Munții sunt acoperiți de zăpadă.",
+        "ru": "Горы покрыты снегом."
+      }
+    ]
+  },
+  {
+    "id": "curated-rau",
+    "ro": "râu",
+    "ru": "река",
+    "level": "A1",
+    "theme": "Природа",
+    "pos": "сущ., ср. р.",
+    "forms": "râul; râuri",
+    "examples": [
+      {
+        "ro": "Râul trece prin oraș.",
+        "ru": "Река протекает через город."
+      },
+      {
+        "ro": "După ploaie, râurile au crescut.",
+        "ru": "После дождя уровень воды в реках поднялся."
+      }
+    ]
+  },
+  {
+    "id": "curated-lac",
+    "ro": "lac",
+    "ru": "озеро",
+    "level": "A1",
+    "theme": "Природа",
+    "pos": "сущ., ср. р.",
+    "forms": "lacul; lacuri",
+    "examples": [
+      {
+        "ro": "Ne plimbăm în jurul lacului.",
+        "ru": "Мы гуляем вокруг озера."
+      },
+      {
+        "ro": "În regiune sunt multe lacuri.",
+        "ru": "В регионе много озёр."
+      }
+    ]
+  },
+  {
+    "id": "curated-padure",
+    "ro": "pădure",
+    "ru": "лес",
+    "level": "A1",
+    "theme": "Природа",
+    "pos": "сущ., ж. р.",
+    "forms": "pădurea; păduri",
+    "examples": [
+      {
+        "ro": "Ne plimbăm prin pădure.",
+        "ru": "Мы гуляем по лесу."
+      },
+      {
+        "ro": "Pădurile oferă adăpost animalelor.",
+        "ru": "Леса дают животным укрытие."
+      }
+    ]
+  },
+  {
+    "id": "curated-plaja",
+    "ro": "plajă",
+    "ru": "пляж",
+    "level": "A1",
+    "theme": "Путешествия",
+    "pos": "сущ., ж. р.",
+    "forms": "plaja; plaje",
+    "examples": [
+      {
+        "ro": "Plaja este aproape de hotel.",
+        "ru": "Пляж недалеко от отеля."
+      },
+      {
+        "ro": "Dimineața, plajele sunt liniștite.",
+        "ru": "По утрам на пляжах тихо."
+      }
+    ]
+  },
+  {
+    "id": "curated-soare",
+    "ro": "soare",
+    "ru": "солнце",
+    "level": "A0",
+    "theme": "Погода",
+    "pos": "сущ., м. р.",
+    "forms": "soarele; обычно без мн. ч.",
+    "examples": [
+      {
+        "ro": "Soarele răsare devreme vara.",
+        "ru": "Летом солнце встаёт рано."
+      },
+      {
+        "ro": "Stăm la umbră când soarele arde.",
+        "ru": "Мы сидим в тени, когда солнце печёт."
+      }
+    ]
+  },
+  {
+    "id": "curated-nor",
+    "ro": "nor",
+    "ru": "облако",
+    "level": "A1",
+    "theme": "Погода",
+    "pos": "сущ., м. р.",
+    "forms": "norul; nori",
+    "examples": [
+      {
+        "ro": "Un nor acoperă soarele.",
+        "ru": "Облако закрывает солнце."
+      },
+      {
+        "ro": "Pe cer sunt nori negri.",
+        "ru": "На небе чёрные тучи."
+      }
+    ]
+  },
+  {
+    "id": "curated-ploaie",
+    "ro": "ploaie",
+    "ru": "дождь",
+    "level": "A0",
+    "theme": "Погода",
+    "pos": "сущ., ж. р.",
+    "forms": "ploaia; ploi",
+    "examples": [
+      {
+        "ro": "Ploaia a început seara.",
+        "ru": "Дождь начался вечером."
+      },
+      {
+        "ro": "Primăvara sunt ploi dese.",
+        "ru": "Весной часто идут дожди."
+      }
+    ]
+  },
+  {
+    "id": "curated-zapada",
+    "ro": "zăpadă",
+    "ru": "снег",
+    "level": "A0",
+    "theme": "Погода",
+    "pos": "сущ., ж. р.",
+    "forms": "zăpada; zăpezi",
+    "examples": [
+      {
+        "ro": "Zăpada acoperă acoperișurile.",
+        "ru": "Снег покрывает крыши."
+      },
+      {
+        "ro": "Copiii se joacă în zăpadă.",
+        "ru": "Дети играют в снегу."
+      }
+    ]
+  },
+  {
+    "id": "curated-vant",
+    "ro": "vânt",
+    "ru": "ветер",
+    "level": "A1",
+    "theme": "Погода",
+    "pos": "сущ., ср. р.",
+    "forms": "vântul; vânturi",
+    "examples": [
+      {
+        "ro": "Vântul bate dinspre nord.",
+        "ru": "Ветер дует с севера."
+      },
+      {
+        "ro": "Închid fereastra din cauza vântului.",
+        "ru": "Я закрываю окно из-за ветра."
+      }
+    ]
+  },
+  {
+    "id": "curated-furtuna",
+    "ro": "furtună",
+    "ru": "буря; гроза",
+    "level": "A2",
+    "theme": "Погода",
+    "pos": "сущ., ж. р.",
+    "forms": "furtuna; furtuni",
+    "examples": [
+      {
+        "ro": "Furtuna a rupt câteva crengi.",
+        "ru": "Буря сломала несколько веток."
+      },
+      {
+        "ro": "Se anunță furtuni pentru mâine.",
+        "ru": "На завтра прогнозируют грозы."
+      }
+    ]
+  },
+  {
+    "id": "curated-umbrela",
+    "ro": "umbrelă",
+    "ru": "зонт",
+    "level": "A1",
+    "theme": "Одежда",
+    "pos": "сущ., ж. р.",
+    "forms": "umbrela; umbrele",
+    "examples": [
+      {
+        "ro": "Iau umbrela pentru că plouă.",
+        "ru": "Я беру зонт, потому что идёт дождь."
+      },
+      {
+        "ro": "Am uitat umbrelele în autobuz.",
+        "ru": "Мы забыли зонты в автобусе."
+      }
+    ]
+  },
+  {
+    "id": "curated-camasa",
+    "ro": "cămașă",
+    "ru": "рубашка",
+    "level": "A1",
+    "theme": "Одежда",
+    "pos": "сущ., ж. р.",
+    "forms": "cămașa; cămăși",
+    "examples": [
+      {
+        "ro": "Port o cămașă albă la serviciu.",
+        "ru": "Я ношу белую рубашку на работу."
+      },
+      {
+        "ro": "Cămășile curate sunt călcate.",
+        "ru": "Чистые рубашки выглажены."
+      }
+    ]
+  },
+  {
+    "id": "curated-tricou",
+    "ro": "tricou",
+    "ru": "футболка",
+    "level": "A0",
+    "theme": "Одежда",
+    "pos": "сущ., ср. р.",
+    "forms": "tricoul; tricouri",
+    "examples": [
+      {
+        "ro": "Tricoul acesta îmi este mic.",
+        "ru": "Эта футболка мне мала."
+      },
+      {
+        "ro": "Cumpăr două tricouri de bumbac.",
+        "ru": "Я покупаю две хлопковые футболки."
+      }
+    ]
+  },
+  {
+    "id": "curated-pantaloni",
+    "ro": "pantaloni",
+    "ru": "брюки",
+    "level": "A1",
+    "theme": "Одежда",
+    "pos": "сущ., м. р., мн. ч.",
+    "forms": "pantalonii; o pereche de pantaloni",
+    "examples": [
+      {
+        "ro": "Pantalonii sunt prea lungi.",
+        "ru": "Брюки слишком длинные."
+      },
+      {
+        "ro": "Caut o pereche de pantaloni negri.",
+        "ru": "Я ищу чёрные брюки."
+      }
+    ]
+  },
+  {
+    "id": "curated-rochie",
+    "ro": "rochie",
+    "ru": "платье",
+    "level": "A1",
+    "theme": "Одежда",
+    "pos": "сущ., ж. р.",
+    "forms": "rochia; rochii",
+    "examples": [
+      {
+        "ro": "Rochia albastră îți vine bine.",
+        "ru": "Тебе идёт синее платье."
+      },
+      {
+        "ro": "În vitrină sunt rochii de vară.",
+        "ru": "В витрине летние платья."
+      }
+    ]
+  },
+  {
+    "id": "curated-fusta",
+    "ro": "fustă",
+    "ru": "юбка",
+    "level": "A1",
+    "theme": "Одежда",
+    "pos": "сущ., ж. р.",
+    "forms": "fusta; fuste",
+    "examples": [
+      {
+        "ro": "Fusta aceasta are buzunare.",
+        "ru": "У этой юбки есть карманы."
+      },
+      {
+        "ro": "Probez două fuste în cabină.",
+        "ru": "Я примеряю две юбки в кабинке."
+      }
+    ]
+  },
+  {
+    "id": "curated-pulover",
+    "ro": "pulover",
+    "ru": "свитер",
+    "level": "A1",
+    "theme": "Одежда",
+    "pos": "сущ., ср. р.",
+    "forms": "puloverul; pulovere",
+    "examples": [
+      {
+        "ro": "Îmbrac un pulover gros.",
+        "ru": "Я надеваю толстый свитер."
+      },
+      {
+        "ro": "Puloverele de lână se spală cu grijă.",
+        "ru": "Шерстяные свитеры стирают осторожно."
+      }
+    ]
+  },
+  {
+    "id": "curated-geaca",
+    "ro": "geacă",
+    "ru": "куртка",
+    "level": "A1",
+    "theme": "Одежда",
+    "pos": "сущ., ж. р.",
+    "forms": "geaca; geci",
+    "examples": [
+      {
+        "ro": "Geaca mă protejează de vânt.",
+        "ru": "Куртка защищает меня от ветра."
+      },
+      {
+        "ro": "Gecile de iarnă sunt la reducere.",
+        "ru": "Зимние куртки продаются со скидкой."
+      }
+    ]
+  },
+  {
+    "id": "curated-pantof",
+    "ro": "pantof",
+    "ru": "туфля; ботинок",
+    "level": "A1",
+    "theme": "Одежда",
+    "pos": "сущ., м. р.",
+    "forms": "pantoful; pantofi",
+    "examples": [
+      {
+        "ro": "Un pantof mă strânge.",
+        "ru": "Одна туфля мне жмёт."
+      },
+      {
+        "ro": "Îmi curăț pantofii înainte de plecare.",
+        "ru": "Я чищу туфли перед выходом."
+      }
+    ]
+  },
+  {
+    "id": "curated-cizma",
+    "ro": "cizmă",
+    "ru": "сапог",
+    "level": "A1",
+    "theme": "Одежда",
+    "pos": "сущ., ж. р.",
+    "forms": "cizma; cizme",
+    "examples": [
+      {
+        "ro": "Cizma dreaptă este udă.",
+        "ru": "Правый сапог мокрый."
+      },
+      {
+        "ro": "Port cizme când ninge.",
+        "ru": "Я ношу сапоги, когда идёт снег."
+      }
+    ]
+  },
+  {
+    "id": "curated-soseta",
+    "ro": "șosetă",
+    "ru": "носок",
+    "level": "A1",
+    "theme": "Одежда",
+    "pos": "сущ., ж. р.",
+    "forms": "șoseta; șosete",
+    "examples": [
+      {
+        "ro": "Nu găsesc a doua șosetă.",
+        "ru": "Я не могу найти второй носок."
+      },
+      {
+        "ro": "Șosetele sunt în sertar.",
+        "ru": "Носки в ящике."
+      }
+    ]
+  },
+  {
+    "id": "curated-palarie",
+    "ro": "pălărie",
+    "ru": "шляпа",
+    "level": "A1",
+    "theme": "Одежда",
+    "pos": "сущ., ж. р.",
+    "forms": "pălăria; pălării",
+    "examples": [
+      {
+        "ro": "Port pălărie ca să mă feresc de soare.",
+        "ru": "Я ношу шляпу, чтобы защититься от солнца."
+      },
+      {
+        "ro": "Magazinul vinde pălării de paie.",
+        "ru": "В магазине продаются соломенные шляпы."
+      }
+    ]
+  },
+  {
+    "id": "curated-manusa",
+    "ro": "mănușă",
+    "ru": "перчатка",
+    "level": "A1",
+    "theme": "Одежда",
+    "pos": "сущ., ж. р.",
+    "forms": "mănușa; mănuși",
+    "examples": [
+      {
+        "ro": "Mi-a căzut o mănușă.",
+        "ru": "У меня упала перчатка."
+      },
+      {
+        "ro": "Îmi pun mănușile înainte să ies.",
+        "ru": "Я надеваю перчатки перед выходом."
+      }
+    ]
+  },
+  {
+    "id": "curated-esarfa",
+    "ro": "eșarfă",
+    "ru": "шарф; шейный платок",
+    "level": "A2",
+    "theme": "Одежда",
+    "pos": "сущ., ж. р.",
+    "forms": "eșarfa; eșarfe",
+    "examples": [
+      {
+        "ro": "Îmi leg eșarfa la gât.",
+        "ru": "Я повязываю шарф на шею."
+      },
+      {
+        "ro": "Eșarfele de mătase sunt delicate.",
+        "ru": "Шёлковые платки нежные."
+      }
+    ]
+  },
+  {
+    "id": "curated-rucsac",
+    "ro": "rucsac",
+    "ru": "рюкзак",
+    "level": "A1",
+    "theme": "Путешествия",
+    "pos": "сущ., ср. р.",
+    "forms": "rucsacul; rucsacuri",
+    "examples": [
+      {
+        "ro": "Pun sticla în rucsac.",
+        "ru": "Я кладу бутылку в рюкзак."
+      },
+      {
+        "ro": "Rucsacurile noastre sunt grele.",
+        "ru": "Наши рюкзаки тяжёлые."
+      }
+    ],
+    "image": "/photos/curated/curated-rucsac.webp",
+    "imageSource": {
+      "name": "Rucksack1.jpg",
+      "url": "https://commons.wikimedia.org/wiki/File:Rucksack1.jpg",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "attribution": "de:Benutzer:sjr Изменения: размер уменьшен до 640 px, преобразовано в WebP."
+    }
+  },
+  {
+    "id": "curated-valiza",
+    "ro": "valiză",
+    "ru": "чемодан",
+    "level": "A1",
+    "theme": "Путешествия",
+    "pos": "сущ., ж. р.",
+    "forms": "valiza; valize",
+    "examples": [
+      {
+        "ro": "Îmi fac valiza pentru călătorie.",
+        "ru": "Я собираю чемодан для поездки."
+      },
+      {
+        "ro": "Lăsăm valizele la recepție.",
+        "ru": "Мы оставляем чемоданы на стойке регистрации."
+      }
+    ],
+    "image": "/photos/curated/curated-valiza.webp",
+    "imageSource": {
+      "name": "Suitcase1.jpg",
+      "url": "https://commons.wikimedia.org/wiki/File:Suitcase1.jpg",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "attribution": "JEXP Изменения: размер уменьшен до 640 px, преобразовано в WebP."
+    }
+  },
+  {
+    "id": "curated-bicicleta",
+    "ro": "bicicletă",
+    "ru": "велосипед",
+    "level": "A0",
+    "theme": "Транспорт",
+    "pos": "сущ., ж. р.",
+    "forms": "bicicleta; biciclete",
+    "examples": [
+      {
+        "ro": "Merg cu bicicleta la școală.",
+        "ru": "Я езжу в школу на велосипеде."
+      },
+      {
+        "ro": "Închiriem două biciclete pentru o zi.",
+        "ru": "Мы берём напрокат два велосипеда на день."
+      }
+    ],
+    "image": "/photos/curated/curated-bicicleta.webp",
+    "imageSource": {
+      "name": "Left_side_of_Flying_Pigeon.jpg",
+      "url": "https://commons.wikimedia.org/wiki/File:Left_side_of_Flying_Pigeon.jpg",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "attribution": "齐健 from Peking, People's Republic of China Изменения: размер уменьшен до 640 px, преобразовано в WebP."
+    }
+  },
+  {
+    "id": "curated-autobuz",
+    "ro": "autobuz",
+    "ru": "автобус",
+    "level": "A0",
+    "theme": "Транспорт",
+    "pos": "сущ., ср. р.",
+    "forms": "autobuzul; autobuze",
+    "examples": [
+      {
+        "ro": "Autobuzul oprește în fața gării.",
+        "ru": "Автобус останавливается перед вокзалом."
+      },
+      {
+        "ro": "Autobuzele circulă până la miezul nopții.",
+        "ru": "Автобусы ходят до полуночи."
+      }
+    ],
+    "image": "/photos/curated/curated-autobuz.webp",
+    "imageSource": {
+      "name": "LTZ1328-19-20241030-160332.jpg",
+      "url": "https://commons.wikimedia.org/wiki/File:LTZ1328-19-20241030-160332.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "attribution": "SIA321 Изменения: размер уменьшен до 640 px, преобразовано в WebP."
+    }
+  },
+  {
+    "id": "curated-tramvai",
+    "ro": "tramvai",
+    "ru": "трамвай",
+    "level": "A1",
+    "theme": "Транспорт",
+    "pos": "сущ., ср. р.",
+    "forms": "tramvaiul; tramvaie",
+    "examples": [
+      {
+        "ro": "Tramvaiul sosește peste două minute.",
+        "ru": "Трамвай прибудет через две минуты."
+      },
+      {
+        "ro": "În acest oraș circulă tramvaie moderne.",
+        "ru": "В этом городе ходят современные трамваи."
+      }
+    ],
+    "image": "/photos/curated/curated-tramvai.webp",
+    "imageSource": {
+      "name": "Muzeum_MHD,_tramvaje_T3_8084_a_6149,_zepředu.jpg",
+      "url": "https://commons.wikimedia.org/wiki/File:Muzeum_MHD,_tramvaje_T3_8084_a_6149,_zep%C5%99edu.jpg",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "attribution": "ŠJů (cs:ŠJů) Изменения: размер уменьшен до 640 px, преобразовано в WebP."
+    }
+  },
+  {
+    "id": "curated-metrou",
+    "ro": "metrou",
+    "ru": "метро",
+    "level": "A1",
+    "theme": "Транспорт",
+    "pos": "сущ., ср. р.",
+    "forms": "metroul; metrouri",
+    "examples": [
+      {
+        "ro": "Coborâm la următoarea stație de metrou.",
+        "ru": "Мы выходим на следующей станции метро."
+      },
+      {
+        "ro": "Metroul este aglomerat dimineața.",
+        "ru": "Утром в метро много людей."
+      }
+    ],
+    "image": "/photos/curated/curated-metrou.webp",
+    "imageSource": {
+      "name": "Seoul-metro-2009-20180916-103548.jpg",
+      "url": "https://commons.wikimedia.org/wiki/File:Seoul-metro-2009-20180916-103548.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "attribution": "LERK Изменения: размер уменьшен до 640 px, преобразовано в WebP."
+    }
+  },
+  {
+    "id": "curated-avion",
+    "ro": "avion",
+    "ru": "самолёт",
+    "level": "A1",
+    "theme": "Транспорт",
+    "pos": "сущ., ср. р.",
+    "forms": "avionul; avioane",
+    "examples": [
+      {
+        "ro": "Avionul decolează la ora șase.",
+        "ru": "Самолёт взлетает в шесть часов."
+      },
+      {
+        "ro": "Văd avioane de la fereastra aeroportului.",
+        "ru": "Я вижу самолёты из окна аэропорта."
+      }
+    ],
+    "image": "/photos/curated/curated-avion.webp",
+    "imageSource": {
+      "name": "Airbus_A320-214,_Airbus_Industrie_JP7617615.jpg",
+      "url": "https://commons.wikimedia.org/wiki/File:Airbus_A320-214,_Airbus_Industrie_JP7617615.jpg",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "attribution": "\nPedro Aragão Изменения: размер уменьшен до 640 px, преобразовано в WebP."
+    }
+  },
+  {
+    "id": "curated-nava",
+    "ro": "navă",
+    "ru": "судно; корабль",
+    "level": "A2",
+    "theme": "Транспорт",
+    "pos": "сущ., ж. р.",
+    "forms": "nava; nave",
+    "examples": [
+      {
+        "ro": "Nava intră în port.",
+        "ru": "Судно входит в порт."
+      },
+      {
+        "ro": "Navele transportă mărfuri pe mare.",
+        "ru": "Суда перевозят грузы по морю."
+      }
+    ],
+    "image": "/photos/curated/curated-nava.webp",
+    "imageSource": {
+      "name": "Containerterminal_Altenwerder_(Hamburg-Altenwerder).Iris_Bolten.4.phb.ajb.jpg",
+      "url": "https://commons.wikimedia.org/wiki/File:Containerterminal_Altenwerder_(Hamburg-Altenwerder).Iris_Bolten.4.phb.ajb.jpg",
+      "license": "CC BY-SA 3.0 de",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/de/deed.en",
+      "attribution": "Ajepbah Изменения: размер уменьшен до 640 px, преобразовано в WebP."
+    }
+  },
+  {
+    "id": "curated-motocicleta",
+    "ro": "motocicletă",
+    "ru": "мотоцикл",
+    "level": "A1",
+    "theme": "Транспорт",
+    "pos": "сущ., ж. р.",
+    "forms": "motocicleta; motociclete",
+    "examples": [
+      {
+        "ro": "Conduce o motocicletă roșie.",
+        "ru": "Он едет на красном мотоцикле."
+      },
+      {
+        "ro": "Motocicletele sunt parcate lângă cafenea.",
+        "ru": "Мотоциклы припаркованы у кафе."
+      }
+    ]
+  },
+  {
+    "id": "curated-camion",
+    "ro": "camion",
+    "ru": "грузовик",
+    "level": "A2",
+    "theme": "Транспорт",
+    "pos": "сущ., ср. р.",
+    "forms": "camionul; camioane",
+    "examples": [
+      {
+        "ro": "Camionul transportă mobilă.",
+        "ru": "Грузовик перевозит мебель."
+      },
+      {
+        "ro": "Camioanele nu au voie pe această stradă.",
+        "ru": "Грузовикам нельзя ездить по этой улице."
+      }
+    ],
+    "image": "/photos/curated/curated-camion.webp",
+    "imageSource": {
+      "name": "2001_Ford_F-250_Super_Duty_XL_regular_cab_flatbed,_front_left,_05-17-2025.jpg",
+      "url": "https://commons.wikimedia.org/wiki/File:2001_Ford_F-250_Super_Duty_XL_regular_cab_flatbed,_front_left,_05-17-2025.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "attribution": "MercurySable99 Изменения: размер уменьшен до 640 px, преобразовано в WebP."
+    }
+  },
+  {
+    "id": "curated-semafor",
+    "ro": "semafor",
+    "ru": "светофор",
+    "level": "A1",
+    "theme": "Город",
+    "pos": "сущ., ср. р.",
+    "forms": "semaforul; semafoare",
+    "examples": [
+      {
+        "ro": "Așteptăm la semafor.",
+        "ru": "Мы ждём у светофора."
+      },
+      {
+        "ro": "Semaforul s-a făcut verde.",
+        "ru": "На светофоре загорелся зелёный."
+      }
+    ],
+    "image": "/photos/curated/curated-semafor.webp",
+    "imageSource": {
+      "name": "Modern_British_LED_Traffic_Light.jpg",
+      "url": "https://commons.wikimedia.org/wiki/File:Modern_British_LED_Traffic_Light.jpg",
+      "license": "CC BY 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+      "attribution": "Unisouth Изменения: размер уменьшен до 640 px, преобразовано в WebP."
+    }
+  },
+  {
+    "id": "curated-pod",
+    "ro": "pod",
+    "ru": "мост; чердак (по контексту)",
+    "level": "A1",
+    "theme": "Город",
+    "pos": "сущ., ср. р.",
+    "forms": "podul; poduri",
+    "examples": [
+      {
+        "ro": "Trecem râul pe pod.",
+        "ru": "Мы переходим реку по мосту."
+      },
+      {
+        "ro": "Podul vechi este închis pentru reparații.",
+        "ru": "Старый мост закрыт на ремонт."
+      }
+    ]
+  },
+  {
+    "id": "curated-trotuar",
+    "ro": "trotuar",
+    "ru": "тротуар",
+    "level": "A2",
+    "theme": "Город",
+    "pos": "сущ., ср. р.",
+    "forms": "trotuarul; trotuare",
+    "examples": [
+      {
+        "ro": "Mergi pe trotuar, te rog.",
+        "ru": "Иди по тротуару, пожалуйста."
+      },
+      {
+        "ro": "Mașinile blochează trotuarele.",
+        "ru": "Машины загораживают тротуары."
+      }
+    ]
+  },
+  {
+    "id": "curated-intersectie",
+    "ro": "intersecție",
+    "ru": "перекрёсток",
+    "level": "A2",
+    "theme": "Город",
+    "pos": "сущ., ж. р.",
+    "forms": "intersecția; intersecții",
+    "examples": [
+      {
+        "ro": "La intersecție, virează la dreapta.",
+        "ru": "На перекрёстке поверни направо."
+      },
+      {
+        "ro": "Această intersecție este periculoasă.",
+        "ru": "Этот перекрёсток опасный."
+      }
+    ]
+  },
+  {
+    "id": "curated-peron",
+    "ro": "peron",
+    "ru": "платформа вокзала",
+    "level": "A2",
+    "theme": "Поезда",
+    "pos": "сущ., ср. р.",
+    "forms": "peronul; peroane",
+    "examples": [
+      {
+        "ro": "Trenul pleacă de la peronul doi.",
+        "ru": "Поезд отправляется со второй платформы."
+      },
+      {
+        "ro": "Pe peron așteaptă mulți călători.",
+        "ru": "На платформе ждёт много пассажиров."
+      }
+    ],
+    "image": "/photos/curated/curated-peron.webp",
+    "imageSource": {
+      "name": "Warszawa_1963.jpg",
+      "url": "https://commons.wikimedia.org/wiki/File:Warszawa_1963.jpg",
+      "license": "Public domain",
+      "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "attribution": "Jerzy Sołtan Изменения: размер уменьшен до 640 px, преобразовано в WebP."
+    }
+  },
+  {
+    "id": "curated-vagon",
+    "ro": "vagon",
+    "ru": "вагон",
+    "level": "A1",
+    "theme": "Поезда",
+    "pos": "сущ., ср. р.",
+    "forms": "vagonul; vagoane",
+    "examples": [
+      {
+        "ro": "Locul meu este în vagonul trei.",
+        "ru": "Моё место в третьем вагоне."
+      },
+      {
+        "ro": "Trenul are zece vagoane.",
+        "ru": "В поезде десять вагонов."
+      }
+    ]
+  },
+  {
+    "id": "curated-locomotiva",
+    "ro": "locomotivă",
+    "ru": "локомотив",
+    "level": "A2",
+    "theme": "Поезда",
+    "pos": "сущ., ж. р.",
+    "forms": "locomotiva; locomotive",
+    "examples": [
+      {
+        "ro": "Locomotiva trage vagoanele.",
+        "ru": "Локомотив тянет вагоны."
+      },
+      {
+        "ro": "Mecanicul verifică locomotiva înainte de plecare.",
+        "ru": "Машинист проверяет локомотив перед отправлением."
+      }
+    ],
+    "image": "/photos/curated/curated-locomotiva.webp",
+    "imageSource": {
+      "name": "R761-mx1.jpg",
+      "url": "https://commons.wikimedia.org/wiki/File:R761-mx1.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "attribution": "Max Thum Изменения: размер уменьшен до 640 px, преобразовано в WebP."
+    }
+  },
+  {
+    "id": "curated-sina",
+    "ro": "șină",
+    "ru": "рельс",
+    "level": "B1",
+    "theme": "Поезда",
+    "pos": "сущ., ж. р.",
+    "forms": "șina; șine",
+    "examples": [
+      {
+        "ro": "Roata se sprijină pe șină.",
+        "ru": "Колесо опирается на рельс."
+      },
+      {
+        "ro": "Nu traversa șinele în locuri nepermise.",
+        "ru": "Не переходи пути в неположенных местах."
+      }
+    ],
+    "image": "/photos/curated/curated-sina.webp",
+    "imageSource": {
+      "name": "Australian_National_Railways_track_with_concrete_sleepers.jpg",
+      "url": "https://commons.wikimedia.org/wiki/File:Australian_National_Railways_track_with_concrete_sleepers.jpg",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+      "attribution": "Australian National Railways Commission employee Изменения: размер уменьшен до 640 px, преобразовано в WebP."
+    }
+  },
+  {
+    "id": "curated-frana",
+    "ro": "frână",
+    "ru": "тормоз",
+    "level": "A2",
+    "theme": "Транспорт",
+    "pos": "сущ., ж. р.",
+    "forms": "frâna; frâne",
+    "examples": [
+      {
+        "ro": "Frâna de mână este trasă.",
+        "ru": "Ручной тормоз затянут."
+      },
+      {
+        "ro": "Mecanicul verifică frânele.",
+        "ru": "Механик проверяет тормоза."
+      }
+    ]
+  },
+  {
+    "id": "curated-roata",
+    "ro": "roată",
+    "ru": "колесо",
+    "level": "A1",
+    "theme": "Транспорт",
+    "pos": "сущ., ж. р.",
+    "forms": "roata; roți",
+    "examples": [
+      {
+        "ro": "Roata din față este dezumflată.",
+        "ru": "Переднее колесо спущено."
+      },
+      {
+        "ro": "Bicicleta are două roți.",
+        "ru": "У велосипеда два колеса."
+      }
+    ],
+    "image": "/photos/curated/curated-roata.webp",
+    "imageSource": {
+      "name": "Landesmuseum_Württemberg_Kelten_011.4.jpg",
+      "url": "https://commons.wikimedia.org/wiki/File:Landesmuseum_W%C3%BCrttemberg_Kelten_011.4.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "attribution": "Bybbisch94, Christian Gebhardt Изменения: размер уменьшен до 640 px, преобразовано в WebP."
+    }
+  },
+  {
+    "id": "curated-volan",
+    "ro": "volan",
+    "ru": "руль автомобиля",
+    "level": "A2",
+    "theme": "Транспорт",
+    "pos": "сущ., ср. р.",
+    "forms": "volanul; volane",
+    "examples": [
+      {
+        "ro": "Ține ambele mâini pe volan.",
+        "ru": "Держи обе руки на руле."
+      },
+      {
+        "ro": "Volanul se rotește greu.",
+        "ru": "Руль туго поворачивается."
+      }
+    ]
+  },
+  {
+    "id": "curated-ciocan",
+    "ro": "ciocan",
+    "ru": "молоток",
+    "level": "A2",
+    "theme": "Инструменты",
+    "pos": "сущ., ср. р.",
+    "forms": "ciocanul; ciocane",
+    "examples": [
+      {
+        "ro": "Bat cuiul cu ciocanul.",
+        "ru": "Я забиваю гвоздь молотком."
+      },
+      {
+        "ro": "Ciocanul este în cutia cu unelte.",
+        "ru": "Молоток в ящике с инструментами."
+      }
+    ]
+  },
+  {
+    "id": "curated-surubelnita",
+    "ro": "șurubelniță",
+    "ru": "отвёртка",
+    "level": "A2",
+    "theme": "Инструменты",
+    "pos": "сущ., ж. р.",
+    "forms": "șurubelnița; șurubelnițe",
+    "examples": [
+      {
+        "ro": "Strâng șurubul cu șurubelnița.",
+        "ru": "Я затягиваю винт отвёрткой."
+      },
+      {
+        "ro": "Am nevoie de o șurubelniță mai mică.",
+        "ru": "Мне нужна отвёртка поменьше."
+      }
+    ],
+    "image": "/photos/curated/curated-surubelnita.webp",
+    "imageSource": {
+      "name": "Screw_Driver_display.jpg",
+      "url": "https://commons.wikimedia.org/wiki/File:Screw_Driver_display.jpg",
+      "license": "CC BY 2.5",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.5",
+      "attribution": "Fcb981 at English Wikipedia Изменения: размер уменьшен до 640 px, преобразовано в WebP."
+    }
+  },
+  {
+    "id": "curated-cleste",
+    "ro": "clește",
+    "ru": "клещи; плоскогубцы",
+    "level": "B1",
+    "theme": "Инструменты",
+    "pos": "сущ., м. р.",
+    "forms": "cleștele; clești",
+    "examples": [
+      {
+        "ro": "Scot cuiul cu cleștele.",
+        "ru": "Я вытаскиваю гвоздь клещами."
+      },
+      {
+        "ro": "Electricianul folosește un clește izolat.",
+        "ru": "Электрик использует изолированные плоскогубцы."
+      }
+    ]
+  },
+  {
+    "id": "curated-fierastrau",
+    "ro": "fierăstrău",
+    "ru": "пила",
+    "level": "B1",
+    "theme": "Инструменты",
+    "pos": "сущ., ср. р.",
+    "forms": "fierăstrăul; fierăstraie",
+    "examples": [
+      {
+        "ro": "Tai scândura cu fierăstrăul.",
+        "ru": "Я пилю доску пилой."
+      },
+      {
+        "ro": "Fierăstrăul are dinți ascuțiți.",
+        "ru": "У пилы острые зубья."
+      }
+    ]
+  },
+  {
+    "id": "curated-surub",
+    "ro": "șurub",
+    "ru": "винт; шуруп",
+    "level": "B1",
+    "theme": "Инструменты",
+    "pos": "сущ., ср. р.",
+    "forms": "șurubul; șuruburi",
+    "examples": [
+      {
+        "ro": "Acest șurub este prea scurt.",
+        "ru": "Этот винт слишком короткий."
+      },
+      {
+        "ro": "Strâng șuruburile de la balamale.",
+        "ru": "Я затягиваю винты на петлях."
+      }
+    ]
+  },
+  {
+    "id": "curated-cui",
+    "ro": "cui",
+    "ru": "гвоздь",
+    "level": "A2",
+    "theme": "Инструменты",
+    "pos": "сущ., ср. р.",
+    "forms": "cuiul; cuie",
+    "examples": [
+      {
+        "ro": "Bat un cui în perete.",
+        "ru": "Я забиваю гвоздь в стену."
+      },
+      {
+        "ro": "Păstrez cuiele într-o cutie.",
+        "ru": "Я храню гвозди в коробке."
+      }
+    ]
+  },
+  {
+    "id": "curated-scara",
+    "ro": "scară",
+    "ru": "лестница; шкала",
+    "level": "A2",
+    "theme": "Дом",
+    "pos": "сущ., ж. р.",
+    "forms": "scara; scări",
+    "examples": [
+      {
+        "ro": "Urc pe scară ca să schimb becul.",
+        "ru": "Я поднимаюсь на лестницу, чтобы поменять лампочку."
+      },
+      {
+        "ro": "Cobor scările cu grijă.",
+        "ru": "Я осторожно спускаюсь по лестнице."
+      }
+    ]
+  },
+  {
+    "id": "curated-bec",
+    "ro": "bec",
+    "ru": "лампочка",
+    "level": "A2",
+    "theme": "Техника",
+    "pos": "сущ., ср. р.",
+    "forms": "becul; becuri",
+    "examples": [
+      {
+        "ro": "Becul din baie s-a ars.",
+        "ru": "Лампочка в ванной перегорела."
+      },
+      {
+        "ro": "Cumpăr becuri care consumă puțin.",
+        "ru": "Я покупаю энергосберегающие лампочки."
+      }
+    ],
+    "image": "/photos/curated/curated-bec.webp",
+    "imageSource": {
+      "name": "Gluehlampe_01_KMJ.png",
+      "url": "https://commons.wikimedia.org/wiki/File:Gluehlampe_01_KMJ.png",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "attribution": "KMJ, alpha masking by Edokter Изменения: размер уменьшен до 640 px, преобразовано в WebP."
+    }
+  },
+  {
+    "id": "curated-priza",
+    "ro": "priză",
+    "ru": "электрическая розетка",
+    "level": "A2",
+    "theme": "Электроника",
+    "pos": "сущ., ж. р.",
+    "forms": "priza; prize",
+    "examples": [
+      {
+        "ro": "Introduc încărcătorul în priză.",
+        "ru": "Я вставляю зарядное устройство в розетку."
+      },
+      {
+        "ro": "Priza de lângă ușă nu funcționează.",
+        "ru": "Розетка у двери не работает."
+      }
+    ],
+    "image": "/photos/curated/curated-priza.webp",
+    "imageSource": {
+      "name": "French-power-socket.jpg",
+      "url": "https://commons.wikimedia.org/wiki/File:French-power-socket.jpg",
+      "license": "Public domain",
+      "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "attribution": "Etienne Rastoul (User:FF7Sephiroth) Изменения: размер уменьшен до 640 px, преобразовано в WebP."
+    }
+  },
+  {
+    "id": "curated-cablu",
+    "ro": "cablu",
+    "ru": "кабель",
+    "level": "A2",
+    "theme": "Электроника",
+    "pos": "сущ., ср. р.",
+    "forms": "cablul; cabluri",
+    "examples": [
+      {
+        "ro": "Cablul de alimentare este prea scurt.",
+        "ru": "Кабель питания слишком короткий."
+      },
+      {
+        "ro": "Strâng cablurile de sub birou.",
+        "ru": "Я собираю кабели под столом."
+      }
+    ]
+  },
+  {
+    "id": "curated-incarcator",
+    "ro": "încărcător",
+    "ru": "зарядное устройство",
+    "level": "A2",
+    "theme": "Электроника",
+    "pos": "сущ., ср. р.",
+    "forms": "încărcătorul; încărcătoare",
+    "examples": [
+      {
+        "ro": "Mi-am uitat încărcătorul acasă.",
+        "ru": "Я забыл зарядное устройство дома."
+      },
+      {
+        "ro": "Acest încărcător este compatibil cu telefonul meu.",
+        "ru": "Это зарядное устройство совместимо с моим телефоном."
+      }
+    ]
+  },
+  {
+    "id": "curated-tastatura",
+    "ro": "tastatură",
+    "ru": "клавиатура",
+    "level": "A2",
+    "theme": "Электроника",
+    "pos": "сущ., ж. р.",
+    "forms": "tastatura; tastaturi",
+    "examples": [
+      {
+        "ro": "Tastatura are litere românești.",
+        "ru": "На клавиатуре есть румынские буквы."
+      },
+      {
+        "ro": "Curăț tastatura cu o pensulă.",
+        "ru": "Я чищу клавиатуру кисточкой."
+      }
+    ],
+    "image": "/photos/curated/curated-tastatura.webp",
+    "imageSource": {
+      "name": "Typing_example.ogv",
+      "url": "https://commons.wikimedia.org/wiki/File:Typing_example.ogv",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "attribution": "NotFromUtrecht Изменения: размер уменьшен до 640 px, преобразовано в WebP."
+    }
+  },
+  {
+    "id": "curated-ecran",
+    "ro": "ecran",
+    "ru": "экран",
+    "level": "A1",
+    "theme": "Электроника",
+    "pos": "сущ., ср. р.",
+    "forms": "ecranul; ecrane",
+    "examples": [
+      {
+        "ro": "Ecranul telefonului s-a spart.",
+        "ru": "Экран телефона разбился."
+      },
+      {
+        "ro": "Reduc luminozitatea ecranului.",
+        "ru": "Я уменьшаю яркость экрана."
+      }
+    ]
+  },
+  {
+    "id": "curated-casti",
+    "ro": "căști",
+    "ru": "наушники",
+    "level": "A2",
+    "theme": "Электроника",
+    "pos": "сущ., ж. р., мн. ч.",
+    "forms": "căștile; o pereche de căști",
+    "examples": [
+      {
+        "ro": "Ascult muzică la căști.",
+        "ru": "Я слушаю музыку в наушниках."
+      },
+      {
+        "ro": "Căștile fără fir se încarcă în cutie.",
+        "ru": "Беспроводные наушники заряжаются в футляре."
+      }
+    ],
+    "image": "/photos/curated/curated-casti.webp",
+    "imageSource": {
+      "name": "Słuchawki_referencyjne_K-701_firmy_AKG.jpg",
+      "url": "https://commons.wikimedia.org/wiki/File:S%C5%82uchawki_referencyjne_K-701_firmy_AKG.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "attribution": "http://muzyczny.pl Изменения: размер уменьшен до 640 px, преобразовано в WebP."
+    }
+  },
+  {
+    "id": "curated-microfon",
+    "ro": "microfon",
+    "ru": "микрофон",
+    "level": "A2",
+    "theme": "Электроника",
+    "pos": "сущ., ср. р.",
+    "forms": "microfonul; microfoane",
+    "examples": [
+      {
+        "ro": "Vorbește mai aproape de microfon.",
+        "ru": "Говори ближе к микрофону."
+      },
+      {
+        "ro": "Microfonul este oprit în timpul pauzei.",
+        "ru": "Во время перерыва микрофон выключен."
+      }
+    ],
+    "image": "/photos/curated/curated-microfon.webp",
+    "imageSource": {
+      "name": "Shure_mikrofon_55S.jpg",
+      "url": "https://commons.wikimedia.org/wiki/File:Shure_mikrofon_55S.jpg",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "attribution": "Holger.Ellgaard Изменения: размер уменьшен до 640 px, преобразовано в WebP."
+    }
+  },
+  {
+    "id": "curated-imprimanta",
+    "ro": "imprimantă",
+    "ru": "принтер",
+    "level": "A2",
+    "theme": "Электроника",
+    "pos": "сущ., ж. р.",
+    "forms": "imprimanta; imprimante",
+    "examples": [
+      {
+        "ro": "Imprimanta nu mai are hârtie.",
+        "ru": "В принтере закончилась бумага."
+      },
+      {
+        "ro": "Conectez imprimanta la calculator.",
+        "ru": "Я подключаю принтер к компьютеру."
+      }
+    ],
+    "image": "/photos/curated/curated-imprimanta.webp",
+    "imageSource": {
+      "name": "HP_Laserjet_5_DN_1.jpg",
+      "url": "https://commons.wikimedia.org/wiki/File:HP_Laserjet_5_DN_1.jpg",
+      "license": "CC BY-SA 3.0 de",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/de/deed.en",
+      "attribution": "Thiemo Schuff Изменения: размер уменьшен до 640 px, преобразовано в WebP."
+    }
+  },
+  {
+    "id": "curated-baterie",
+    "ro": "baterie",
+    "ru": "батарейка; аккумулятор",
+    "level": "A2",
+    "theme": "Электроника",
+    "pos": "сущ., ж. р.",
+    "forms": "bateria; baterii",
+    "examples": [
+      {
+        "ro": "Bateria telefonului este descărcată.",
+        "ru": "Аккумулятор телефона разряжен."
+      },
+      {
+        "ro": "Schimb bateriile din telecomandă.",
+        "ru": "Я меняю батарейки в пульте."
+      }
+    ]
+  },
+  {
+    "id": "curated-bunic",
+    "ro": "bunic",
+    "ru": "дедушка",
+    "level": "A0",
+    "theme": "Семья",
+    "pos": "сущ., м. р.",
+    "forms": "bunicul; bunici",
+    "examples": [
+      {
+        "ro": "Bunicul îmi povestește despre copilăria lui.",
+        "ru": "Дедушка рассказывает мне о своём детстве."
+      },
+      {
+        "ro": "Îmi vizitez bunicii duminica.",
+        "ru": "Я навещаю бабушку и дедушку по воскресеньям."
+      }
+    ]
+  },
+  {
+    "id": "curated-bunica",
+    "ro": "bunică",
+    "ru": "бабушка",
+    "level": "A0",
+    "theme": "Семья",
+    "pos": "сущ., ж. р.",
+    "forms": "bunica; bunici",
+    "examples": [
+      {
+        "ro": "Bunica locuiește la țară.",
+        "ru": "Бабушка живёт в деревне."
+      },
+      {
+        "ro": "Cele două bunici se cunosc de mult.",
+        "ru": "Обе бабушки давно знакомы."
+      }
+    ]
+  },
+  {
+    "id": "curated-copil",
+    "ro": "copil",
+    "ru": "ребёнок",
+    "level": "A0",
+    "theme": "Люди",
+    "pos": "сущ., м. р.",
+    "forms": "copilul; copii; copiii",
+    "examples": [
+      {
+        "ro": "Copilul învață să meargă.",
+        "ru": "Ребёнок учится ходить."
+      },
+      {
+        "ro": "Copiii se joacă în curte.",
+        "ru": "Дети играют во дворе."
+      }
+    ]
+  },
+  {
+    "id": "curated-vecin",
+    "ro": "vecin",
+    "ru": "сосед",
+    "level": "A1",
+    "theme": "Люди",
+    "pos": "сущ., м. р.",
+    "forms": "vecinul; vecini; ж. vecină",
+    "examples": [
+      {
+        "ro": "Vecinul ne ajută cu bagajele.",
+        "ru": "Сосед помогает нам с багажом."
+      },
+      {
+        "ro": "Ne înțelegem bine cu vecinii.",
+        "ru": "Мы хорошо ладим с соседями."
+      }
+    ]
+  },
+  {
+    "id": "curated-prieten",
+    "ro": "prieten",
+    "ru": "друг",
+    "level": "A0",
+    "theme": "Люди",
+    "pos": "сущ., м. р.",
+    "forms": "prietenul; prieteni; ж. prietenă",
+    "examples": [
+      {
+        "ro": "Un prieten mă așteaptă la gară.",
+        "ru": "Друг ждёт меня на вокзале."
+      },
+      {
+        "ro": "Mă întâlnesc cu prietenii după serviciu.",
+        "ru": "Я встречаюсь с друзьями после работы."
+      }
+    ]
+  },
+  {
+    "id": "curated-sot",
+    "ro": "soț",
+    "ru": "муж; супруг",
+    "level": "A1",
+    "theme": "Семья",
+    "pos": "сущ., м. р.",
+    "forms": "soțul; soți",
+    "examples": [
+      {
+        "ro": "Soțul meu gătește foarte bine.",
+        "ru": "Мой муж очень хорошо готовит."
+      },
+      {
+        "ro": "Cei doi soți călătoresc împreună.",
+        "ru": "Оба супруга путешествуют вместе."
+      }
+    ]
+  },
+  {
+    "id": "curated-sotie",
+    "ro": "soție",
+    "ru": "жена; супруга",
+    "level": "A1",
+    "theme": "Семья",
+    "pos": "сущ., ж. р.",
+    "forms": "soția; soții",
+    "examples": [
+      {
+        "ro": "Soția lui este medic.",
+        "ru": "Его жена — врач."
+      },
+      {
+        "ro": "Soțiile celor doi frați sunt prietene.",
+        "ru": "Жёны двух братьев дружат."
+      }
+    ]
+  },
+  {
+    "id": "curated-medic",
+    "ro": "medic",
+    "ru": "врач",
+    "level": "A1",
+    "theme": "Профессии",
+    "pos": "сущ., м. р.",
+    "forms": "medicul; medici",
+    "examples": [
+      {
+        "ro": "Medicul mă examinează cu atenție.",
+        "ru": "Врач внимательно меня осматривает."
+      },
+      {
+        "ro": "În acest spital lucrează mulți medici.",
+        "ru": "В этой больнице работает много врачей."
+      }
+    ]
+  },
+  {
+    "id": "curated-asistent-medical",
+    "ro": "asistent medical",
+    "ru": "медбрат",
+    "level": "A2",
+    "theme": "Профессии",
+    "pos": "сущ., м. р.",
+    "forms": "asistentul medical; asistenți medicali; ж. asistentă medicală",
+    "examples": [
+      {
+        "ro": "Asistentul medical măsoară tensiunea.",
+        "ru": "Медбрат измеряет давление."
+      },
+      {
+        "ro": "Asistenții medicali lucrează în ture.",
+        "ru": "Медбратья работают посменно."
+      }
+    ]
+  },
+  {
+    "id": "curated-profesor",
+    "ro": "profesor",
+    "ru": "преподаватель; учитель",
+    "level": "A1",
+    "theme": "Профессии",
+    "pos": "сущ., м. р.",
+    "forms": "profesorul; profesori; ж. profesoară",
+    "examples": [
+      {
+        "ro": "Profesorul explică regula din nou.",
+        "ru": "Преподаватель снова объясняет правило."
+      },
+      {
+        "ro": "Profesorii pregătesc lecțiile pentru mâine.",
+        "ru": "Учителя готовят уроки на завтра."
+      }
+    ]
+  },
+  {
+    "id": "curated-inginer",
+    "ro": "inginer",
+    "ru": "инженер",
+    "level": "A2",
+    "theme": "Профессии",
+    "pos": "сущ., м. р.",
+    "forms": "inginerul; ingineri; ж. ingineră",
+    "examples": [
+      {
+        "ro": "Inginerul verifică planul clădirii.",
+        "ru": "Инженер проверяет план здания."
+      },
+      {
+        "ro": "Firma angajează doi ingineri.",
+        "ru": "Компания нанимает двух инженеров."
+      }
+    ]
+  },
+  {
+    "id": "curated-electrician",
+    "ro": "electrician",
+    "ru": "электрик",
+    "level": "A2",
+    "theme": "Профессии",
+    "pos": "сущ., м. р.",
+    "forms": "electricianul; electricieni",
+    "examples": [
+      {
+        "ro": "Electricianul repară priza.",
+        "ru": "Электрик ремонтирует розетку."
+      },
+      {
+        "ro": "Chemăm un electrician autorizat.",
+        "ru": "Мы вызываем электрика с допуском."
+      }
+    ]
+  },
+  {
+    "id": "curated-sofer",
+    "ro": "șofer",
+    "ru": "водитель",
+    "level": "A1",
+    "theme": "Профессии",
+    "pos": "сущ., м. р.",
+    "forms": "șoferul; șoferi; ж. șoferiță",
+    "examples": [
+      {
+        "ro": "Șoferul oprește la trecerea de pietoni.",
+        "ru": "Водитель останавливается у пешеходного перехода."
+      },
+      {
+        "ro": "Șoferii trebuie să respecte limita de viteză.",
+        "ru": "Водители обязаны соблюдать ограничение скорости."
+      }
+    ]
+  },
+  {
+    "id": "curated-avocat",
+    "ro": "avocat",
+    "ru": "адвокат",
+    "level": "B1",
+    "theme": "Профессии",
+    "pos": "сущ., м. р.",
+    "forms": "avocatul; avocați; ж. avocată",
+    "examples": [
+      {
+        "ro": "Avocatul citește contractul.",
+        "ru": "Адвокат читает договор."
+      },
+      {
+        "ro": "Am discutat cu un avocat despre moștenire.",
+        "ru": "Я обсудил наследство с адвокатом."
+      }
+    ]
+  },
+  {
+    "id": "curated-pasaport",
+    "ro": "pașaport",
+    "ru": "паспорт (заграничный)",
+    "level": "A1",
+    "theme": "Документы",
+    "pos": "сущ., ср. р.",
+    "forms": "pașaportul; pașapoarte",
+    "examples": [
+      {
+        "ro": "Pașaportul meu expiră în iunie.",
+        "ru": "Срок действия моего паспорта истекает в июне."
+      },
+      {
+        "ro": "La frontieră prezentăm pașapoartele.",
+        "ru": "На границе мы предъявляем паспорта."
+      }
+    ]
+  },
+  {
+    "id": "curated-carte-de-identitate",
+    "ro": "carte de identitate",
+    "ru": "удостоверение личности",
+    "level": "A2",
+    "theme": "Документы",
+    "pos": "сущ., ж. р.",
+    "forms": "cartea de identitate; cărți de identitate",
+    "examples": [
+      {
+        "ro": "Am pierdut cartea de identitate.",
+        "ru": "Я потерял удостоверение личности."
+      },
+      {
+        "ro": "Pentru înscriere aveți nevoie de cartea de identitate.",
+        "ru": "Для регистрации вам нужно удостоверение личности."
+      }
+    ]
+  },
+  {
+    "id": "curated-cerere",
+    "ro": "cerere",
+    "ru": "заявление; просьба",
+    "level": "A2",
+    "theme": "Документы",
+    "pos": "сущ., ж. р.",
+    "forms": "cererea; cereri",
+    "examples": [
+      {
+        "ro": "Completez o cerere pentru permis.",
+        "ru": "Я заполняю заявление на получение разрешения."
+      },
+      {
+        "ro": "Cererile se depun la ghișeu.",
+        "ru": "Заявления подают в окошко приёма."
+      }
+    ]
+  },
+  {
+    "id": "curated-semnatura",
+    "ro": "semnătură",
+    "ru": "подпись",
+    "level": "A2",
+    "theme": "Документы",
+    "pos": "сущ., ж. р.",
+    "forms": "semnătura; semnături",
+    "examples": [
+      {
+        "ro": "Lipsește semnătura de pe ultima pagină.",
+        "ru": "На последней странице не хватает подписи."
+      },
+      {
+        "ro": "Documentul necesită două semnături.",
+        "ru": "Документ требует двух подписей."
+      }
+    ]
+  },
+  {
+    "id": "curated-contract",
+    "ro": "contract",
+    "ru": "договор; контракт",
+    "level": "B1",
+    "theme": "Документы",
+    "pos": "сущ., ср. р.",
+    "forms": "contractul; contracte",
+    "examples": [
+      {
+        "ro": "Citesc contractul înainte să îl semnez.",
+        "ru": "Я читаю договор перед подписанием."
+      },
+      {
+        "ro": "Contractele se păstrează în arhivă.",
+        "ru": "Договоры хранятся в архиве."
+      }
+    ]
+  },
+  {
+    "id": "curated-chitanta",
+    "ro": "chitanță",
+    "ru": "квитанция",
+    "level": "A2",
+    "theme": "Деньги",
+    "pos": "сущ., ж. р.",
+    "forms": "chitanța; chitanțe",
+    "examples": [
+      {
+        "ro": "Păstrează chitanța pentru plată.",
+        "ru": "Сохрани квитанцию об оплате."
+      },
+      {
+        "ro": "Am adunat chitanțele într-un dosar.",
+        "ru": "Я собрал квитанции в папку."
+      }
+    ]
+  },
+  {
+    "id": "curated-salariu",
+    "ro": "salariu",
+    "ru": "зарплата",
+    "level": "A2",
+    "theme": "Работа",
+    "pos": "сущ., ср. р.",
+    "forms": "salariul; salarii",
+    "examples": [
+      {
+        "ro": "Primesc salariul la sfârșitul lunii.",
+        "ru": "Я получаю зарплату в конце месяца."
+      },
+      {
+        "ro": "Salariile se plătesc prin transfer bancar.",
+        "ru": "Зарплаты выплачиваются банковским переводом."
+      }
+    ]
+  },
+  {
+    "id": "curated-concediu",
+    "ro": "concediu",
+    "ru": "отпуск",
+    "level": "A2",
+    "theme": "Работа",
+    "pos": "сущ., ср. р.",
+    "forms": "concediul; concedii",
+    "examples": [
+      {
+        "ro": "Sunt în concediu până luni.",
+        "ru": "Я в отпуске до понедельника."
+      },
+      {
+        "ro": "Îmi planific concediul din timp.",
+        "ru": "Я планирую отпуск заранее."
+      }
+    ]
+  },
+  {
+    "id": "curated-sedinta",
+    "ro": "ședință",
+    "ru": "совещание; заседание",
+    "level": "B1",
+    "theme": "Работа",
+    "pos": "сущ., ж. р.",
+    "forms": "ședința; ședințe",
+    "examples": [
+      {
+        "ro": "Ședința începe la ora nouă.",
+        "ru": "Совещание начинается в девять часов."
+      },
+      {
+        "ro": "Astăzi am două ședințe online.",
+        "ru": "Сегодня у меня два совещания онлайн."
+      }
+    ]
+  },
+  {
+    "id": "curated-termen-limita",
+    "ro": "termen-limită",
+    "ru": "крайний срок",
+    "level": "B1",
+    "theme": "Работа",
+    "pos": "сущ., ср. р.",
+    "forms": "termenul-limită; termene-limită",
+    "examples": [
+      {
+        "ro": "Termenul-limită pentru proiect este vineri.",
+        "ru": "Крайний срок по проекту — пятница."
+      },
+      {
+        "ro": "Trebuie să respectăm termenele-limită.",
+        "ru": "Мы должны соблюдать крайние сроки."
+      }
+    ]
+  },
+  {
+    "id": "curated-imprumut",
+    "ro": "împrumut",
+    "ru": "заём; кредит",
+    "level": "B1",
+    "theme": "Деньги",
+    "pos": "сущ., ср. р.",
+    "forms": "împrumutul; împrumuturi",
+    "examples": [
+      {
+        "ro": "Am rambursat împrumutul la timp.",
+        "ru": "Я вовремя погасил заём."
+      },
+      {
+        "ro": "Banca oferă împrumuturi pentru locuințe.",
+        "ru": "Банк предлагает жилищные кредиты."
+      }
+    ]
+  },
+  {
+    "id": "curated-dobanda",
+    "ro": "dobândă",
+    "ru": "процент по кредиту или вкладу",
+    "level": "B2",
+    "theme": "Деньги",
+    "pos": "сущ., ж. р.",
+    "forms": "dobânda; dobânzi",
+    "examples": [
+      {
+        "ro": "Dobânda la acest credit este fixă.",
+        "ru": "Процент по этому кредиту фиксированный."
+      },
+      {
+        "ro": "Compar dobânzile înainte să aleg banca.",
+        "ru": "Я сравниваю процентные ставки перед выбором банка."
+      }
+    ]
+  },
+  {
+    "id": "curated-economii",
+    "ro": "economii",
+    "ru": "сбережения",
+    "level": "B1",
+    "theme": "Деньги",
+    "pos": "сущ., ж. р., мн. ч.",
+    "forms": "economiile; ед. economie — экономия",
+    "examples": [
+      {
+        "ro": "Îmi păstrez economiile într-un cont.",
+        "ru": "Я храню сбережения на счёте."
+      },
+      {
+        "ro": "Am folosit economiile pentru avans.",
+        "ru": "Я использовал сбережения для первоначального взноса."
+      }
+    ]
+  },
+  {
+    "id": "curated-primarie",
+    "ro": "primărie",
+    "ru": "мэрия",
+    "level": "A2",
+    "theme": "Учреждения",
+    "pos": "сущ., ж. р.",
+    "forms": "primăria; primării",
+    "examples": [
+      {
+        "ro": "Depun actele la primărie.",
+        "ru": "Я подаю документы в мэрию."
+      },
+      {
+        "ro": "Primăria organizează o consultare publică.",
+        "ru": "Мэрия организует общественное обсуждение."
+      }
+    ]
+  },
+  {
+    "id": "curated-ghiseu",
+    "ro": "ghișeu",
+    "ru": "окошко приёма; касса",
+    "level": "A2",
+    "theme": "Учреждения",
+    "pos": "сущ., ср. р.",
+    "forms": "ghișeul; ghișee",
+    "examples": [
+      {
+        "ro": "Aștept la ghișeul de informații.",
+        "ru": "Я жду у справочного окошка."
+      },
+      {
+        "ro": "Se deschid două ghișee suplimentare.",
+        "ru": "Открываются два дополнительных окошка."
+      }
+    ]
+  },
+  {
+    "id": "curated-spital",
+    "ro": "spital",
+    "ru": "больница",
+    "level": "A1",
+    "theme": "Медицина",
+    "pos": "сущ., ср. р.",
+    "forms": "spitalul; spitale",
+    "examples": [
+      {
+        "ro": "Spitalul este aproape de centru.",
+        "ru": "Больница находится недалеко от центра."
+      },
+      {
+        "ro": "În oraș se construiesc două spitale.",
+        "ru": "В городе строят две больницы."
+      }
+    ]
+  },
+  {
+    "id": "curated-farmacie",
+    "ro": "farmacie",
+    "ru": "аптека",
+    "level": "A1",
+    "theme": "Медицина",
+    "pos": "сущ., ж. р.",
+    "forms": "farmacia; farmacii",
+    "examples": [
+      {
+        "ro": "Farmacia este deschisă non-stop.",
+        "ru": "Аптека работает круглосуточно."
+      },
+      {
+        "ro": "Caut o farmacie de gardă.",
+        "ru": "Я ищу дежурную аптеку."
+      }
+    ]
+  },
+  {
+    "id": "curated-reteta",
+    "ro": "rețetă",
+    "ru": "рецепт (медицинский или кулинарный)",
+    "level": "A2",
+    "theme": "Медицина",
+    "pos": "сущ., ж. р.",
+    "forms": "rețeta; rețete",
+    "examples": [
+      {
+        "ro": "Medicul mi-a dat o rețetă.",
+        "ru": "Врач выписал мне рецепт."
+      },
+      {
+        "ro": "Urmez rețeta bunicii pentru această supă.",
+        "ru": "Я готовлю этот суп по бабушкиному рецепту."
+      }
+    ]
+  },
+  {
+    "id": "curated-durere",
+    "ro": "durere",
+    "ru": "боль",
+    "level": "A1",
+    "theme": "Медицина",
+    "pos": "сущ., ж. р.",
+    "forms": "durerea; dureri",
+    "examples": [
+      {
+        "ro": "Am o durere de cap.",
+        "ru": "У меня болит голова."
+      },
+      {
+        "ro": "Durerile au început aseară.",
+        "ru": "Боли начались вчера вечером."
+      }
+    ]
+  },
+  {
+    "id": "curated-febra",
+    "ro": "febră",
+    "ru": "повышенная температура; лихорадка",
+    "level": "A2",
+    "theme": "Медицина",
+    "pos": "сущ., ж. р.",
+    "forms": "febra; обычно без мн. ч.",
+    "examples": [
+      {
+        "ro": "Copilul are febră.",
+        "ru": "У ребёнка высокая температура."
+      },
+      {
+        "ro": "Febra a scăzut în timpul nopții.",
+        "ru": "Ночью температура снизилась."
+      }
+    ]
+  },
+  {
+    "id": "curated-tuse",
+    "ro": "tuse",
+    "ru": "кашель",
+    "level": "A2",
+    "theme": "Медицина",
+    "pos": "сущ., ж. р.",
+    "forms": "tusea; обычно без мн. ч.",
+    "examples": [
+      {
+        "ro": "Tusea nu mă lasă să dorm.",
+        "ru": "Кашель не даёт мне спать."
+      },
+      {
+        "ro": "Am o tuse uscată de două zile.",
+        "ru": "У меня сухой кашель уже два дня."
+      }
+    ]
+  },
+  {
+    "id": "curated-programare",
+    "ro": "programare",
+    "ru": "запись на приём; назначение времени",
+    "level": "A2",
+    "theme": "Учреждения",
+    "pos": "сущ., ж. р.",
+    "forms": "programarea; programări",
+    "examples": [
+      {
+        "ro": "Am o programare la dentist.",
+        "ru": "Я записан к стоматологу."
+      },
+      {
+        "ro": "Programările se fac telefonic.",
+        "ru": "Запись на приём производится по телефону."
+      }
+    ]
+  },
+  {
+    "id": "curated-bucurie",
+    "ro": "bucurie",
+    "ru": "радость",
+    "level": "A2",
+    "theme": "Эмоции",
+    "pos": "сущ., ж. р.",
+    "forms": "bucuria; bucurii",
+    "examples": [
+      {
+        "ro": "Vestea ne-a adus multă bucurie.",
+        "ru": "Эта новость принесла нам много радости."
+      },
+      {
+        "ro": "Micile bucurii fac viața mai frumoasă.",
+        "ru": "Маленькие радости делают жизнь прекраснее."
+      }
+    ]
+  },
+  {
+    "id": "curated-teama",
+    "ro": "teamă",
+    "ru": "страх; опасение",
+    "level": "A2",
+    "theme": "Эмоции",
+    "pos": "сущ., ж. р.",
+    "forms": "teama; temeri",
+    "examples": [
+      {
+        "ro": "Îmi este teamă de înălțime.",
+        "ru": "Я боюсь высоты."
+      },
+      {
+        "ro": "Și-a exprimat temerile înainte de plecare.",
+        "ru": "Он высказал свои опасения перед отъездом."
+      }
+    ]
+  },
+  {
+    "id": "curated-incredere",
+    "ro": "încredere",
+    "ru": "доверие; уверенность",
+    "level": "B1",
+    "theme": "Эмоции",
+    "pos": "сущ., ж. р.",
+    "forms": "încrederea; обычно без мн. ч.",
+    "examples": [
+      {
+        "ro": "Am încredere în tine.",
+        "ru": "Я тебе доверяю."
+      },
+      {
+        "ro": "Experiența îmi dă mai multă încredere.",
+        "ru": "Опыт придаёт мне больше уверенности."
+      }
+    ]
+  },
+  {
+    "id": "curated-rabdare",
+    "ro": "răbdare",
+    "ru": "терпение",
+    "level": "B1",
+    "theme": "Эмоции",
+    "pos": "сущ., ж. р.",
+    "forms": "răbdarea; обычно без мн. ч.",
+    "examples": [
+      {
+        "ro": "Îți mulțumesc pentru răbdare.",
+        "ru": "Спасибо тебе за терпение."
+      },
+      {
+        "ro": "Învățarea unei limbi cere răbdare.",
+        "ru": "Изучение языка требует терпения."
+      }
+    ]
+  },
+  {
+    "id": "curated-dezamagire",
+    "ro": "dezamăgire",
+    "ru": "разочарование",
+    "level": "B1",
+    "theme": "Эмоции",
+    "pos": "сущ., ж. р.",
+    "forms": "dezamăgirea; dezamăgiri",
+    "examples": [
+      {
+        "ro": "Am simțit o mare dezamăgire.",
+        "ru": "Я почувствовал сильное разочарование."
+      },
+      {
+        "ro": "A învățat ceva din fiecare dezamăgire.",
+        "ru": "Из каждого разочарования он извлёк урок."
+      }
+    ]
+  },
+  {
+    "id": "curated-ingrijorare",
+    "ro": "îngrijorare",
+    "ru": "беспокойство; тревога",
+    "level": "B2",
+    "theme": "Эмоции",
+    "pos": "сущ., ж. р.",
+    "forms": "îngrijorarea; îngrijorări",
+    "examples": [
+      {
+        "ro": "Îngrijorarea nu mă lasă să mă concentrez.",
+        "ru": "Беспокойство не даёт мне сосредоточиться."
+      },
+      {
+        "ro": "Părinții și-au exprimat îngrijorările.",
+        "ru": "Родители выразили свои опасения."
+      }
+    ]
+  },
+  {
+    "id": "curated-responsabilitate",
+    "ro": "responsabilitate",
+    "ru": "ответственность",
+    "level": "B2",
+    "theme": "Работа",
+    "pos": "сущ., ж. р.",
+    "forms": "responsabilitatea; responsabilități",
+    "examples": [
+      {
+        "ro": "Îmi asum responsabilitatea pentru greșeală.",
+        "ru": "Я беру на себя ответственность за ошибку."
+      },
+      {
+        "ro": "Funcția presupune multe responsabilități.",
+        "ru": "Должность предполагает много обязанностей."
+      }
+    ]
+  },
+  {
+    "id": "curated-imprejurare",
+    "ro": "împrejurare",
+    "ru": "обстоятельство",
+    "level": "B2",
+    "theme": "Разговорная речь",
+    "pos": "сущ., ж. р.",
+    "forms": "împrejurarea; împrejurări",
+    "examples": [
+      {
+        "ro": "Nu cunosc împrejurările accidentului.",
+        "ru": "Я не знаю обстоятельств аварии."
+      },
+      {
+        "ro": "În aceste împrejurări, amânarea este justificată.",
+        "ru": "В этих обстоятельствах отсрочка оправданна."
+      }
+    ]
+  },
+  {
+    "id": "curated-consecinta",
+    "ro": "consecință",
+    "ru": "последствие",
+    "level": "B2",
+    "theme": "Разговорная речь",
+    "pos": "сущ., ж. р.",
+    "forms": "consecința; consecințe",
+    "examples": [
+      {
+        "ro": "Decizia va avea consecințe importante.",
+        "ru": "Решение повлечёт важные последствия."
+      },
+      {
+        "ro": "Trebuie să analizezi consecințele înainte de a acționa.",
+        "ru": "Нужно проанализировать последствия, прежде чем действовать."
+      }
+    ]
+  },
+  {
+    "id": "curated-demers",
+    "ro": "demers",
+    "ru": "предпринятый шаг; инициатива; процедура",
+    "level": "C1",
+    "theme": "Учреждения",
+    "pos": "сущ., ср. р.",
+    "forms": "demersul; demersuri",
+    "examples": [
+      {
+        "ro": "Am început demersurile pentru obținerea cetățeniei.",
+        "ru": "Я начал процедуру получения гражданства."
+      },
+      {
+        "ro": "Demersul diplomatic a dat rezultate.",
+        "ru": "Дипломатическая инициатива дала результаты."
+      }
+    ]
+  },
+  {
+    "id": "curated-prevedere",
+    "ro": "prevedere",
+    "ru": "положение (документа); предусмотрительность",
+    "level": "C1",
+    "theme": "Документы",
+    "pos": "сущ., ж. р.",
+    "forms": "prevederea; prevederi",
+    "examples": [
+      {
+        "ro": "Această prevedere se aplică tuturor angajaților.",
+        "ru": "Это положение распространяется на всех работников."
+      },
+      {
+        "ro": "Am citit cu atenție prevederile contractului.",
+        "ru": "Я внимательно прочитал положения договора."
+      }
+    ]
+  },
+  {
+    "id": "curated-constrangere",
+    "ro": "constrângere",
+    "ru": "ограничение; принуждение",
+    "level": "C1",
+    "theme": "Работа",
+    "pos": "сущ., ж. р.",
+    "forms": "constrângerea; constrângeri",
+    "examples": [
+      {
+        "ro": "Proiectul are constrângeri bugetare stricte.",
+        "ru": "Проект имеет строгие бюджетные ограничения."
+      },
+      {
+        "ro": "Declarația a fost obținută prin constrângere.",
+        "ru": "Показания были получены под принуждением."
+      }
+    ]
+  },
+  {
+    "id": "curated-nuanta",
+    "ro": "nuanță",
+    "ru": "оттенок; нюанс",
+    "level": "B2",
+    "theme": "Разговорная речь",
+    "pos": "сущ., ж. р.",
+    "forms": "nuanța; nuanțe",
+    "examples": [
+      {
+        "ro": "Cuvântul are o nuanță ironică.",
+        "ru": "У слова иронический оттенок."
+      },
+      {
+        "ro": "Traducerea păstrează nuanțele textului original.",
+        "ru": "Перевод сохраняет нюансы исходного текста."
+      }
+    ]
+  },
+  {
+    "id": "curated-coeziune",
+    "ro": "coeziune",
+    "ru": "сплочённость; связность",
+    "level": "C1",
+    "theme": "Разговорная речь",
+    "pos": "сущ., ж. р.",
+    "forms": "coeziunea; обычно без мн. ч.",
+    "examples": [
+      {
+        "ro": "Proiectul urmărește creșterea coeziunii sociale.",
+        "ru": "Проект направлен на повышение социальной сплочённости."
+      },
+      {
+        "ro": "Conectorii asigură coeziunea textului.",
+        "ru": "Связующие слова обеспечивают связность текста."
+      }
+    ]
+  },
+  {
+    "id": "curated-intr-adevar",
+    "ro": "într-adevăr",
+    "ru": "действительно",
+    "level": "B1",
+    "theme": "Разговорная речь",
+    "pos": "наречие",
+    "forms": "не изменяется",
+    "examples": [
+      {
+        "ro": "Este într-adevăr o idee bună.",
+        "ru": "Это действительно хорошая идея."
+      },
+      {
+        "ro": "Ai avut dreptate, într-adevăr.",
+        "ru": "Ты действительно был прав."
+      }
+    ]
+  },
+  {
+    "id": "curated-totusi",
+    "ro": "totuși",
+    "ru": "всё же; тем не менее",
+    "level": "B1",
+    "theme": "Разговорная речь",
+    "pos": "наречие",
+    "forms": "не изменяется",
+    "examples": [
+      {
+        "ro": "Plouă, totuși vom pleca.",
+        "ru": "Идёт дождь, тем не менее мы поедем."
+      },
+      {
+        "ro": "Încercarea a fost dificilă, dar totuși utilă.",
+        "ru": "Попытка была трудной, но всё же полезной."
+      }
+    ]
+  },
+  {
+    "id": "curated-asadar",
+    "ro": "așadar",
+    "ru": "итак; следовательно",
+    "level": "B2",
+    "theme": "Разговорная речь",
+    "pos": "союз",
+    "forms": "не изменяется",
+    "examples": [
+      {
+        "ro": "Așadar, ne întâlnim mâine la nouă.",
+        "ru": "Итак, завтра встречаемся в девять."
+      },
+      {
+        "ro": "Nu avem suficiente date, așadar nu putem trage o concluzie.",
+        "ru": "У нас недостаточно данных, следовательно, мы не можем сделать вывод."
+      }
+    ]
+  },
+  {
+    "id": "curated-in-schimb",
+    "ro": "în schimb",
+    "ru": "взамен; зато",
+    "level": "B1",
+    "theme": "Разговорная речь",
+    "pos": "наречное выражение",
+    "forms": "не изменяется",
+    "examples": [
+      {
+        "ro": "Eu gătesc, iar tu speli vasele în schimb.",
+        "ru": "Я готовлю, а ты взамен моешь посуду."
+      },
+      {
+        "ro": "Apartamentul este mic, în schimb are multă lumină.",
+        "ru": "Квартира маленькая, зато очень светлая."
+      }
+    ]
+  },
+  {
+    "id": "curated-cu-toate-acestea",
+    "ro": "cu toate acestea",
+    "ru": "несмотря на это; тем не менее",
+    "level": "B2",
+    "theme": "Разговорная речь",
+    "pos": "связующее выражение",
+    "forms": "не изменяется",
+    "examples": [
+      {
+        "ro": "Era obosit; cu toate acestea, a continuat să lucreze.",
+        "ru": "Он устал; тем не менее продолжил работать."
+      },
+      {
+        "ro": "Prețurile au crescut; cu toate acestea, cererea rămâne mare.",
+        "ru": "Цены выросли; несмотря на это спрос остаётся высоким."
+      }
+    ]
+  },
+  {
+    "id": "curated-a-tine-cont-de",
+    "ro": "a ține cont de",
+    "ru": "учитывать; принимать во внимание",
+    "level": "B1",
+    "theme": "Разговорная речь",
+    "pos": "глагольное выражение",
+    "forms": "țin cont, ții cont, ține cont; am ținut cont",
+    "examples": [
+      {
+        "ro": "Ținem cont de părerile tuturor.",
+        "ru": "Мы учитываем мнение каждого."
+      },
+      {
+        "ro": "Trebuie să ții cont de vreme.",
+        "ru": "Ты должен учитывать погоду."
+      }
+    ]
+  },
+  {
+    "id": "curated-a-avea-de-gand",
+    "ro": "a avea de gând",
+    "ru": "собираться; намереваться",
+    "level": "B1",
+    "theme": "Разговорная речь",
+    "pos": "глагольное выражение",
+    "forms": "am de gând; ai de gând; are de gând",
+    "examples": [
+      {
+        "ro": "Am de gând să învăț româna.",
+        "ru": "Я собираюсь изучать румынский."
+      },
+      {
+        "ro": "Ce ai de gând să faci în weekend?",
+        "ru": "Что ты собираешься делать в выходные?"
+      }
+    ]
+  },
+  {
+    "id": "curated-a-si-aduce-aminte",
+    "ro": "a-și aduce aminte",
+    "ru": "вспоминать",
+    "level": "B1",
+    "theme": "Разговорная речь",
+    "pos": "возвратное глагольное выражение",
+    "forms": "îmi aduc aminte; îți aduci aminte; mi-am adus aminte",
+    "examples": [
+      {
+        "ro": "Îmi aduc aminte de prima noastră întâlnire.",
+        "ru": "Я вспоминаю нашу первую встречу."
+      },
+      {
+        "ro": "Ți-ai adus aminte să închizi ușa?",
+        "ru": "Ты вспомнил, что нужно закрыть дверь?"
+      }
+    ]
+  },
+  {
+    "id": "curated-a-o-lua-de-la-capat",
+    "ro": "a o lua de la capăt",
+    "ru": "начинать заново",
+    "level": "B2",
+    "theme": "Идиомы",
+    "pos": "глагольное выражение",
+    "forms": "o iau de la capăt; am luat-o de la capăt",
+    "examples": [
+      {
+        "ro": "După mutare, am luat-o de la capăt.",
+        "ru": "После переезда я начал всё заново."
+      },
+      {
+        "ro": "Dacă greșim, o luăm de la capăt.",
+        "ru": "Если мы ошибёмся, начнём заново."
+      }
+    ]
+  },
+  {
+    "id": "curated-a-bate-pasul-pe-loc",
+    "ro": "a bate pasul pe loc",
+    "ru": "топтаться на месте",
+    "level": "B2",
+    "theme": "Идиомы",
+    "pos": "глагольное выражение",
+    "forms": "bat pasul pe loc; am bătut pasul pe loc",
+    "examples": [
+      {
+        "ro": "Negocierile bat pasul pe loc.",
+        "ru": "Переговоры топчутся на месте."
+      },
+      {
+        "ro": "Simt că bat pasul pe loc la serviciu.",
+        "ru": "Я чувствую, что топчусь на месте на работе."
+      }
+    ]
+  },
+  {
+    "id": "curated-a-pune-paie-pe-foc",
+    "ro": "a pune paie pe foc",
+    "ru": "подливать масла в огонь",
+    "level": "B2",
+    "theme": "Идиомы",
+    "pos": "глагольное выражение",
+    "forms": "pun paie pe foc; am pus paie pe foc",
+    "examples": [
+      {
+        "ro": "Comentariul lui a pus paie pe foc.",
+        "ru": "Его комментарий подлил масла в огонь."
+      },
+      {
+        "ro": "Nu pune paie pe foc când ei se ceartă.",
+        "ru": "Не подливай масла в огонь, когда они ссорятся."
+      }
+    ]
+  },
+  {
+    "id": "curated-a-face-din-tantar-armasar",
+    "ro": "a face din țânțar armăsar",
+    "ru": "делать из мухи слона",
+    "level": "B2",
+    "theme": "Идиомы",
+    "pos": "глагольное выражение",
+    "forms": "fac din țânțar armăsar; am făcut din țânțar armăsar",
+    "examples": [
+      {
+        "ro": "Nu face din țânțar armăsar pentru o greșeală mică.",
+        "ru": "Не делай из мухи слона из-за маленькой ошибки."
+      },
+      {
+        "ro": "A făcut din țânțar armăsar și i-a speriat pe toți.",
+        "ru": "Он сделал из мухи слона и всех напугал."
+      }
+    ]
+  },
+  {
+    "id": "curated-a-se-da-batut",
+    "ro": "a se da bătut",
+    "ru": "сдаваться; признавать поражение",
+    "level": "B2",
+    "theme": "Идиомы",
+    "pos": "возвратное глагольное выражение",
+    "forms": "mă dau bătut; mă dau bătută; m-am dat bătut",
+    "examples": [
+      {
+        "ro": "Nu mă dau bătut după primul eșec.",
+        "ru": "Я не сдаюсь после первой неудачи."
+      },
+      {
+        "ro": "Ea nu s-a dat bătută și a încercat din nou.",
+        "ru": "Она не сдалась и попробовала снова."
+      }
+    ]
+  },
+  {
+    "id": "curated-a-pune-punctul-pe-i",
+    "ro": "a pune punctul pe i",
+    "ru": "расставлять точки над i",
+    "level": "C1",
+    "theme": "Идиомы",
+    "pos": "глагольное выражение",
+    "forms": "pun punctul pe i; am pus punctul pe i",
+    "examples": [
+      {
+        "ro": "La finalul discuției, a pus punctul pe i.",
+        "ru": "В конце обсуждения он расставил точки над i."
+      },
+      {
+        "ro": "Trebuie să punem punctul pe i înainte să semnăm.",
+        "ru": "Нужно расставить точки над i перед подписанием."
+      }
+    ]
+  }
+]
