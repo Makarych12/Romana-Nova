@@ -1,0 +1,673 @@
+[
+  {
+    "src": "/photos/expanded/open-bcd5e9696c0d554a.webp",
+    "label": "Решение и выбор",
+    "terms": "вероятност|услови|решени|выбор|если|стратег|логик|шанс|сомнен",
+    "themes": [],
+    "source": {
+      "name": "Opening chess position from black side.jpg",
+      "url": "https://commons.wikimedia.org/wiki/File:Opening_chess_position_from_black_side.jpg",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "attribution": "MichaelMaggs; уменьшено до 800 px, преобразовано в WebP."
+    }
+  },
+  {
+    "src": "/photos/expanded/open-cbde78cc776c50db.webp",
+    "label": "Время",
+    "terms": "времен|время|час|минут|секунд|раньше|позже|теперь|сейчас|вчера|завтра|сегодня|всегда|никогда|когда",
+    "themes": [
+      "Время"
+    ],
+    "source": {
+      "name": "Pendulum clock by Jacob Kock, antique furniture photography, IMG 0931 edit.jpg",
+      "url": "https://commons.wikimedia.org/wiki/File:Pendulum_clock_by_Jacob_Kock,_antique_furniture_photography,_IMG_0931_edit.jpg",
+      "license": "CC0",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "attribution": "Christoph Braun; уменьшено до 800 px, преобразовано в WebP."
+    }
+  },
+  {
+    "src": "/photos/expanded/w15.webp",
+    "label": "Деньги и расчёты",
+    "terms": "деньг|денеж|плат|цен[ауы]|стоимост|прибыл|доход|богат|бедн|эконом|финанс|сумм|долг|кредит",
+    "themes": [
+      "Деньги"
+    ],
+    "source": {
+      "name": "Euro coins and banknotes.jpg",
+      "url": "https://commons.wikimedia.org/wiki/File:Euro_coins_and_banknotes.jpg",
+      "license": "Public domain",
+      "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "attribution": "Avij  ( talk    ·    contribs ); уменьшено до 800 px, преобразовано в WebP."
+    }
+  },
+  {
+    "src": "/photos/expanded/open-bc5efe441ea27181.webp",
+    "label": "Семейное общение",
+    "terms": "семь|семейн|родствен|родител|брак|женить|свадьб",
+    "themes": [
+      "Семья"
+    ],
+    "source": {
+      "name": "Inupiat Family from Noatak, Alaska, 1929, Edward S. Curtis (restored).jpg",
+      "url": "https://commons.wikimedia.org/wiki/File:Inupiat_Family_from_Noatak,_Alaska,_1929,_Edward_S._Curtis_(restored).jpg",
+      "license": "Public domain",
+      "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "attribution": "Edward S. Curtis; уменьшено до 800 px, преобразовано в WebP."
+    }
+  },
+  {
+    "src": "/photos/expanded/curated-copil.webp",
+    "label": "Детство",
+    "terms": "детств|ребен|ребён|детск|малыш|воспита",
+    "themes": [],
+    "source": {
+      "name": "Little girl of Don Som.jpg",
+      "url": "https://commons.wikimedia.org/wiki/File:Little_girl_of_Don_Som.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "attribution": "Basile Morin; уменьшено до 800 px, преобразовано в WebP."
+    }
+  },
+  {
+    "src": "/photos/expanded/w10.webp",
+    "label": "Люди и общение",
+    "terms": "человек|люд|личност|мужчин|взросл|общени|встреч|знаком|разговор|отношени|друж",
+    "themes": [
+      "Люди"
+    ],
+    "source": {
+      "name": "Father and son 27.jpg",
+      "url": "https://commons.wikimedia.org/wiki/File:Father_and_son_27.jpg",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "attribution": "No machine-readable author provided.  Onkelbo~commonswiki  assumed (based on copyright claims).; уменьшено до 800 px, преобразовано в WebP."
+    }
+  },
+  {
+    "src": "/photos/expanded/curated-bucurie.webp",
+    "label": "Радость и чувства",
+    "terms": "радост|счаст|весел|весёл|удовольств|улыб|любов|любить|чувств|эмоц",
+    "themes": [
+      "Эмоции"
+    ],
+    "source": {
+      "name": "Flickr - don macauley - Happy woman.jpg",
+      "url": "https://commons.wikimedia.org/wiki/File:Flickr_-_don_macauley_-_Happy_woman.jpg",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "attribution": "Donald Macauley; уменьшено до 800 px, преобразовано в WebP."
+    }
+  },
+  {
+    "src": "/photos/expanded/open-d9f0330aaf2ac8b9.webp",
+    "label": "Смех",
+    "terms": "смеят|смех|шут|смешн|забав",
+    "themes": [],
+    "source": {
+      "name": "Killian Couppey.jpg",
+      "url": "https://commons.wikimedia.org/wiki/File:Killian_Couppey.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "attribution": "LCTTD; уменьшено до 800 px, преобразовано в WebP."
+    }
+  },
+  {
+    "src": "/photos/expanded/curated-spital.webp",
+    "label": "Медицина и помощь",
+    "terms": "болез|больн|леч|здоров|медицин|врач|пациент|аптек|лекар|хирург|помощ",
+    "themes": [
+      "Медицина"
+    ],
+    "source": {
+      "name": "Hospital-de-Bellvitge.jpg",
+      "url": "https://commons.wikimedia.org/wiki/File:Hospital-de-Bellvitge.jpg",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "attribution": "H501zalc; уменьшено до 800 px, преобразовано в WebP."
+    }
+  },
+  {
+    "src": "/photos/expanded/w13.webp",
+    "label": "Фрукты",
+    "terms": "фрукт|яблок|урожай|витамин",
+    "themes": [],
+    "source": {
+      "name": "Honeycrisp.jpg",
+      "url": "https://commons.wikimedia.org/wiki/File:Honeycrisp.jpg",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "attribution": "Jonathunder; уменьшено до 800 px, преобразовано в WebP."
+    }
+  },
+  {
+    "src": "/photos/bread.jpg",
+    "label": "Питание",
+    "terms": "пищ|питан|есть|съест|голод|завтрак|обед|ужин|хлеб|булоч|печь|выпеч",
+    "themes": [
+      "Еда"
+    ],
+    "source": {
+      "name": "Unsplash",
+      "url": "https://images.unsplash.com/photo-1509440159596-0249088772ff",
+      "license": "Unsplash License",
+      "licenseUrl": "https://unsplash.com/license",
+      "attribution": "Фото Unsplash; разрешённое использование по Unsplash License. Идентификатор оригинала: photo-1509440159596-0249088772ff"
+    }
+  },
+  {
+    "src": "/photos/water.jpg",
+    "label": "Вода",
+    "terms": "вод[аыуе]|пить|жажд|жидк|влажн|мокр",
+    "themes": [],
+    "source": {
+      "name": "Unsplash",
+      "url": "https://images.unsplash.com/photo-1548839140-29a749e1cf4d",
+      "license": "Unsplash License",
+      "licenseUrl": "https://unsplash.com/license",
+      "attribution": "Фото Unsplash; разрешённое использование по Unsplash License. Идентификатор оригинала: photo-1548839140-29a749e1cf4d"
+    }
+  },
+  {
+    "src": "/photos/coffee.jpg",
+    "label": "Кофе и перерыв",
+    "terms": "кофе|отдых|перерыв",
+    "themes": [],
+    "source": {
+      "name": "Unsplash",
+      "url": "https://images.unsplash.com/photo-1509042239860-f550ce710b93",
+      "license": "Unsplash License",
+      "licenseUrl": "https://unsplash.com/license",
+      "attribution": "Фото Unsplash; разрешённое использование по Unsplash License. Идентификатор оригинала: photo-1509042239860-f550ce710b93"
+    }
+  },
+  {
+    "src": "/photos/expanded/open-ee275d64dafcd283.webp",
+    "label": "Ресторан",
+    "terms": "ресторан|меню|официант|заказ|кулинар|готовить|повар",
+    "themes": [],
+    "source": {
+      "name": "Gaggenau 2016 -Restaurant- by-RaBoe 118.jpg",
+      "url": "https://commons.wikimedia.org/wiki/File:Gaggenau_2016_-Restaurant-_by-RaBoe_118.jpg",
+      "license": "CC BY-SA 3.0 de",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/de/deed.en",
+      "attribution": "©  Ra Boe / Wikipedia; уменьшено до 800 px, преобразовано в WebP."
+    }
+  },
+  {
+    "src": "/photos/expanded/open-077031b91b2e79ca.webp",
+    "label": "Покупки",
+    "terms": "покуп|магазин|продав|продаж|товар|торгов",
+    "themes": [
+      "Покупки"
+    ],
+    "source": {
+      "name": "Comercio en la plaza del 9 de abril de 1947, Tánger, Marruecos, 2015-12-11, DD 78.JPG",
+      "url": "https://commons.wikimedia.org/wiki/File:Comercio_en_la_plaza_del_9_de_abril_de_1947,_T%C3%A1nger,_Marruecos,_2015-12-11,_DD_78.JPG",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "attribution": "Diego Delso; уменьшено до 800 px, преобразовано в WebP."
+    }
+  },
+  {
+    "src": "/photos/expanded/open-8d53a3e3672946bd.webp",
+    "label": "Путешествие",
+    "terms": "турис|путешеств|гостиниц|отел|отпуск",
+    "themes": [
+      "Путешествия"
+    ],
+    "source": {
+      "name": "PNY Exterior with Rolls Royce.jpg",
+      "url": "https://commons.wikimedia.org/wiki/File:PNY_Exterior_with_Rolls_Royce.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "attribution": "Kimberlypeninsula; уменьшено до 800 px, преобразовано в WebP."
+    }
+  },
+  {
+    "src": "/photos/academy/w6.webp",
+    "label": "Поездка по железной дороге",
+    "terms": "поезд|железнодорож|вагон|рельс|вокзал|станци|билет",
+    "themes": [
+      "Поезда"
+    ],
+    "source": {
+      "name": "UBTZ 2TE116UM-022 Cagaan Had - Sumangijn Zoo.jpg",
+      "url": "https://commons.wikimedia.org/wiki/File:UBTZ_2TE116UM-022_Cagaan_Had_-_Sumangijn_Zoo.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "attribution": "Kabelleger / David Gubler; уменьшено до 800 px, преобразовано в WebP."
+    }
+  },
+  {
+    "src": "/photos/curated/curated-bicicleta.webp",
+    "label": "Движение и транспорт",
+    "terms": "езд|ехать|движ|колес|скорост|транспорт|велосипед|маршрут",
+    "themes": [
+      "Транспорт"
+    ],
+    "source": {
+      "name": "Left_side_of_Flying_Pigeon.jpg",
+      "url": "https://commons.wikimedia.org/wiki/File:Left_side_of_Flying_Pigeon.jpg",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "attribution": "齐健 from Peking, People's Republic of China Изменения: размер уменьшен до 640 px, преобразовано в WebP."
+    }
+  },
+  {
+    "src": "/photos/curated/curated-avion.webp",
+    "label": "Полёт",
+    "terms": "летать|полет|полёт|авиа|самолет|самолёт|аэропорт",
+    "themes": [],
+    "source": {
+      "name": "Airbus_A320-214,_Airbus_Industrie_JP7617615.jpg",
+      "url": "https://commons.wikimedia.org/wiki/File:Airbus_A320-214,_Airbus_Industrie_JP7617615.jpg",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "attribution": "\nPedro Aragão Изменения: размер уменьшен до 640 px, преобразовано в WebP."
+    }
+  },
+  {
+    "src": "/photos/expanded/open-7bf5f1b1db374caf.webp",
+    "label": "Дорога и направление",
+    "terms": "дорог|путь|направлен|поворот|идти|ходить|уйти|прийти|вперед|вперёд|назад|далек|далёк|близк",
+    "themes": [],
+    "source": {
+      "name": "Entry to Village.jpg",
+      "url": "https://commons.wikimedia.org/wiki/File:Entry_to_Village.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "attribution": "Surender Singh Dogra; уменьшено до 800 px, преобразовано в WebP."
+    }
+  },
+  {
+    "src": "/photos/expanded/curated-primarie.webp",
+    "label": "Город и общественные учреждения",
+    "terms": "город|муницип|администр|правитель|государств|власт|обществен",
+    "themes": [
+      "Город",
+      "Учреждения",
+      "Документы и учреждения"
+    ],
+    "source": {
+      "name": "Rathaus Stralsund nächtlich erleuchtet.jpg",
+      "url": "https://commons.wikimedia.org/wiki/File:Rathaus_Stralsund_n%C3%A4chtlich_erleuchtet.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "attribution": "JoachimKohler-HB; уменьшено до 800 px, преобразовано в WebP."
+    }
+  },
+  {
+    "src": "/photos/expanded/curated-chitanta.webp",
+    "label": "Документы",
+    "terms": "документ|бумаг|подпис|договор|заявлен|справк|квитанц|паспорт",
+    "themes": [
+      "Документы"
+    ],
+    "source": {
+      "name": "1920 Reçu Berliet consignes 16.jpg",
+      "url": "https://commons.wikimedia.org/wiki/File:1920_Re%C3%A7u_Berliet_consignes_16.jpg",
+      "license": "Public domain",
+      "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "attribution": "Unknown author Unknown author; уменьшено до 800 px, преобразовано в WebP."
+    }
+  },
+  {
+    "src": "/photos/curated/curated-pat.webp",
+    "label": "Дом и отдых",
+    "terms": "спать|сон|кроват|спальн|устал|постел",
+    "themes": [],
+    "source": {
+      "name": "2008-04-12_Freilichtmuseum_Detmold_(11).jpg",
+      "url": "https://commons.wikimedia.org/wiki/File:2008-04-12_Freilichtmuseum_Detmold_(11).jpg",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "attribution": "R-E-AL (talk | contribs | Gallery)  (German Wikipedia) Изменения: размер уменьшен до 640 px, преобразовано в WebP."
+    }
+  },
+  {
+    "src": "/photos/expanded/w12.webp",
+    "label": "Дом и повседневная жизнь",
+    "terms": "дом|быт|мебел|комнат|жить|жилищ|квартир|стол",
+    "themes": [
+      "Дом"
+    ],
+    "source": {
+      "name": "Parsons Table.jpg",
+      "url": "https://commons.wikimedia.org/wiki/File:Parsons_Table.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "attribution": "Jean-Michel Frank; уменьшено до 800 px, преобразовано в WebP."
+    }
+  },
+  {
+    "src": "/photos/curated/curated-cheie.webp",
+    "label": "Доступ и безопасность",
+    "terms": "ключ|замок|откры|закры|безопас|защит|доступ",
+    "themes": [],
+    "source": {
+      "name": "Solex_99_30_padlock_with_keys_(DSCF2659).jpg",
+      "url": "https://commons.wikimedia.org/wiki/File:Solex_99_30_padlock_with_keys_(DSCF2659).jpg",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+      "attribution": "Trougnouf Изменения: размер уменьшен до 640 px, преобразовано в WebP."
+    }
+  },
+  {
+    "src": "/photos/curated/curated-lampa.webp",
+    "label": "Освещение",
+    "terms": "свет|освещ|светл|темнот|темный|тёмный",
+    "themes": [],
+    "source": {
+      "name": "Wide_array_of_lamps.jpg",
+      "url": "https://commons.wikimedia.org/wiki/File:Wide_array_of_lamps.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "attribution": "Ragesoss Изменения: размер уменьшен до 640 px, преобразовано в WebP."
+    }
+  },
+  {
+    "src": "/photos/expanded/curated-camasa.webp",
+    "label": "Одежда",
+    "terms": "одежд|одев|носить|рубаш|ткан|шить|мод[ауы]|гардероб",
+    "themes": [
+      "Одежда"
+    ],
+    "source": {
+      "name": "Shirt, men's (AM 2015.44.1-1).jpg",
+      "url": "https://commons.wikimedia.org/wiki/File:Shirt,_men%27s_(AM_2015.44.1-1).jpg",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+      "attribution": "Manhattan; уменьшено до 800 px, преобразовано в WebP."
+    }
+  },
+  {
+    "src": "/photos/expanded/curated-ciocan.webp",
+    "label": "Работа с инструментами",
+    "terms": "инструмент|ремонт|строит|мастер|молот|труд|работать|делать|сделать",
+    "themes": [
+      "Инструменты",
+      "Техника и инструменты"
+    ],
+    "source": {
+      "name": "Claw-hammer.jpg",
+      "url": "https://commons.wikimedia.org/wiki/File:Claw-hammer.jpg",
+      "license": "Public domain",
+      "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "attribution": "Evan-Amos; уменьшено до 800 px, преобразовано в WebP."
+    }
+  },
+  {
+    "src": "/photos/expanded/curated-electrician.webp",
+    "label": "Работа и профессии",
+    "terms": "работ|професс|занят|сотруд|служб|карьер",
+    "themes": [
+      "Работа",
+      "Профессии",
+      "Работа и профессии"
+    ],
+    "source": {
+      "name": "Electrician Working.jpg",
+      "url": "https://commons.wikimedia.org/wiki/File:Electrician_Working.jpg",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "attribution": "photo taken by flickr user  editor B; уменьшено до 800 px, преобразовано в WebP."
+    }
+  },
+  {
+    "src": "/photos/curated/curated-tastatura.webp",
+    "label": "Компьютер и технологии",
+    "terms": "компьют|программ|интернет|электрон|цифров|клави|технолог|сайт|данных|данные",
+    "themes": [
+      "Электроника",
+      "Техника"
+    ],
+    "source": {
+      "name": "Typing_example.ogv",
+      "url": "https://commons.wikimedia.org/wiki/File:Typing_example.ogv",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "attribution": "NotFromUtrecht Изменения: размер уменьшен до 640 px, преобразовано в WebP."
+    }
+  },
+  {
+    "src": "/photos/curated/curated-microfon.webp",
+    "label": "Звук и речь",
+    "terms": "звук|голос|говор|сказать|слуш|слыш|музык|петь|песн",
+    "themes": [
+      "Разговорная речь"
+    ],
+    "source": {
+      "name": "Shure_mikrofon_55S.jpg",
+      "url": "https://commons.wikimedia.org/wiki/File:Shure_mikrofon_55S.jpg",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "attribution": "Holger.Ellgaard Изменения: размер уменьшен до 640 px, преобразовано в WebP."
+    }
+  },
+  {
+    "src": "/photos/curated/curated-caine.webp",
+    "label": "Забота о животных",
+    "terms": "животн|собак|щен|лаять|питом",
+    "themes": [
+      "Животные"
+    ],
+    "source": {
+      "name": "Huskiesatrest.jpg",
+      "url": "https://commons.wikimedia.org/wiki/File:Huskiesatrest.jpg",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "attribution": "M. Rehemtulla Изменения: размер уменьшен до 640 px, преобразовано в WebP."
+    }
+  },
+  {
+    "src": "/photos/curated/curated-pisica.webp",
+    "label": "Кошки",
+    "terms": "кошк|кот[ауы]?|мяук",
+    "themes": [],
+    "source": {
+      "name": "Siam_lilacpoint.jpg",
+      "url": "https://commons.wikimedia.org/wiki/File:Siam_lilacpoint.jpg",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "attribution": "Karin Langner-Bahmann, upload von Martin Bahmann Изменения: размер уменьшен до 640 px, преобразовано в WebP."
+    }
+  },
+  {
+    "src": "/photos/academy/curated-copac.webp",
+    "label": "Растения и рост",
+    "terms": "растен|дерев|расти|рост|ветв|лист|корень|ботан",
+    "themes": [
+      "Растения и природа"
+    ],
+    "source": {
+      "name": "Alnus glutinosa 011.jpg",
+      "url": "https://commons.wikimedia.org/wiki/File:Alnus_glutinosa_011.jpg",
+      "license": "CC BY 2.5",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.5",
+      "attribution": "Willow; уменьшено до 800 px, преобразовано в WebP."
+    }
+  },
+  {
+    "src": "/photos/expanded/curated-padure.webp",
+    "label": "Природа",
+    "terms": "лес|природ|эколог|окружающ",
+    "themes": [
+      "Природа"
+    ],
+    "source": {
+      "name": "Brussels Zonienwoud.jpg",
+      "url": "https://commons.wikimedia.org/wiki/File:Brussels_Zonienwoud.jpg",
+      "license": "CC BY 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+      "attribution": "Donarreiskoffer; уменьшено до 800 px, преобразовано в WebP."
+    }
+  },
+  {
+    "src": "/photos/expanded/curated-munte.webp",
+    "label": "Горы и высота",
+    "terms": "гор[ауы]|вершин|высот|высок|подъем|подъём",
+    "themes": [],
+    "source": {
+      "name": "Himalayas, Ama Dablam, Nepal.jpg",
+      "url": "https://commons.wikimedia.org/wiki/File:Himalayas,_Ama_Dablam,_Nepal.jpg",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+      "attribution": "Vyacheslav Argenberg; уменьшено до 800 px, преобразовано в WebP."
+    }
+  },
+  {
+    "src": "/photos/expanded/curated-rau.webp",
+    "label": "Течение воды",
+    "terms": "рек[аиу]|речн|поток|течени|берег",
+    "themes": [],
+    "source": {
+      "name": "White Nile Fishermen (18156464842).jpg",
+      "url": "https://commons.wikimedia.org/wiki/File:White_Nile_Fishermen_(18156464842).jpg",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "attribution": "Bernard DUPONT  from FRANCE; уменьшено до 800 px, преобразовано в WebP."
+    }
+  },
+  {
+    "src": "/photos/academy/curated-ploaie.webp",
+    "label": "Дождь и погода",
+    "terms": "дожд|погод|облач|сырост",
+    "themes": [
+      "Погода"
+    ],
+    "source": {
+      "name": "Vihmavarjuga jalakäija Sossi mäel Tallinnas. 2016. aasta aprill..jpg",
+      "url": "https://commons.wikimedia.org/wiki/File:Vihmavarjuga_jalak%C3%A4ija_Sossi_m%C3%A4el_Tallinnas._2016._aasta_aprill..jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "attribution": "Sillerkiil; уменьшено до 800 px, преобразовано в WebP."
+    }
+  },
+  {
+    "src": "/photos/academy/curated-soare.webp",
+    "label": "Солнце и тепло",
+    "terms": "солн|тепл|жар|летн|лето",
+    "themes": [],
+    "source": {
+      "name": "The Sun in white light.jpg",
+      "url": "https://commons.wikimedia.org/wiki/File:The_Sun_in_white_light.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "attribution": "Matúš Motlo; уменьшено до 800 px, преобразовано в WebP."
+    }
+  },
+  {
+    "src": "/photos/expanded/open-ba0524ac7ad6f06e.webp",
+    "label": "Холод",
+    "terms": "холод|лед|лёд|замерз|замёрз|мороз",
+    "themes": [],
+    "source": {
+      "name": "Eiskristalle in der Eishöhle.JPG",
+      "url": "https://commons.wikimedia.org/wiki/File:Eiskristalle_in_der_Eish%C3%B6hle.JPG",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "attribution": "Uwe und Lukas; уменьшено до 800 px, преобразовано в WebP."
+    }
+  },
+  {
+    "src": "/photos/expanded/open-5ded03ec7fda45fc.webp",
+    "label": "Ночь",
+    "terms": "ночь|ночн|вечер",
+    "themes": [],
+    "source": {
+      "name": "Crescent moon, Istanbul, Turkey (9603517863).jpg",
+      "url": "https://commons.wikimedia.org/wiki/File:Crescent_moon,_Istanbul,_Turkey_(9603517863).jpg",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "attribution": "l0da_ralta; уменьшено до 800 px, преобразовано в WebP."
+    }
+  },
+  {
+    "src": "/photos/expanded/open-f573a39b5ca3796d.webp",
+    "label": "Цвет и описание",
+    "terms": "цвет|красн|син[иья]|зелен|зелён|желт|жёлт|бел[аыо]|черн|чёрн|описан",
+    "themes": [
+      "Описание"
+    ],
+    "source": {
+      "name": "Colouring pencils.jpg",
+      "url": "https://commons.wikimedia.org/wiki/File:Colouring_pencils.jpg",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "attribution": "MichaelMaggs; уменьшено до 800 px, преобразовано в WebP."
+    }
+  },
+  {
+    "src": "/photos/expanded/open-aed1e54dcffdca8d.webp",
+    "label": "Количество",
+    "terms": "числ|количеств|счет|счёт|считат|много|мало|больш|меньш|столько|сколько",
+    "themes": [],
+    "source": {
+      "name": "Numbers grid in NY.jpg",
+      "url": "https://commons.wikimedia.org/wiki/File:Numbers_grid_in_NY.jpg",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "attribution": "Procsilas Moscas; уменьшено до 800 px, преобразовано в WebP."
+    }
+  },
+  {
+    "src": "/photos/expanded/open-538b91df37c0fed7.webp",
+    "label": "Искусство и движения",
+    "terms": "танц|балет|искусств|сцен|театр|граци",
+    "themes": [],
+    "source": {
+      "name": "Darcey Bussell, curtain call for Theme and Variations 2007.jpg",
+      "url": "https://commons.wikimedia.org/wiki/File:Darcey_Bussell,_curtain_call_for_Theme_and_Variations_2007.jpg",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "attribution": "scillystuff; уменьшено до 800 px, преобразовано в WebP."
+    }
+  },
+  {
+    "src": "/photos/expanded/open-ed8d8fda301f5934.webp",
+    "label": "Новости и сообщения",
+    "terms": "новост|сообщ|журнал|газет|информац",
+    "themes": [],
+    "source": {
+      "name": "2011 newspapers Tehran 6030393078.jpg",
+      "url": "https://commons.wikimedia.org/wiki/File:2011_newspapers_Tehran_6030393078.jpg",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "attribution": "Kai Hendry  from Singapore, Malaysia; уменьшено до 800 px, преобразовано в WebP."
+    }
+  },
+  {
+    "src": "/photos/expanded/open-7b8264d2befffe70.webp",
+    "label": "Учёба и письмо",
+    "terms": "писать|письм|рисов|урок|учен|учён|обуч|образован|знани|наук|школ",
+    "themes": [
+      "Наука и образование"
+    ],
+    "source": {
+      "name": "2014-01-16-Hittegods (12009261426).jpg",
+      "url": "https://commons.wikimedia.org/wiki/File:2014-01-16-Hittegods_(12009261426).jpg",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "attribution": "Ole Palnatoke Andersen; уменьшено до 800 px, преобразовано в WebP."
+    }
+  },
+  {
+    "src": "/photos/book.jpg",
+    "label": "Чтение и язык",
+    "terms": "слов|язык|читать|чтени|книг|текст|смысл|значени|понят|объясн|перевод|выражени|фраз|союз|предлог|местоим|нареч|частиц",
+    "themes": [
+      "Разговорная речь и выражения",
+      "Идиомы",
+      "Глаголы"
+    ],
+    "source": {
+      "name": "Unsplash",
+      "url": "https://images.unsplash.com/photo-1544947950-fa07a98d237f",
+      "license": "Unsplash License",
+      "licenseUrl": "https://unsplash.com/license",
+      "attribution": "Фото Unsplash; разрешённое использование по Unsplash License. Идентификатор оригинала: photo-1544947950-fa07a98d237f"
+    }
+  }
+]

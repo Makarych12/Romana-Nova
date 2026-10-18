@@ -26,6 +26,7 @@ import {
 } from "../lib/vocabulary-exercises";
 import {qualityLabels,type QualityCode} from "../lib/quality-audit";
 import SafeImage from "./SafeImage";
+import { dictionaryPhoto } from "../lib/dictionary-photos";
 import { SoundCheck } from "./AudioControls";
 const size = 24;
 export default function Dictionary({
@@ -161,7 +162,7 @@ export default function Dictionary({
           из открытого Викисловаря. У {catalogMeta.withTwoExamples} есть два
           примера. У {catalogMeta.withTwoReviewedExamples} пар примеров выполнена редакторская проверка агентом; независимой проверки носителем нет. Уровни импортированных статей оценочные, переводы и неполные
           примеры требуют редакторской проверки. Это расширение словаря, а не
-          готовый курс C1.
+          готовый курс C1. Фото без прямой привязки к слову подписаны «Контекст»: они показывают ситуацию или тему, а не буквальный перевод.
         </p>
       </div>
       {notice&&<p className="dictionary-error" role="status">{notice}</p>}
@@ -310,7 +311,7 @@ export default function Dictionary({
               className="flashcard-inner"
             >
               <div className="flashcard-face">
-                {word.image && <SafeImage src={word.image} alt={word.ru} />}
+                <DictionaryPhoto word={word} />
                 <span className="level-tag">
                   {word.level}
                   {word.levelEstimated ? "*" : ""}
@@ -388,13 +389,7 @@ export default function Dictionary({
               .slice(safePage * size, (safePage + 1) * size)
               .map((w) => (
                 <article className="word-card" key={w.id}>
-                  {w.image && (
-                    <SafeImage
-                      className="word-photo"
-                      src={w.image}
-                      alt={w.ru}
-                    />
-                  )}
+                  <DictionaryPhoto word={w} />
                   <div className="word-card-body">
                     <div className="word-card-top">
                       <span className="text-tag">
@@ -532,7 +527,18 @@ function WordExamples({
     </div>
   );
 }
+function DictionaryPhoto({ word }: { word: Word }) {
+  const photo = dictionaryPhoto(word);
+  return <figure className="dictionary-photo">
+    <SafeImage className="word-photo" src={photo.src}
+      alt={photo.contextual ? `Контекст: ${photo.label}` : photo.label} />
+    <figcaption>{photo.contextual ? `Контекст: ${photo.label}` : 'Фото слова'}</figcaption>
+  </figure>;
+}
+
 function Attribution({ word }: { word: Word }) {
+  const photo = dictionaryPhoto(word);
+  const imageSource = photo.source;
   return (
     <>
       {word.source && (
@@ -547,22 +553,22 @@ function Attribution({ word }: { word: Word }) {
           </a>
         </details>
       )}
-      {word.imageSource ? (
+      {imageSource ? (
         <details className="word-attribution">
           <summary>Фото: автор и лицензия</summary>
-          <a href={word.imageSource.url} target="_blank" rel="noreferrer">
-            {word.imageSource.name}
+          <a href={imageSource.url} target="_blank" rel="noreferrer">
+            {imageSource.name}
           </a>
-          <p>{word.imageSource.attribution}</p>
+          <p>{imageSource.attribution}</p>
           <a
-            href={word.imageSource.licenseUrl}
+            href={imageSource.licenseUrl}
             target="_blank"
             rel="noreferrer"
           >
-            {word.imageSource.license}
+            {imageSource.license}
           </a>
         </details>
-      ) : word.image ? (
+      ) : photo.src ? (
         <a
           className="example-source"
           href="/photos/attribution.json"
