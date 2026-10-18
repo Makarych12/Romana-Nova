@@ -5,6 +5,7 @@ import crypto from 'node:crypto';
 import { spawnSync } from 'node:child_process';
 import { lessons, railLesson } from '../src/data/course.ts';
 import { dialogues, dialogueAudio } from '../src/data/dialogues.ts';
+import { audioKey, audioLookupPrefix, normalizeAudioText } from '../src/lib/audio-text.ts';
 
 const read = p => JSON.parse(fs.readFileSync(p, 'utf8'));
 const meta = read('src/data/catalog-meta.json');
@@ -13,6 +14,14 @@ const manifest = read('src/data/audio-manifest.json');
 const norm = text => text.normalize('NFC').replace(/\s+/g, ' ').trim();
 const missing = text => !manifest[norm(text)] || !fs.existsSync('public' + manifest[norm(text)]);
 const errors = [];
+const indexMeta = read('src/data/audio-index-meta.json');
+const chunks = new Map();
+for (const [text, url] of Object.entries(manifest)) {
+  const prefix = audioLookupPrefix(text);
+  if (!chunks.has(prefix)) chunks.set(prefix, read('public' + indexMeta.baseUrl + '/' + prefix + '.json'));
+  const chunk = chunks.get(prefix);
+  if (chunk['=' + audioKey(text)] !== url || (chunk[normalizeAudioText(text)] && chunk[normalizeAudioText(text)] !== url)) errors.push({ text, error: 'incorrect audio lookup' });
+}
 const report = {
   date: '2026-10-18',
   catalog: meta.url,
@@ -24,6 +33,9 @@ const report = {
   linkedPhotos: cards.filter(w => w.image).length,
   cardsWithFewerThanTwoExamples: cards.filter(w => w.examples.length < 2).length,
   uniqueMP3: new Set(Object.values(manifest)).size,
+  audioIndexRevision: indexMeta.revision,
+  audioIndexShards: chunks.size,
+  maxAudioIndexShardBytes: indexMeta.maxShardBytes,
   originalMediaFilesChecked: 0,
   decodedAllMP3: false,
   browserPlaybackVerified: false,

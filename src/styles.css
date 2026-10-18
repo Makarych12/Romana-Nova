@@ -4133,3 +4133,9 @@ option {
 .sound-check p { margin-top: 12px; color: #8fc6da; font-size: 12px; line-height: 1.8; overflow-wrap: anywhere; }
 .sound-check small { font-size: 10px; }
 .sound-check [role="alert"] { color: #e9c8a5; }
+
+.audio-volume { display: flex; flex-direction: column; gap: 5px; font-size: 10px; color: #8fc6da; }
+.audio-volume input { width: 76px; accent-color: #62d2e7; }
+.audio-playback-check ol { max-height: 280px; overflow: auto; padding-left: 22px; }
+.audio-playback-check li { margin: 10px 0; line-height: 1.8; overflow-wrap: anywhere; }
+@media (max-width: 760px) { .audio-dock { flex-wrap: wrap; } .audio-dock .audio-dock-title { flex: 1 0 100%; } .audio-dock .audio-volume { margin-left: auto; } }

@@ -1,419 +1,296 @@
-import files from "../data/audio-manifest.json";
+/** Adapted from CHAMELEON BG src/speech.ts: one player, cancellable sessions,
+ * bounded lookup, completed-line queues, Piper then the real Romanian voice.
+ * Retains ROMÂNA NOVA's public API and existing content-addressed MP3 paths. */
+import { audioFileFor, resolveAudioFile, audioFileCount, audioKey, prepareAudio } from "./audio-index";
 import { cachePlayedAudio } from "./audio-cache";
-export type AudioStatus =
-  | "idle"
-  | "loading"
-  | "playing"
-  | "paused"
-  | "ended"
-  | "error";
+import { requestPiper, rememberPiper } from "./audio-tts";
+export { audioFileFor, resolveAudioFile, audioFileCount, audioKey, prepareAudio };
+export type AudioStatus = "idle" | "loading" | "playing" | "paused" | "ended" | "error";
 export type AudioState = {
-  status: AudioStatus;
-  text: string;
-  source: "file" | "browser" | null;
-  rate: number;
-  error: string;
-  currentTime: number;
-  duration: number;
-  voices: string[];
-  voiceReady: boolean;
-  url: string;
+  status: AudioStatus; text: string; source: "file" | "server" | "browser" | null;
+  rate: number; volume: number; error: string; currentTime: number; duration: number;
+  voices: string[]; voiceReady: boolean; url: string; sequenceIndex: number; sequenceLength: number;
+  timeUpdates: number;
 };
-export const audioKey = (text: string) =>
-  text.normalize("NFC").replace(/\s+/g, " ").trim();
-const manifest = files as Record<string, string>;
-export const audioFileFor = (text: string) => manifest[audioKey(text)];
-export const audioFileCount = Object.keys(manifest).length;
-let state: AudioState = {
-  status: "idle",
-  text: "",
-  source: null,
-  rate: 1,
-  error: "",
-  currentTime: 0,
-  duration: 0,
-  voices: [],
-  voiceReady: false,
-  url: "",
-};
+type Strategy = "auto" | "file" | "browser";
+type Notify = (message: string) => void;
+function preferences() { try { return JSON.parse(localStorage.getItem("romana-audio-preferences") || "{}") || {}; } catch { return {}; } }
+const saved = preferences();
+let state: AudioState = { status: "idle", text: "", source: null, rate: 1,
+  volume: Number.isFinite(saved.volume) ? Math.max(0, Math.min(1, saved.volume)) : 1,
+  error: "", currentTime: 0, duration: 0, voices: [], voiceReady: false, url: "", sequenceIndex: -1, sequenceLength: 0, timeUpdates: 0 };
 const listeners = new Set<() => void>();
-let player: HTMLAudioElement | null = null;
-// Owned by the engine, outside React's root. Keep the same connected element
-// through card changes and AudioBar mounts; never remove it during play().
-let mediaElement: HTMLAudioElement | null = null;
-function connectedPlayer() {
-  if (!mediaElement || mediaElement.ownerDocument !== document) {
-    mediaElement = new Audio();
-    mediaElement.id = "romana-audio-player";
-    mediaElement.hidden = true;
-    mediaElement.setAttribute("aria-hidden", "true");
-    mediaElement.preload = "auto";
-  }
-  if (!mediaElement.isConnected) document.body.appendChild(mediaElement);
-  return mediaElement;
-}
-let utterance: SpeechSynthesisUtterance | null = null;
-let generation = 0;
-let timer: ReturnType<typeof setTimeout> | undefined;
-let nativeReady = false;
-let pendingVoiceCleanup: (() => void) | null = null;
-function emit(patch: Partial<AudioState>) {
-  state = { ...state, ...patch };
-  listeners.forEach((fn) => fn());
-}
-export const subscribeAudio = (fn: () => void) => {
-  listeners.add(fn);
-  return () => {
-    listeners.delete(fn);
-  };
-};
+export const subscribeAudio = (fn: () => void) => { listeners.add(fn); return () => { listeners.delete(fn); }; };
 export const getAudioState = () => state;
-function synth() {
-  return typeof window !== "undefined" && "speechSynthesis" in window
-    ? window.speechSynthesis
-    : undefined;
+function emit(patch: Partial<AudioState>) {
+  if (Object.entries(patch).every(([k, v]) => state[k as keyof AudioState] === v)) return;
+  state = { ...state, ...patch }; listeners.forEach(fn => fn());
 }
-function speechVoices(): SpeechSynthesisVoice[] {
-  try { return synth()?.getVoices() || []; } catch { return []; }
-}
-function roVoice() {
-  const voices = speechVoices();
-  return (
-    voices.find((v) => /^ro[-_]RO$/i.test(v.lang)) ||
-    voices.find((v) => /^ro$/i.test(v.lang))
-  );
-}
+let element: HTMLAudioElement | null = null;
+let context: AudioContext | null = null, analyser: AnalyserNode | null = null, input: MediaElementAudioSourceNode | null = null;
+let outputReady: Promise<void> = Promise.resolve();
+let generation = 0, attemptId = 0, initialized = false;
+let request: AbortController | null = null;
+let cancelPending: (() => void) | null = null;
+let pauseWatchdog: (() => void) | null = null, resumeWatchdog: (() => void) | null = null;
+let queueCleanup: (() => void) | null = null;
+let lastRequest: { texts: string[]; strategy: Strategy } | null = null;
+const synth = () => typeof window !== "undefined" ? window.speechSynthesis : undefined;
+function voices(): SpeechSynthesisVoice[] { try { return synth()?.getVoices() || []; } catch { return []; } }
+const isRomanian = (v: SpeechSynthesisVoice) => /^ro(?:[-_]RO)?$/i.test(v.lang) && (v.localService || navigator.onLine);
+export const audioAnalyser = () => context?.state === "running" ? analyser : null;
 export function initializeAudio() {
-  if (nativeReady || typeof window === "undefined") return;
-  nativeReady = true;
-  const update = () =>
-    emit({
-      voices:
-        speechVoices()
-          .filter((v) => /^ro(?:[-_]RO)?$/i.test(v.lang))
-          .map((v) => `${v.name || "Румынский"} · ${v.lang}`) || [],
-      voiceReady: true,
-    });
+  if (initialized || typeof window === "undefined") return;
+  initialized = true;
+  const update = () => emit({ voices: voices().filter(isRomanian).map(v => `${v.name || "Румынский"} · ${v.lang}`), voiceReady: true });
   update();
-  synth()?.addEventListener?.("voiceschanged", update);
-  document.addEventListener("visibilitychange", () => {
-    if (
-      document.hidden &&
-      ["loading", "playing", "paused"].includes(state.status)
-    )
-      stopAudio(
-        "Воспроизведение остановлено при блокировке или скрытии экрана. Нажмите повтор для продолжения.",
-      );
-  });
+  try { synth()?.addEventListener("voiceschanged", update); } catch { /* Local MP3 stays usable. */ }
   window.addEventListener("pagehide", () => stopAudio());
 }
-function clearPlayback() {
-  clearTimeout(timer);
-  pendingVoiceCleanup?.();
-  pendingVoiceCleanup = null;
-  if (player) {
-    player.onplaying = null;
-    player.onpause = null;
-    player.onended = null;
-    player.onerror = null;
-    player.ontimeupdate = null;
-    player.onloadedmetadata = null;
-    player.onwaiting = null;
-    player.pause();
-    // pause() cancels playback without destroying the resource or detaching
-    // the element. src removal + load() also abort an unsettled play promise.
-    player = null;
+// BG's abortable(): cancellation must settle even an unresponsive play/fetch.
+function abortable<T>(promise: Promise<T>, signal: AbortSignal): Promise<T> {
+  return new Promise((resolve, reject) => {
+    const abort = () => { signal.removeEventListener("abort", abort); reject(new DOMException("Cancelled", "AbortError")); };
+    if (signal.aborted) { abort(); return; }
+    signal.addEventListener("abort", abort, { once: true });
+    promise.then(value => { signal.removeEventListener("abort", abort); resolve(value); }, error => { signal.removeEventListener("abort", abort); reject(error); });
+  });
+}
+function player() {
+  if (!element) {
+    element = new Audio(); element.id = "romana-audio-player";
+    element.hidden = true; element.setAttribute("aria-hidden", "true");
+    element.preload = "metadata"; element.preservesPitch = true;
   }
-  if (utterance) {
-    utterance.onstart = null;
-    utterance.onend = null;
-    utterance.onerror = null;
-    utterance.onpause = null;
-    utterance.onresume = null;
-    utterance = null;
+  if (!element.isConnected) document.body.appendChild(element);
+  element.volume = state.volume;
+  // Exactly the reference's mobile bypass: never route touch/mobile speech
+  // through a suspended WebAudio graph and mistake a moving clock for sound.
+  const nativeOnly = /Android|iPhone|iPad/i.test(navigator.userAgent) || window.matchMedia?.("(pointer: coarse)").matches;
+  if (!nativeOnly && typeof AudioContext !== "undefined") {
+    try {
+      context ??= new AudioContext();
+      const activeContext = context, media = element;
+      outputReady = (context.state === "running" ? Promise.resolve() : context.resume()).then(() => {
+        if (activeContext.state !== "running") throw Error("AudioContext не возобновился");
+        if (!input) {
+          // createMediaElementSource is called once for this lifetime element.
+          const source = activeContext.createMediaElementSource(media);
+          const meter = activeContext.createAnalyser(); meter.fftSize = 256; meter.smoothingTimeConstant = .75;
+          source.connect(meter).connect(activeContext.destination); input = source; analyser = meter;
+        }
+      }).catch(error => { if (input) throw error; /* No graph attached: keep native playback. */ });
+      void outputReady.catch(() => {});
+    } catch { /* Browser without WebAudio retains the native MP3 path. */ }
   }
-  // A disabled OS speech service must never prevent local MP3 playback.
-  try { synth()?.cancel(); } catch { /* MP3 does not need SpeechSynthesis. */ }
+  return element;
+}
+function detachHandlers(audio: HTMLAudioElement) {
+  audio.onplaying = audio.onpause = audio.onended = audio.onerror = audio.ontimeupdate = audio.onloadedmetadata = audio.onwaiting = audio.onstalled = null;
 }
 export function stopAudio(note = "") {
-  generation++;
-  clearPlayback();
-  emit({ status: "idle", error: note, currentTime: 0, duration: 0 });
+  generation++; request?.abort(); request = null;
+  cancelPending?.(); cancelPending = null;
+  pauseWatchdog = resumeWatchdog = null;
+  const clearQueue = queueCleanup; queueCleanup = null; clearQueue?.();
+  if (element) { detachHandlers(element); element.pause(); }
+  // Keep the element and src in the document. No removeAttribute/load/React
+  // cleanup can tear down a new play request while an old promise settles.
+  try { synth()?.cancel(); } catch { /* OS speech is optional. */ }
+  emit({ status: "idle", error: note, currentTime: 0, duration: 0, sequenceIndex: -1, sequenceLength: 0 });
 }
-function failure(
-  message: string,
-  id: number,
-  onError: (message: string) => void,
-) {
-  if (id !== generation) return;
-  clearPlayback();
-  emit({ status: "error", error: message });
-  onError(message);
-}
-async function filePlayback(
-  text: string,
-  rate: number,
-  id: number,
-  onError: (message: string) => void,
-) {
-  const url = audioFileFor(text);
-  if (!url) {
-    failure(
-      "Нет румынского голоса ro-RO и локального аудиофайла для этой фразы. Откройте диагностику аудио.",
-      id,
-      onError,
-    );
-    return;
-  }
-  clearPlayback();
-  emit({
-    status: "loading",
-    source: "file",
-    error: "",
-    currentTime: 0,
-    duration: 0,
-    url,
+type Outcome = { ok: boolean; error?: string; blocked?: boolean; fatal?: boolean };
+function playFile(url: string, token: number, source: "file" | "server", signal: AbortSignal): Promise<Outcome> {
+  if (token !== generation || signal.aborted) return Promise.resolve({ ok: false });
+  const audio = player();
+  attemptId++;
+  emit({ source, url, status: "loading", currentTime: 0, duration: 0, timeUpdates: 0 });
+  return new Promise(resolve => {
+    let done = false, lastTime = -1;
+    let timer: ReturnType<typeof setTimeout>;
+    const finish = (result: Outcome) => {
+      if (done) return; done = true; clearTimeout(timer); signal.removeEventListener("abort", cancel);
+      // An old attempt may settle after a new one owns the same element.
+      if (cancelPending === cancel) {
+        attemptId++;
+        detachHandlers(audio); cancelPending = null; pauseWatchdog = resumeWatchdog = null;
+        if (!result.ok) audio.pause();
+      }
+      resolve(result);
+    };
+    const cancel = () => finish({ ok: false });
+    const arm = () => { clearTimeout(timer); timer = setTimeout(() => finish({ ok: false, error: `MP3 перестал загружаться или продвигаться: ${url}` }), 12000); };
+    cancelPending = cancel; pauseWatchdog = () => clearTimeout(timer); resumeWatchdog = arm;
+    signal.addEventListener("abort", cancel, { once: true });
+    audio.onplaying = () => { if (token === generation && !done) { arm(); emit({ status: "playing" }); if (source === "file") void cachePlayedAudio(url); } };
+    audio.onloadedmetadata = () => { if (token === generation && !done) emit({ duration: Number.isFinite(audio.duration) ? audio.duration : 0 }); };
+    audio.onpause = () => { if (token === generation && !done && state.status === "playing") { pauseWatchdog?.(); emit({ status: "paused" }); } };
+    audio.ontimeupdate = () => {
+      if (token !== generation || done) return;
+      emit({ currentTime: audio.currentTime, timeUpdates: state.timeUpdates + 1 });
+      if (audio.currentTime !== lastTime && state.status !== "paused") { lastTime = audio.currentTime; arm(); }
+    };
+    audio.onwaiting = audio.onstalled = () => { if (token === generation && !done && state.status !== "paused") { emit({ status: "loading" }); arm(); } };
+    audio.onended = () => { if (token === generation && !done) { emit({ currentTime: Number.isFinite(audio.duration) ? audio.duration : audio.currentTime }); finish({ ok: true }); } };
+    audio.onerror = () => finish({ ok: false, error: `MediaError ${audio.error?.code ?? "?"}: ${audio.error?.message || "не удалось загрузить или декодировать MP3"} · ${url}` });
+    audio.src = url; audio.playbackRate = state.rate; audio.volume = state.volume;
+    arm();
+    const start = () => {
+      if (token !== generation || done || signal.aborted) return;
+      try { void audio.play().catch(error => {
+        if (done) return;
+        const name = error?.name || "Error";
+        finish({ ok: false, blocked: name === "NotAllowedError", fatal: name === "AbortError", error: name === "NotAllowedError"
+          ? `Браузер заблокировал звук. Нажмите «Повтор» для запуска вашим нажатием. · ${url}`
+          : `${name}: ${error?.message || "MP3 не запустился"} · ${url} · плеер в документе: ${audio.isConnected ? "да" : "нет"}; readyState=${audio.readyState}; networkState=${audio.networkState}; страница=${document.visibilityState}` });
+      }); } catch (error) { finish({ ok: false, error: String(error) }); }
+    };
+    // With native output, cached/bootstrap files still start inside the click.
+    if (!context) start();
+    else void abortable(outputReady, signal).then(start, error => finish({ ok: false, error: `AudioContext: ${String(error)}` }));
   });
+}
+async function systemVoice(text: string, token: number, signal: AbortSignal): Promise<Outcome> {
+  const engine = synth(); if (!engine) return { ok: false };
+  if (!voices().some(isRomanian)) {
+    await new Promise<void>(resolve => {
+      let timer: ReturnType<typeof setTimeout>;
+      const finish = () => { clearTimeout(timer); engine.removeEventListener?.("voiceschanged", finish); signal.removeEventListener("abort", finish); resolve(); };
+      engine.addEventListener?.("voiceschanged", finish); signal.addEventListener("abort", finish, { once: true }); timer = setTimeout(finish, 600);
+    });
+  }
+  if (token !== generation || signal.aborted) return { ok: false };
+  const voice = voices().find(isRomanian); if (!voice) return { ok: false };
+  attemptId++;
+  return new Promise(resolve => {
+    let done = false, timer: ReturnType<typeof setTimeout>;
+    const utterance = new SpeechSynthesisUtterance(text); utterance.voice = voice; utterance.lang = "ro-RO"; utterance.rate = state.rate; utterance.volume = state.volume;
+    const finish = (ok: boolean) => {
+      if (done) return; done = true; clearTimeout(timer); signal.removeEventListener("abort", cancel);
+      utterance.onstart = utterance.onend = utterance.onerror = utterance.onpause = utterance.onresume = null;
+      if (cancelPending === cancel) { attemptId++; cancelPending = null; pauseWatchdog = resumeWatchdog = null; }
+      resolve({ ok });
+    };
+    const cancel = () => finish(false);
+    const arm = () => { clearTimeout(timer); timer = setTimeout(() => { finish(false); if (token === generation) engine.cancel(); }, Math.max(15000, text.length * 200 / state.rate)); };
+    cancelPending = cancel; pauseWatchdog = () => clearTimeout(timer); resumeWatchdog = arm;
+    signal.addEventListener("abort", cancel, { once: true });
+    utterance.onstart = () => { if (token === generation && !done) { emit({ status: "playing", source: "browser" }); arm(); } };
+    utterance.onend = () => finish(true); utterance.onerror = () => finish(false);
+    utterance.onpause = () => { if (token === generation && !done) { pauseWatchdog?.(); emit({ status: "paused" }); } };
+    utterance.onresume = () => { if (token === generation && !done) { arm(); emit({ status: "playing" }); } };
+    timer = setTimeout(() => finish(false), 3500);
+    emit({ source: "browser", url: "", status: "loading" });
+    try { engine.speak(utterance); } catch { finish(false); }
+  });
+}
+async function cachedUrl(url: string, signal: AbortSignal) {
+  if (!("caches" in globalThis)) return;
+  for (const name of ["romana-audio-v2", "romana-audio-v1", "romana-audio-generated-v1"]) {
+    const response = await abortable((await caches.open(name)).match(url), signal);
+    if (response?.headers.get("content-type")?.startsWith("audio/")) return URL.createObjectURL(await abortable(response.blob(), signal));
+  }
+}
+async function playText(text: string, token: number, signal: AbortSignal, notify: Notify, strategy: Strategy): Promise<boolean> {
+  if (token !== generation || signal.aborted) return false;
+  emit({ status: "loading", text: audioKey(text), source: null, error: "", currentTime: 0, duration: 0, url: "", timeUpdates: 0 });
+  let lastError = "Нет готового MP3 для этой фразы.";
   try {
-    const media = connectedPlayer();
-    player = media;
-    media.preload = "auto";
-    media.src = url;
-    media.playbackRate = rate;
-    media.onplaying = () => {
-      if (id === generation) {
-        clearTimeout(timer);
-        emit({ status: "playing" });
-        void cachePlayedAudio(url);
+    if (strategy !== "browser") {
+      const url = audioFileFor(text) ?? await abortable(resolveAudioFile(text), signal);
+      if (token !== generation || signal.aborted) return false;
+      if (url) {
+        let savedUrl: string | undefined;
+        // Like BG: selected/cached audio can play without a working index/network.
+        if (!navigator.onLine) try { savedUrl = await abortable(cachedUrl(url, signal), signal); } catch { /* Native URL/SW may still work. */ }
+        let result: Outcome;
+        try { result = await playFile(savedUrl ?? url, token, "file", signal); }
+        finally { if (savedUrl) URL.revokeObjectURL(savedUrl); }
+        if (result.ok) return true;
+        lastError = result.error || lastError;
+        if (result.blocked || result.fatal) throw Error(lastError);
       }
-    };
-    media.onwaiting = () => {
-      if (id === generation) {
-        emit({ status: "loading" });
-        clearTimeout(timer);
-        timer = setTimeout(
-          () =>
-            failure(
-              "Аудио прервалось при загрузке. Нажмите повтор после восстановления сети.",
-              id,
-              onError,
-            ),
-          20000,
-        );
+      if (strategy === "file") throw Error(lastError);
+      if (token !== generation || signal.aborted) return false;
+      {
+        emit({ status: "loading", source: "server", url: "" });
+        const blob = await abortable(requestPiper(text, signal), signal);
+        if (token !== generation || signal.aborted) return false;
+        if (blob) {
+          const objectUrl = URL.createObjectURL(blob);
+          try {
+            const result = await playFile(objectUrl, token, "server", signal);
+            if (result.ok) { void rememberPiper(text, blob); return true; }
+            lastError = result.error || lastError;
+            if (result.blocked || result.fatal) throw Error(lastError);
+          } finally { URL.revokeObjectURL(objectUrl); }
+        }
       }
-    };
-    media.onpause = () => {
-      if (id === generation && state.status === "playing")
-        emit({ status: "paused" });
-    };
-    media.onloadedmetadata = () => {
-      if (id === generation)
-        emit({
-          duration: Number.isFinite(media.duration) ? media.duration : 0,
-        });
-    };
-    media.ontimeupdate = () => {
-      if (id === generation) emit({ currentTime: media.currentTime });
-    };
-    media.onended = () => {
-      if (id === generation) {
-        clearTimeout(timer);
-        emit({ status: "ended", currentTime: media.duration || 0 });
-      }
-    };
-    media.onerror = () => {
-      const code = media.error?.code;
-      const reasons: Record<number, string> = {
-        1: "Загрузка прервана",
-        2: "Сетевая ошибка",
-        3: "Браузер не смог декодировать MP3",
-        4: "Файл недоступен или формат не поддерживается",
-      };
-      failure(`${code ? reasons[code] || "Ошибка проигрывателя" : "Ошибка загрузки MP3"}${code ? ` (MediaError ${code})` : ""}. ${url}${navigator.onLine ? "" : " · Офлайн: файл мог ещё не сохраниться."}`, id, onError);
-    };
-    timer = setTimeout(
-      () =>
-        failure(
-          "Загрузка аудио не завершилась. Проверьте сеть и нажмите повтор.",
-          id,
-          onError,
-        ),
-      20000,
-    );
-    await media.play();
+    }
+    if (token !== generation || signal.aborted) return false;
+    if ((await systemVoice(text, token, signal)).ok) return true;
+    if (token === generation && !signal.aborted) throw Error(`${lastError} Румынский Piper endpoint и настоящий голос ro-RO сейчас недоступны.`);
   } catch (error) {
-    const name = error instanceof DOMException ? error.name : "";
-    const context = name === "AbortError"
-      ? ` Плеер в документе: ${player?.isConnected ? "да" : "нет"}; readyState=${player?.readyState ?? "—"}; networkState=${player?.networkState ?? "—"}; страница=${document.visibilityState}.`
-      : "";
-    failure(
-      name === "NotAllowedError"
-        ? "Браузер заблокировал звук. Нажмите «Повтор» — запуск должен происходить вашим нажатием."
-        : `MP3 не запустился${name ? ` (${name})` : ""}: ${url}. ${error instanceof Error ? error.message : "Проверьте сеть и формат в диагностике."}${context}`,
-      id,
-      onError,
-    );
+    if (token === generation && !signal.aborted) {
+      const message = error instanceof Error ? error.message : String(error);
+      emit({ status: "error", error: message }); notify(message);
+    }
   }
+  return false;
 }
-function nativePlayback(
-  text: string,
-  rate: number,
-  id: number,
-  onError: (message: string) => void,
-) {
-  const voice = roVoice();
-  const engine = synth();
-  if (!voice || !engine) {
-    void filePlayback(text, rate, id, onError);
-    return;
-  }
-  emit({ source: "browser", status: "loading" });
-  const u = new SpeechSynthesisUtterance(text);
-  utterance = u;
-  u.voice = voice;
-  u.lang = "ro-RO";
-  u.rate = rate;
-  const fallback = () => {
-    if (id !== generation) return;
-    void filePlayback(text, rate, id, onError);
-  };
-  u.onstart = () => {
-    if (id === generation) {
-      clearTimeout(timer);
-      emit({ status: "playing" });
-      timer = setTimeout(fallback, Math.max(8000, (text.length * 120) / rate));
-    }
-  };
-  u.onpause = () => {
-    if (id === generation) {clearTimeout(timer);emit({ status: "paused" });}
-  };
-  u.onresume = () => {
-    if (id === generation) {clearTimeout(timer);emit({ status: "playing" });timer=setTimeout(fallback,Math.max(8000,(text.length*120)/rate));}
-  };
-  u.onend = () => {
-    if (id === generation) {
-      clearTimeout(timer);
-      emit({ status: "ended" });
-    }
-  };
-  u.onerror = fallback;
-  timer = setTimeout(fallback, 3500);
-  try {
-    engine.speak(u);
-  } catch {
-    fallback();
-  }
+function begin(rate: number) {
+  initializeAudio(); stopAudio(); setAudioRate(rate); player();
+  request = new AbortController(); return { token: generation, signal: request.signal };
 }
-/** Called by a user gesture only. No hidden language substitution or autoplay. */
-export function speak(
-  text: string,
-  rate: number,
-  onError: (message: string) => void = () => {},
-  strategy: "auto" | "file" | "browser" = "auto",
-) {
-  initializeAudio();
-  generation++;
-  const id = generation;
-  clearPlayback();
-  emit({
-    status: "loading",
-    text: audioKey(text),
-    rate,
-    source: null,
-    error: "",
-    currentTime: 0,
-    duration: 0,
-    url: "",
-  });
-  if (strategy === "file") {
-    void filePlayback(text, rate, id, onError);
-    return;
+export function speak(text: string, rate: number, notify: Notify = () => {}, strategy: Strategy = "auto"): Promise<boolean> {
+  const { token, signal } = begin(rate); lastRequest = { texts: [text], strategy };
+  return playText(text, token, signal, notify, strategy).then(ok => { if (ok && token === generation) emit({ status: "ended" }); return ok; });
+}
+export async function speakSequence(texts: string[], rate: number, notify: Notify = () => {}, onLine?: (index: number) => void) {
+  const { token, signal } = begin(rate); lastRequest = { texts: [...texts], strategy: "auto" };
+  queueCleanup = () => onLine?.(-1);
+  for (let i = 0; i < texts.length && token === generation; i++) {
+    emit({ sequenceIndex: i, sequenceLength: texts.length }); onLine?.(i);
+    if (!await playText(texts[i], token, signal, notify, "auto")) break;
+    if (i === texts.length - 1 && token === generation) emit({ status: "ended" });
   }
-  if (audioFileFor(text) && (strategy !== "browser" || text.length > 160)) {
-    void filePlayback(text, rate, id, onError);
-    return;
-  }
-  if (roVoice()) {
-    nativePlayback(text, rate, id, onError);
-    return;
-  }
-  // Known local files start synchronously within the mobile user gesture.
-  if (audioFileFor(text)) {
-    void filePlayback(text, rate, id, onError);
-    return;
-  }
-  const engine = synth();
-  if (!engine) {
-    failure(
-      "Этот браузер не поддерживает синтез речи, и локальный файл для фразы отсутствует.",
-      id,
-      onError,
-    );
-    return;
-  }
-  // Some browsers expose an empty list until voiceschanged fires.
-  const check = () => {
-    if (id === generation && roVoice()) {
-      clearTimeout(timer);
-      engine.removeEventListener?.("voiceschanged", check);
-      nativePlayback(text, rate, id, onError);
-    }
-  };
-  engine.addEventListener?.("voiceschanged", check);
-  pendingVoiceCleanup = () =>
-    engine.removeEventListener?.("voiceschanged", check);
-  timer = setTimeout(() => {
-    engine.removeEventListener?.("voiceschanged", check);
-    if (id === generation) void filePlayback(text, rate, id, onError);
-  }, 1500);
+  if (token === generation) { queueCleanup?.(); queueCleanup = null; emit({ sequenceIndex: -1, sequenceLength: 0 }); }
 }
 export function pauseAudio() {
   if (state.status !== "playing") return;
-  if (state.source === "file") player?.pause();
-  else {
-    try {
-      synth()?.pause();
-    } catch {
-      stopAudio(
-        "Браузер не смог поставить системный голос на паузу. Нажмите повтор.",
-      );
+  pauseWatchdog?.();
+  if (state.source === "browser") synth()?.pause(); else element?.pause();
+  emit({ status: "paused" });
+}
+export async function resumeAudio(notify: Notify = () => {}) {
+  if (state.status !== "paused" || !request) return;
+  const token = generation, attempt = attemptId, signal = request.signal;
+  try {
+    if (state.source === "browser") synth()?.resume();
+    else {
+      player();
+      if (context) await abortable(outputReady, signal);
+      if (token !== generation) return;
+      resumeWatchdog?.(); await abortable(element!.play(), signal);
     }
-  }
+    if (token === generation && attempt === attemptId) { resumeWatchdog?.(); emit({ status: "playing" }); }
+  } catch { if (token === generation && attempt === attemptId) { stopAudio(); const error = "Не удалось продолжить звук. Нажмите «Повтор»."; emit({ status: "error", error }); notify(error); } }
 }
-export function resumeAudio(onError: (message: string) => void = () => {}) {
-  if (state.status !== "paused") return;
-  if (state.source === "file" && player) {
-    const id = generation;
-    player
-      .play()
-      .catch(() =>
-        failure(
-          "Нажмите повтор: браузер не разрешил продолжить аудио.",
-          id,
-          onError,
-        ),
-      );
-  } else {
-    const id = generation;
-    timer = setTimeout(() => {
-      if (id === generation && state.status === "paused")
-        speak(state.text, state.rate, onError);
-    }, 1500);
-    try{synth()?.resume()}catch{failure('Системный голос не возобновился. Запустите локальный MP3 повторно.',id,onError)}
-  }
-}
-export function repeatAudio(onError: (message: string) => void = () => {}) {
-  if (state.text) speak(state.text, state.rate, onError);
+export function repeatAudio(notify: Notify = () => {}) {
+  if (lastRequest?.texts.length && lastRequest.texts.length > 1) return speakSequence(lastRequest.texts, state.rate, notify);
+  if (state.text) return speak(state.text, state.rate, notify, lastRequest?.strategy || "auto");
 }
 export function setAudioRate(rate: number) {
-  if (![0.75, 1, 1.25].includes(rate)) return;
-  if (player) player.playbackRate = rate;
+  if (!Number.isFinite(rate) || rate < .5 || rate > 1.5) return;
+  if (element) element.playbackRate = rate;
   emit({ rate });
-  if (
-    state.source === "browser" &&
-    ["playing", "paused"].includes(state.status)
-  )
-    stopAudio(
-      "Скорость изменена. Нажмите повтор, чтобы применить её к системному голосу.",
-    );
+  if (state.source === "browser" && ["playing", "paused"].includes(state.status)) stopAudio("Скорость изменена. Нажмите повтор для системного голоса.");
 }
+export function setAudioVolume(volume: number) {
+  if (!Number.isFinite(volume)) return;
+  volume = Math.max(0, Math.min(1, volume)); if (element) element.volume = volume; emit({ volume });
+  try { localStorage.setItem("romana-audio-preferences", JSON.stringify({ volume })); } catch { /* Playback needs no storage. */ }
+}
+export const AudioService = { speak, speakSequence, stop: stopAudio, pause: pauseAudio, resume: resumeAudio, repeat: repeatAudio, setRate: setAudioRate, setVolume: setAudioVolume, prepare: prepareAudio };
+export const audioSessionId = () => generation;
+export function stopAudioIfSession(token: number) { if (token === generation) stopAudio(); }

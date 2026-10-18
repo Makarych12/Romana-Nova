@@ -104,11 +104,7 @@ export default function App() {
   const [install, setInstall] = useState<InstallEvent | null>(null);
   useEffect(() => {
     initializeAudio();
-    return () => stopAudio();
   }, []);
-  useEffect(() => {
-    stopAudio();
-  }, [page]);
   useEffect(() => {
     setAudioRate(progress.speed);
   }, [progress.speed]);

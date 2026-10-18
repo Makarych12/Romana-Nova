@@ -1,0 +1,200 @@
+[
+  {
+    "kind": "card",
+    "id": "w3",
+    "text": "cafea",
+    "url": "/audio/2b74797589c1dd08c06b07cb.mp3"
+  },
+  {
+    "kind": "card",
+    "id": "w0",
+    "text": "apă",
+    "url": "/audio/fcdab5375e3b4817998e0678.mp3"
+  },
+  {
+    "kind": "card",
+    "id": "w1",
+    "text": "pâine",
+    "url": "/audio/6f475cdbd1a1249aff943f12.mp3"
+  },
+  {
+    "kind": "card",
+    "id": "w2",
+    "text": "carte",
+    "url": "/audio/d2c12420b9815e07b29b1256.mp3"
+  },
+  {
+    "kind": "card",
+    "id": "w4",
+    "text": "casă",
+    "url": "/audio/60588c8a4049f715a7cefd21.mp3"
+  },
+  {
+    "kind": "card",
+    "id": "w5",
+    "text": "gară",
+    "url": "/audio/81d3711b4a391936b759c52f.mp3"
+  },
+  {
+    "kind": "card",
+    "id": "w6",
+    "text": "tren",
+    "url": "/audio/76abef6399af5e8b910588b4.mp3"
+  },
+  {
+    "kind": "card",
+    "id": "w7",
+    "text": "frate",
+    "url": "/audio/5ebbdc2c1879c61b7287421e.mp3"
+  },
+  {
+    "kind": "card",
+    "id": "w8",
+    "text": "soră",
+    "url": "/audio/e1d828ce65f8133c5919802a.mp3"
+  },
+  {
+    "kind": "card",
+    "id": "w9",
+    "text": "mamă",
+    "url": "/audio/967c76861437bc7efeb5eb7d.mp3"
+  },
+  {
+    "kind": "card",
+    "id": "w10",
+    "text": "tată",
+    "url": "/audio/4a7f51d696bbc86d207b7727.mp3"
+  },
+  {
+    "kind": "card",
+    "id": "w11",
+    "text": "scaun",
+    "url": "/audio/60d2259073245194c9edd301.mp3"
+  },
+  {
+    "kind": "card",
+    "id": "w12",
+    "text": "masă",
+    "url": "/audio/4674530eb58c9bd382b49700.mp3"
+  },
+  {
+    "kind": "card",
+    "id": "w13",
+    "text": "măr",
+    "url": "/audio/87a7386b52141fa7261f5c69.mp3"
+  },
+  {
+    "kind": "card",
+    "id": "w14",
+    "text": "ceai",
+    "url": "/audio/cda28b8ea9d673139afd1cff.mp3"
+  },
+  {
+    "kind": "card",
+    "id": "w15",
+    "text": "bani",
+    "url": "/audio/193c7004999b02775c30fb51.mp3"
+  },
+  {
+    "kind": "card",
+    "id": "w16",
+    "text": "bun",
+    "url": "/audio/08d1082cc8d85a0833da8815.mp3"
+  },
+  {
+    "kind": "card",
+    "id": "w17",
+    "text": "mare",
+    "url": "/audio/074af2bf8e84854902eead55.mp3"
+  },
+  {
+    "kind": "card",
+    "id": "w18",
+    "text": "mic",
+    "url": "/audio/224948ca810fc2bc9e3d80c0.mp3"
+  },
+  {
+    "kind": "card",
+    "id": "w19",
+    "text": "astăzi",
+    "url": "/audio/e22efd4dd289b37c82657b60.mp3"
+  },
+  {
+    "kind": "example",
+    "id": "w0:0",
+    "text": "Beau apă.",
+    "url": "/audio/c2e4def196bb352e438901d3.mp3"
+  },
+  {
+    "kind": "example",
+    "id": "w0:1",
+    "text": "Apa este rece.",
+    "url": "/audio/2cd380eba546f1250f7dafd2.mp3"
+  },
+  {
+    "kind": "example",
+    "id": "w1:0",
+    "text": "Cumpăr pâine.",
+    "url": "/audio/206c76c9d09b37bb619f3a24.mp3"
+  },
+  {
+    "kind": "example",
+    "id": "w1:1",
+    "text": "Pâinea este proaspătă.",
+    "url": "/audio/36915a7bdaec2ddd5477b3de.mp3"
+  },
+  {
+    "kind": "example",
+    "id": "w2:0",
+    "text": "Citesc o carte.",
+    "url": "/audio/a6be524cd2d1e33dbee75072.mp3"
+  },
+  {
+    "kind": "example",
+    "id": "w2:1",
+    "text": "Cartea este pe birou.",
+    "url": "/audio/72ef89ce60fdcfb89bc99ab8.mp3"
+  },
+  {
+    "kind": "example",
+    "id": "w3:0",
+    "text": "Beau o cafea.",
+    "url": "/audio/7b88115ff5417a8f63b95af9.mp3"
+  },
+  {
+    "kind": "example",
+    "id": "w3:1",
+    "text": "Cafeaua este fierbinte.",
+    "url": "/audio/f2a4fcdd7f2922056fb10cfc.mp3"
+  },
+  {
+    "kind": "example",
+    "id": "w4:0",
+    "text": "Casa este mare.",
+    "url": "/audio/65f8e9f626d6511112ccfa75.mp3"
+  },
+  {
+    "kind": "example",
+    "id": "w4:1",
+    "text": "Locuiesc într-o casă mică.",
+    "url": "/audio/8a9a36c287e578562619c905.mp3"
+  },
+  {
+    "kind": "dialogue",
+    "id": "dialogue-intro",
+    "text": "Bună! Eu sunt Ana. Tu cum te numești? Mă numesc Andrei. Îmi pare bine! Și mie. De unde ești? Sunt din Rusia, dar acum locuiesc în București. Bine ai venit în România!",
+    "url": "/audio/769cf78bbe43e727d50e89ac.mp3"
+  },
+  {
+    "kind": "dialogue",
+    "id": "dialogue-cafe",
+    "text": "Bună ziua! Ce doriți? Aș dori o cafea cu lapte, vă rog. Doriți și ceva de mâncare? Da, un sandviș cu brânză, vă rog. Sigur. Vă aduc imediat comanda. Mulțumesc! Pot plăti cu cardul?",
+    "url": "/audio/a0dec9fa808d78e9df8b0e3c.mp3"
+  },
+  {
+    "kind": "dialogue",
+    "id": "dialogue-train",
+    "text": "Bună ziua! Aș dori un bilet până la Brașov. Doar dus sau dus-întors? Doar dus, la clasa a doua. La ce oră doriți să plecați? Aș prefera să plec dimineața. Vă rog să verificați ora de plecare pe bilet.",
+    "url": "/audio/4262adb1221ad5df3b534fbe.mp3"
+  }
+]

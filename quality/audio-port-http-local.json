@@ -1,0 +1,22 @@
+{
+  "origin": "http://localhost:4173",
+  "indexRevision": "5d87089497bb",
+  "lookupParts": 256,
+  "photoVariants": 994,
+  "playbackCaseMP3": 33,
+  "requested": 1283,
+  "passed": 1283,
+  "errors": [],
+  "mainEntry": "/assets/index-B7VahDGN.js",
+  "mainEntryBytes": 453095,
+  "mainEntrySHA256": "fd37a61e80b7a9510fc821ef6193a07be23e42a0adedd514868d2ada2009127d",
+  "initialBundleUniqueMP3Pointers": 83,
+  "fullIndexNotInInitialBundle": true,
+  "persistentPlayerInBundle": true,
+  "lookupCacheInServiceWorker": true,
+  "lookupPartsNotPrecached": true,
+  "responsivePhotosNotPrecached": true,
+  "browserPlaybackVerified": false,
+  "physicalListeningVerified": false,
+  "scope": "HTTP MIME and bytes compared against local assets; no browser click, currentTime or audible output was observed."
+}

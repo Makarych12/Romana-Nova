@@ -69,7 +69,6 @@ export default function Dictionary({
     };
     window.addEventListener("hashchange", selectLevel);
     return () => {
-      stopAudio();
       window.removeEventListener("hashchange", selectLevel);
     };
   }, []);
@@ -77,7 +76,6 @@ export default function Dictionary({
     setPage(0);
     setCard(0);
     setFlipped(false);
-    stopAudio();
   }, [query, theme, level, filter, view]);
   const dictionary = useMemo(
     () =>

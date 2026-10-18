@@ -1,5 +1,5 @@
 import {describe,it,expect,vi,afterEach} from 'vitest';
-vi.mock('../data/audio-manifest.json',()=>({default:{'apă':'/audio/water.mp3'}}));
+vi.mock('./audio-index',()=>({resolveAudioFile:async(text:string)=>text==='apă'?'/audio/water.mp3':undefined}));
 import {checkAudioDelivery} from './media-check';
 afterEach(()=>vi.unstubAllGlobals());
 function response(status:number,type:string,bytes:number[]){return {status,headers:new Headers({'Content-Type':type}),arrayBuffer:async()=>new Uint8Array(bytes).buffer}}

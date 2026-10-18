@@ -81,7 +81,6 @@ export default function LessonPlayer({
       document.body.style.overflow = prev;
       previous?.focus();
       recognizeRef.current?.stop();
-      stopAudio();
     };
   }, []);
   function check() {

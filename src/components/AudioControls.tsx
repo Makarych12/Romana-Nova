@@ -17,11 +17,13 @@ import {
   repeatAudio,
   stopAudio,
   setAudioRate,
+  setAudioVolume,
   speak,
   audioFileFor,
   audioFileCount,
 } from "../lib/audio";
 import AudioDeliveryCheck from "./AudioDeliveryCheck";
+import AudioPlaybackCheck from "./AudioPlaybackCheck";
 import { checkAudioDelivery, type MediaCheck } from "../lib/media-check";
 const labels = {
   idle: "Остановлено",
@@ -58,6 +60,8 @@ export function AudioBar({
           {labels[state.status]} ·{" "}
           {state.source === "file"
             ? "Локальный румынский файл"
+            : state.source === "server"
+              ? "Румынский Piper/Mihai"
             : state.source === "browser"
               ? "Системный ro-RO"
               : "Румынское аудио"}
@@ -104,6 +108,9 @@ export function AudioBar({
           </option>
         ))}
       </select>
+      <label className="audio-volume">Громкость
+        <input type="range" aria-label="Громкость аудио" min="0" max="1" step="0.05" value={state.volume} onChange={e => setAudioVolume(Number(e.target.value))} />
+      </label>
       <button
         className="icon-btn"
         aria-label="Остановить аудио"
@@ -182,6 +189,8 @@ export function AudioDiagnostics({
           <strong>
             {state.source === "file"
               ? "Файл Piper/Mihai · ro-RO"
+              : state.source === "server"
+                ? "Piper/Mihai · ro-RO · endpoint/кеш"
               : state.source === "browser"
                 ? "SpeechSynthesis · ro-RO"
                 : "Ещё не выбран"}
@@ -221,8 +230,8 @@ export function AudioDiagnostics({
         </a>
       )}
       <p className="muted">
-        Если аудио зависло после блокировки: нажмите повтор. При переходе между
-        разделами воспроизведение останавливается. Запуск происходит только по
+        Если аудио зависло после блокировки: нажмите повтор. Проигрыватель общий
+        для всех разделов. Запуск происходит только по
         вашему нажатию.
       </p>
       <button
@@ -241,6 +250,7 @@ export function AudioDiagnostics({
         </p>
       )}
       <AudioDeliveryCheck speed={speed} notify={notify}/>
+      <AudioPlaybackCheck speed={speed} notify={notify}/>
       <details>
         <summary>Технические сведения устройства</summary>
         <p>

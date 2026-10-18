@@ -8,10 +8,11 @@
     "build": "tsc -b && vite build",
     "test": "vitest run",
     "preview": "vite preview --host 0.0.0.0",
-    "prepare:content": "node --experimental-strip-types scripts/prepare-content.mjs && node --experimental-strip-types scripts/write-audio-provenance.mjs",
+    "prepare:content": "node --experimental-strip-types scripts/prepare-content.mjs && node --experimental-strip-types scripts/write-audio-provenance.mjs && node --experimental-strip-types scripts/build-audio-index.mjs",
     "prebuild": "npm run prepare:content",
     "predev": "npm run prepare:content",
-    "audit:content": "node --experimental-strip-types scripts/audit-content.mjs"
+    "audit:content": "node --experimental-strip-types scripts/audit-content.mjs",
+    "audit:audio": "node --experimental-strip-types scripts/audit-media.mjs --decode"
   },
   "dependencies": {
     "idb": "^8.0.3",

@@ -1,0 +1,32 @@
+{
+  "referenceProject": "/run/media/makson/Новый том/Сайты/BG-Learning",
+  "referenceSourceHashes": {
+    "src/speech.ts": "4501ee6c9393f19c32f1c948ac633ab33afa06ed65a3b8b71b2cc2cef5816ae4",
+    "src/speech.test.ts": "a777444791ec1d9d8e59016865fc7c762fcda88a97e664c3a2dd4c07d3a469e6",
+    "scripts/shard-audio-index.py": "171601836d6c5137123553f94fd15f90cc323a30f4884b2c9c4670bf730441a7",
+    "scripts/local-tts-plugin.ts": "54dd90d7bf421319c048aa9d9a16ef58060b5630020fdc5808eb85d8fb54449a",
+    "scripts/tts-server.py": "0ad43a92808af5186cc5a98481845e1296663e491c03d2e1f0e70f73eff30934",
+    "scripts/responsive-photos.py": "dc62644745177715846829b237ec7139f6fae91dbe01781d2e351b36dbb02127",
+    "src/PhotoImage.tsx": "d537cccf3da116e47081cd64137d783e12c1a3a5bbac68ad63c669b0e9940d71",
+    "src/PhotoGallery.tsx": "41f43acba71f2d2292da0a7efedf761e3183265357ae9a0af3a141374a37da28"
+  },
+  "referenceIndexEntries": 95988,
+  "language": "ro-RO",
+  "voice": "Piper/Mihai",
+  "existingMP3": 11455,
+  "connectedCards": 7984,
+  "requiredBrowserCases": {
+    "cards": 20,
+    "examples": 10,
+    "dialogues": 3
+  },
+  "realBrowserChecksPerformed": false,
+  "physicalListeningPerformed": false,
+  "localPiperHTTP": {
+    "health": "ro-RO / Piper/Mihai",
+    "existingCafeaBytesUnchanged": true,
+    "newPhraseHTTP": 200,
+    "newPhraseDecodedWithFFmpeg": true
+  },
+  "librariesInstalled": []
+}

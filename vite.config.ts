@@ -1,11 +1,18 @@
-import { defineConfig } from "vite";
+import { defineConfig, loadEnv } from "vite";
 import react from "@vitejs/plugin-react";
 import tailwindcss from "@tailwindcss/vite";
 import { VitePWA } from "vite-plugin-pwa";
-export default defineConfig({
+import { localRomanianTts } from "./scripts/local-tts-plugin.mjs";
+export default defineConfig(({ mode }) => {
+  const env = loadEnv(mode, ".", "");
+  const proxy = { "/api/tts": { target: env.ROMANA_TTS_ORIGIN || "http://127.0.0.1:8792", changeOrigin: true } };
+  return {
+  server: { proxy },
+  preview: { proxy },
   plugins: [
     react(),
     tailwindcss(),
+    ...(mode === "test" ? [] : [localRomanianTts(env)]),
     VitePWA({
       registerType: "prompt",
       injectRegister: false,
@@ -53,6 +60,11 @@ export default defineConfig({
         ],
         runtimeCaching: [
           {
+            urlPattern: /\/audio\/lookup\/[a-f0-9]+\/[a-f0-9]{2}\.json$/,
+            handler: "CacheFirst",
+            options: { cacheName: "romana-audio-lookup-v1", expiration: { maxEntries: 32 }, cacheableResponse: { statuses: [200] } },
+          },
+          {
             urlPattern: /\/audio\/.*\.mp3$/,
             handler: "CacheFirst",
             options: {
@@ -85,4 +97,5 @@ export default defineConfig({
       },
     }),
   ],
+  };
 });

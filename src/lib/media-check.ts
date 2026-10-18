@@ -1,7 +1,7 @@
-import {audioFileFor} from './audio';
+import {resolveAudioFile} from './audio-index';
 export type MediaCheck={label:string;url:string;ok:boolean;status?:number;contentType?:string;error?:string};
 export async function checkAudioDelivery(label:string,text:string,signal?:AbortSignal):Promise<MediaCheck>{
- const url=audioFileFor(text);if(!url)return {label,url:'',ok:false,error:'Нет записи в локальном аудиоманифесте.'};
+ const url=await resolveAudioFile(text);if(!url)return {label,url:'',ok:false,error:'Нет записи в локальном аудиоманифесте.'};
  const controller=new AbortController();
  const abort=()=>controller.abort();
  const timer=setTimeout(abort,15000);
