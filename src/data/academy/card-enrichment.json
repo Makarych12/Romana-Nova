@@ -1,0 +1,1190 @@
+{
+  "open-0fdb36f297a20cc6": {
+    "forms": "moda; mode",
+    "examples": [
+      {
+        "ro": "Revista prezintă moda din acest an.",
+        "ru": "Журнал представляет моду этого года."
+      },
+      {
+        "ro": "Ea lucrează în industria modei.",
+        "ru": "Она работает в индустрии моды."
+      }
+    ],
+    "quality": "curated",
+    "editorial": {
+      "status": "reviewed",
+      "examplesReviewed": true,
+      "method": "academy-contextual-examples-agent-editorial-2026-10-18",
+      "notes": [
+        "Учебные примеры и формы подготовлены агентом; независимая проверка носителем ещё не выполнена."
+      ]
+    }
+  },
+  "open-82244417f956ac7c": {
+    "forms": "emailul; emailuri",
+    "examples": [
+      {
+        "ro": "Emailul protejează suprafața metalică.",
+        "ru": "Эмаль защищает металлическую поверхность."
+      },
+      {
+        "ro": "Cana are un strat de email alb.",
+        "ru": "У кружки слой белой эмали."
+      }
+    ],
+    "quality": "curated",
+    "editorial": {
+      "status": "reviewed",
+      "examplesReviewed": true,
+      "method": "academy-contextual-examples-agent-editorial-2026-10-18",
+      "notes": [
+        "Учебные примеры и формы подготовлены агентом; независимая проверка носителем ещё не выполнена."
+      ]
+    }
+  },
+  "open-0389a49fe399163a": {
+    "forms": "interviul; interviuri",
+    "examples": [
+      {
+        "ro": "Mâine am un interviu pentru un post nou.",
+        "ru": "Завтра у меня собеседование на новую должность."
+      },
+      {
+        "ro": "Jurnalista a publicat interviul cu scriitorul.",
+        "ru": "Журналистка опубликовала интервью с писателем."
+      }
+    ],
+    "quality": "curated",
+    "editorial": {
+      "status": "reviewed",
+      "examplesReviewed": true,
+      "method": "academy-contextual-examples-agent-editorial-2026-10-18",
+      "notes": [
+        "Учебные примеры и формы подготовлены агентом; независимая проверка носителем ещё не выполнена."
+      ]
+    }
+  },
+  "open-ac46af4054d3944d": {
+    "forms": "masajul; masaje",
+    "examples": [
+      {
+        "ro": "Am făcut o programare pentru un masaj.",
+        "ru": "Я записался на массаж."
+      },
+      {
+        "ro": "După masaj, spatele meu este mai relaxat.",
+        "ru": "После массажа моя спина более расслаблена."
+      }
+    ],
+    "quality": "curated",
+    "editorial": {
+      "status": "reviewed",
+      "examplesReviewed": true,
+      "method": "academy-contextual-examples-agent-editorial-2026-10-18",
+      "notes": [
+        "Учебные примеры и формы подготовлены агентом; независимая проверка носителем ещё не выполнена."
+      ]
+    }
+  },
+  "open-7a72dc6962f7fdb1": {
+    "forms": "măcelarul; măcelari",
+    "examples": [
+      {
+        "ro": "Măcelarul pregătește carnea pentru clienți.",
+        "ru": "Мясник готовит мясо для покупателей."
+      },
+      {
+        "ro": "L-am întrebat pe măcelar cât costă carnea.",
+        "ru": "Я спросил мясника, сколько стоит мясо."
+      }
+    ],
+    "quality": "curated",
+    "editorial": {
+      "status": "reviewed",
+      "examplesReviewed": true,
+      "method": "academy-contextual-examples-agent-editorial-2026-10-18",
+      "notes": [
+        "Учебные примеры и формы подготовлены агентом; независимая проверка носителем ещё не выполнена."
+      ]
+    }
+  },
+  "open-68c590605102c8f2": {
+    "forms": "obstacolul; obstacole",
+    "examples": [
+      {
+        "ro": "Pe drum a apărut un obstacol.",
+        "ru": "На дороге появилось препятствие."
+      },
+      {
+        "ro": "Sportiva a trecut peste ultimul obstacol.",
+        "ru": "Спортсменка преодолела последнее препятствие."
+      }
+    ],
+    "quality": "curated",
+    "editorial": {
+      "status": "reviewed",
+      "examplesReviewed": true,
+      "method": "academy-contextual-examples-agent-editorial-2026-10-18",
+      "notes": [
+        "Учебные примеры и формы подготовлены агентом; независимая проверка носителем ещё не выполнена."
+      ]
+    }
+  },
+  "open-a32fab8f0e7562eb": {
+    "forms": "vopseaua; vopsele",
+    "examples": [
+      {
+        "ro": "Am ales o vopsea albastră pentru perete.",
+        "ru": "Я выбрал синюю краску для стены."
+      },
+      {
+        "ro": "Vopseaua nu s-a uscat încă.",
+        "ru": "Краска ещё не высохла."
+      }
+    ],
+    "quality": "curated",
+    "editorial": {
+      "status": "reviewed",
+      "examplesReviewed": true,
+      "method": "academy-contextual-examples-agent-editorial-2026-10-18",
+      "notes": [
+        "Учебные примеры и формы подготовлены агентом; независимая проверка носителем ещё не выполнена."
+      ]
+    }
+  },
+  "open-462d873ad6f6009d": {
+    "forms": "orizontul; orizonturi",
+    "examples": [
+      {
+        "ro": "Soarele dispare la orizont.",
+        "ru": "Солнце исчезает за горизонтом."
+      },
+      {
+        "ro": "La orizont se văd munții.",
+        "ru": "На горизонте видны горы."
+      }
+    ],
+    "quality": "curated",
+    "editorial": {
+      "status": "reviewed",
+      "examplesReviewed": true,
+      "method": "academy-contextual-examples-agent-editorial-2026-10-18",
+      "notes": [
+        "Учебные примеры и формы подготовлены агентом; независимая проверка носителем ещё не выполнена."
+      ]
+    }
+  },
+  "open-277e9f4d2c33c3f1": {
+    "forms": "fibra; fibre",
+    "examples": [
+      {
+        "ro": "Această țesătură conține fibre naturale.",
+        "ru": "Эта ткань содержит натуральные волокна."
+      },
+      {
+        "ro": "O fibră subțire s-a desprins din material.",
+        "ru": "От материала отделилось тонкое волокно."
+      }
+    ],
+    "quality": "curated",
+    "editorial": {
+      "status": "reviewed",
+      "examplesReviewed": true,
+      "method": "academy-contextual-examples-agent-editorial-2026-10-18",
+      "notes": [
+        "Учебные примеры и формы подготовлены агентом; независимая проверка носителем ещё не выполнена."
+      ]
+    }
+  },
+  "open-c6083b900002d51f": {
+    "forms": "fizicianul; fizicieni",
+    "examples": [
+      {
+        "ro": "Fizicianul explică rezultatele experimentului.",
+        "ru": "Физик объясняет результаты эксперимента."
+      },
+      {
+        "ro": "Am citit o carte scrisă de un fizician român.",
+        "ru": "Я прочитал книгу, написанную румынским физиком."
+      }
+    ],
+    "quality": "curated",
+    "editorial": {
+      "status": "reviewed",
+      "examplesReviewed": true,
+      "method": "academy-contextual-examples-agent-editorial-2026-10-18",
+      "notes": [
+        "Учебные примеры и формы подготовлены агентом; независимая проверка носителем ещё не выполнена."
+      ]
+    }
+  },
+  "open-0ae2f6c706cff60b": {
+    "forms": "flamingoul; flamingi",
+    "examples": [
+      {
+        "ro": "Am văzut un flamingo lângă lac.",
+        "ru": "Я увидел фламинго у озера."
+      },
+      {
+        "ro": "Păsările flamingo au picioare lungi.",
+        "ru": "У фламинго длинные ноги."
+      }
+    ],
+    "quality": "curated",
+    "editorial": {
+      "status": "reviewed",
+      "examplesReviewed": true,
+      "method": "academy-contextual-examples-agent-editorial-2026-10-18",
+      "notes": [
+        "Учебные примеры и формы подготовлены агентом; независимая проверка носителем ещё не выполнена."
+      ]
+    }
+  },
+  "open-bf1ff147854c7eee": {
+    "forms": "fântâna; fântâni",
+    "examples": [
+      {
+        "ro": "În piață se află o fântână decorativă.",
+        "ru": "На площади находится декоративный фонтан."
+      },
+      {
+        "ro": "Apa curge din fântână.",
+        "ru": "Из фонтана течёт вода."
+      }
+    ],
+    "quality": "curated",
+    "editorial": {
+      "status": "reviewed",
+      "examplesReviewed": true,
+      "method": "academy-contextual-examples-agent-editorial-2026-10-18",
+      "notes": [
+        "Учебные примеры и формы подготовлены агентом; независимая проверка носителем ещё не выполнена."
+      ]
+    }
+  },
+  "open-289856b4e4b71c79": {
+    "forms": "judoul; без обычного множественного числа",
+    "examples": [
+      {
+        "ro": "Fratele meu practică judo de doi ani.",
+        "ru": "Мой брат занимается дзюдо два года."
+      },
+      {
+        "ro": "Antrenamentul de judo începe la ora șase.",
+        "ru": "Тренировка по дзюдо начинается в шесть часов."
+      }
+    ],
+    "quality": "curated",
+    "editorial": {
+      "status": "reviewed",
+      "examplesReviewed": true,
+      "method": "academy-contextual-examples-agent-editorial-2026-10-18",
+      "notes": [
+        "Учебные примеры и формы подготовлены агентом; независимая проверка носителем ещё не выполнена."
+      ]
+    }
+  },
+  "open-0842f5422f62280a": {
+    "forms": "măcăleandrul; măcălendri",
+    "examples": [
+      {
+        "ro": "Un măcăleandru cântă în grădină.",
+        "ru": "В саду поёт зарянка."
+      },
+      {
+        "ro": "Am recunoscut măcăleandrul după pieptul roșcat.",
+        "ru": "Я узнал зарянку по рыжеватой грудке."
+      }
+    ],
+    "quality": "curated",
+    "editorial": {
+      "status": "reviewed",
+      "examplesReviewed": true,
+      "method": "academy-contextual-examples-agent-editorial-2026-10-18",
+      "notes": [
+        "Учебные примеры и формы подготовлены агентом; независимая проверка носителем ещё не выполнена."
+      ]
+    }
+  },
+  "open-9c5eb8c83ce29ac1": {
+    "forms": "tabachera; tabachere",
+    "examples": [
+      {
+        "ro": "Bunicul păstra o tabacheră veche în sertar.",
+        "ru": "Дедушка хранил старую табакерку в ящике."
+      },
+      {
+        "ro": "Tabachera de argint este expusă în muzeu.",
+        "ru": "Серебряная табакерка выставлена в музее."
+      }
+    ],
+    "quality": "curated",
+    "editorial": {
+      "status": "reviewed",
+      "examplesReviewed": true,
+      "method": "academy-contextual-examples-agent-editorial-2026-10-18",
+      "notes": [
+        "Учебные примеры и формы подготовлены агентом; независимая проверка носителем ещё не выполнена."
+      ]
+    }
+  },
+  "open-40b7497d2505011a": {
+    "forms": "alabastrul; вещество",
+    "examples": [
+      {
+        "ro": "Vasul este sculptat în alabastru.",
+        "ru": "Сосуд вырезан из алебастра."
+      },
+      {
+        "ro": "Lumina trece prin stratul subțire de alabastru.",
+        "ru": "Свет проходит сквозь тонкий слой алебастра."
+      }
+    ],
+    "quality": "curated",
+    "editorial": {
+      "status": "reviewed",
+      "examplesReviewed": true,
+      "method": "academy-contextual-examples-agent-editorial-2026-10-18",
+      "notes": [
+        "Учебные примеры и формы подготовлены агентом; независимая проверка носителем ещё не выполнена."
+      ]
+    }
+  },
+  "open-255fc138d1cc148c": {
+    "forms": "alama; сплав",
+    "examples": [
+      {
+        "ro": "Mânerul ușii este din alamă.",
+        "ru": "Дверная ручка сделана из латуни."
+      },
+      {
+        "ro": "Am curățat piesa de alamă cu o lavetă.",
+        "ru": "Я протёр латунную деталь салфеткой."
+      }
+    ],
+    "quality": "curated",
+    "editorial": {
+      "status": "reviewed",
+      "examplesReviewed": true,
+      "method": "academy-contextual-examples-agent-editorial-2026-10-18",
+      "notes": [
+        "Учебные примеры и формы подготовлены агентом; независимая проверка носителем ещё не выполнена."
+      ]
+    }
+  },
+  "open-9d4ff3ed42a7be64": {
+    "forms": "arheologia; область знания",
+    "examples": [
+      {
+        "ro": "Sora mea studiază arheologia la universitate.",
+        "ru": "Моя сестра изучает археологию в университете."
+      },
+      {
+        "ro": "Muzeul organizează o expoziție de arheologie.",
+        "ru": "Музей организует археологическую выставку."
+      }
+    ],
+    "quality": "curated",
+    "editorial": {
+      "status": "reviewed",
+      "examplesReviewed": true,
+      "method": "academy-contextual-examples-agent-editorial-2026-10-18",
+      "notes": [
+        "Учебные примеры и формы подготовлены агентом; независимая проверка носителем ещё не выполнена."
+      ]
+    }
+  },
+  "open-538b91df37c0fed7": {
+    "forms": "baletul; balete",
+    "examples": [
+      {
+        "ro": "Am cumpărat bilete la un spectacol de balet.",
+        "ru": "Я купил билеты на балетный спектакль."
+      },
+      {
+        "ro": "Ea ia lecții de balet în fiecare săptămână.",
+        "ru": "Она берёт уроки балета каждую неделю."
+      }
+    ],
+    "quality": "curated",
+    "editorial": {
+      "status": "reviewed",
+      "examplesReviewed": true,
+      "method": "academy-contextual-examples-agent-editorial-2026-10-18",
+      "notes": [
+        "Учебные примеры и формы подготовлены агентом; независимая проверка носителем ещё не выполнена."
+      ]
+    }
+  },
+  "open-6ccf89d35be9636f": {
+    "forms": "banchetul; banchete",
+    "examples": [
+      {
+        "ro": "După ceremonie, invitații au participat la un banchet.",
+        "ru": "После церемонии гости участвовали в банкете."
+      },
+      {
+        "ro": "Banchetul a avut loc în sala mare.",
+        "ru": "Банкет состоялся в большом зале."
+      }
+    ],
+    "quality": "curated",
+    "editorial": {
+      "status": "reviewed",
+      "examplesReviewed": true,
+      "method": "academy-contextual-examples-agent-editorial-2026-10-18",
+      "notes": [
+        "Учебные примеры и формы подготовлены агентом; независимая проверка носителем ещё не выполнена."
+      ]
+    }
+  },
+  "open-d4c3e8a11256ab82": {
+    "forms": "browserul; browsere",
+    "examples": [
+      {
+        "ro": "Deschide pagina într-un browser actualizat.",
+        "ru": "Открой страницу в обновлённом браузере."
+      },
+      {
+        "ro": "Browserul a blocat fereastra nedorită.",
+        "ru": "Браузер заблокировал нежелательное окно."
+      }
+    ],
+    "quality": "curated",
+    "editorial": {
+      "status": "reviewed",
+      "examplesReviewed": true,
+      "method": "academy-contextual-examples-agent-editorial-2026-10-18",
+      "notes": [
+        "Учебные примеры и формы подготовлены агентом; независимая проверка носителем ещё не выполнена."
+      ]
+    }
+  },
+  "open-c70f8ded58aabf32": {
+    "forms": "candelabrul; candelabre",
+    "examples": [
+      {
+        "ro": "Un candelabru mare atârnă de tavan.",
+        "ru": "С потолка свисает большая люстра."
+      },
+      {
+        "ro": "Am aprins candelabrul din sufragerie.",
+        "ru": "Я включил люстру в гостиной."
+      }
+    ],
+    "quality": "curated",
+    "editorial": {
+      "status": "reviewed",
+      "examplesReviewed": true,
+      "method": "academy-contextual-examples-agent-editorial-2026-10-18",
+      "notes": [
+        "Учебные примеры и формы подготовлены агентом; независимая проверка носителем ещё не выполнена."
+      ]
+    }
+  },
+  "open-fc2de03fa64f1ee1": {
+    "forms": "inventatorul; inventatori",
+    "examples": [
+      {
+        "ro": "Inventatorul a prezentat un dispozitiv nou.",
+        "ru": "Изобретатель представил новое устройство."
+      },
+      {
+        "ro": "La muzeu am aflat numele inventatorului.",
+        "ru": "В музее я узнал имя изобретателя."
+      }
+    ],
+    "quality": "curated",
+    "editorial": {
+      "status": "reviewed",
+      "examplesReviewed": true,
+      "method": "academy-contextual-examples-agent-editorial-2026-10-18",
+      "notes": [
+        "Учебные примеры и формы подготовлены агентом; независимая проверка носителем ещё не выполнена."
+      ]
+    }
+  },
+  "open-8a1d2d2209ead48c": {
+    "forms": "lumânarea; lumânări",
+    "examples": [
+      {
+        "ro": "Am aprins o lumânare pe masă.",
+        "ru": "Я зажёг свечу на столе."
+      },
+      {
+        "ro": "Flacăra lumânării se mișcă ușor.",
+        "ru": "Пламя свечи слегка колышется."
+      }
+    ],
+    "quality": "curated",
+    "editorial": {
+      "status": "reviewed",
+      "examplesReviewed": true,
+      "method": "academy-contextual-examples-agent-editorial-2026-10-18",
+      "notes": [
+        "Учебные примеры и формы подготовлены агентом; независимая проверка носителем ещё не выполнена."
+      ]
+    }
+  },
+  "open-2d704e2522efe522": {
+    "forms": "matematicianul; matematicieni",
+    "examples": [
+      {
+        "ro": "Matematicianul a demonstrat o teoremă.",
+        "ru": "Математик доказал теорему."
+      },
+      {
+        "ro": "La conferință au venit matematicieni din mai multe țări.",
+        "ru": "На конференцию приехали математики из нескольких стран."
+      }
+    ],
+    "quality": "curated",
+    "editorial": {
+      "status": "reviewed",
+      "examplesReviewed": true,
+      "method": "academy-contextual-examples-agent-editorial-2026-10-18",
+      "notes": [
+        "Учебные примеры и формы подготовлены агентом; независимая проверка носителем ещё не выполнена."
+      ]
+    }
+  },
+  "open-ab0fa0267b812a98": {
+    "forms": "meduza; meduze",
+    "examples": [
+      {
+        "ro": "Am văzut o meduză în apă.",
+        "ru": "Я увидел медузу в воде."
+      },
+      {
+        "ro": "La acvariu putem observa meduzele de aproape.",
+        "ru": "В океанариуме мы можем рассмотреть медуз вблизи."
+      }
+    ],
+    "quality": "curated",
+    "editorial": {
+      "status": "reviewed",
+      "examplesReviewed": true,
+      "method": "academy-contextual-examples-agent-editorial-2026-10-18",
+      "notes": [
+        "Учебные примеры и формы подготовлены агентом; независимая проверка носителем ещё не выполнена."
+      ]
+    }
+  },
+  "open-7d704b396e1f9159": {
+    "forms": "mustața; mustăți",
+    "examples": [
+      {
+        "ro": "Bărbatul are o mustață scurtă.",
+        "ru": "У мужчины короткие усы."
+      },
+      {
+        "ro": "Și-a aranjat mustața înainte de fotografie.",
+        "ru": "Он привёл усы в порядок перед фотографированием."
+      }
+    ],
+    "quality": "curated",
+    "editorial": {
+      "status": "reviewed",
+      "examplesReviewed": true,
+      "method": "academy-contextual-examples-agent-editorial-2026-10-18",
+      "notes": [
+        "Учебные примеры и формы подготовлены агентом; независимая проверка носителем ещё не выполнена."
+      ]
+    }
+  },
+  "open-bb6954cb1ca3a161": {
+    "forms": "мн. число; mărgea — одна бусина",
+    "examples": [
+      {
+        "ro": "Ea poartă un șir de mărgele albastre.",
+        "ru": "Она носит нитку синих бус."
+      },
+      {
+        "ro": "Mărgelele au căzut pe podea.",
+        "ru": "Бусы упали на пол."
+      }
+    ],
+    "quality": "curated",
+    "editorial": {
+      "status": "reviewed",
+      "examplesReviewed": true,
+      "method": "academy-contextual-examples-agent-editorial-2026-10-18",
+      "notes": [
+        "Учебные примеры и формы подготовлены агентом; независимая проверка носителем ещё не выполнена."
+      ]
+    }
+  },
+  "open-264aa3f07859034d": {
+    "forms": "parchetul; parchete",
+    "examples": [
+      {
+        "ro": "Am ales parchet de stejar pentru cameră.",
+        "ru": "Я выбрал дубовый паркет для комнаты."
+      },
+      {
+        "ro": "Parchetul din hol trebuie curățat.",
+        "ru": "Паркет в коридоре нужно почистить."
+      }
+    ],
+    "quality": "curated",
+    "editorial": {
+      "status": "reviewed",
+      "examplesReviewed": true,
+      "method": "academy-contextual-examples-agent-editorial-2026-10-18",
+      "notes": [
+        "Учебные примеры и формы подготовлены агентом; независимая проверка носителем ещё не выполнена."
+      ]
+    }
+  },
+  "open-7b5a828cc546a952": {
+    "forms": "tapiseria; tapiserii",
+    "examples": [
+      {
+        "ro": "Pe perete atârnă o tapiserie veche.",
+        "ru": "На стене висит старый гобелен."
+      },
+      {
+        "ro": "Tapiseria reprezintă o scenă de vânătoare.",
+        "ru": "На гобелене изображена сцена охоты."
+      }
+    ],
+    "quality": "curated",
+    "editorial": {
+      "status": "reviewed",
+      "examplesReviewed": true,
+      "method": "academy-contextual-examples-agent-editorial-2026-10-18",
+      "notes": [
+        "Учебные примеры и формы подготовлены агентом; независимая проверка носителем ещё не выполнена."
+      ]
+    }
+  },
+  "open-2c80e939b8bed79d": {
+    "forms": "tatuajul; tatuaje",
+    "examples": [
+      {
+        "ro": "Are un tatuaj mic pe braț.",
+        "ru": "У него небольшая татуировка на руке."
+      },
+      {
+        "ro": "Mi-a arătat desenul pentru noul tatuaj.",
+        "ru": "Он показал мне рисунок для новой татуировки."
+      }
+    ],
+    "quality": "curated",
+    "editorial": {
+      "status": "reviewed",
+      "examplesReviewed": true,
+      "method": "academy-contextual-examples-agent-editorial-2026-10-18",
+      "notes": [
+        "Учебные примеры и формы подготовлены агентом; независимая проверка носителем ещё не выполнена."
+      ]
+    }
+  },
+  "open-75cf8229cc6eb7e8": {
+    "forms": "vehiculul; vehicule",
+    "examples": [
+      {
+        "ro": "Acest vehicul este electric.",
+        "ru": "Это транспортное средство электрическое."
+      },
+      {
+        "ro": "Vehiculele grele nu au voie pe pod.",
+        "ru": "Тяжёлым транспортным средствам нельзя на мост."
+      }
+    ],
+    "quality": "curated",
+    "editorial": {
+      "status": "reviewed",
+      "examplesReviewed": true,
+      "method": "academy-contextual-examples-agent-editorial-2026-10-18",
+      "notes": [
+        "Учебные примеры и формы подготовлены агентом; независимая проверка носителем ещё не выполнена."
+      ]
+    }
+  },
+  "open-c9a57445de85e6b0": {
+    "forms": "întreprinderea; întreprinderi",
+    "examples": [
+      {
+        "ro": "Întreprinderea produce piese pentru locomotive.",
+        "ru": "Предприятие производит детали для локомотивов."
+      },
+      {
+        "ro": "În această întreprindere lucrează două sute de oameni.",
+        "ru": "На этом предприятии работают двести человек."
+      }
+    ],
+    "quality": "curated",
+    "editorial": {
+      "status": "reviewed",
+      "examplesReviewed": true,
+      "method": "academy-contextual-examples-agent-editorial-2026-10-18",
+      "notes": [
+        "Учебные примеры и формы подготовлены агентом; независимая проверка носителем ещё не выполнена."
+      ]
+    }
+  },
+  "open-05017685ee808dfc": {
+    "forms": "acetona; вещество",
+    "examples": [
+      {
+        "ro": "Eticheta indică prezența acetonei.",
+        "ru": "На этикетке указано наличие ацетона."
+      },
+      {
+        "ro": "Recipientul cu acetonă este închis.",
+        "ru": "Ёмкость с ацетоном закрыта."
+      }
+    ],
+    "quality": "curated",
+    "editorial": {
+      "status": "reviewed",
+      "examplesReviewed": true,
+      "method": "academy-contextual-examples-agent-editorial-2026-10-18",
+      "notes": [
+        "Учебные примеры и формы подготовлены агентом; независимая проверка носителем ещё не выполнена."
+      ]
+    }
+  },
+  "open-8d3287c6fbb605cb": {
+    "forms": "aloe; растение, варианты форм см. в словаре",
+    "examples": [
+      {
+        "ro": "Am pus ghiveciul cu aloe lângă fereastră.",
+        "ru": "Я поставил горшок с алоэ у окна."
+      },
+      {
+        "ro": "Frunzele de aloe sunt groase.",
+        "ru": "Листья алоэ толстые."
+      }
+    ],
+    "quality": "curated",
+    "editorial": {
+      "status": "reviewed",
+      "examplesReviewed": true,
+      "method": "academy-contextual-examples-agent-editorial-2026-10-18",
+      "notes": [
+        "Учебные примеры и формы подготовлены агентом; независимая проверка носителем ещё не выполнена."
+      ]
+    }
+  },
+  "open-dba54fd097c1fb82": {
+    "forms": "altimetrul; altimetre",
+    "examples": [
+      {
+        "ro": "Pilotul verifică altimetrul.",
+        "ru": "Пилот проверяет высотомер."
+      },
+      {
+        "ro": "Altimetrul indică înălțimea de zbor.",
+        "ru": "Высотомер показывает высоту полёта."
+      }
+    ],
+    "quality": "curated",
+    "editorial": {
+      "status": "reviewed",
+      "examplesReviewed": true,
+      "method": "academy-contextual-examples-agent-editorial-2026-10-18",
+      "notes": [
+        "Учебные примеры и формы подготовлены агентом; независимая проверка носителем ещё не выполнена."
+      ]
+    }
+  },
+  "open-9cab7afd1e1c0a31": {
+    "forms": "ametistul; ametiste",
+    "examples": [
+      {
+        "ro": "Inelul are un ametist violet.",
+        "ru": "В кольце фиолетовый аметист."
+      },
+      {
+        "ro": "Am văzut un cristal de ametist la muzeu.",
+        "ru": "Я увидел кристалл аметиста в музее."
+      }
+    ],
+    "quality": "curated",
+    "editorial": {
+      "status": "reviewed",
+      "examplesReviewed": true,
+      "method": "academy-contextual-examples-agent-editorial-2026-10-18",
+      "notes": [
+        "Учебные примеры и формы подготовлены агентом; независимая проверка носителем ещё не выполнена."
+      ]
+    }
+  },
+  "open-cd2c0f63ad37d585": {
+    "forms": "anaconda; anaconde",
+    "examples": [
+      {
+        "ro": "Anaconda este un șarpe mare.",
+        "ru": "Анаконда — крупная змея."
+      },
+      {
+        "ro": "Documentarul prezintă habitatul anacondei.",
+        "ru": "Документальный фильм показывает среду обитания анаконды."
+      }
+    ],
+    "quality": "curated",
+    "editorial": {
+      "status": "reviewed",
+      "examplesReviewed": true,
+      "method": "academy-contextual-examples-agent-editorial-2026-10-18",
+      "notes": [
+        "Учебные примеры и формы подготовлены агентом; независимая проверка носителем ещё не выполнена."
+      ]
+    }
+  },
+  "open-b494f88b7e090e49": {
+    "forms": "apeductul; apeducte",
+    "examples": [
+      {
+        "ro": "Apeductul aducea apă în oraș.",
+        "ru": "Акведук доставлял воду в город."
+      },
+      {
+        "ro": "Turiștii fotografiază ruinele apeductului.",
+        "ru": "Туристы фотографируют руины акведука."
+      }
+    ],
+    "quality": "curated",
+    "editorial": {
+      "status": "reviewed",
+      "examplesReviewed": true,
+      "method": "academy-contextual-examples-agent-editorial-2026-10-18",
+      "notes": [
+        "Учебные примеры и формы подготовлены агентом; независимая проверка носителем ещё не выполнена."
+      ]
+    }
+  },
+  "open-ae009899db5a5378": {
+    "forms": "arena; arene",
+    "examples": [
+      {
+        "ro": "Sportivii au intrat în arenă.",
+        "ru": "Спортсмены вышли на арену."
+      },
+      {
+        "ro": "Arena este plină de spectatori.",
+        "ru": "Арена заполнена зрителями."
+      }
+    ],
+    "quality": "curated",
+    "editorial": {
+      "status": "reviewed",
+      "examplesReviewed": true,
+      "method": "academy-contextual-examples-agent-editorial-2026-10-18",
+      "notes": [
+        "Учебные примеры и формы подготовлены агентом; независимая проверка носителем ещё не выполнена."
+      ]
+    }
+  },
+  "open-74eae9fd0bbcb818": {
+    "forms": "arhitectura; область знания",
+    "examples": [
+      {
+        "ro": "Admir arhitectura clădirilor vechi.",
+        "ru": "Я восхищаюсь архитектурой старых зданий."
+      },
+      {
+        "ro": "Ea studiază arhitectura la București.",
+        "ru": "Она изучает архитектуру в Бухаресте."
+      }
+    ],
+    "quality": "curated",
+    "editorial": {
+      "status": "reviewed",
+      "examplesReviewed": true,
+      "method": "academy-contextual-examples-agent-editorial-2026-10-18",
+      "notes": [
+        "Учебные примеры и формы подготовлены агентом; независимая проверка носителем ещё не выполнена."
+      ]
+    }
+  },
+  "open-6460d36aab7d028f": {
+    "forms": "aurora; aurore",
+    "examples": [
+      {
+        "ro": "Am plecat înainte de auroră.",
+        "ru": "Мы уехали до рассвета."
+      },
+      {
+        "ro": "Cerul s-a luminat odată cu aurora.",
+        "ru": "Небо посветлело с наступлением зари."
+      }
+    ],
+    "quality": "curated",
+    "editorial": {
+      "status": "reviewed",
+      "examplesReviewed": true,
+      "method": "academy-contextual-examples-agent-editorial-2026-10-18",
+      "notes": [
+        "Учебные примеры и формы подготовлены агентом; независимая проверка носителем ещё не выполнена."
+      ]
+    }
+  },
+  "open-15827029160dc9aa": {
+    "forms": "balustrul; baluștri",
+    "examples": [
+      {
+        "ro": "Un balustru de piatră susține balustrada.",
+        "ru": "Каменная балясина поддерживает перила."
+      },
+      {
+        "ro": "Meșterul repară balustrul deteriorat.",
+        "ru": "Мастер ремонтирует повреждённую балясину."
+      }
+    ],
+    "quality": "curated",
+    "editorial": {
+      "status": "reviewed",
+      "examplesReviewed": true,
+      "method": "academy-contextual-examples-agent-editorial-2026-10-18",
+      "notes": [
+        "Учебные примеры и формы подготовлены агентом; независимая проверка носителем ещё не выполнена."
+      ]
+    }
+  },
+  "open-ae7e36be82480baa": {
+    "forms": "berarul; berari",
+    "examples": [
+      {
+        "ro": "Berarul ne-a explicat procesul de producție.",
+        "ru": "Пивовар объяснил нам процесс производства."
+      },
+      {
+        "ro": "La festival am discutat cu un berar local.",
+        "ru": "На фестивале мы поговорили с местным пивоваром."
+      }
+    ],
+    "quality": "curated",
+    "editorial": {
+      "status": "reviewed",
+      "examplesReviewed": true,
+      "method": "academy-contextual-examples-agent-editorial-2026-10-18",
+      "notes": [
+        "Учебные примеры и формы подготовлены агентом; независимая проверка носителем ещё не выполнена."
+      ]
+    }
+  },
+  "open-e3a9b07bbac935aa": {
+    "forms": "biatlonistul; biatloniști",
+    "examples": [
+      {
+        "ro": "Biatlonistul a terminat cursa.",
+        "ru": "Биатлонист закончил гонку."
+      },
+      {
+        "ro": "La start se aliniază zece biatloniști.",
+        "ru": "На старте выстраиваются десять биатлонистов."
+      }
+    ],
+    "quality": "curated",
+    "editorial": {
+      "status": "reviewed",
+      "examplesReviewed": true,
+      "method": "academy-contextual-examples-agent-editorial-2026-10-18",
+      "notes": [
+        "Учебные примеры и формы подготовлены агентом; независимая проверка носителем ещё не выполнена."
+      ]
+    }
+  },
+  "open-0b350e8823dda59a": {
+    "forms": "biliardul; игра",
+    "examples": [
+      {
+        "ro": "Jucăm biliard după cină.",
+        "ru": "Мы играем в бильярд после ужина."
+      },
+      {
+        "ro": "Masa de biliard se află în sala de jocuri.",
+        "ru": "Бильярдный стол находится в игровой комнате."
+      }
+    ],
+    "quality": "curated",
+    "editorial": {
+      "status": "reviewed",
+      "examplesReviewed": true,
+      "method": "academy-contextual-examples-agent-editorial-2026-10-18",
+      "notes": [
+        "Учебные примеры и формы подготовлены агентом; независимая проверка носителем ещё не выполнена."
+      ]
+    }
+  },
+  "open-0ac42eb463a6923f": {
+    "forms": "bitumul; вещество",
+    "examples": [
+      {
+        "ro": "Bitumul este folosit la lucrările rutiere.",
+        "ru": "Битум используется при дорожных работах."
+      },
+      {
+        "ro": "Stratul de bitum acoperă suprafața drumului.",
+        "ru": "Слой битума покрывает поверхность дороги."
+      }
+    ],
+    "quality": "curated",
+    "editorial": {
+      "status": "reviewed",
+      "examplesReviewed": true,
+      "method": "academy-contextual-examples-agent-editorial-2026-10-18",
+      "notes": [
+        "Учебные примеры и формы подготовлены агентом; независимая проверка носителем ещё не выполнена."
+      ]
+    }
+  },
+  "open-e784aa958c4e67d2": {
+    "forms": "branhia; branhii",
+    "examples": [
+      {
+        "ro": "Peștele respiră prin branhii.",
+        "ru": "Рыба дышит жабрами."
+      },
+      {
+        "ro": "În desen sunt indicate branhiile peștelui.",
+        "ru": "На рисунке обозначены жабры рыбы."
+      }
+    ],
+    "quality": "curated",
+    "editorial": {
+      "status": "reviewed",
+      "examplesReviewed": true,
+      "method": "academy-contextual-examples-agent-editorial-2026-10-18",
+      "notes": [
+        "Учебные примеры и формы подготовлены агентом; независимая проверка носителем ещё не выполнена."
+      ]
+    }
+  },
+  "open-9e9255bdfa0dfa02": {
+    "forms": "caleidoscopul; caleidoscoape",
+    "examples": [
+      {
+        "ro": "Copilul privește printr-un caleidoscop.",
+        "ru": "Ребёнок смотрит в калейдоскоп."
+      },
+      {
+        "ro": "Culorile din caleidoscop formează modele noi.",
+        "ru": "Цвета в калейдоскопе образуют новые узоры."
+      }
+    ],
+    "quality": "curated",
+    "editorial": {
+      "status": "reviewed",
+      "examplesReviewed": true,
+      "method": "academy-contextual-examples-agent-editorial-2026-10-18",
+      "notes": [
+        "Учебные примеры и формы подготовлены агентом; независимая проверка носителем ещё не выполнена."
+      ]
+    }
+  },
+  "open-e74cc67a459e9bac": {
+    "forms": "citadela; citadele",
+    "examples": [
+      {
+        "ro": "Citadela se află pe un deal.",
+        "ru": "Цитадель находится на холме."
+      },
+      {
+        "ro": "Am vizitat zidurile vechii citadele.",
+        "ru": "Мы посетили стены старой цитадели."
+      }
+    ],
+    "quality": "curated",
+    "editorial": {
+      "status": "reviewed",
+      "examplesReviewed": true,
+      "method": "academy-contextual-examples-agent-editorial-2026-10-18",
+      "notes": [
+        "Учебные примеры и формы подготовлены агентом; независимая проверка носителем ещё не выполнена."
+      ]
+    }
+  },
+  "open-ddcdb99dd480c0f6": {
+    "forms": "coapsa; coapse",
+    "examples": [
+      {
+        "ro": "Mă doare coapsa dreaptă după alergare.",
+        "ru": "После бега у меня болит правое бедро."
+      },
+      {
+        "ro": "Medicul examinează mușchii coapsei.",
+        "ru": "Врач осматривает мышцы бедра."
+      }
+    ],
+    "quality": "curated",
+    "editorial": {
+      "status": "reviewed",
+      "examplesReviewed": true,
+      "method": "academy-contextual-examples-agent-editorial-2026-10-18",
+      "notes": [
+        "Учебные примеры и формы подготовлены агентом; независимая проверка носителем ещё не выполнена."
+      ]
+    }
+  },
+  "open-e9968407663c810c": {
+    "forms": "timbrul; timbre",
+    "examples": [
+      {
+        "ro": "Lipește un timbru pe plic.",
+        "ru": "Наклей почтовую марку на конверт."
+      },
+      {
+        "ro": "Bunicul colecționează timbre vechi.",
+        "ru": "Дедушка коллекционирует старые марки."
+      }
+    ],
+    "quality": "curated",
+    "editorial": {
+      "status": "reviewed",
+      "examplesReviewed": true,
+      "method": "academy-contextual-examples-agent-editorial-2026-10-18",
+      "notes": [
+        "Учебные примеры и формы подготовлены агентом; независимая проверка носителем ещё не выполнена."
+      ]
+    }
+  },
+  "open-d6a07f27460d719e": {
+    "forms": "marțipanul; продукт",
+    "examples": [
+      {
+        "ro": "Prăjitura este acoperită cu marțipan.",
+        "ru": "Пирожное покрыто марципаном."
+      },
+      {
+        "ro": "Întindem marțipanul într-un strat subțire.",
+        "ru": "Мы раскатываем марципан тонким слоем."
+      }
+    ],
+    "quality": "curated",
+    "editorial": {
+      "status": "reviewed",
+      "examplesReviewed": true,
+      "method": "academy-contextual-examples-agent-editorial-2026-10-18",
+      "notes": [
+        "Учебные примеры и формы подготовлены агентом; независимая проверка носителем ещё не выполнена."
+      ]
+    }
+  },
+  "open-ce04b15274ffd154": {
+    "forms": "barosul; baroase",
+    "examples": [
+      {
+        "ro": "Muncitorul a ridicat un baros greu.",
+        "ru": "Рабочий поднял тяжёлую кувалду."
+      },
+      {
+        "ro": "Barosul se află lângă celelalte unelte.",
+        "ru": "Кувалда находится рядом с другими инструментами."
+      }
+    ],
+    "quality": "curated",
+    "editorial": {
+      "status": "reviewed",
+      "examplesReviewed": true,
+      "method": "academy-contextual-examples-agent-editorial-2026-10-18",
+      "notes": [
+        "Учебные примеры и формы подготовлены агентом; независимая проверка носителем ещё не выполнена."
+      ]
+    }
+  }
+}

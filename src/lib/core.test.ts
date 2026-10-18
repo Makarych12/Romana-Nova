@@ -27,7 +27,8 @@ describe("Учебный контент и проверка ответов", () 
   it("содержит отдельные настоящие уроки A0–A1 и железнодорожный вводный урок", () => {
     expect(lessons.filter((l) => l.level === "A0")).toHaveLength(6);
     expect(lessons.filter((l) => l.level === "A1")).toHaveLength(10);
-    expect(new Set(lessons.map((l) => l.id)).size).toBe(16);
+    expect(new Set(lessons.map((l) => l.id)).size).toBe(lessons.length);
+    expect(lessons.length).toBeGreaterThanOrEqual(32);
     for (const l of [...lessons, railLesson]) {
       expect(l.rule.length).toBeGreaterThan(100);
       expect(l.tip.length).toBeGreaterThan(30);

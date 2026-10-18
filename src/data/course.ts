@@ -1,3 +1,4 @@
+import academyCourse from "./academy/course.json" with {type:"json"};
 export type Level = "A0" | "A1" | "A2" | "B1" | "B2" | "C1";
 export type Source = {
   name: string;
@@ -326,6 +327,7 @@ export const lessons: Lesson[] = [
       ["În fiecare zi.", "Каждый день."],
     ]),
   },
+  ...(academyCourse as Lesson[]),
 ];
 export const levels: { id: Level; name: string; description: string }[] = [
   {

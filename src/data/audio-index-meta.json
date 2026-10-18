@@ -1,9 +1,15 @@
 {
-  "revision": "5d87089497bb",
-  "baseUrl": "/audio/lookup/5d87089497bb",
-  "files": 11455,
+  "revision": "fd8b84ca1620",
+  "baseUrl": "/audio/lookup/fd8b84ca1620",
+  "files": 13740,
   "shards": 256,
-  "maxShardBytes": 8067,
+  "maxShardBytes": 10884,
   "bootstrapTexts": 80,
-  "ambiguousNormalizedKeys": []
+  "ambiguousNormalizedKeys": [
+    "eu",
+    "deși",
+    "potrivit",
+    "o",
+    "ro"
+  ]
 }

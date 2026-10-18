@@ -1,0 +1,857 @@
+[
+  {
+    "word": "apă",
+    "ru": "вода",
+    "syllables": [
+      "a",
+      "pă"
+    ],
+    "stress": 0,
+    "stressOffset": 0,
+    "source": "https://doom.lingv.ro/cautare/q/ap%C4%83",
+    "checked": "2026-10-18",
+    "method": "DOOM3 underlined headword vowel; manual syllable segmentation"
+  },
+  {
+    "word": "casă",
+    "ru": "дом",
+    "syllables": [
+      "ca",
+      "să"
+    ],
+    "stress": 0,
+    "stressOffset": 1,
+    "source": "https://doom.lingv.ro/cautare/q/cas%C4%83",
+    "checked": "2026-10-18",
+    "method": "DOOM3 underlined headword vowel; manual syllable segmentation"
+  },
+  {
+    "word": "masă",
+    "ru": "стол",
+    "syllables": [
+      "ma",
+      "să"
+    ],
+    "stress": 0,
+    "stressOffset": 1,
+    "source": "https://doom.lingv.ro/cautare/q/mas%C4%83",
+    "checked": "2026-10-18",
+    "method": "DOOM3 underlined headword vowel; manual syllable segmentation"
+  },
+  {
+    "word": "cafea",
+    "ru": "кофе",
+    "syllables": [
+      "ca",
+      "fea"
+    ],
+    "stress": 1,
+    "stressOffset": 4,
+    "source": "https://doom.lingv.ro/cautare/q/cafea",
+    "checked": "2026-10-18",
+    "method": "DOOM3 underlined headword vowel; manual syllable segmentation"
+  },
+  {
+    "word": "cafeaua",
+    "ru": "кофе с артиклем",
+    "syllables": [
+      "ca",
+      "fea",
+      "ua"
+    ],
+    "stress": 1,
+    "stressOffset": 4,
+    "source": "https://doom.lingv.ro/cautare/q/cafea",
+    "checked": "2026-10-18",
+    "method": "DOOM3 underlined headword vowel; manual syllable segmentation"
+  },
+  {
+    "word": "cafele",
+    "ru": "порции кофе",
+    "syllables": [
+      "ca",
+      "fe",
+      "le"
+    ],
+    "stress": 1,
+    "stressOffset": 3,
+    "source": "https://doom.lingv.ro/cautare/q/cafea",
+    "checked": "2026-10-18",
+    "method": "DOOM3 underlined headword vowel; manual syllable segmentation"
+  },
+  {
+    "word": "mașină",
+    "ru": "автомобиль",
+    "syllables": [
+      "ma",
+      "și",
+      "nă"
+    ],
+    "stress": 1,
+    "stressOffset": 3,
+    "source": "https://doom.lingv.ro/cautare/q/ma%C8%99in%C4%83",
+    "checked": "2026-10-18",
+    "method": "DOOM3 underlined headword vowel; manual syllable segmentation"
+  },
+  {
+    "word": "pâine",
+    "ru": "хлеб",
+    "syllables": [
+      "pâi",
+      "ne"
+    ],
+    "stress": 0,
+    "stressOffset": 1,
+    "source": "https://doom.lingv.ro/cautare/q/p%C3%A2ine",
+    "checked": "2026-10-18",
+    "method": "DOOM3 underlined headword vowel; manual syllable segmentation"
+  },
+  {
+    "word": "mână",
+    "ru": "рука",
+    "syllables": [
+      "mâ",
+      "nă"
+    ],
+    "stress": 0,
+    "stressOffset": 1,
+    "source": "https://doom.lingv.ro/cautare/q/m%C3%A2n%C4%83",
+    "checked": "2026-10-18",
+    "method": "DOOM3 underlined headword vowel; manual syllable segmentation"
+  },
+  {
+    "word": "țară",
+    "ru": "страна",
+    "syllables": [
+      "ța",
+      "ră"
+    ],
+    "stress": 0,
+    "stressOffset": 1,
+    "source": "https://doom.lingv.ro/cautare/q/%C8%9Bar%C4%83",
+    "checked": "2026-10-18",
+    "method": "DOOM3 underlined headword vowel; manual syllable segmentation"
+  },
+  {
+    "word": "școală",
+    "ru": "школа",
+    "syllables": [
+      "școa",
+      "lă"
+    ],
+    "stress": 0,
+    "stressOffset": 3,
+    "source": "https://doom.lingv.ro/cautare/q/%C8%99coal%C4%83",
+    "checked": "2026-10-18",
+    "method": "DOOM3 underlined headword vowel; manual syllable segmentation"
+  },
+  {
+    "word": "carte",
+    "ru": "книга",
+    "syllables": [
+      "car",
+      "te"
+    ],
+    "stress": 0,
+    "stressOffset": 1,
+    "source": "https://doom.lingv.ro/cautare/q/carte",
+    "checked": "2026-10-18",
+    "method": "DOOM3 underlined headword vowel; manual syllable segmentation"
+  },
+  {
+    "word": "copil",
+    "ru": "ребёнок",
+    "syllables": [
+      "co",
+      "pil"
+    ],
+    "stress": 1,
+    "stressOffset": 3,
+    "source": "https://doom.lingv.ro/cautare/q/copil",
+    "checked": "2026-10-18",
+    "method": "DOOM3 underlined headword vowel; manual syllable segmentation"
+  },
+  {
+    "word": "copii",
+    "error": "No exact marked headword; excluded, never guessed",
+    "source": "https://doom.lingv.ro/cautare/q/copii"
+  },
+  {
+    "word": "pisică",
+    "ru": "кошка",
+    "syllables": [
+      "pi",
+      "si",
+      "că"
+    ],
+    "stress": 1,
+    "stressOffset": 3,
+    "source": "https://doom.lingv.ro/cautare/q/pisic%C4%83",
+    "checked": "2026-10-18",
+    "method": "DOOM3 underlined headword vowel; manual syllable segmentation"
+  },
+  {
+    "word": "câine",
+    "ru": "собака",
+    "syllables": [
+      "câi",
+      "ne"
+    ],
+    "stress": 0,
+    "stressOffset": 1,
+    "source": "https://doom.lingv.ro/cautare/q/c%C3%A2ine",
+    "checked": "2026-10-18",
+    "method": "DOOM3 underlined headword vowel; manual syllable segmentation"
+  },
+  {
+    "word": "fereastră",
+    "ru": "окно",
+    "syllables": [
+      "fe",
+      "reas",
+      "tră"
+    ],
+    "stress": 1,
+    "stressOffset": 4,
+    "source": "https://doom.lingv.ro/cautare/q/fereastr%C4%83",
+    "checked": "2026-10-18",
+    "method": "DOOM3 underlined headword vowel; manual syllable segmentation"
+  },
+  {
+    "word": "ușă",
+    "ru": "дверь",
+    "syllables": [
+      "u",
+      "șă"
+    ],
+    "stress": 0,
+    "stressOffset": 0,
+    "source": "https://doom.lingv.ro/cautare/q/u%C8%99%C4%83",
+    "checked": "2026-10-18",
+    "method": "DOOM3 underlined headword vowel; manual syllable segmentation"
+  },
+  {
+    "word": "gară",
+    "ru": "вокзал",
+    "syllables": [
+      "ga",
+      "ră"
+    ],
+    "stress": 0,
+    "stressOffset": 1,
+    "source": "https://doom.lingv.ro/cautare/q/gar%C4%83",
+    "checked": "2026-10-18",
+    "method": "DOOM3 underlined headword vowel; manual syllable segmentation"
+  },
+  {
+    "word": "trenul",
+    "error": "No exact marked headword; excluded, never guessed",
+    "source": "https://doom.lingv.ro/cautare/q/trenul"
+  },
+  {
+    "word": "bilet",
+    "ru": "билет",
+    "syllables": [
+      "bi",
+      "let"
+    ],
+    "stress": 1,
+    "stressOffset": 3,
+    "source": "https://doom.lingv.ro/cautare/q/bilet",
+    "checked": "2026-10-18",
+    "method": "DOOM3 underlined headword vowel; manual syllable segmentation"
+  },
+  {
+    "word": "oraș",
+    "ru": "город",
+    "syllables": [
+      "o",
+      "raș"
+    ],
+    "stress": 1,
+    "stressOffset": 2,
+    "source": "https://doom.lingv.ro/cautare/q/ora%C8%99",
+    "checked": "2026-10-18",
+    "method": "DOOM3 underlined headword vowel; manual syllable segmentation"
+  },
+  {
+    "word": "stradă",
+    "ru": "улица",
+    "syllables": [
+      "stra",
+      "dă"
+    ],
+    "stress": 0,
+    "stressOffset": 3,
+    "source": "https://doom.lingv.ro/cautare/q/strad%C4%83",
+    "checked": "2026-10-18",
+    "method": "DOOM3 underlined headword vowel; manual syllable segmentation"
+  },
+  {
+    "word": "familie",
+    "ru": "семья",
+    "syllables": [
+      "fa",
+      "mi",
+      "li",
+      "e"
+    ],
+    "stress": 1,
+    "stressOffset": 3,
+    "source": "https://doom.lingv.ro/cautare/q/familie",
+    "checked": "2026-10-18",
+    "method": "DOOM3 underlined headword vowel; manual syllable segmentation"
+  },
+  {
+    "word": "prieten",
+    "ru": "друг",
+    "syllables": [
+      "pri",
+      "e",
+      "ten"
+    ],
+    "stress": 1,
+    "stressOffset": 3,
+    "source": "https://doom.lingv.ro/cautare/q/prieten",
+    "checked": "2026-10-18",
+    "method": "DOOM3 underlined headword vowel; manual syllable segmentation"
+  },
+  {
+    "word": "limbă",
+    "ru": "язык",
+    "syllables": [
+      "lim",
+      "bă"
+    ],
+    "stress": 0,
+    "stressOffset": 1,
+    "source": "https://doom.lingv.ro/cautare/q/limb%C4%83",
+    "checked": "2026-10-18",
+    "method": "DOOM3 underlined headword vowel; manual syllable segmentation"
+  },
+  {
+    "word": "română",
+    "ru": "румынская",
+    "syllables": [
+      "ro",
+      "mâ",
+      "nă"
+    ],
+    "stress": 1,
+    "stressOffset": 3,
+    "source": "https://doom.lingv.ro/cautare/q/rom%C3%A2n%C4%83",
+    "checked": "2026-10-18",
+    "method": "DOOM3 underlined headword vowel; manual syllable segmentation"
+  },
+  {
+    "word": "România",
+    "ru": "Румыния",
+    "syllables": [
+      "Ro",
+      "mâ",
+      "ni",
+      "a"
+    ],
+    "stress": 2,
+    "stressOffset": 5,
+    "source": "https://doom.lingv.ro/cautare/q/Rom%C3%A2nia",
+    "checked": "2026-10-18",
+    "method": "DOOM3 underlined headword vowel; manual syllable segmentation"
+  },
+  {
+    "word": "dimineață",
+    "ru": "утро",
+    "syllables": [
+      "di",
+      "mi",
+      "nea",
+      "ță"
+    ],
+    "stress": 2,
+    "stressOffset": 6,
+    "source": "https://doom.lingv.ro/cautare/q/diminea%C8%9B%C4%83",
+    "checked": "2026-10-18",
+    "method": "DOOM3 underlined headword vowel; manual syllable segmentation"
+  },
+  {
+    "word": "seară",
+    "ru": "вечер",
+    "syllables": [
+      "sea",
+      "ră"
+    ],
+    "stress": 0,
+    "stressOffset": 2,
+    "source": "https://doom.lingv.ro/cautare/q/sear%C4%83",
+    "checked": "2026-10-18",
+    "method": "DOOM3 underlined headword vowel; manual syllable segmentation"
+  },
+  {
+    "word": "noapte",
+    "ru": "ночь",
+    "syllables": [
+      "noap",
+      "te"
+    ],
+    "stress": 0,
+    "stressOffset": 2,
+    "source": "https://doom.lingv.ro/cautare/q/noapte",
+    "checked": "2026-10-18",
+    "method": "DOOM3 underlined headword vowel; manual syllable segmentation"
+  },
+  {
+    "word": "mâncare",
+    "ru": "еда",
+    "syllables": [
+      "mân",
+      "ca",
+      "re"
+    ],
+    "stress": 1,
+    "stressOffset": 4,
+    "source": "https://doom.lingv.ro/cautare/q/m%C3%A2ncare",
+    "checked": "2026-10-18",
+    "method": "DOOM3 underlined headword vowel; manual syllable segmentation"
+  },
+  {
+    "word": "legume",
+    "error": "No exact marked headword; excluded, never guessed",
+    "source": "https://doom.lingv.ro/cautare/q/legume"
+  },
+  {
+    "word": "fructe",
+    "error": "No exact marked headword; excluded, never guessed",
+    "source": "https://doom.lingv.ro/cautare/q/fructe"
+  },
+  {
+    "word": "lapte",
+    "ru": "молоко",
+    "syllables": [
+      "lap",
+      "te"
+    ],
+    "stress": 0,
+    "stressOffset": 1,
+    "source": "https://doom.lingv.ro/cautare/q/lapte",
+    "checked": "2026-10-18",
+    "method": "DOOM3 underlined headword vowel; manual syllable segmentation"
+  },
+  {
+    "word": "zahăr",
+    "ru": "сахар",
+    "syllables": [
+      "za",
+      "hăr"
+    ],
+    "stress": 0,
+    "stressOffset": 1,
+    "source": "https://doom.lingv.ro/cautare/q/zah%C4%83r",
+    "checked": "2026-10-18",
+    "method": "DOOM3 underlined headword vowel; manual syllable segmentation"
+  },
+  {
+    "word": "brânză",
+    "ru": "сыр",
+    "syllables": [
+      "brân",
+      "ză"
+    ],
+    "stress": 0,
+    "stressOffset": 2,
+    "source": "https://doom.lingv.ro/cautare/q/br%C3%A2nz%C4%83",
+    "checked": "2026-10-18",
+    "method": "DOOM3 underlined headword vowel; manual syllable segmentation"
+  },
+  {
+    "word": "grădină",
+    "ru": "сад",
+    "syllables": [
+      "gră",
+      "di",
+      "nă"
+    ],
+    "stress": 1,
+    "stressOffset": 4,
+    "source": "https://doom.lingv.ro/cautare/q/gr%C4%83din%C4%83",
+    "checked": "2026-10-18",
+    "method": "DOOM3 underlined headword vowel; manual syllable segmentation"
+  },
+  {
+    "word": "floare",
+    "ru": "цветок",
+    "syllables": [
+      "floa",
+      "re"
+    ],
+    "stress": 0,
+    "stressOffset": 3,
+    "source": "https://doom.lingv.ro/cautare/q/floare",
+    "checked": "2026-10-18",
+    "method": "DOOM3 underlined headword vowel; manual syllable segmentation"
+  },
+  {
+    "word": "pădure",
+    "ru": "лес",
+    "syllables": [
+      "pă",
+      "du",
+      "re"
+    ],
+    "stress": 1,
+    "stressOffset": 3,
+    "source": "https://doom.lingv.ro/cautare/q/p%C4%83dure",
+    "checked": "2026-10-18",
+    "method": "DOOM3 underlined headword vowel; manual syllable segmentation"
+  },
+  {
+    "word": "munte",
+    "ru": "гора",
+    "syllables": [
+      "mun",
+      "te"
+    ],
+    "stress": 0,
+    "stressOffset": 1,
+    "source": "https://doom.lingv.ro/cautare/q/munte",
+    "checked": "2026-10-18",
+    "method": "DOOM3 underlined headword vowel; manual syllable segmentation"
+  },
+  {
+    "word": "soare",
+    "ru": "солнце",
+    "syllables": [
+      "soa",
+      "re"
+    ],
+    "stress": 0,
+    "stressOffset": 2,
+    "source": "https://doom.lingv.ro/cautare/q/soare",
+    "checked": "2026-10-18",
+    "method": "DOOM3 underlined headword vowel; manual syllable segmentation"
+  },
+  {
+    "word": "vreme",
+    "ru": "погода",
+    "syllables": [
+      "vre",
+      "me"
+    ],
+    "stress": 0,
+    "stressOffset": 2,
+    "source": "https://doom.lingv.ro/cautare/q/vreme",
+    "checked": "2026-10-18",
+    "method": "DOOM3 underlined headword vowel; manual syllable segmentation"
+  },
+  {
+    "word": "medic",
+    "ru": "врач",
+    "syllables": [
+      "me",
+      "dic"
+    ],
+    "stress": 0,
+    "stressOffset": 1,
+    "source": "https://doom.lingv.ro/cautare/q/medic",
+    "checked": "2026-10-18",
+    "method": "DOOM3 underlined headword vowel; manual syllable segmentation"
+  },
+  {
+    "word": "spital",
+    "ru": "больница",
+    "syllables": [
+      "spi",
+      "tal"
+    ],
+    "stress": 1,
+    "stressOffset": 4,
+    "source": "https://doom.lingv.ro/cautare/q/spital",
+    "checked": "2026-10-18",
+    "method": "DOOM3 underlined headword vowel; manual syllable segmentation"
+  },
+  {
+    "word": "farmacie",
+    "ru": "аптека",
+    "syllables": [
+      "far",
+      "ma",
+      "ci",
+      "e"
+    ],
+    "stress": 2,
+    "stressOffset": 6,
+    "source": "https://doom.lingv.ro/cautare/q/farmacie",
+    "checked": "2026-10-18",
+    "method": "DOOM3 underlined headword vowel; manual syllable segmentation"
+  },
+  {
+    "word": "hotel",
+    "ru": "гостиница",
+    "syllables": [
+      "ho",
+      "tel"
+    ],
+    "stress": 1,
+    "stressOffset": 3,
+    "source": "https://doom.lingv.ro/cautare/q/hotel",
+    "checked": "2026-10-18",
+    "method": "DOOM3 underlined headword vowel; manual syllable segmentation"
+  },
+  {
+    "word": "cameră",
+    "ru": "комната",
+    "syllables": [
+      "ca",
+      "me",
+      "ră"
+    ],
+    "stress": 0,
+    "stressOffset": 1,
+    "source": "https://doom.lingv.ro/cautare/q/camer%C4%83",
+    "checked": "2026-10-18",
+    "method": "DOOM3 underlined headword vowel; manual syllable segmentation"
+  },
+  {
+    "word": "telefon",
+    "ru": "телефон",
+    "syllables": [
+      "te",
+      "le",
+      "fon"
+    ],
+    "stress": 2,
+    "stressOffset": 5,
+    "source": "https://doom.lingv.ro/cautare/q/telefon",
+    "checked": "2026-10-18",
+    "method": "DOOM3 underlined headword vowel; manual syllable segmentation"
+  },
+  {
+    "word": "magazin",
+    "ru": "магазин",
+    "syllables": [
+      "ma",
+      "ga",
+      "zin"
+    ],
+    "stress": 2,
+    "stressOffset": 5,
+    "source": "https://doom.lingv.ro/cautare/q/magazin",
+    "checked": "2026-10-18",
+    "method": "DOOM3 underlined headword vowel; manual syllable segmentation"
+  },
+  {
+    "word": "serviciu",
+    "ru": "работа, служба",
+    "syllables": [
+      "ser",
+      "vi",
+      "ciu"
+    ],
+    "stress": 1,
+    "stressOffset": 4,
+    "source": "https://doom.lingv.ro/cautare/q/serviciu",
+    "checked": "2026-10-18",
+    "method": "DOOM3 underlined headword vowel; manual syllable segmentation"
+  },
+  {
+    "word": "lucru",
+    "ru": "дело, работа",
+    "syllables": [
+      "lu",
+      "cru"
+    ],
+    "stress": 0,
+    "stressOffset": 1,
+    "source": "https://doom.lingv.ro/cautare/q/lucru",
+    "checked": "2026-10-18",
+    "method": "DOOM3 underlined headword vowel; manual syllable segmentation"
+  },
+  {
+    "word": "vacanță",
+    "ru": "каникулы",
+    "syllables": [
+      "va",
+      "can",
+      "ță"
+    ],
+    "stress": 1,
+    "stressOffset": 3,
+    "source": "https://doom.lingv.ro/cautare/q/vacan%C8%9B%C4%83",
+    "checked": "2026-10-18",
+    "method": "DOOM3 underlined headword vowel; manual syllable segmentation"
+  },
+  {
+    "word": "întrebare",
+    "ru": "вопрос",
+    "syllables": [
+      "în",
+      "tre",
+      "ba",
+      "re"
+    ],
+    "stress": 2,
+    "stressOffset": 6,
+    "source": "https://doom.lingv.ro/cautare/q/%C3%AEntrebare",
+    "checked": "2026-10-18",
+    "method": "DOOM3 underlined headword vowel; manual syllable segmentation"
+  },
+  {
+    "word": "răspuns",
+    "ru": "ответ",
+    "syllables": [
+      "răs",
+      "puns"
+    ],
+    "stress": 1,
+    "stressOffset": 4,
+    "source": "https://doom.lingv.ro/cautare/q/r%C4%83spuns",
+    "checked": "2026-10-18",
+    "method": "DOOM3 underlined headword vowel; manual syllable segmentation"
+  },
+  {
+    "word": "profesor",
+    "ru": "учитель",
+    "syllables": [
+      "pro",
+      "fe",
+      "sor"
+    ],
+    "stress": 1,
+    "stressOffset": 4,
+    "source": "https://doom.lingv.ro/cautare/q/profesor",
+    "checked": "2026-10-18",
+    "method": "DOOM3 underlined headword vowel; manual syllable segmentation"
+  },
+  {
+    "word": "student",
+    "ru": "студент",
+    "syllables": [
+      "stu",
+      "dent"
+    ],
+    "stress": 1,
+    "stressOffset": 4,
+    "source": "https://doom.lingv.ro/cautare/q/student",
+    "checked": "2026-10-18",
+    "method": "DOOM3 underlined headword vowel; manual syllable segmentation"
+  },
+  {
+    "word": "muzică",
+    "ru": "музыка",
+    "syllables": [
+      "mu",
+      "zi",
+      "că"
+    ],
+    "stress": 0,
+    "stressOffset": 1,
+    "source": "https://doom.lingv.ro/cautare/q/muzic%C4%83",
+    "checked": "2026-10-18",
+    "method": "DOOM3 underlined headword vowel; manual syllable segmentation"
+  },
+  {
+    "word": "repede",
+    "ru": "быстро",
+    "syllables": [
+      "re",
+      "pe",
+      "de"
+    ],
+    "stress": 0,
+    "stressOffset": 1,
+    "source": "https://doom.lingv.ro/cautare/q/repede",
+    "checked": "2026-10-18",
+    "method": "DOOM3 underlined headword vowel; manual syllable segmentation"
+  },
+  {
+    "word": "încet",
+    "ru": "медленно",
+    "syllables": [
+      "în",
+      "cet"
+    ],
+    "stress": 1,
+    "stressOffset": 3,
+    "source": "https://doom.lingv.ro/cautare/q/%C3%AEncet",
+    "checked": "2026-10-18",
+    "method": "DOOM3 underlined headword vowel; manual syllable segmentation"
+  },
+  {
+    "word": "frumos",
+    "ru": "красивый",
+    "syllables": [
+      "fru",
+      "mos"
+    ],
+    "stress": 1,
+    "stressOffset": 4,
+    "source": "https://doom.lingv.ro/cautare/q/frumos",
+    "checked": "2026-10-18",
+    "method": "DOOM3 underlined headword vowel; manual syllable segmentation"
+  },
+  {
+    "word": "bine",
+    "ru": "хорошо",
+    "syllables": [
+      "bi",
+      "ne"
+    ],
+    "stress": 0,
+    "stressOffset": 1,
+    "source": "https://doom.lingv.ro/cautare/q/bine",
+    "checked": "2026-10-18",
+    "method": "DOOM3 underlined headword vowel; manual syllable segmentation"
+  },
+  {
+    "word": "cinema",
+    "ru": "кинотеатр",
+    "syllables": [
+      "ci",
+      "ne",
+      "ma"
+    ],
+    "stress": 2,
+    "stressOffset": 5,
+    "source": "https://doom.lingv.ro/cautare/q/cinema",
+    "checked": "2026-10-18",
+    "method": "DOOM3 underlined headword vowel; manual syllable segmentation"
+  },
+  {
+    "word": "cheie",
+    "ru": "ключ",
+    "syllables": [
+      "che",
+      "ie"
+    ],
+    "stress": 0,
+    "stressOffset": 2,
+    "source": "https://doom.lingv.ro/cautare/q/cheie",
+    "checked": "2026-10-18",
+    "method": "DOOM3 underlined headword vowel; manual syllable segmentation"
+  },
+  {
+    "word": "gheață",
+    "ru": "лёд",
+    "syllables": [
+      "ghea",
+      "ță"
+    ],
+    "stress": 0,
+    "stressOffset": 3,
+    "source": "https://doom.lingv.ro/cautare/q/ghea%C8%9B%C4%83",
+    "checked": "2026-10-18",
+    "method": "DOOM3 underlined headword vowel; manual syllable segmentation"
+  },
+  {
+    "word": "ghindă",
+    "ru": "жёлудь",
+    "syllables": [
+      "ghin",
+      "dă"
+    ],
+    "stress": 0,
+    "stressOffset": 2,
+    "source": "https://doom.lingv.ro/cautare/q/ghind%C4%83",
+    "checked": "2026-10-18",
+    "method": "DOOM3 underlined headword vowel; manual syllable segmentation"
+  }
+]

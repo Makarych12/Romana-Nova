@@ -88,7 +88,7 @@ for (const l of [...lessons, railLesson, ...dialogues])
   for (const e of l.pairs)
     assert(coverage(e.ro), `Missing lesson audio ${l.id}: ${e.ro}`);
 for (const d of dialogues)
-  assert(coverage(dialogueAudio(d)), `Missing full dialogue ${d.id}`);
+  assert(d.audioMode==="sequence" ? d.pairs.every(p=>coverage(p.ro)) : coverage(dialogueAudio(d)), `Missing dialogue audio ${d.id}`);
 const baseline = JSON.parse(fs.readFileSync('quality/baseline-1.1.0/integrity.json','utf8'));
 const byId=new Map(vocabulary.map(w=>[w.id,w]));
 for(const [id,ro] of Object.entries(baseline.words)) assert(byId.get(id)?.ro===ro,`Preserved card changed: ${id}`);

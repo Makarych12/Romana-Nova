@@ -1,0 +1,638 @@
+[
+  {
+    "id": "academy-playback:0",
+    "kind": "original-cafea;phonetic-rule:stress;phonetic-rule:stress-forms",
+    "text": "cafea",
+    "url": "/audio/2b74797589c1dd08c06b07cb.mp3"
+  },
+  {
+    "id": "academy-playback:1",
+    "kind": "alphabet:A;phonetic-mode:letter",
+    "text": "a",
+    "url": "/audio/ca978112ca1bbdcafac231b3.mp3"
+  },
+  {
+    "id": "academy-playback:2",
+    "kind": "alphabet:Ă",
+    "text": "ă",
+    "url": "/audio/817789243c880b917385edcc.mp3"
+  },
+  {
+    "id": "academy-playback:3",
+    "kind": "alphabet:Â",
+    "text": "î din a",
+    "url": "/audio/7428d2bd7a11674801bbc88b.mp3"
+  },
+  {
+    "id": "academy-playback:4",
+    "kind": "alphabet:B",
+    "text": "be",
+    "url": "/audio/46599c5bb5c33101f80cea84.mp3"
+  },
+  {
+    "id": "academy-playback:5",
+    "kind": "alphabet:C",
+    "text": "ce",
+    "url": "/audio/e64c826b6b33f307cecf54ff.mp3"
+  },
+  {
+    "id": "academy-playback:6",
+    "kind": "alphabet:D",
+    "text": "de",
+    "url": "/audio/959a45d44e6fcf58361ed004.mp3"
+  },
+  {
+    "id": "academy-playback:7",
+    "kind": "alphabet:E",
+    "text": "e",
+    "url": "/audio/3f79bb7b435b05321651daef.mp3"
+  },
+  {
+    "id": "academy-playback:8",
+    "kind": "alphabet:F",
+    "text": "ef",
+    "url": "/audio/4ca669ac3713d1f4aea07dae.mp3"
+  },
+  {
+    "id": "academy-playback:9",
+    "kind": "alphabet:G",
+    "text": "ghe",
+    "url": "/audio/45f489b04637a9e2162daca5.mp3"
+  },
+  {
+    "id": "academy-playback:10",
+    "kind": "alphabet:H",
+    "text": "haș",
+    "url": "/audio/08e7f2e496debf6a194b6483.mp3"
+  },
+  {
+    "id": "academy-playback:11",
+    "kind": "alphabet:I",
+    "text": "i",
+    "url": "/audio/de7d1b721a1e0632b7cf04ed.mp3"
+  },
+  {
+    "id": "academy-playback:12",
+    "kind": "alphabet:Î",
+    "text": "î din i",
+    "url": "/audio/12fc69ed5923d03c05b09e96.mp3"
+  },
+  {
+    "id": "academy-playback:13",
+    "kind": "alphabet:J",
+    "text": "je",
+    "url": "/audio/9e507a6dfbf98393bbf23d48.mp3"
+  },
+  {
+    "id": "academy-playback:14",
+    "kind": "alphabet:K",
+    "text": "ka",
+    "url": "/audio/3ebb1c99b12b77463e97c3a0.mp3"
+  },
+  {
+    "id": "academy-playback:15",
+    "kind": "alphabet:L",
+    "text": "el",
+    "url": "/audio/d65c3e892354b17a4c032593.mp3"
+  },
+  {
+    "id": "academy-playback:16",
+    "kind": "alphabet:M",
+    "text": "em",
+    "url": "/audio/84a47f61dd341ce731390149.mp3"
+  },
+  {
+    "id": "academy-playback:17",
+    "kind": "alphabet:N",
+    "text": "en",
+    "url": "/audio/dbd3a49d0d906b4ed9216b73.mp3"
+  },
+  {
+    "id": "academy-playback:18",
+    "kind": "alphabet:O",
+    "text": "o",
+    "url": "/audio/65c74c15a686187bb6bbf995.mp3"
+  },
+  {
+    "id": "academy-playback:19",
+    "kind": "alphabet:P",
+    "text": "pe",
+    "url": "/audio/cdf69b25a417e25753dc0868.mp3"
+  },
+  {
+    "id": "academy-playback:20",
+    "kind": "alphabet:Q",
+    "text": "Q",
+    "url": "/audio/4ae81572f06e1b88fd5ced7a.mp3"
+  },
+  {
+    "id": "academy-playback:21",
+    "kind": "alphabet:R",
+    "text": "er",
+    "url": "/audio/cc7e4412564ba8a761bd32ab.mp3"
+  },
+  {
+    "id": "academy-playback:22",
+    "kind": "alphabet:S",
+    "text": "es",
+    "url": "/audio/c0bc1e08f9743b2d50d5f160.mp3"
+  },
+  {
+    "id": "academy-playback:23",
+    "kind": "alphabet:Ș",
+    "text": "șe",
+    "url": "/audio/8f7d4763b891a0ee8a584e0a.mp3"
+  },
+  {
+    "id": "academy-playback:24",
+    "kind": "alphabet:T",
+    "text": "te",
+    "url": "/audio/2d6c9a90dd38f6852515274c.mp3"
+  },
+  {
+    "id": "academy-playback:25",
+    "kind": "alphabet:Ț",
+    "text": "țe",
+    "url": "/audio/9cc946836c0071eeffd7e163.mp3"
+  },
+  {
+    "id": "academy-playback:26",
+    "kind": "alphabet:U",
+    "text": "u",
+    "url": "/audio/0bfe935e70c321c7ca3afc75.mp3"
+  },
+  {
+    "id": "academy-playback:27",
+    "kind": "alphabet:V",
+    "text": "ve",
+    "url": "/audio/4bd2c412ba70847f497a7adb.mp3"
+  },
+  {
+    "id": "academy-playback:28",
+    "kind": "alphabet:W",
+    "text": "dublu ve",
+    "url": "/audio/f4d5ad23e5d90d586645f8ea.mp3"
+  },
+  {
+    "id": "academy-playback:29",
+    "kind": "alphabet:X",
+    "text": "ics",
+    "url": "/audio/c5468c574aa3e041ab16a1f0.mp3"
+  },
+  {
+    "id": "academy-playback:30",
+    "kind": "alphabet:Y",
+    "text": "i grec",
+    "url": "/audio/d6964d40c92b0d1a76d1d13f.mp3"
+  },
+  {
+    "id": "academy-playback:31",
+    "kind": "alphabet:Z",
+    "text": "ze",
+    "url": "/audio/33129567e0bd787efb15a263.mp3"
+  },
+  {
+    "id": "academy-playback:32",
+    "kind": "phonetic-rule:diacritics;phonetic-mode:sound;phonetic-mode:build;phonetic-mode:stress;phonetic-mode:dictation;phonetic-mode:shadow;phonetic-mode:match",
+    "text": "apă",
+    "url": "/audio/fcdab5375e3b4817998e0678.mp3"
+  },
+  {
+    "id": "academy-playback:33",
+    "kind": "phonetic-rule:c;phonetic-mode:error",
+    "text": "casă",
+    "url": "/audio/60588c8a4049f715a7cefd21.mp3"
+  },
+  {
+    "id": "academy-playback:34",
+    "kind": "phonetic-rule:ce-ci",
+    "text": "cer",
+    "url": "/audio/768490634b6310d05b4ccf4c.mp3"
+  },
+  {
+    "id": "academy-playback:35",
+    "kind": "phonetic-rule:g",
+    "text": "gară",
+    "url": "/audio/81d3711b4a391936b759c52f.mp3"
+  },
+  {
+    "id": "academy-playback:36",
+    "kind": "phonetic-rule:ge-gi",
+    "text": "gem",
+    "url": "/audio/851cfc3d60d379af774e1e92.mp3"
+  },
+  {
+    "id": "academy-playback:37",
+    "kind": "phonetic-rule:che-chi",
+    "text": "cheie",
+    "url": "/audio/f3859c52059a276dab90b9c7.mp3"
+  },
+  {
+    "id": "academy-playback:38",
+    "kind": "phonetic-rule:ghe-ghi",
+    "text": "ghem",
+    "url": "/audio/c476f81adc7e07f26edee9cc.mp3"
+  },
+  {
+    "id": "academy-playback:39",
+    "kind": "phonetic-rule:j-h",
+    "text": "joc",
+    "url": "/audio/f41447ff91a738ca5c76a6ba.mp3"
+  },
+  {
+    "id": "academy-playback:40",
+    "kind": "phonetic-rule:e",
+    "text": "eu",
+    "url": "/audio/4d0282941aaf2d694ddaa24f.mp3"
+  },
+  {
+    "id": "academy-playback:41",
+    "kind": "phonetic-rule:i-final",
+    "text": "inimă",
+    "url": "/audio/f47c34823cb7915391391a92.mp3"
+  },
+  {
+    "id": "academy-playback:42",
+    "kind": "phonetic-rule:vowels",
+    "text": "soare",
+    "url": "/audio/1bab4e586c2b77840e0b27a0.mp3"
+  },
+  {
+    "id": "academy-playback:43",
+    "kind": "phonetic-rule:rhythm",
+    "text": "Bună ziua!",
+    "url": "/audio/a5de4d43c03eee7b92f3d038.mp3"
+  },
+  {
+    "id": "academy-playback:44",
+    "kind": "phonetic-mode:syllable",
+    "text": "ma",
+    "url": "/audio/3c44c3e1b8b7844786724ac7.mp3"
+  },
+  {
+    "id": "academy-playback:45",
+    "kind": "phonetic-mode:contrast",
+    "text": "sare",
+    "url": "/audio/9b2389f06978fe3ef6dd57f8.mp3"
+  },
+  {
+    "id": "academy-playback:46",
+    "kind": "phonetic-mode:sentence;phonetic-mode:phonetic-dictation",
+    "text": "Beau apă.",
+    "url": "/audio/c2e4def196bb352e438901d3.mp3"
+  },
+  {
+    "id": "academy-playback:47",
+    "kind": "listening:Диктант",
+    "text": "Bună! Eu sunt Ana. Tu cum te numești?",
+    "url": "/audio/ba011d3576639f8530de10dd.mp3"
+  },
+  {
+    "id": "academy-playback:48",
+    "kind": "listening:Значение",
+    "text": "Mă numesc Andrei. Îmi pare bine!",
+    "url": "/audio/ab0eb3fc0bec145c5b3ed865.mp3"
+  },
+  {
+    "id": "academy-playback:49",
+    "kind": "listening:Пропуск",
+    "text": "Și mie. De unde ești?",
+    "url": "/audio/5d48ae476e03e99967bac660.mp3"
+  },
+  {
+    "id": "academy-playback:50",
+    "kind": "listening:Аудио → текст",
+    "text": "Sunt din Rusia, dar acum locuiesc în București.",
+    "url": "/audio/05ebabfe4c58640ff22b590b.mp3"
+  },
+  {
+    "id": "academy-playback:51",
+    "kind": "listening:Порядок реплик",
+    "text": "Bună! Eu sunt Ana. Tu cum te numești? Mă numesc Andrei. Îmi pare bine! Și mie. De unde ești?",
+    "url": "/audio/b668df125ef9e8c10523b36d.mp3"
+  },
+  {
+    "id": "academy-playback:52",
+    "kind": "listening:Вопрос по услышанному",
+    "text": "Cafeaua costă doisprezece lei.",
+    "url": "/audio/17e421807539a240ab98981e.mp3"
+  },
+  {
+    "id": "academy-playback:53",
+    "kind": "listening:monologue",
+    "text": "Mă numesc Pavel. Luna trecută m-am mutat din Brașov la București pentru un loc de muncă nou. La început am stat la un hotel. Acum închiriez un apartament mic lângă gară. Merg la serviciu cu autobuzul, iar seara învăț limba română.",
+    "url": "/audio/51719895cf9f18bf92ae9d32.mp3"
+  },
+  {
+    "id": "academy-playback:54",
+    "kind": "grammar:Prezent",
+    "text": "sunt",
+    "url": "/audio/ed68511884c42fd03769885f.mp3"
+  },
+  {
+    "id": "academy-playback:55",
+    "kind": "grammar:Perfect compus",
+    "text": "am fost",
+    "url": "/audio/6c66abf469679d804c34491a.mp3"
+  },
+  {
+    "id": "academy-playback:56",
+    "kind": "grammar:Imperfect",
+    "text": "eram",
+    "url": "/audio/322a47fa1a25fadbae7486ac.mp3"
+  },
+  {
+    "id": "academy-playback:57",
+    "kind": "grammar:Viitor",
+    "text": "voi fi",
+    "url": "/audio/e5ec8a813bebc7547615b759.mp3"
+  },
+  {
+    "id": "academy-playback:58",
+    "kind": "grammar:Conjunctiv prezent",
+    "text": "să fiu",
+    "url": "/audio/f6d3dbc4996759da45ccb2d7.mp3"
+  },
+  {
+    "id": "academy-playback:59",
+    "kind": "grammar:Condițional prezent",
+    "text": "aș fi",
+    "url": "/audio/706b2531859a668c99629c5e.mp3"
+  },
+  {
+    "id": "academy-playback:60",
+    "kind": "railway:academy:rail:unit:0",
+    "text": "mecanic de locomotivă",
+    "url": "/audio/e4659a961b0ad01f1eb3df1d.mp3"
+  },
+  {
+    "id": "academy-playback:61",
+    "kind": "railway:academy:rail:unit:1",
+    "text": "material rulant",
+    "url": "/audio/50c06c579e21bea53c55a801.mp3"
+  },
+  {
+    "id": "academy-playback:62",
+    "kind": "railway:academy:rail:unit:2",
+    "text": "boghiu",
+    "url": "/audio/01ff7a01986f315497390976.mp3"
+  },
+  {
+    "id": "academy-playback:63",
+    "kind": "railway:academy:rail:unit:3",
+    "text": "frână automată",
+    "url": "/audio/5eb6e30aae75a8c03a58710a.mp3"
+  },
+  {
+    "id": "academy-playback:64",
+    "kind": "railway:academy:rail:unit:4",
+    "text": "aer comprimat",
+    "url": "/audio/4bc60643c1a41657ed4cf573.mp3"
+  },
+  {
+    "id": "academy-playback:65",
+    "kind": "railway:academy:rail:unit:5",
+    "text": "circuit electric",
+    "url": "/audio/6a20da477df25e332a12c252.mp3"
+  },
+  {
+    "id": "academy-playback:66",
+    "kind": "railway:academy:rail:unit:6",
+    "text": "motor de tracțiune",
+    "url": "/audio/6e8e1f32f5bb5cb908028af8.mp3"
+  },
+  {
+    "id": "academy-playback:67",
+    "kind": "railway:academy:rail:unit:7",
+    "text": "întreținere",
+    "url": "/audio/c8145f9b84f2d0b544b144db.mp3"
+  },
+  {
+    "id": "academy-playback:68",
+    "kind": "railway:academy:rail:unit:8",
+    "text": "cale ferată",
+    "url": "/audio/d6c9b26aefd885921266a675.mp3"
+  },
+  {
+    "id": "academy-playback:69",
+    "kind": "railway:academy:rail:unit:9",
+    "text": "semnal",
+    "url": "/audio/ddbc5a7b36a12f417ad5cd9d.mp3"
+  },
+  {
+    "id": "academy-playback:70",
+    "kind": "railway:academy:rail:unit:10",
+    "text": "raport de inspecție",
+    "url": "/audio/092b85c5a9048d501b9cbc74.mp3"
+  },
+  {
+    "id": "academy-playback:71",
+    "kind": "railway:academy:rail:unit:11",
+    "text": "șubler",
+    "url": "/audio/e50717196017644089e56a95.mp3"
+  },
+  {
+    "id": "academy-playback:72",
+    "kind": "dialogue-family:cafe",
+    "text": "Aș dori o cafea, vă rog.",
+    "url": "/audio/edd7cf6d772f725378ec543d.mp3"
+  },
+  {
+    "id": "academy-playback:73",
+    "kind": "dialogue-family:bakery",
+    "text": "Aș dori o pâine integrală.",
+    "url": "/audio/d08987f34429b850f98587b1.mp3"
+  },
+  {
+    "id": "academy-playback:74",
+    "kind": "dialogue-family:restaurant",
+    "text": "Da, aș dori o supă de legume.",
+    "url": "/audio/1670ba9533a1bc96b2f046d6.mp3"
+  },
+  {
+    "id": "academy-playback:75",
+    "kind": "dialogue-family:grocery",
+    "text": "Caut un kilogram de mere.",
+    "url": "/audio/9f085dc8cc3e0bff8415e455.mp3"
+  },
+  {
+    "id": "academy-playback:76",
+    "kind": "dialogue-family:clothes",
+    "text": "Aș vrea să probez această cămașă.",
+    "url": "/audio/f19ddbb13a331b0b1c90aa07.mp3"
+  },
+  {
+    "id": "academy-playback:77",
+    "kind": "dialogue-family:shoes",
+    "text": "Aș dori să probez acești pantofi, mărimea patruzeci.",
+    "url": "/audio/b71efee38258975df3716cc5.mp3"
+  },
+  {
+    "id": "academy-playback:78",
+    "kind": "dialogue-family:hotel-booking",
+    "text": "Aș dori o cameră single.",
+    "url": "/audio/ec51a5555bf98b9fedbc96ea.mp3"
+  },
+  {
+    "id": "academy-playback:79",
+    "kind": "dialogue-family:hotel-issue",
+    "text": "În camera mea nu funcționează aerul condiționat.",
+    "url": "/audio/0af96ea184975e0e2bc19fec.mp3"
+  },
+  {
+    "id": "academy-playback:80",
+    "kind": "dialogue-family:rental",
+    "text": "Aș vrea să știu dacă utilitățile sunt incluse.",
+    "url": "/audio/4fb82da25006ed5cc3bcc788.mp3"
+  },
+  {
+    "id": "academy-playback:81",
+    "kind": "dialogue-family:home-repair",
+    "text": "Am observat că robinetul picură.",
+    "url": "/audio/1ebf08dafa58ea3a4765bf22.mp3"
+  },
+  {
+    "id": "academy-playback:82",
+    "kind": "dialogue-family:train-ticket",
+    "text": "Aș dori un bilet până la Brașov.",
+    "url": "/audio/985b6b15f8b30f6f0b7cdbec.mp3"
+  },
+  {
+    "id": "academy-playback:83",
+    "kind": "dialogue-family:bus",
+    "text": "Cum ajung la gară?",
+    "url": "/audio/962856311a33fb78f8f9428d.mp3"
+  },
+  {
+    "id": "academy-playback:84",
+    "kind": "dialogue-family:taxi",
+    "text": "La gară, vă rog.",
+    "url": "/audio/0952694e48d1bb89bb7bb484.mp3"
+  },
+  {
+    "id": "academy-playback:85",
+    "kind": "dialogue-family:doctor",
+    "text": "De ieri mă doare gâtul.",
+    "url": "/audio/da6755fd25da915d3e5cae9d.mp3"
+  },
+  {
+    "id": "academy-playback:86",
+    "kind": "dialogue-family:pharmacy",
+    "text": "Aveți un termometru?",
+    "url": "/audio/ae5ac94c22b5e51909d70f0f.mp3"
+  },
+  {
+    "id": "academy-playback:87",
+    "kind": "dialogue-family:documents",
+    "text": "Doresc să depun cererea de înscriere.",
+    "url": "/audio/9680efddd1d909cafd4b7477.mp3"
+  },
+  {
+    "id": "academy-playback:88",
+    "kind": "dialogue-family:bank",
+    "text": "Aș dori informații despre deschiderea unui cont.",
+    "url": "/audio/d5113cadd52cfca3d014e561.mp3"
+  },
+  {
+    "id": "academy-playback:89",
+    "kind": "dialogue-family:phone",
+    "text": "Sun în legătură cu programarea de mâine.",
+    "url": "/audio/bd617d3f3deeeee3a9173f74.mp3"
+  },
+  {
+    "id": "academy-playback:90",
+    "kind": "dialogue-family:interview",
+    "text": "Am lucrat trei ani în logistică.",
+    "url": "/audio/5c7b4d063f9d1f2ee96ee6ec.mp3"
+  },
+  {
+    "id": "academy-playback:91",
+    "kind": "dialogue-family:work-task",
+    "text": "Aș vrea să discutăm despre raportul lunar.",
+    "url": "/audio/60baaa9874a554957873b961.mp3"
+  },
+  {
+    "id": "academy-playback:92",
+    "kind": "dialogue-family:meeting",
+    "text": "Sunt disponibil luni dimineață.",
+    "url": "/audio/348f7c03150c2789d8c38868.mp3"
+  },
+  {
+    "id": "academy-playback:93",
+    "kind": "dialogue-family:course",
+    "text": "Mă interesează un curs de limba română.",
+    "url": "/audio/b52db6b7f213c37410818060.mp3"
+  },
+  {
+    "id": "academy-playback:94",
+    "kind": "dialogue-family:library",
+    "text": "Caut o carte despre istoria României.",
+    "url": "/audio/13745ccb42d9a6edc01b6788.mp3"
+  },
+  {
+    "id": "academy-playback:95",
+    "kind": "dialogue-family:tourism",
+    "text": "Aș vrea să vizitez muzeul de artă.",
+    "url": "/audio/3e61cf6c4ac7d6780fafc0e5.mp3"
+  },
+  {
+    "id": "academy-playback:96",
+    "kind": "dialogue-family:delivery",
+    "text": "Aștept un colet cu cărți.",
+    "url": "/audio/c498a5a7dd75bfecd6e8a1c3.mp3"
+  },
+  {
+    "id": "academy-playback:97",
+    "kind": "dialogue-family:return",
+    "text": "Doresc să returnez produsul deoarece nu pornește.",
+    "url": "/audio/c1c88e7bb77ac6744a651058.mp3"
+  },
+  {
+    "id": "academy-playback:98",
+    "kind": "dialogue-family:depot",
+    "text": "Am consemnat o pierdere de aer în raport.",
+    "url": "/audio/e5870f45b39238433e77e933.mp3"
+  },
+  {
+    "id": "academy-playback:99",
+    "kind": "dialogue-family:maintenance",
+    "text": "Solicitarea privește sistemul de frânare.",
+    "url": "/audio/39da5815fe9e815e5098c9b1.mp3"
+  },
+  {
+    "id": "academy-playback:100",
+    "kind": "dialogue-family:rail-documents",
+    "text": "Trebuie revizuit raportul de inspecție.",
+    "url": "/audio/f214778f6dffb57eccb047c2.mp3"
+  },
+  {
+    "id": "academy-playback:101",
+    "kind": "dialogue-family:electrical",
+    "text": "Doresc să identific circuitul de alimentare.",
+    "url": "/audio/1af2812ec79a1764d8a82d72.mp3"
+  },
+  {
+    "id": "academy-playback:102",
+    "kind": "dialogue-family:conference",
+    "text": "Aș dori să clarific criteriul de selecție.",
+    "url": "/audio/e258b1c64f3508b588d1ffdf.mp3"
+  },
+  {
+    "id": "academy-playback:103",
+    "kind": "dialogue-family:negotiation",
+    "text": "Aș dori să renegociem termenul de livrare.",
+    "url": "/audio/bab5ffa442f758b5fc4c9227.mp3"
+  },
+  {
+    "id": "academy-playback:104",
+    "kind": "dialogue-family:evidence",
+    "text": "Pentru că datele nu au fost confirmate.",
+    "url": "/audio/d893675697a12df5b0a3094c.mp3"
+  },
+  {
+    "id": "academy-playback:105",
+    "kind": "dialogue-family:complaint",
+    "text": "Vă scriu în legătură cu întârzierea răspunsului.",
+    "url": "/audio/87d7bb58045f43529863bd68.mp3"
+  }
+]

@@ -1,0 +1,123 @@
+{
+  "date": "2026-10-18",
+  "baselineCommit": "a4cad20",
+  "errors": [],
+  "preserved": {
+    "cardIds": 7984,
+    "headwords": 7984,
+    "examples": 2655,
+    "oldMp3Mappings": 11455,
+    "oldMp3FilesUnmodified": true,
+    "audioEngine": [
+      {
+        "file": "src/lib/audio.ts",
+        "unchanged": true,
+        "sha256": "6b940bafdbeb58b1f55c2c09cb5d7cd12b2933b8431768cd2d6a485fc31cdee0"
+      },
+      {
+        "file": "src/lib/audio-index.ts",
+        "unchanged": true,
+        "sha256": "5c08936955d677b32aec112ded7cf192ad18ad2472fe49f199edc801030ea1a3"
+      },
+      {
+        "file": "src/lib/audio-tts.ts",
+        "unchanged": true,
+        "sha256": "e865b73e792f261b9dfaf962299bb059191aaf2412d8a1e19efafab454c14201"
+      },
+      {
+        "file": "src/lib/audio-cache.ts",
+        "unchanged": true,
+        "sha256": "fb3ccd047de15622c078c11ad4b1dce78a56baef346fc50092ac88993668943a"
+      }
+    ],
+    "profileDatabase": "romana-nova, version 1; no reset, no migration"
+  },
+  "vocabulary": {
+    "total": 7984,
+    "newCardIds": 0,
+    "enrichedExistingCards": 54,
+    "photos": 506,
+    "addedPhotos": 9,
+    "examples": 2763,
+    "addedExamples": 108,
+    "withTwoExamples": 1225,
+    "stillWithFewerThanTwoExamples": 6759
+  },
+  "phonetics": {
+    "letters": 31,
+    "lessons": 14,
+    "readingStages": 7,
+    "tasks": 424,
+    "readingTasks": 112,
+    "stressTasks": 62,
+    "soundAndStressTasks": 166,
+    "verifiedStressForms": 62,
+    "unverifiedFormsExcluded": [
+      "copii",
+      "trenul",
+      "legume",
+      "fructe"
+    ],
+    "modes": 12,
+    "syllableTiming": "sequential separate MP3; highlight only playing fragment, no timer alignment",
+    "Q": "explicit /ky/ synthesis instead of default /kju/; new clip only; not physically heard by agent"
+  },
+  "learning": {
+    "lessons": 32,
+    "newLessons": 16,
+    "byLevel": {
+      "A0": 6,
+      "A1": 10,
+      "A2": 4,
+      "B1": 4,
+      "B2": 4,
+      "C1": 4
+    },
+    "listeningTasks": 976,
+    "listeningMechanics": [
+      "Диктант",
+      "Значение",
+      "Пропуск",
+      "Аудио → текст",
+      "Порядок реплик",
+      "Вопрос по услышанному"
+    ],
+    "voiceRoleResponses": 1999,
+    "dialogues": 400,
+    "newDialogues": 340,
+    "newDialogueFamilies": 34,
+    "variantsPerNewFamily": 10,
+    "grammarTasks": 1130,
+    "verbParadigmTasks": 1080,
+    "contextualGrammarTasks": 50,
+    "verbs": 30,
+    "railTerms": 120,
+    "railExercises": 240,
+    "lexicalTasks": 52,
+    "correctionTasks": 10,
+    "workshopModes": 24
+  },
+  "audio": {
+    "totalMp3": 13740,
+    "newMp3": 2285,
+    "academyTextsChecked": 2766,
+    "allMappedToLocalMp3": true,
+    "librariesInstalled": []
+  },
+  "verification": {
+    "staticContentAudit": true,
+    "realBrowserAvailable": false,
+    "realBrowserPlaybackVerified": false,
+    "agentPhysicallyHeardNewAudio": false,
+    "newPhotoRenderingInRealBrowserVerified": false,
+    "userPreviouslyConfirmedCafea": true
+  },
+  "remaining": [
+    "A2–C1 now have four modules each, not an exhaustive CEFR course.",
+    "New dialogue count includes 340 controlled variants of 34 authored situations, not 340 unrelated themes.",
+    "Professional term target 2000 not reached; current bank has 120.",
+    "Thousands of reference cards still lack two reviewed examples.",
+    "Independent native-speaker and railway-specialist editorial review is not complete.",
+    "New phonetic recordings, microphone recognition, mobile layout and offline PWA need real-device checks."
+  ]
+}

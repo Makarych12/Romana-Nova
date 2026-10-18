@@ -16788,34 +16788,10 @@
     {
       "id": "open-0fdb36f297a20cc6",
       "ro": "modă",
-      "code": "examples-incomplete",
-      "severity": "incomplete",
-      "field": "examples",
-      "detail": "Добавлено 0 из двух необходимых примеров"
-    },
-    {
-      "id": "open-0fdb36f297a20cc6",
-      "ro": "modă",
-      "code": "forms-missing",
-      "severity": "incomplete",
-      "field": "forms",
-      "detail": "Формы и ограничения употребления ещё не подготовлены"
-    },
-    {
-      "id": "open-0fdb36f297a20cc6",
-      "ro": "modă",
       "code": "level-unverified",
       "severity": "review",
       "field": "level",
       "detail": "Частотная оценка не является независимой разметкой CEFR"
-    },
-    {
-      "id": "open-0fdb36f297a20cc6",
-      "ro": "modă",
-      "code": "editorial-unverified",
-      "severity": "review",
-      "field": "entry",
-      "detail": "Прямой словарный источник не заменяет редактуру перевода и употребления"
     },
     {
       "id": "open-cc16c4138876b29a",
@@ -19604,34 +19580,10 @@
     {
       "id": "open-82244417f956ac7c",
       "ro": "email",
-      "code": "examples-incomplete",
-      "severity": "incomplete",
-      "field": "examples",
-      "detail": "Добавлено 0 из двух необходимых примеров"
-    },
-    {
-      "id": "open-82244417f956ac7c",
-      "ro": "email",
-      "code": "forms-missing",
-      "severity": "incomplete",
-      "field": "forms",
-      "detail": "Формы и ограничения употребления ещё не подготовлены"
-    },
-    {
-      "id": "open-82244417f956ac7c",
-      "ro": "email",
       "code": "level-unverified",
       "severity": "review",
       "field": "level",
       "detail": "Частотная оценка не является независимой разметкой CEFR"
-    },
-    {
-      "id": "open-82244417f956ac7c",
-      "ro": "email",
-      "code": "editorial-unverified",
-      "severity": "review",
-      "field": "entry",
-      "detail": "Прямой словарный источник не заменяет редактуру перевода и употребления"
     },
     {
       "id": "open-b6cf348bc9b1a71d",
@@ -25332,34 +25284,10 @@
     {
       "id": "open-0389a49fe399163a",
       "ro": "interviu",
-      "code": "examples-incomplete",
-      "severity": "incomplete",
-      "field": "examples",
-      "detail": "Добавлено 0 из двух необходимых примеров"
-    },
-    {
-      "id": "open-0389a49fe399163a",
-      "ro": "interviu",
-      "code": "forms-missing",
-      "severity": "incomplete",
-      "field": "forms",
-      "detail": "Формы и ограничения употребления ещё не подготовлены"
-    },
-    {
-      "id": "open-0389a49fe399163a",
-      "ro": "interviu",
       "code": "level-unverified",
       "severity": "review",
       "field": "level",
       "detail": "Частотная оценка не является независимой разметкой CEFR"
-    },
-    {
-      "id": "open-0389a49fe399163a",
-      "ro": "interviu",
-      "code": "editorial-unverified",
-      "severity": "review",
-      "field": "entry",
-      "detail": "Прямой словарный источник не заменяет редактуру перевода и употребления"
     },
     {
       "id": "open-d8c40bc698cd9d5d",
@@ -25516,34 +25444,10 @@
     {
       "id": "open-ac46af4054d3944d",
       "ro": "masaj",
-      "code": "examples-incomplete",
-      "severity": "incomplete",
-      "field": "examples",
-      "detail": "Добавлено 0 из двух необходимых примеров"
-    },
-    {
-      "id": "open-ac46af4054d3944d",
-      "ro": "masaj",
-      "code": "forms-missing",
-      "severity": "incomplete",
-      "field": "forms",
-      "detail": "Формы и ограничения употребления ещё не подготовлены"
-    },
-    {
-      "id": "open-ac46af4054d3944d",
-      "ro": "masaj",
       "code": "level-unverified",
       "severity": "review",
       "field": "level",
       "detail": "Частотная оценка не является независимой разметкой CEFR"
-    },
-    {
-      "id": "open-ac46af4054d3944d",
-      "ro": "masaj",
-      "code": "editorial-unverified",
-      "severity": "review",
-      "field": "entry",
-      "detail": "Прямой словарный источник не заменяет редактуру перевода и употребления"
     },
     {
       "id": "open-40b30b4e8f0d1370",
@@ -25748,34 +25652,10 @@
     {
       "id": "open-7a72dc6962f7fdb1",
       "ro": "măcelar",
-      "code": "examples-incomplete",
-      "severity": "incomplete",
-      "field": "examples",
-      "detail": "Добавлено 0 из двух необходимых примеров"
-    },
-    {
-      "id": "open-7a72dc6962f7fdb1",
-      "ro": "măcelar",
-      "code": "forms-missing",
-      "severity": "incomplete",
-      "field": "forms",
-      "detail": "Формы и ограничения употребления ещё не подготовлены"
-    },
-    {
-      "id": "open-7a72dc6962f7fdb1",
-      "ro": "măcelar",
       "code": "level-unverified",
       "severity": "review",
       "field": "level",
       "detail": "Частотная оценка не является независимой разметкой CEFR"
-    },
-    {
-      "id": "open-7a72dc6962f7fdb1",
-      "ro": "măcelar",
-      "code": "editorial-unverified",
-      "severity": "review",
-      "field": "entry",
-      "detail": "Прямой словарный источник не заменяет редактуру перевода и употребления"
     },
     {
       "id": "open-047de0f543c7e359",
@@ -25876,34 +25756,10 @@
     {
       "id": "open-68c590605102c8f2",
       "ro": "obstacol",
-      "code": "examples-incomplete",
-      "severity": "incomplete",
-      "field": "examples",
-      "detail": "Добавлено 0 из двух необходимых примеров"
-    },
-    {
-      "id": "open-68c590605102c8f2",
-      "ro": "obstacol",
-      "code": "forms-missing",
-      "severity": "incomplete",
-      "field": "forms",
-      "detail": "Формы и ограничения употребления ещё не подготовлены"
-    },
-    {
-      "id": "open-68c590605102c8f2",
-      "ro": "obstacol",
       "code": "level-unverified",
       "severity": "review",
       "field": "level",
       "detail": "Частотная оценка не является независимой разметкой CEFR"
-    },
-    {
-      "id": "open-68c590605102c8f2",
-      "ro": "obstacol",
-      "code": "editorial-unverified",
-      "severity": "review",
-      "field": "entry",
-      "detail": "Прямой словарный источник не заменяет редактуру перевода и употребления"
     },
     {
       "id": "open-b603e3a90f6d56b4",
@@ -27148,34 +27004,10 @@
     {
       "id": "open-a32fab8f0e7562eb",
       "ro": "vopsea",
-      "code": "examples-incomplete",
-      "severity": "incomplete",
-      "field": "examples",
-      "detail": "Добавлено 0 из двух необходимых примеров"
-    },
-    {
-      "id": "open-a32fab8f0e7562eb",
-      "ro": "vopsea",
-      "code": "forms-missing",
-      "severity": "incomplete",
-      "field": "forms",
-      "detail": "Формы и ограничения употребления ещё не подготовлены"
-    },
-    {
-      "id": "open-a32fab8f0e7562eb",
-      "ro": "vopsea",
       "code": "level-unverified",
       "severity": "review",
       "field": "level",
       "detail": "Частотная оценка не является независимой разметкой CEFR"
-    },
-    {
-      "id": "open-a32fab8f0e7562eb",
-      "ro": "vopsea",
-      "code": "editorial-unverified",
-      "severity": "review",
-      "field": "entry",
-      "detail": "Прямой словарный источник не заменяет редактуру перевода и употребления"
     },
     {
       "id": "open-d19a1376c6c58c64",
@@ -31460,34 +31292,10 @@
     {
       "id": "open-462d873ad6f6009d",
       "ro": "orizont",
-      "code": "examples-incomplete",
-      "severity": "incomplete",
-      "field": "examples",
-      "detail": "Добавлено 0 из двух необходимых примеров"
-    },
-    {
-      "id": "open-462d873ad6f6009d",
-      "ro": "orizont",
-      "code": "forms-missing",
-      "severity": "incomplete",
-      "field": "forms",
-      "detail": "Формы и ограничения употребления ещё не подготовлены"
-    },
-    {
-      "id": "open-462d873ad6f6009d",
-      "ro": "orizont",
       "code": "level-unverified",
       "severity": "review",
       "field": "level",
       "detail": "Частотная оценка не является независимой разметкой CEFR"
-    },
-    {
-      "id": "open-462d873ad6f6009d",
-      "ro": "orizont",
-      "code": "editorial-unverified",
-      "severity": "review",
-      "field": "entry",
-      "detail": "Прямой словарный источник не заменяет редактуру перевода и употребления"
     },
     {
       "id": "open-ef91d242613c5c7a",
@@ -32964,34 +32772,10 @@
     {
       "id": "open-e9968407663c810c",
       "ro": "timbru",
-      "code": "examples-incomplete",
-      "severity": "incomplete",
-      "field": "examples",
-      "detail": "Добавлено 0 из двух необходимых примеров"
-    },
-    {
-      "id": "open-e9968407663c810c",
-      "ro": "timbru",
-      "code": "forms-missing",
-      "severity": "incomplete",
-      "field": "forms",
-      "detail": "Формы и ограничения употребления ещё не подготовлены"
-    },
-    {
-      "id": "open-e9968407663c810c",
-      "ro": "timbru",
       "code": "level-unverified",
       "severity": "review",
       "field": "level",
       "detail": "Частотная оценка не является независимой разметкой CEFR"
-    },
-    {
-      "id": "open-e9968407663c810c",
-      "ro": "timbru",
-      "code": "editorial-unverified",
-      "severity": "review",
-      "field": "entry",
-      "detail": "Прямой словарный источник не заменяет редактуру перевода и употребления"
     },
     {
       "id": "open-5effcc213bc67ef1",
@@ -37844,34 +37628,10 @@
     {
       "id": "open-277e9f4d2c33c3f1",
       "ro": "fibră",
-      "code": "examples-incomplete",
-      "severity": "incomplete",
-      "field": "examples",
-      "detail": "Добавлено 0 из двух необходимых примеров"
-    },
-    {
-      "id": "open-277e9f4d2c33c3f1",
-      "ro": "fibră",
-      "code": "forms-missing",
-      "severity": "incomplete",
-      "field": "forms",
-      "detail": "Формы и ограничения употребления ещё не подготовлены"
-    },
-    {
-      "id": "open-277e9f4d2c33c3f1",
-      "ro": "fibră",
       "code": "level-unverified",
       "severity": "review",
       "field": "level",
       "detail": "Частотная оценка не является независимой разметкой CEFR"
-    },
-    {
-      "id": "open-277e9f4d2c33c3f1",
-      "ro": "fibră",
-      "code": "editorial-unverified",
-      "severity": "review",
-      "field": "entry",
-      "detail": "Прямой словарный источник не заменяет редактуру перевода и употребления"
     },
     {
       "id": "open-a383bcb77c832a8f",
@@ -37940,54 +37700,6 @@
     {
       "id": "open-c6083b900002d51f",
       "ro": "fizician",
-      "code": "examples-incomplete",
-      "severity": "incomplete",
-      "field": "examples",
-      "detail": "Добавлено 0 из двух необходимых примеров"
-    },
-    {
-      "id": "open-c6083b900002d51f",
-      "ro": "fizician",
-      "code": "forms-missing",
-      "severity": "incomplete",
-      "field": "forms",
-      "detail": "Формы и ограничения употребления ещё не подготовлены"
-    },
-    {
-      "id": "open-c6083b900002d51f",
-      "ro": "fizician",
-      "code": "level-unverified",
-      "severity": "review",
-      "field": "level",
-      "detail": "Частотная оценка не является независимой разметкой CEFR"
-    },
-    {
-      "id": "open-c6083b900002d51f",
-      "ro": "fizician",
-      "code": "editorial-unverified",
-      "severity": "review",
-      "field": "entry",
-      "detail": "Прямой словарный источник не заменяет редактуру перевода и употребления"
-    },
-    {
-      "id": "open-0ae2f6c706cff60b",
-      "ro": "flamingo",
-      "code": "examples-incomplete",
-      "severity": "incomplete",
-      "field": "examples",
-      "detail": "Добавлено 0 из двух необходимых примеров"
-    },
-    {
-      "id": "open-0ae2f6c706cff60b",
-      "ro": "flamingo",
-      "code": "forms-missing",
-      "severity": "incomplete",
-      "field": "forms",
-      "detail": "Формы и ограничения употребления ещё не подготовлены"
-    },
-    {
-      "id": "open-0ae2f6c706cff60b",
-      "ro": "flamingo",
       "code": "level-unverified",
       "severity": "review",
       "field": "level",
@@ -37996,10 +37708,10 @@
     {
       "id": "open-0ae2f6c706cff60b",
       "ro": "flamingo",
-      "code": "editorial-unverified",
+      "code": "level-unverified",
       "severity": "review",
-      "field": "entry",
-      "detail": "Прямой словарный источник не заменяет редактуру перевода и употребления"
+      "field": "level",
+      "detail": "Частотная оценка не является независимой разметкой CEFR"
     },
     {
       "id": "open-3b46116b4e70c835",
@@ -38316,26 +38028,10 @@
     {
       "id": "open-bf1ff147854c7eee",
       "ro": "fântână",
-      "code": "examples-incomplete",
-      "severity": "incomplete",
-      "field": "examples",
-      "detail": "Добавлено 0 из двух необходимых примеров"
-    },
-    {
-      "id": "open-bf1ff147854c7eee",
-      "ro": "fântână",
       "code": "level-unverified",
       "severity": "review",
       "field": "level",
       "detail": "Частотная оценка не является независимой разметкой CEFR"
-    },
-    {
-      "id": "open-bf1ff147854c7eee",
-      "ro": "fântână",
-      "code": "editorial-unverified",
-      "severity": "review",
-      "field": "entry",
-      "detail": "Прямой словарный источник не заменяет редактуру перевода и употребления"
     },
     {
       "id": "open-9b54f65b000676f5",
@@ -39372,34 +39068,10 @@
     {
       "id": "open-289856b4e4b71c79",
       "ro": "judo",
-      "code": "examples-incomplete",
-      "severity": "incomplete",
-      "field": "examples",
-      "detail": "Добавлено 0 из двух необходимых примеров"
-    },
-    {
-      "id": "open-289856b4e4b71c79",
-      "ro": "judo",
-      "code": "forms-missing",
-      "severity": "incomplete",
-      "field": "forms",
-      "detail": "Формы и ограничения употребления ещё не подготовлены"
-    },
-    {
-      "id": "open-289856b4e4b71c79",
-      "ro": "judo",
       "code": "level-unverified",
       "severity": "review",
       "field": "level",
       "detail": "Частотная оценка не является независимой разметкой CEFR"
-    },
-    {
-      "id": "open-289856b4e4b71c79",
-      "ro": "judo",
-      "code": "editorial-unverified",
-      "severity": "review",
-      "field": "entry",
-      "detail": "Прямой словарный источник не заменяет редактуру перевода и употребления"
     },
     {
       "id": "open-e6442ea25b27abc6",
@@ -40076,34 +39748,10 @@
     {
       "id": "open-0842f5422f62280a",
       "ro": "măcăleandru",
-      "code": "examples-incomplete",
-      "severity": "incomplete",
-      "field": "examples",
-      "detail": "Добавлено 0 из двух необходимых примеров"
-    },
-    {
-      "id": "open-0842f5422f62280a",
-      "ro": "măcăleandru",
-      "code": "forms-missing",
-      "severity": "incomplete",
-      "field": "forms",
-      "detail": "Формы и ограничения употребления ещё не подготовлены"
-    },
-    {
-      "id": "open-0842f5422f62280a",
-      "ro": "măcăleandru",
       "code": "level-unverified",
       "severity": "review",
       "field": "level",
       "detail": "Частотная оценка не является независимой разметкой CEFR"
-    },
-    {
-      "id": "open-0842f5422f62280a",
-      "ro": "măcăleandru",
-      "code": "editorial-unverified",
-      "severity": "review",
-      "field": "entry",
-      "detail": "Прямой словарный источник не заменяет редактуру перевода и употребления"
     },
     {
       "id": "open-817e1bcd72de3bc4",
@@ -42572,34 +42220,10 @@
     {
       "id": "open-9c5eb8c83ce29ac1",
       "ro": "tabacheră",
-      "code": "examples-incomplete",
-      "severity": "incomplete",
-      "field": "examples",
-      "detail": "Добавлено 0 из двух необходимых примеров"
-    },
-    {
-      "id": "open-9c5eb8c83ce29ac1",
-      "ro": "tabacheră",
-      "code": "forms-missing",
-      "severity": "incomplete",
-      "field": "forms",
-      "detail": "Формы и ограничения употребления ещё не подготовлены"
-    },
-    {
-      "id": "open-9c5eb8c83ce29ac1",
-      "ro": "tabacheră",
       "code": "level-unverified",
       "severity": "review",
       "field": "level",
       "detail": "Частотная оценка не является независимой разметкой CEFR"
-    },
-    {
-      "id": "open-9c5eb8c83ce29ac1",
-      "ro": "tabacheră",
-      "code": "editorial-unverified",
-      "severity": "review",
-      "field": "entry",
-      "detail": "Прямой словарный источник не заменяет редактуру перевода и употребления"
     },
     {
       "id": "open-b8caef13bf95fb2e",
@@ -45844,54 +45468,6 @@
     {
       "id": "open-40b7497d2505011a",
       "ro": "alabastru",
-      "code": "examples-incomplete",
-      "severity": "incomplete",
-      "field": "examples",
-      "detail": "Добавлено 0 из двух необходимых примеров"
-    },
-    {
-      "id": "open-40b7497d2505011a",
-      "ro": "alabastru",
-      "code": "forms-missing",
-      "severity": "incomplete",
-      "field": "forms",
-      "detail": "Формы и ограничения употребления ещё не подготовлены"
-    },
-    {
-      "id": "open-40b7497d2505011a",
-      "ro": "alabastru",
-      "code": "level-unverified",
-      "severity": "review",
-      "field": "level",
-      "detail": "Частотная оценка не является независимой разметкой CEFR"
-    },
-    {
-      "id": "open-40b7497d2505011a",
-      "ro": "alabastru",
-      "code": "editorial-unverified",
-      "severity": "review",
-      "field": "entry",
-      "detail": "Прямой словарный источник не заменяет редактуру перевода и употребления"
-    },
-    {
-      "id": "open-255fc138d1cc148c",
-      "ro": "alamă",
-      "code": "examples-incomplete",
-      "severity": "incomplete",
-      "field": "examples",
-      "detail": "Добавлено 0 из двух необходимых примеров"
-    },
-    {
-      "id": "open-255fc138d1cc148c",
-      "ro": "alamă",
-      "code": "forms-missing",
-      "severity": "incomplete",
-      "field": "forms",
-      "detail": "Формы и ограничения употребления ещё не подготовлены"
-    },
-    {
-      "id": "open-255fc138d1cc148c",
-      "ro": "alamă",
       "code": "level-unverified",
       "severity": "review",
       "field": "level",
@@ -45900,10 +45476,10 @@
     {
       "id": "open-255fc138d1cc148c",
       "ro": "alamă",
-      "code": "editorial-unverified",
+      "code": "level-unverified",
       "severity": "review",
-      "field": "entry",
-      "detail": "Прямой словарный источник не заменяет редактуру перевода и употребления"
+      "field": "level",
+      "detail": "Частотная оценка не является независимой разметкой CEFR"
     },
     {
       "id": "open-ca7cad8166758cb9",
@@ -46500,34 +46076,10 @@
     {
       "id": "open-9d4ff3ed42a7be64",
       "ro": "arheologie",
-      "code": "examples-incomplete",
-      "severity": "incomplete",
-      "field": "examples",
-      "detail": "Добавлено 0 из двух необходимых примеров"
-    },
-    {
-      "id": "open-9d4ff3ed42a7be64",
-      "ro": "arheologie",
-      "code": "forms-missing",
-      "severity": "incomplete",
-      "field": "forms",
-      "detail": "Формы и ограничения употребления ещё не подготовлены"
-    },
-    {
-      "id": "open-9d4ff3ed42a7be64",
-      "ro": "arheologie",
       "code": "level-unverified",
       "severity": "review",
       "field": "level",
       "detail": "Частотная оценка не является независимой разметкой CEFR"
-    },
-    {
-      "id": "open-9d4ff3ed42a7be64",
-      "ro": "arheologie",
-      "code": "editorial-unverified",
-      "severity": "review",
-      "field": "entry",
-      "detail": "Прямой словарный источник не заменяет редактуру перевода и употребления"
     },
     {
       "id": "open-bec79de3f42b8f3f",
@@ -47044,34 +46596,10 @@
     {
       "id": "open-538b91df37c0fed7",
       "ro": "balet",
-      "code": "examples-incomplete",
-      "severity": "incomplete",
-      "field": "examples",
-      "detail": "Добавлено 0 из двух необходимых примеров"
-    },
-    {
-      "id": "open-538b91df37c0fed7",
-      "ro": "balet",
-      "code": "forms-missing",
-      "severity": "incomplete",
-      "field": "forms",
-      "detail": "Формы и ограничения употребления ещё не подготовлены"
-    },
-    {
-      "id": "open-538b91df37c0fed7",
-      "ro": "balet",
       "code": "level-unverified",
       "severity": "review",
       "field": "level",
       "detail": "Частотная оценка не является независимой разметкой CEFR"
-    },
-    {
-      "id": "open-538b91df37c0fed7",
-      "ro": "balet",
-      "code": "editorial-unverified",
-      "severity": "review",
-      "field": "entry",
-      "detail": "Прямой словарный источник не заменяет редактуру перевода и употребления"
     },
     {
       "id": "open-22e1e0eabf8c2cba",
@@ -47116,34 +46644,10 @@
     {
       "id": "open-6ccf89d35be9636f",
       "ro": "banchet",
-      "code": "examples-incomplete",
-      "severity": "incomplete",
-      "field": "examples",
-      "detail": "Добавлено 0 из двух необходимых примеров"
-    },
-    {
-      "id": "open-6ccf89d35be9636f",
-      "ro": "banchet",
-      "code": "forms-missing",
-      "severity": "incomplete",
-      "field": "forms",
-      "detail": "Формы и ограничения употребления ещё не подготовлены"
-    },
-    {
-      "id": "open-6ccf89d35be9636f",
-      "ro": "banchet",
       "code": "level-unverified",
       "severity": "review",
       "field": "level",
       "detail": "Частотная оценка не является независимой разметкой CEFR"
-    },
-    {
-      "id": "open-6ccf89d35be9636f",
-      "ro": "banchet",
-      "code": "editorial-unverified",
-      "severity": "review",
-      "field": "entry",
-      "detail": "Прямой словарный источник не заменяет редактуру перевода и употребления"
     },
     {
       "id": "open-5d88b4f8d72495ef",
@@ -47268,34 +46772,10 @@
     {
       "id": "open-d4c3e8a11256ab82",
       "ro": "browser",
-      "code": "examples-incomplete",
-      "severity": "incomplete",
-      "field": "examples",
-      "detail": "Добавлено 0 из двух необходимых примеров"
-    },
-    {
-      "id": "open-d4c3e8a11256ab82",
-      "ro": "browser",
-      "code": "forms-missing",
-      "severity": "incomplete",
-      "field": "forms",
-      "detail": "Формы и ограничения употребления ещё не подготовлены"
-    },
-    {
-      "id": "open-d4c3e8a11256ab82",
-      "ro": "browser",
       "code": "level-unverified",
       "severity": "review",
       "field": "level",
       "detail": "Частотная оценка не является независимой разметкой CEFR"
-    },
-    {
-      "id": "open-d4c3e8a11256ab82",
-      "ro": "browser",
-      "code": "editorial-unverified",
-      "severity": "review",
-      "field": "entry",
-      "detail": "Прямой словарный источник не заменяет редактуру перевода и употребления"
     },
     {
       "id": "open-d4c4814ce9ce15ca",
@@ -47628,34 +47108,10 @@
     {
       "id": "open-c70f8ded58aabf32",
       "ro": "candelabru",
-      "code": "examples-incomplete",
-      "severity": "incomplete",
-      "field": "examples",
-      "detail": "Добавлено 0 из двух необходимых примеров"
-    },
-    {
-      "id": "open-c70f8ded58aabf32",
-      "ro": "candelabru",
-      "code": "forms-missing",
-      "severity": "incomplete",
-      "field": "forms",
-      "detail": "Формы и ограничения употребления ещё не подготовлены"
-    },
-    {
-      "id": "open-c70f8ded58aabf32",
-      "ro": "candelabru",
       "code": "level-unverified",
       "severity": "review",
       "field": "level",
       "detail": "Частотная оценка не является независимой разметкой CEFR"
-    },
-    {
-      "id": "open-c70f8ded58aabf32",
-      "ro": "candelabru",
-      "code": "editorial-unverified",
-      "severity": "review",
-      "field": "entry",
-      "detail": "Прямой словарный источник не заменяет редактуру перевода и употребления"
     },
     {
       "id": "open-bd08022e8fb80701",
@@ -53244,26 +52700,10 @@
     {
       "id": "open-fc2de03fa64f1ee1",
       "ro": "inventator",
-      "code": "examples-incomplete",
-      "severity": "incomplete",
-      "field": "examples",
-      "detail": "Добавлено 0 из двух необходимых примеров"
-    },
-    {
-      "id": "open-fc2de03fa64f1ee1",
-      "ro": "inventator",
       "code": "level-unverified",
       "severity": "review",
       "field": "level",
       "detail": "Частотная оценка не является независимой разметкой CEFR"
-    },
-    {
-      "id": "open-fc2de03fa64f1ee1",
-      "ro": "inventator",
-      "code": "editorial-unverified",
-      "severity": "review",
-      "field": "entry",
-      "detail": "Прямой словарный источник не заменяет редактуру перевода и употребления"
     },
     {
       "id": "open-03951f45e70010aa",
@@ -54252,34 +53692,10 @@
     {
       "id": "open-8a1d2d2209ead48c",
       "ro": "lumânare",
-      "code": "examples-incomplete",
-      "severity": "incomplete",
-      "field": "examples",
-      "detail": "Добавлено 0 из двух необходимых примеров"
-    },
-    {
-      "id": "open-8a1d2d2209ead48c",
-      "ro": "lumânare",
-      "code": "forms-missing",
-      "severity": "incomplete",
-      "field": "forms",
-      "detail": "Формы и ограничения употребления ещё не подготовлены"
-    },
-    {
-      "id": "open-8a1d2d2209ead48c",
-      "ro": "lumânare",
       "code": "level-unverified",
       "severity": "review",
       "field": "level",
       "detail": "Частотная оценка не является независимой разметкой CEFR"
-    },
-    {
-      "id": "open-8a1d2d2209ead48c",
-      "ro": "lumânare",
-      "code": "editorial-unverified",
-      "severity": "review",
-      "field": "entry",
-      "detail": "Прямой словарный источник не заменяет редактуру перевода и употребления"
     },
     {
       "id": "open-5a9ea7157d95e96d",
@@ -54556,34 +53972,10 @@
     {
       "id": "open-d6a07f27460d719e",
       "ro": "marțipan",
-      "code": "examples-incomplete",
-      "severity": "incomplete",
-      "field": "examples",
-      "detail": "Добавлено 0 из двух необходимых примеров"
-    },
-    {
-      "id": "open-d6a07f27460d719e",
-      "ro": "marțipan",
-      "code": "forms-missing",
-      "severity": "incomplete",
-      "field": "forms",
-      "detail": "Формы и ограничения употребления ещё не подготовлены"
-    },
-    {
-      "id": "open-d6a07f27460d719e",
-      "ro": "marțipan",
       "code": "level-unverified",
       "severity": "review",
       "field": "level",
       "detail": "Частотная оценка не является независимой разметкой CEFR"
-    },
-    {
-      "id": "open-d6a07f27460d719e",
-      "ro": "marțipan",
-      "code": "editorial-unverified",
-      "severity": "review",
-      "field": "entry",
-      "detail": "Прямой словарный источник не заменяет редактуру перевода и употребления"
     },
     {
       "id": "open-3b39fe766d867602",
@@ -54652,34 +54044,10 @@
     {
       "id": "open-2d704e2522efe522",
       "ro": "matematician",
-      "code": "examples-incomplete",
-      "severity": "incomplete",
-      "field": "examples",
-      "detail": "Добавлено 0 из двух необходимых примеров"
-    },
-    {
-      "id": "open-2d704e2522efe522",
-      "ro": "matematician",
-      "code": "forms-missing",
-      "severity": "incomplete",
-      "field": "forms",
-      "detail": "Формы и ограничения употребления ещё не подготовлены"
-    },
-    {
-      "id": "open-2d704e2522efe522",
-      "ro": "matematician",
       "code": "level-unverified",
       "severity": "review",
       "field": "level",
       "detail": "Частотная оценка не является независимой разметкой CEFR"
-    },
-    {
-      "id": "open-2d704e2522efe522",
-      "ro": "matematician",
-      "code": "editorial-unverified",
-      "severity": "review",
-      "field": "entry",
-      "detail": "Прямой словарный источник не заменяет редактуру перевода и употребления"
     },
     {
       "id": "open-4dbfe45b483c6dee",
@@ -54812,34 +54180,10 @@
     {
       "id": "open-ab0fa0267b812a98",
       "ro": "meduză",
-      "code": "examples-incomplete",
-      "severity": "incomplete",
-      "field": "examples",
-      "detail": "Добавлено 0 из двух необходимых примеров"
-    },
-    {
-      "id": "open-ab0fa0267b812a98",
-      "ro": "meduză",
-      "code": "forms-missing",
-      "severity": "incomplete",
-      "field": "forms",
-      "detail": "Формы и ограничения употребления ещё не подготовлены"
-    },
-    {
-      "id": "open-ab0fa0267b812a98",
-      "ro": "meduză",
       "code": "level-unverified",
       "severity": "review",
       "field": "level",
       "detail": "Частотная оценка не является независимой разметкой CEFR"
-    },
-    {
-      "id": "open-ab0fa0267b812a98",
-      "ro": "meduză",
-      "code": "editorial-unverified",
-      "severity": "review",
-      "field": "entry",
-      "detail": "Прямой словарный источник не заменяет редактуру перевода и употребления"
     },
     {
       "id": "open-d44c7945a2fdcc26",
@@ -55436,34 +54780,10 @@
     {
       "id": "open-7d704b396e1f9159",
       "ro": "mustață",
-      "code": "examples-incomplete",
-      "severity": "incomplete",
-      "field": "examples",
-      "detail": "Добавлено 0 из двух необходимых примеров"
-    },
-    {
-      "id": "open-7d704b396e1f9159",
-      "ro": "mustață",
-      "code": "forms-missing",
-      "severity": "incomplete",
-      "field": "forms",
-      "detail": "Формы и ограничения употребления ещё не подготовлены"
-    },
-    {
-      "id": "open-7d704b396e1f9159",
-      "ro": "mustață",
       "code": "level-unverified",
       "severity": "review",
       "field": "level",
       "detail": "Частотная оценка не является независимой разметкой CEFR"
-    },
-    {
-      "id": "open-7d704b396e1f9159",
-      "ro": "mustață",
-      "code": "editorial-unverified",
-      "severity": "review",
-      "field": "entry",
-      "detail": "Прямой словарный источник не заменяет редактуру перевода и употребления"
     },
     {
       "id": "open-848b35ee5975987e",
@@ -55540,34 +54860,10 @@
     {
       "id": "open-bb6954cb1ca3a161",
       "ro": "mărgele",
-      "code": "examples-incomplete",
-      "severity": "incomplete",
-      "field": "examples",
-      "detail": "Добавлено 0 из двух необходимых примеров"
-    },
-    {
-      "id": "open-bb6954cb1ca3a161",
-      "ro": "mărgele",
-      "code": "forms-missing",
-      "severity": "incomplete",
-      "field": "forms",
-      "detail": "Формы и ограничения употребления ещё не подготовлены"
-    },
-    {
-      "id": "open-bb6954cb1ca3a161",
-      "ro": "mărgele",
       "code": "level-unverified",
       "severity": "review",
       "field": "level",
       "detail": "Частотная оценка не является независимой разметкой CEFR"
-    },
-    {
-      "id": "open-bb6954cb1ca3a161",
-      "ro": "mărgele",
-      "code": "editorial-unverified",
-      "severity": "review",
-      "field": "entry",
-      "detail": "Прямой словарный источник не заменяет редактуру перевода и употребления"
     },
     {
       "id": "open-8fc4a28cd11f6e39",
@@ -57164,34 +56460,10 @@
     {
       "id": "open-264aa3f07859034d",
       "ro": "parchet",
-      "code": "examples-incomplete",
-      "severity": "incomplete",
-      "field": "examples",
-      "detail": "Добавлено 0 из двух необходимых примеров"
-    },
-    {
-      "id": "open-264aa3f07859034d",
-      "ro": "parchet",
-      "code": "forms-missing",
-      "severity": "incomplete",
-      "field": "forms",
-      "detail": "Формы и ограничения употребления ещё не подготовлены"
-    },
-    {
-      "id": "open-264aa3f07859034d",
-      "ro": "parchet",
       "code": "level-unverified",
       "severity": "review",
       "field": "level",
       "detail": "Частотная оценка не является независимой разметкой CEFR"
-    },
-    {
-      "id": "open-264aa3f07859034d",
-      "ro": "parchet",
-      "code": "editorial-unverified",
-      "severity": "review",
-      "field": "entry",
-      "detail": "Прямой словарный источник не заменяет редактуру перевода и употребления"
     },
     {
       "id": "open-983dd9068a55aa7c",
@@ -61012,54 +60284,6 @@
     {
       "id": "open-7b5a828cc546a952",
       "ro": "tapiserie",
-      "code": "examples-incomplete",
-      "severity": "incomplete",
-      "field": "examples",
-      "detail": "Добавлено 0 из двух необходимых примеров"
-    },
-    {
-      "id": "open-7b5a828cc546a952",
-      "ro": "tapiserie",
-      "code": "forms-missing",
-      "severity": "incomplete",
-      "field": "forms",
-      "detail": "Формы и ограничения употребления ещё не подготовлены"
-    },
-    {
-      "id": "open-7b5a828cc546a952",
-      "ro": "tapiserie",
-      "code": "level-unverified",
-      "severity": "review",
-      "field": "level",
-      "detail": "Частотная оценка не является независимой разметкой CEFR"
-    },
-    {
-      "id": "open-7b5a828cc546a952",
-      "ro": "tapiserie",
-      "code": "editorial-unverified",
-      "severity": "review",
-      "field": "entry",
-      "detail": "Прямой словарный источник не заменяет редактуру перевода и употребления"
-    },
-    {
-      "id": "open-2c80e939b8bed79d",
-      "ro": "tatuaj",
-      "code": "examples-incomplete",
-      "severity": "incomplete",
-      "field": "examples",
-      "detail": "Добавлено 0 из двух необходимых примеров"
-    },
-    {
-      "id": "open-2c80e939b8bed79d",
-      "ro": "tatuaj",
-      "code": "forms-missing",
-      "severity": "incomplete",
-      "field": "forms",
-      "detail": "Формы и ограничения употребления ещё не подготовлены"
-    },
-    {
-      "id": "open-2c80e939b8bed79d",
-      "ro": "tatuaj",
       "code": "level-unverified",
       "severity": "review",
       "field": "level",
@@ -61068,10 +60292,10 @@
     {
       "id": "open-2c80e939b8bed79d",
       "ro": "tatuaj",
-      "code": "editorial-unverified",
+      "code": "level-unverified",
       "severity": "review",
-      "field": "entry",
-      "detail": "Прямой словарный источник не заменяет редактуру перевода и употребления"
+      "field": "level",
+      "detail": "Частотная оценка не является независимой разметкой CEFR"
     },
     {
       "id": "open-2fdb4947f33a2c50",
@@ -62164,34 +61388,10 @@
     {
       "id": "open-75cf8229cc6eb7e8",
       "ro": "vehicul",
-      "code": "examples-incomplete",
-      "severity": "incomplete",
-      "field": "examples",
-      "detail": "Добавлено 0 из двух необходимых примеров"
-    },
-    {
-      "id": "open-75cf8229cc6eb7e8",
-      "ro": "vehicul",
-      "code": "forms-missing",
-      "severity": "incomplete",
-      "field": "forms",
-      "detail": "Формы и ограничения употребления ещё не подготовлены"
-    },
-    {
-      "id": "open-75cf8229cc6eb7e8",
-      "ro": "vehicul",
       "code": "level-unverified",
       "severity": "review",
       "field": "level",
       "detail": "Частотная оценка не является независимой разметкой CEFR"
-    },
-    {
-      "id": "open-75cf8229cc6eb7e8",
-      "ro": "vehicul",
-      "code": "editorial-unverified",
-      "severity": "review",
-      "field": "entry",
-      "detail": "Прямой словарный источник не заменяет редактуру перевода и употребления"
     },
     {
       "id": "open-4b54e16218fb000e",
@@ -63048,21 +62248,13 @@
       "severity": "review",
       "field": "entry",
       "detail": "Прямой словарный источник не заменяет редактуру перевода и употребления"
-    },
-    {
-      "id": "open-c9a57445de85e6b0",
-      "ro": "întreprindere",
-      "code": "examples-incomplete",
-      "severity": "incomplete",
-      "field": "examples",
-      "detail": "Добавлено 1 из двух необходимых примеров"
     },
     {
       "id": "open-c9a57445de85e6b0",
       "ro": "întreprindere",
       "code": "example-fragment",
       "severity": "review",
-      "field": "examples.0",
+      "field": "examples.2",
       "detail": "Возможно, это словосочетание вместо естественного предложения"
     },
     {
@@ -63072,14 +62264,6 @@
       "severity": "review",
       "field": "level",
       "detail": "Частотная оценка не является независимой разметкой CEFR"
-    },
-    {
-      "id": "open-c9a57445de85e6b0",
-      "ro": "întreprindere",
-      "code": "editorial-unverified",
-      "severity": "review",
-      "field": "entry",
-      "detail": "Прямой словарный источник не заменяет редактуру перевода и употребления"
     },
     {
       "id": "open-143ae2ddf35b5b2e",
@@ -67220,34 +66404,10 @@
     {
       "id": "open-05017685ee808dfc",
       "ro": "acetonă",
-      "code": "examples-incomplete",
-      "severity": "incomplete",
-      "field": "examples",
-      "detail": "Добавлено 0 из двух необходимых примеров"
-    },
-    {
-      "id": "open-05017685ee808dfc",
-      "ro": "acetonă",
-      "code": "forms-missing",
-      "severity": "incomplete",
-      "field": "forms",
-      "detail": "Формы и ограничения употребления ещё не подготовлены"
-    },
-    {
-      "id": "open-05017685ee808dfc",
-      "ro": "acetonă",
       "code": "level-unverified",
       "severity": "review",
       "field": "level",
       "detail": "Частотная оценка не является независимой разметкой CEFR"
-    },
-    {
-      "id": "open-05017685ee808dfc",
-      "ro": "acetonă",
-      "code": "editorial-unverified",
-      "severity": "review",
-      "field": "entry",
-      "detail": "Прямой словарный источник не заменяет редактуру перевода и употребления"
     },
     {
       "id": "open-3d48f7e110f99912",
@@ -70604,34 +69764,10 @@
     {
       "id": "open-8d3287c6fbb605cb",
       "ro": "aloe",
-      "code": "examples-incomplete",
-      "severity": "incomplete",
-      "field": "examples",
-      "detail": "Добавлено 0 из двух необходимых примеров"
-    },
-    {
-      "id": "open-8d3287c6fbb605cb",
-      "ro": "aloe",
-      "code": "forms-missing",
-      "severity": "incomplete",
-      "field": "forms",
-      "detail": "Формы и ограничения употребления ещё не подготовлены"
-    },
-    {
-      "id": "open-8d3287c6fbb605cb",
-      "ro": "aloe",
       "code": "level-unverified",
       "severity": "review",
       "field": "level",
       "detail": "Частотная оценка не является независимой разметкой CEFR"
-    },
-    {
-      "id": "open-8d3287c6fbb605cb",
-      "ro": "aloe",
-      "code": "editorial-unverified",
-      "severity": "review",
-      "field": "entry",
-      "detail": "Прямой словарный источник не заменяет редактуру перевода и употребления"
     },
     {
       "id": "open-743ca2851425ef56",
@@ -70812,34 +69948,10 @@
     {
       "id": "open-dba54fd097c1fb82",
       "ro": "altimetru",
-      "code": "examples-incomplete",
-      "severity": "incomplete",
-      "field": "examples",
-      "detail": "Добавлено 0 из двух необходимых примеров"
-    },
-    {
-      "id": "open-dba54fd097c1fb82",
-      "ro": "altimetru",
-      "code": "forms-missing",
-      "severity": "incomplete",
-      "field": "forms",
-      "detail": "Формы и ограничения употребления ещё не подготовлены"
-    },
-    {
-      "id": "open-dba54fd097c1fb82",
-      "ro": "altimetru",
       "code": "level-unverified",
       "severity": "review",
       "field": "level",
       "detail": "Частотная оценка не является независимой разметкой CEFR"
-    },
-    {
-      "id": "open-dba54fd097c1fb82",
-      "ro": "altimetru",
-      "code": "editorial-unverified",
-      "severity": "review",
-      "field": "entry",
-      "detail": "Прямой словарный источник не заменяет редактуру перевода и употребления"
     },
     {
       "id": "open-7d0b36bf8dfc4342",
@@ -71348,34 +70460,10 @@
     {
       "id": "open-9cab7afd1e1c0a31",
       "ro": "ametist",
-      "code": "examples-incomplete",
-      "severity": "incomplete",
-      "field": "examples",
-      "detail": "Добавлено 0 из двух необходимых примеров"
-    },
-    {
-      "id": "open-9cab7afd1e1c0a31",
-      "ro": "ametist",
-      "code": "forms-missing",
-      "severity": "incomplete",
-      "field": "forms",
-      "detail": "Формы и ограничения употребления ещё не подготовлены"
-    },
-    {
-      "id": "open-9cab7afd1e1c0a31",
-      "ro": "ametist",
       "code": "level-unverified",
       "severity": "review",
       "field": "level",
       "detail": "Частотная оценка не является независимой разметкой CEFR"
-    },
-    {
-      "id": "open-9cab7afd1e1c0a31",
-      "ro": "ametist",
-      "code": "editorial-unverified",
-      "severity": "review",
-      "field": "entry",
-      "detail": "Прямой словарный источник не заменяет редактуру перевода и употребления"
     },
     {
       "id": "open-c49cb43963d605e1",
@@ -72036,34 +71124,10 @@
     {
       "id": "open-cd2c0f63ad37d585",
       "ro": "anaconda",
-      "code": "examples-incomplete",
-      "severity": "incomplete",
-      "field": "examples",
-      "detail": "Добавлено 0 из двух необходимых примеров"
-    },
-    {
-      "id": "open-cd2c0f63ad37d585",
-      "ro": "anaconda",
-      "code": "forms-missing",
-      "severity": "incomplete",
-      "field": "forms",
-      "detail": "Формы и ограничения употребления ещё не подготовлены"
-    },
-    {
-      "id": "open-cd2c0f63ad37d585",
-      "ro": "anaconda",
       "code": "level-unverified",
       "severity": "review",
       "field": "level",
       "detail": "Частотная оценка не является независимой разметкой CEFR"
-    },
-    {
-      "id": "open-cd2c0f63ad37d585",
-      "ro": "anaconda",
-      "code": "editorial-unverified",
-      "severity": "review",
-      "field": "entry",
-      "detail": "Прямой словарный источник не заменяет редактуру перевода и употребления"
     },
     {
       "id": "open-956154fc0375aee8",
@@ -74868,34 +73932,10 @@
     {
       "id": "open-b494f88b7e090e49",
       "ro": "apeduct",
-      "code": "examples-incomplete",
-      "severity": "incomplete",
-      "field": "examples",
-      "detail": "Добавлено 0 из двух необходимых примеров"
-    },
-    {
-      "id": "open-b494f88b7e090e49",
-      "ro": "apeduct",
-      "code": "forms-missing",
-      "severity": "incomplete",
-      "field": "forms",
-      "detail": "Формы и ограничения употребления ещё не подготовлены"
-    },
-    {
-      "id": "open-b494f88b7e090e49",
-      "ro": "apeduct",
       "code": "level-unverified",
       "severity": "review",
       "field": "level",
       "detail": "Частотная оценка не является независимой разметкой CEFR"
-    },
-    {
-      "id": "open-b494f88b7e090e49",
-      "ro": "apeduct",
-      "code": "editorial-unverified",
-      "severity": "review",
-      "field": "entry",
-      "detail": "Прямой словарный источник не заменяет редактуру перевода и употребления"
     },
     {
       "id": "open-4bd44b213c9e5068",
@@ -75756,34 +74796,10 @@
     {
       "id": "open-ae009899db5a5378",
       "ro": "arenă",
-      "code": "examples-incomplete",
-      "severity": "incomplete",
-      "field": "examples",
-      "detail": "Добавлено 0 из двух необходимых примеров"
-    },
-    {
-      "id": "open-ae009899db5a5378",
-      "ro": "arenă",
-      "code": "forms-missing",
-      "severity": "incomplete",
-      "field": "forms",
-      "detail": "Формы и ограничения употребления ещё не подготовлены"
-    },
-    {
-      "id": "open-ae009899db5a5378",
-      "ro": "arenă",
       "code": "level-unverified",
       "severity": "review",
       "field": "level",
       "detail": "Частотная оценка не является независимой разметкой CEFR"
-    },
-    {
-      "id": "open-ae009899db5a5378",
-      "ro": "arenă",
-      "code": "editorial-unverified",
-      "severity": "review",
-      "field": "entry",
-      "detail": "Прямой словарный источник не заменяет редактуру перевода и употребления"
     },
     {
       "id": "open-c8c0f0f0a49f7d56",
@@ -76060,34 +75076,10 @@
     {
       "id": "open-74eae9fd0bbcb818",
       "ro": "arhitectură",
-      "code": "examples-incomplete",
-      "severity": "incomplete",
-      "field": "examples",
-      "detail": "Добавлено 0 из двух необходимых примеров"
-    },
-    {
-      "id": "open-74eae9fd0bbcb818",
-      "ro": "arhitectură",
-      "code": "forms-missing",
-      "severity": "incomplete",
-      "field": "forms",
-      "detail": "Формы и ограничения употребления ещё не подготовлены"
-    },
-    {
-      "id": "open-74eae9fd0bbcb818",
-      "ro": "arhitectură",
       "code": "level-unverified",
       "severity": "review",
       "field": "level",
       "detail": "Частотная оценка не является независимой разметкой CEFR"
-    },
-    {
-      "id": "open-74eae9fd0bbcb818",
-      "ro": "arhitectură",
-      "code": "editorial-unverified",
-      "severity": "review",
-      "field": "entry",
-      "detail": "Прямой словарный источник не заменяет редактуру перевода и употребления"
     },
     {
       "id": "open-fda379e999accf61",
@@ -78148,34 +77140,10 @@
     {
       "id": "open-6460d36aab7d028f",
       "ro": "auroră",
-      "code": "examples-incomplete",
-      "severity": "incomplete",
-      "field": "examples",
-      "detail": "Добавлено 0 из двух необходимых примеров"
-    },
-    {
-      "id": "open-6460d36aab7d028f",
-      "ro": "auroră",
-      "code": "forms-missing",
-      "severity": "incomplete",
-      "field": "forms",
-      "detail": "Формы и ограничения употребления ещё не подготовлены"
-    },
-    {
-      "id": "open-6460d36aab7d028f",
-      "ro": "auroră",
       "code": "level-unverified",
       "severity": "review",
       "field": "level",
       "detail": "Частотная оценка не является независимой разметкой CEFR"
-    },
-    {
-      "id": "open-6460d36aab7d028f",
-      "ro": "auroră",
-      "code": "editorial-unverified",
-      "severity": "review",
-      "field": "entry",
-      "detail": "Прямой словарный источник не заменяет редактуру перевода и употребления"
     },
     {
       "id": "open-38f4763816d5e354",
@@ -80612,34 +79580,10 @@
     {
       "id": "open-15827029160dc9aa",
       "ro": "balustru",
-      "code": "examples-incomplete",
-      "severity": "incomplete",
-      "field": "examples",
-      "detail": "Добавлено 0 из двух необходимых примеров"
-    },
-    {
-      "id": "open-15827029160dc9aa",
-      "ro": "balustru",
-      "code": "forms-missing",
-      "severity": "incomplete",
-      "field": "forms",
-      "detail": "Формы и ограничения употребления ещё не подготовлены"
-    },
-    {
-      "id": "open-15827029160dc9aa",
-      "ro": "balustru",
       "code": "level-unverified",
       "severity": "review",
       "field": "level",
       "detail": "Частотная оценка не является независимой разметкой CEFR"
-    },
-    {
-      "id": "open-15827029160dc9aa",
-      "ro": "balustru",
-      "code": "editorial-unverified",
-      "severity": "review",
-      "field": "entry",
-      "detail": "Прямой словарный источник не заменяет редактуру перевода и употребления"
     },
     {
       "id": "open-ca318883e5399426",
@@ -81068,34 +80012,10 @@
     {
       "id": "open-ce04b15274ffd154",
       "ro": "baros",
-      "code": "examples-incomplete",
-      "severity": "incomplete",
-      "field": "examples",
-      "detail": "Добавлено 0 из двух необходимых примеров"
-    },
-    {
-      "id": "open-ce04b15274ffd154",
-      "ro": "baros",
-      "code": "forms-missing",
-      "severity": "incomplete",
-      "field": "forms",
-      "detail": "Формы и ограничения употребления ещё не подготовлены"
-    },
-    {
-      "id": "open-ce04b15274ffd154",
-      "ro": "baros",
       "code": "level-unverified",
       "severity": "review",
       "field": "level",
       "detail": "Частотная оценка не является независимой разметкой CEFR"
-    },
-    {
-      "id": "open-ce04b15274ffd154",
-      "ro": "baros",
-      "code": "editorial-unverified",
-      "severity": "review",
-      "field": "entry",
-      "detail": "Прямой словарный источник не заменяет редактуру перевода и употребления"
     },
     {
       "id": "open-f01f8d8f31b56558",
@@ -81748,34 +80668,10 @@
     {
       "id": "open-ae7e36be82480baa",
       "ro": "berar",
-      "code": "examples-incomplete",
-      "severity": "incomplete",
-      "field": "examples",
-      "detail": "Добавлено 0 из двух необходимых примеров"
-    },
-    {
-      "id": "open-ae7e36be82480baa",
-      "ro": "berar",
-      "code": "forms-missing",
-      "severity": "incomplete",
-      "field": "forms",
-      "detail": "Формы и ограничения употребления ещё не подготовлены"
-    },
-    {
-      "id": "open-ae7e36be82480baa",
-      "ro": "berar",
       "code": "level-unverified",
       "severity": "review",
       "field": "level",
       "detail": "Частотная оценка не является независимой разметкой CEFR"
-    },
-    {
-      "id": "open-ae7e36be82480baa",
-      "ro": "berar",
-      "code": "editorial-unverified",
-      "severity": "review",
-      "field": "entry",
-      "detail": "Прямой словарный источник не заменяет редактуру перевода и употребления"
     },
     {
       "id": "open-a6fb2749fef71c22",
@@ -82060,34 +80956,10 @@
     {
       "id": "open-e3a9b07bbac935aa",
       "ro": "biatlonist",
-      "code": "examples-incomplete",
-      "severity": "incomplete",
-      "field": "examples",
-      "detail": "Добавлено 0 из двух необходимых примеров"
-    },
-    {
-      "id": "open-e3a9b07bbac935aa",
-      "ro": "biatlonist",
-      "code": "forms-missing",
-      "severity": "incomplete",
-      "field": "forms",
-      "detail": "Формы и ограничения употребления ещё не подготовлены"
-    },
-    {
-      "id": "open-e3a9b07bbac935aa",
-      "ro": "biatlonist",
       "code": "level-unverified",
       "severity": "review",
       "field": "level",
       "detail": "Частотная оценка не является независимой разметкой CEFR"
-    },
-    {
-      "id": "open-e3a9b07bbac935aa",
-      "ro": "biatlonist",
-      "code": "editorial-unverified",
-      "severity": "review",
-      "field": "entry",
-      "detail": "Прямой словарный источник не заменяет редактуру перевода и употребления"
     },
     {
       "id": "open-ed717deeeb4e6788",
@@ -82708,34 +81580,10 @@
     {
       "id": "open-0b350e8823dda59a",
       "ro": "biliard",
-      "code": "examples-incomplete",
-      "severity": "incomplete",
-      "field": "examples",
-      "detail": "Добавлено 0 из двух необходимых примеров"
-    },
-    {
-      "id": "open-0b350e8823dda59a",
-      "ro": "biliard",
-      "code": "forms-missing",
-      "severity": "incomplete",
-      "field": "forms",
-      "detail": "Формы и ограничения употребления ещё не подготовлены"
-    },
-    {
-      "id": "open-0b350e8823dda59a",
-      "ro": "biliard",
       "code": "level-unverified",
       "severity": "review",
       "field": "level",
       "detail": "Частотная оценка не является независимой разметкой CEFR"
-    },
-    {
-      "id": "open-0b350e8823dda59a",
-      "ro": "biliard",
-      "code": "editorial-unverified",
-      "severity": "review",
-      "field": "entry",
-      "detail": "Прямой словарный источник не заменяет редактуру перевода и употребления"
     },
     {
       "id": "open-c85494ac4c01c393",
@@ -83780,34 +82628,10 @@
     {
       "id": "open-0ac42eb463a6923f",
       "ro": "bitum",
-      "code": "examples-incomplete",
-      "severity": "incomplete",
-      "field": "examples",
-      "detail": "Добавлено 0 из двух необходимых примеров"
-    },
-    {
-      "id": "open-0ac42eb463a6923f",
-      "ro": "bitum",
-      "code": "forms-missing",
-      "severity": "incomplete",
-      "field": "forms",
-      "detail": "Формы и ограничения употребления ещё не подготовлены"
-    },
-    {
-      "id": "open-0ac42eb463a6923f",
-      "ro": "bitum",
       "code": "level-unverified",
       "severity": "review",
       "field": "level",
       "detail": "Частотная оценка не является независимой разметкой CEFR"
-    },
-    {
-      "id": "open-0ac42eb463a6923f",
-      "ro": "bitum",
-      "code": "editorial-unverified",
-      "severity": "review",
-      "field": "entry",
-      "detail": "Прямой словарный источник не заменяет редактуру перевода и употребления"
     },
     {
       "id": "open-15dd8e4b2d6b075f",
@@ -84812,34 +83636,10 @@
     {
       "id": "open-e784aa958c4e67d2",
       "ro": "branhie",
-      "code": "examples-incomplete",
-      "severity": "incomplete",
-      "field": "examples",
-      "detail": "Добавлено 0 из двух необходимых примеров"
-    },
-    {
-      "id": "open-e784aa958c4e67d2",
-      "ro": "branhie",
-      "code": "forms-missing",
-      "severity": "incomplete",
-      "field": "forms",
-      "detail": "Формы и ограничения употребления ещё не подготовлены"
-    },
-    {
-      "id": "open-e784aa958c4e67d2",
-      "ro": "branhie",
       "code": "level-unverified",
       "severity": "review",
       "field": "level",
       "detail": "Частотная оценка не является независимой разметкой CEFR"
-    },
-    {
-      "id": "open-e784aa958c4e67d2",
-      "ro": "branhie",
-      "code": "editorial-unverified",
-      "severity": "review",
-      "field": "entry",
-      "detail": "Прямой словарный источник не заменяет редактуру перевода и употребления"
     },
     {
       "id": "open-cc073de3176e5427",
@@ -86884,34 +85684,10 @@
     {
       "id": "open-9e9255bdfa0dfa02",
       "ro": "caleidoscop",
-      "code": "examples-incomplete",
-      "severity": "incomplete",
-      "field": "examples",
-      "detail": "Добавлено 0 из двух необходимых примеров"
-    },
-    {
-      "id": "open-9e9255bdfa0dfa02",
-      "ro": "caleidoscop",
-      "code": "forms-missing",
-      "severity": "incomplete",
-      "field": "forms",
-      "detail": "Формы и ограничения употребления ещё не подготовлены"
-    },
-    {
-      "id": "open-9e9255bdfa0dfa02",
-      "ro": "caleidoscop",
       "code": "level-unverified",
       "severity": "review",
       "field": "level",
       "detail": "Частотная оценка не является независимой разметкой CEFR"
-    },
-    {
-      "id": "open-9e9255bdfa0dfa02",
-      "ro": "caleidoscop",
-      "code": "editorial-unverified",
-      "severity": "review",
-      "field": "entry",
-      "detail": "Прямой словарный источник не заменяет редактуру перевода и употребления"
     },
     {
       "id": "open-8950e548b5dbabcb",
@@ -94380,34 +93156,10 @@
     {
       "id": "open-e74cc67a459e9bac",
       "ro": "citadelă",
-      "code": "examples-incomplete",
-      "severity": "incomplete",
-      "field": "examples",
-      "detail": "Добавлено 0 из двух необходимых примеров"
-    },
-    {
-      "id": "open-e74cc67a459e9bac",
-      "ro": "citadelă",
-      "code": "forms-missing",
-      "severity": "incomplete",
-      "field": "forms",
-      "detail": "Формы и ограничения употребления ещё не подготовлены"
-    },
-    {
-      "id": "open-e74cc67a459e9bac",
-      "ro": "citadelă",
       "code": "level-unverified",
       "severity": "review",
       "field": "level",
       "detail": "Частотная оценка не является независимой разметкой CEFR"
-    },
-    {
-      "id": "open-e74cc67a459e9bac",
-      "ro": "citadelă",
-      "code": "editorial-unverified",
-      "severity": "review",
-      "field": "entry",
-      "detail": "Прямой словарный источник не заменяет редактуру перевода и употребления"
     },
     {
       "id": "open-a6037d274cdf6363",
@@ -95844,34 +94596,10 @@
     {
       "id": "open-ddcdb99dd480c0f6",
       "ro": "coapsă",
-      "code": "examples-incomplete",
-      "severity": "incomplete",
-      "field": "examples",
-      "detail": "Добавлено 0 из двух необходимых примеров"
-    },
-    {
-      "id": "open-ddcdb99dd480c0f6",
-      "ro": "coapsă",
-      "code": "forms-missing",
-      "severity": "incomplete",
-      "field": "forms",
-      "detail": "Формы и ограничения употребления ещё не подготовлены"
-    },
-    {
-      "id": "open-ddcdb99dd480c0f6",
-      "ro": "coapsă",
       "code": "level-unverified",
       "severity": "review",
       "field": "level",
       "detail": "Частотная оценка не является независимой разметкой CEFR"
-    },
-    {
-      "id": "open-ddcdb99dd480c0f6",
-      "ro": "coapsă",
-      "code": "editorial-unverified",
-      "severity": "review",
-      "field": "entry",
-      "detail": "Прямой словарный источник не заменяет редактуру перевода и употребления"
     },
     {
       "id": "open-df146c8ae10a3cee",
@@ -221221,13 +219949,13 @@
   "byCode": {
     "example-fragment": 93,
     "level-unverified": 7758,
-    "editorial-unverified": 7138,
-    "forms-missing": 5845,
-    "examples-incomplete": 6813,
+    "editorial-unverified": 7084,
+    "forms-missing": 5794,
+    "examples-incomplete": 6759,
     "mixed-script": 3,
     "level-complexity": 2
   },
   "flaggedCards": 7758,
-  "patchedCards": 856,
+  "patchedCards": 910,
   "limitations": "Автоматические правила обнаруживают структурные дефекты и поводы для проверки, но не доказывают точность перевода, естественность речи или уровень CEFR."
 }

@@ -62,3 +62,8 @@ it('обновляет старый перевод в сохранённой о�
  const refreshed=refreshVocabularyMistakes([saved],words)[0];
  expect(refreshed.id).toBe(saved.id);expect(refreshed.wordId).toBe(before.id);expect(refreshed.answer).toBe('вода');expect(refreshed.options).toContain('вода');expect(refreshed.options).not.toContain('старый неверный перевод');
 });
+
+it('word-to-photo answers keep every picture tied to its selectable Romanian word and survive export',()=>{
+ const tasks=vocabularyExercises(words,'photo-choice',5);
+ for(const task of tasks){expect(task.image).toBeUndefined();expect(task.optionPhotos!.length).toBe(task.options!.length);for(const value of task.options!){const photo=task.optionPhotos!.find(p=>p.value===value)!;expect(photo.image).toBe(words.find(w=>w.ro===value)!.image);expect(photo.alt).toBe(words.find(w=>w.ro===value)!.ru);}expect(validateProgress(JSON.parse(JSON.stringify(recordAnswer(fresh(),task,false)))).mistakes[task.id].optionPhotos).toEqual(task.optionPhotos);}
+});

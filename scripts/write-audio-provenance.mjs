@@ -14,8 +14,11 @@ const record={
  textLicenses:['Original project learning examples','Russian Wiktionary excerpts: CC BY-SA 4.0','Tatoeba sentences: CC BY 2.0 FR'],
  attribution:'Individual sentence and dictionary authors, source URLs and license links are retained in the vocabulary catalog, under source / examples[].source. Audio readings of licensed excerpts retain the applicable source-text license and attribution.',
  generator:'scripts/generate-audio.py',
+ pronunciationOverrides:'/audio/academy-pronunciation.json',
  sampleRate:22050,codec:'MP3',bitRate:56000,
  files:Object.keys(manifest).length,
 };
 fs.writeFileSync('public/audio/SOURCES.json',JSON.stringify(record,null,2)+'\n');
 fs.writeFileSync('public/audio/text-to-file.json',JSON.stringify(manifest));
+
+fs.copyFileSync('src/data/academy/pronunciation-overrides.json','public/audio/academy-pronunciation.json');

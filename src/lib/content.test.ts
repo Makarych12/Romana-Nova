@@ -41,8 +41,8 @@ describe("Новые реальные материалы", () => {
       }
     }
   });
-  it("содержит 60 разговорных диалогов с согласованными интерактивными ветками", () => {
-    expect(dialogues).toHaveLength(60);
+  it("содержит 400 заполненных диалогов с согласованными интерактивными ветками", () => {
+    expect(dialogues).toHaveLength(400);
     for (const d of dialogues) {
       expect(d.pairs.length).toBeGreaterThanOrEqual(5);
       expect(d.pairs.every((p) => p.ro && p.ru && p.note)).toBe(true);

@@ -49,6 +49,10 @@ import {refreshVocabularyMistakes} from "../lib/vocabulary-exercises";
 import DialogueLibrary from "../components/DialogueLibrary";
 import Dictionary from "../components/Dictionary";
 import { AudioDiagnostics } from "../components/AudioControls";
+import AcademyWorkshop from "../components/AcademyWorkshop";
+import RailwayAcademy from "../components/RailwayAcademy";
+import VoiceRecorder from "../components/VoiceRecorder";
+const intensiveLessons=lessons.filter(l=>l.level==="A0"||l.level==="A1");
 export default function AcademyPages(props: PageProps) {
   const { page, progress: p, update, openLesson, notify } = props;
   const [level, setLevel] = useState<Level>("A0");
@@ -117,10 +121,9 @@ export default function AcademyPages(props: PageProps) {
             <BookOpen size={20} />
             <p>
               <strong>
-                Сейчас доступны A0 и A1: {lessons.length} уроков с практикой.
+                Доступны {lessons.length} урока с практикой от A0 до C1.
               </strong>{" "}
-              A0 — вводная ступень, не официальный уровень CEFR. A2–C1 находятся
-              в разработке. Прохождение уроков не равно сертификации уровня.
+              A0 — вводная ступень, не официальный уровень CEFR. Для A2–C1 добавлены отдельные учебные модули; они пока не составляют исчерпывающий курс. Прохождение уроков не равно сертификации уровня.
             </p>
           </div>
           <div className="vocabulary-level-links">
@@ -141,7 +144,7 @@ export default function AcademyPages(props: PageProps) {
               >
                 <strong>{l.id}</strong>
                 <span>{l.name}</span>
-                {!["A0", "A1"].includes(l.id) && <LockKeyhole size={13} />}
+                {!lessons.some(lesson=>lesson.level===l.id) && <LockKeyhole size={13} />}
               </button>
             ))}
           </div>
@@ -158,7 +161,7 @@ export default function AcademyPages(props: PageProps) {
               /{lessons.filter((l) => l.level === level).length} уроков
             </span>
           </div>
-          {["A0", "A1"].includes(level) ? (
+          {lessons.some(lesson=>lesson.level===level) ? (
             <>
               <div className="lesson-grid">
                 {lessons
@@ -241,6 +244,7 @@ export default function AcademyPages(props: PageProps) {
       )}
       {page === "practice" && (
         <>
+          <AcademyWorkshop {...props}/>
           <div className="vocabulary-level-links">
             <span>Новые словарные тренировки:</span>
             {levels.map((l) => (
@@ -406,14 +410,14 @@ export default function AcademyPages(props: PageProps) {
       )}
       {page === "rail" && (
         <>
+          <RailwayAcademy {...props}/>
           <div className="rail-hero panel">
             <TrainFront size={52} />
             <div>
               <span className="eyebrow">ПРОФЕССИОНАЛЬНЫЙ РУМЫНСКИЙ</span>
               <h2>Понимать язык своей работы.</h2>
               <p>
-                Доступен вводный урок «На станции». Остальные технические
-                разделы находятся в разработке.
+                Начните с вводного урока «На станции» и продолжайте в технической лаборатории: 12 разделов с переводами и аудированием.
               </p>
               <button
                 className="primary"
@@ -452,7 +456,7 @@ export default function AcademyPages(props: PageProps) {
               <article className="panel rail-topic" key={t}>
                 <span className="text-tag">
                   {String(i + 1).padStart(2, "0")} ·{" "}
-                  {i === 0 ? "ВВОДНЫЙ УРОК ДОСТУПЕН" : "В РАЗРАБОТКЕ"}
+                  {i === 0 ? "ВВОДНЫЙ УРОК ДОСТУПЕН" : "ПРАКТИКА В ЛАБОРАТОРИИ"}
                 </span>
                 <h3>{t}</h3>
                 <p>{d}</p>
@@ -465,7 +469,7 @@ export default function AcademyPages(props: PageProps) {
                   </button>
                 ) : (
                   <small className="muted">
-                    Словарь, диалог и тест — следующий этап
+                    Термины и задания доступны в технической лаборатории выше.
                   </small>
                 )}
               </article>
@@ -496,25 +500,25 @@ export default function AcademyPages(props: PageProps) {
           <div className="days-grid">
             {intensiveTopics.map((t, i) => (
               <button
-                className={`day-card ${i >= lessons.length ? "unavailable" : ""} ${p.intensive.includes(i) ? "completed" : ""}`}
+                className={`day-card ${i >= intensiveLessons.length ? "unavailable" : ""} ${p.intensive.includes(i) ? "completed" : ""}`}
                 key={i}
-                disabled={i >= lessons.length}
+                disabled={i >= intensiveLessons.length}
                 onClick={() =>
-                  openLesson(lessons[i], "mixed", undefined, false, i)
+                  openLesson(intensiveLessons[i], "mixed", undefined, false, i)
                 }
               >
                 <span>ДЕНЬ {String(i + 1).padStart(2, "0")}</span>
                 <h3>{t}</h3>
                 <small>
-                  {i >= lessons.length
+                  {i >= intensiveLessons.length
                     ? "В разработке"
                     : p.intensive.includes(i)
                       ? "Пройдено · можно повторить"
-                      : `${lessons[i].minutes}–15 минут`}
+                      : `${intensiveLessons[i].minutes}–15 минут`}
                 </small>
                 {p.intensive.includes(i) ? (
                   <Check size={18} />
-                ) : i >= lessons.length ? (
+                ) : i >= intensiveLessons.length ? (
                   <LockKeyhole size={15} />
                 ) : (
                   <ArrowUpRight size={17} />
@@ -850,8 +854,7 @@ export default function AcademyPages(props: PageProps) {
               основные тренажёры и интервальное повторение.
             </p>
             <p>
-              A2–C1, расширенный технический курс, сюжетные диалоги и дни 17–30
-              — в разработке. Академия не выдаёт сертификаты CEFR.
+              Добавлены алфавит, фонетика, лаборатории аудирования, речи и грамматики, 400 диалогов (включая контролируемые варианты) и 16 отдельных уроков A2–C1. Полная программа старших уровней, расширение профессионального словаря и дни 17–30 ещё требуют разработки. Академия не выдаёт сертификаты CEFR.
             </p>
             <p className="muted">
               Фотографии: Wikimedia Commons и Unsplash, с указанием лицензий.
@@ -863,74 +866,5 @@ export default function AcademyPages(props: PageProps) {
         </div>
       )}
     </motion.div>
-  );
-}
-function VoiceRecorder({ notify }: { notify: (s: string) => void }) {
-  const [recording, setRecording] = useState(false);
-  const [url, setUrl] = useState("");
-  const recorder = useRef<MediaRecorder | null>(null);
-  const stream = useRef<MediaStream | null>(null);
-  const chunks = useRef<Blob[]>([]);
-  const audioURL = useRef("");
-  useEffect(
-    () => () => {
-      if (recorder.current) {
-        recorder.current.onstop = null;
-        if (recorder.current.state === "recording") recorder.current.stop();
-      }
-      stream.current?.getTracks().forEach((t) => t.stop());
-      if (audioURL.current) URL.revokeObjectURL(audioURL.current);
-    },
-    [],
-  );
-  async function start() {
-    if (!navigator.mediaDevices?.getUserMedia || !window.MediaRecorder) {
-      notify("Запись голоса не поддерживается этим браузером.");
-      return;
-    }
-    try {
-      stream.current = await navigator.mediaDevices.getUserMedia({
-        audio: true,
-      });
-      chunks.current = [];
-      recorder.current = new MediaRecorder(stream.current);
-      recorder.current.ondataavailable = (e) => {
-        if (e.data.size) chunks.current.push(e.data);
-      };
-      recorder.current.onstop = () => {
-        if (audioURL.current) URL.revokeObjectURL(audioURL.current);
-        audioURL.current = URL.createObjectURL(
-          new Blob(chunks.current, {
-            type: recorder.current?.mimeType || "audio/webm",
-          }),
-        );
-        setUrl(audioURL.current);
-        setRecording(false);
-        stream.current?.getTracks().forEach((t) => t.stop());
-      };
-      recorder.current.start();
-      setRecording(true);
-    } catch {
-      notify("Нет доступа к микрофону. Разрешите его в настройках браузера.");
-    }
-  }
-  return (
-    <section className="panel recorder">
-      <Mic size={26} />
-      <div>
-        <h3>Послушайте себя</h3>
-        <p>
-          Запишите фразу и сравните с румынской озвучкой. Запись остаётся на
-          устройстве до закрытия раздела.
-        </p>
-      </div>
-      <button
-        className={recording ? "secondary recording" : "secondary"}
-        onClick={() => (recording ? recorder.current?.stop() : start())}
-      >
-        {recording ? "Остановить запись" : "Записать голос"}
-      </button>
-      {url && <audio src={url} controls />}
-    </section>
   );
 }

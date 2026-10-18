@@ -1,6 +1,7 @@
 import type { Word, Lesson } from "../data/course";
 import { shuffle, type Exercise } from "./exercises";
 export type CardMode =
+  | "photo-choice"
   | "photo"
   | "audio"
   | "ro-ru"
@@ -9,6 +10,7 @@ export type CardMode =
   | "memory"
   | "example";
 export const cardModes: { id: CardMode; title: string }[] = [
+  { id: "photo-choice", title: "Румынское слово → фотография" },
   { id: "photo", title: "Фотография → румынское слово" },
   { id: "audio", title: "Аудио → слово" },
   { id: "ro-ru", title: "RO → RU" },
@@ -22,11 +24,11 @@ export function vocabularyExercises(
   mode: CardMode,
   limit = 10,
 ): Exercise[] {
-  const pool = words.filter((w) => (mode !== "photo" || w.image)&&(mode!=="example"||w.examples.length>0));
+  const pool = words.filter((w) => (!["photo","photo-choice"].includes(mode) || w.image)&&(mode!=="example"||w.examples.length>0));
   return shuffle(pool)
     .slice(0, limit)
     .map((w) => {
-      const choice = ["photo", "audio", "ro-ru", "ru-ro","example"].includes(mode);
+      const choice = ["photo-choice", "photo", "audio", "ro-ru", "ru-ro","example"].includes(mode);
       const example=mode==="example"?shuffle(w.examples)[0]:undefined;
       const answer = example?example.ru:mode === "ro-ru" ? w.ru : w.ro;
       const alternatives = shuffle([
@@ -42,8 +44,9 @@ export function vocabularyExercises(
         id: `vocab:${mode}:${w.id}${example?":"+w.examples.indexOf(example):""}`,
         wordId: w.id,
         kind: choice ? "choice" : mode === "spelling" ? "build" : "input",
+        optionPhotos:mode==='photo-choice'?[w,...pool.filter(other=>alternatives.includes(other.ro))].map(other=>({value:other.ro,image:other.image!,alt:other.ru,source:other.imageSource})):undefined,
         prompt:
-          mode==="example"?`Выберите перевод предложения: ${example!.ro}`:mode === "photo"
+          mode==="photo-choice"?`Выберите фотографию: ${w.ro}`:mode==="example"?`Выберите перевод предложения: ${example!.ro}`:mode === "photo"
             ? "Как называется предмет на фотографии?"
             : mode === "audio"
               ? "Послушайте и выберите румынское слово"
@@ -86,7 +89,7 @@ export function refreshVocabularyMistakes(exercises:Exercise[],words:Word[]):Exe
   const mode=old.id.split(':')[1] as CardMode;
   if(!old.id.startsWith('vocab:')||!old.wordId||!cardModes.some(m=>m.id===mode))return old;
   const word=byId.get(old.wordId);if(!word)return old;
-  const others=shuffle(words.filter(w=>w.id!==word.id&&(mode!=='photo'||w.image)&&(mode!=='example'||w.examples.length))).slice(0,3);
+  const others=shuffle(words.filter(w=>w.id!==word.id&&(!['photo','photo-choice'].includes(mode)||w.image)&&(mode!=='example'||w.examples.length))).slice(0,3);
   const updated=vocabularyExercises([word,...others],mode,4).find(e=>e.wordId===word.id);
   return updated?{...updated,id:old.id}:old;
  });

@@ -1,0 +1,22 @@
+{
+  "origin": "http://localhost:4173",
+  "indexRevision": "fd8b84ca1620",
+  "lookupParts": 256,
+  "photoVariants": 1012,
+  "playbackCaseMP3": 106,
+  "requested": 1374,
+  "passed": 1374,
+  "errors": [],
+  "mainEntry": "/assets/index-BSKo1UE-.js",
+  "mainEntryBytes": 478685,
+  "mainEntrySHA256": "7aea52440026dda946689654410b5529aa65dbed43fa5b52123f0a8d9e911ada",
+  "initialBundleUniqueMP3Pointers": 83,
+  "fullIndexNotInInitialBundle": true,
+  "persistentPlayerInBundle": true,
+  "lookupCacheInServiceWorker": true,
+  "lookupPartsNotPrecached": true,
+  "responsivePhotosNotPrecached": true,
+  "browserPlaybackVerified": false,
+  "physicalListeningVerified": false,
+  "scope": "HTTP MIME and bytes compared against local assets; no browser click, currentTime or audible output was observed."
+}

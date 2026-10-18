@@ -1,0 +1,8 @@
+{
+  "Q": {
+    "phonemes": ["k", "ˈ", "y"],
+    "ipa": "/ky/",
+    "source": "https://doom.lingv.ro/studiu_introductiv/semne_grafice",
+    "reason": "DOOM³ names Q as kü. The default Romanian eSpeak phonemizer emits /kju/ for the symbol Q. Explicit phonemes affect this new academy clip only; no existing published audio is replaced."
+  }
+}

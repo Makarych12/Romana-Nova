@@ -125,6 +125,8 @@ export function validateProgress(v: unknown): Progress {
       (e.wordId !== undefined && typeof e.wordId !== "string") ||
       (e.image !== undefined && typeof e.image !== "string") ||
       (e.imageSource!==undefined&&(!e.imageSource||typeof e.imageSource.url!=="string"||typeof e.imageSource.attribution!=="string"||typeof e.imageSource.licenseUrl!=="string"||typeof e.imageSource.license!=="string")) ||
+      (e.optionPhotos!==undefined&&(!Array.isArray(e.optionPhotos)||!e.optionPhotos.every(p=>p&&typeof p.value==='string'&&typeof p.image==='string'&&typeof p.alt==='string'))) ||
+      (e.buildUnits!==undefined&&(!array(e.buildUnits)||e.buildUnits.join(" ")!==e.answer)) ||
       (e.characterBuild !== undefined && typeof e.characterBuild !== "boolean")
     )
       throw Error("Неверные данные упражнений.");

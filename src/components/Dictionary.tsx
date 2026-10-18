@@ -1,3 +1,4 @@
+import VerifiedStress from "./VerifiedStress";
 import { useState, useEffect, useMemo, useDeferredValue } from "react";
 import {
   Search,
@@ -315,7 +316,7 @@ export default function Dictionary({
                   {word.levelEstimated ? "*" : ""}
                 </span>
                 <strong lang="ro">{word.ro}</strong>
-                <p>{word.pos}</p>
+                <VerifiedStress word={word.ro}/><p>{word.pos}</p>
                 <small>Нажмите, чтобы увидеть перевод</small>
               </div>
               <div className="flashcard-face back">
@@ -423,7 +424,7 @@ export default function Dictionary({
                         <Volume2 size={20} />
                       </button>
                     </div>
-                    <strong>{w.ru}</strong>
+                    <VerifiedStress word={w.ro}/><strong>{w.ru}</strong>
                     <small className="word-forms">
                       {w.pos} · {w.forms || "Формы ещё не проверены"}
                     </small>

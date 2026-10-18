@@ -146,7 +146,7 @@ def main():
    if match:licenseurl='https:'+match.group(0) if match.group(0).startswith('//') else match.group(0)
   if not licenseurl and ('Public domain' in license or license.startswith('PD')):licenseurl='https://creativecommons.org/publicdomain/mark/1.0/'
   if not licenseurl:return {'pending':{'id':w['id'],'ro':w['ro'],'file':title,'reason':'missing individual license URL'}}
-  if not re.match(r'^(CC BY(?:-SA)? [1-4]\.0|CC0|Public domain|PDM|PD)',license,re.I) or not artist or not z.get('thumburl') or z.get('mime')!='image/jpeg':return {'pending':{'id':w['id'],'ro':w['ro'],'file':title,'reason':'license, attribution or JPEG metadata not accepted','license':license}}
+  if not re.match(r'^(CC BY(?:-SA)? [1-4]\.[05]|CC0|Public domain|PDM|PD)',license,re.I) or not artist or not z.get('thumburl') or z.get('mime')!='image/jpeg':return {'pending':{'id':w['id'],'ro':w['ro'],'file':title,'reason':'license, attribution or JPEG metadata not accepted','license':license}}
   if re.search(r'\b(illustration|drawing|engraving|painting|woodcut|diagram|computer.generated|3d.render|dessin|gravure|dessiné)\b',desc,re.I):return {'pending':{'id':w['id'],'ro':w['ro'],'file':title,'reason':'metadata suggests illustration'}}
   if z.get('width',0)<400 or z.get('height',0)<300:return {'pending':{'id':w['id'],'ro':w['ro'],'file':title,'reason':'insufficient source size'}}
   dest=ROOT/'public/photos/expanded'/(w['id']+'.webp')

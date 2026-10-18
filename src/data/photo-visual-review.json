@@ -2680,8 +2680,8 @@
   "open-e9968407663c810c": {
     "status": "accepted",
     "method": "contact-sheet-visual-review",
-    "reviewedAt": "2026-10-17",
-    "reason": "Фотография соответствует значению; просмотрен batch-2."
+    "reviewedAt": "2026-10-18",
+    "reason": "Проверено изображение: почтовая марка, раскатанный марципан, белуха или железнодорожная кувалда соответственно."
   },
   "open-535ee5819e7ea604": {
     "status": "rejected",
@@ -2998,8 +2998,8 @@
   "open-d6a07f27460d719e": {
     "status": "accepted",
     "method": "contact-sheet-visual-review",
-    "reviewedAt": "2026-10-17",
-    "reason": "Фотография соответствует значению; просмотрен batch-2."
+    "reviewedAt": "2026-10-18",
+    "reason": "Проверено изображение: почтовая марка, раскатанный марципан, белуха или железнодорожная кувалда соответственно."
   },
   "open-8720cea6f92cd157": {
     "status": "rejected",
@@ -3176,10 +3176,10 @@
     "notes": "Фотография просмотрена агентом; видимый предмет или действие соответствует карточке. Независимой проверки человеком нет."
   },
   "open-db4b593cedf2b826": {
-    "status": "accepted",
-    "method": "contact-sheet-visual-review",
-    "reviewedAt": "2026-10-17",
-    "reason": "Фотография соответствует значению; просмотрен batch-2."
+    "status": "rejected",
+    "method": "lexical-cross-check-after-visual-review",
+    "reviewedAt": "2026-10-18",
+    "reason": "Фото белухи распознано, но написание beluga и словарное значение требуют отдельной редакторской проверки; не подключать автоматически."
   },
   "open-0b350e8823dda59a": {
     "status": "accepted",
@@ -3942,5 +3942,47 @@
     "method": "agent-contact-sheet-visual-review",
     "date": "2026-10-18",
     "notes": "Фотография просмотрена агентом; видимый предмет или действие соответствует карточке. Независимой проверки человеком нет."
+  },
+  "open-ce04b15274ffd154": {
+    "status": "accepted",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-18",
+    "reason": "Проверено изображение: почтовая марка, раскатанный марципан, белуха или железнодорожная кувалда соответственно."
+  },
+  "curated-dulap": {
+    "status": "accepted",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-18",
+    "reason": "Фотография соответствует слову: шкаф, дерево, поезд, чай, Солнце или дождь; индивидуальная лицензия и автор проверены через Commons API."
+  },
+  "curated-copac": {
+    "status": "accepted",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-18",
+    "reason": "Фотография соответствует слову: шкаф, дерево, поезд, чай, Солнце или дождь; индивидуальная лицензия и автор проверены через Commons API."
+  },
+  "w6": {
+    "status": "accepted",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-18",
+    "reason": "Фотография соответствует слову: шкаф, дерево, поезд, чай, Солнце или дождь; индивидуальная лицензия и автор проверены через Commons API."
+  },
+  "w14": {
+    "status": "accepted",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-18",
+    "reason": "Фотография соответствует слову: шкаф, дерево, поезд, чай, Солнце или дождь; индивидуальная лицензия и автор проверены через Commons API."
+  },
+  "curated-soare": {
+    "status": "accepted",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-18",
+    "reason": "Фотография соответствует слову: шкаф, дерево, поезд, чай, Солнце или дождь; индивидуальная лицензия и автор проверены через Commons API."
+  },
+  "curated-ploaie": {
+    "status": "accepted",
+    "method": "contact-sheet-visual-review",
+    "reviewedAt": "2026-10-18",
+    "reason": "Фотография соответствует слову: шкаф, дерево, поезд, чай, Солнце или дождь; индивидуальная лицензия и автор проверены через Commons API."
   }
 }

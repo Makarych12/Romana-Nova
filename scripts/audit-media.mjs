@@ -58,7 +58,7 @@ for (const l of [...lessons, railLesson, ...dialogues]) {
   if (l.form && missing(l.form.answer)) errors.push({ lesson: l.id, text: l.form.answer });
 }
 for (const d of dialogues) {
-  const texts = [dialogueAudio(d), ...(d.turns || []).flatMap(t => [t.promptRo, ...t.options.flatMap(o => [o.ro, ...o.continuation.map(c => c.ro)])])];
+  const texts = [...(d.audioMode === "sequence" ? d.pairs.map(p=>p.ro) : [dialogueAudio(d)]), ...(d.turns || []).flatMap(t => [t.promptRo, ...t.options.flatMap(o => [o.ro, ...o.continuation.map(c => c.ro)])])];
   for (const text of texts) if (missing(text)) errors.push({ dialogue: d.id, text });
 }
 const baseline = read('quality/baseline-1.1.0/integrity.json');

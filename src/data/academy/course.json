@@ -1,0 +1,578 @@
+[
+  {
+    "id": "a2-past",
+    "level": "A2",
+    "title": "Завершённые события",
+    "subtitle": "Perfect compus",
+    "rule": "Прошедшее завершённое действие передаётся вспомогательными am, ai, a, am, ați, au и причастием: am citit. Причастие в этой конструкции не согласуется с подлежащим. Отрицание стоит перед вспомогательным: nu am citit.",
+    "tip": "Не ставьте a перед причастием: am citit, а не am a citit.",
+    "minutes": 14,
+    "pairs": [
+      {
+        "ro": "Ieri am lucrat acasă.",
+        "ru": "Вчера я работал дома."
+      },
+      {
+        "ro": "Ai citit mesajul?",
+        "ru": "Ты прочитал сообщение?"
+      },
+      {
+        "ro": "Ea a venit dimineață.",
+        "ru": "Она пришла утром."
+      },
+      {
+        "ro": "Nu am înțeles întrebarea.",
+        "ru": "Я не понял вопрос."
+      },
+      {
+        "ro": "Am cumpărat două bilete.",
+        "ru": "Мы купили два билета."
+      }
+    ],
+    "form": {
+      "prompt": "Он пришёл: El ___ venit.",
+      "answer": "a",
+      "why": "Для третьего лица единственного числа используется a."
+    }
+  },
+  {
+    "id": "a2-future",
+    "level": "A2",
+    "title": "Планы и обещания",
+    "subtitle": "Viitor",
+    "rule": "Для литературного будущего используйте voi, vei, va, vom, veți, vor и инфинитив без a: voi merge. В разговоре часто используется o să + conjunctiv: o să merg. Обе конструкции обозначают будущее; не смешивайте части двух моделей.",
+    "tip": "В данном уроке тренируем voi + инфинитив. Местоимение можно опустить, но форма вспомогательного остаётся.",
+    "minutes": 14,
+    "pairs": [
+      {
+        "ro": "Mâine voi merge la medic.",
+        "ru": "Завтра я пойду к врачу."
+      },
+      {
+        "ro": "Vei primi un mesaj.",
+        "ru": "Ты получишь сообщение."
+      },
+      {
+        "ro": "Trenul va pleca la timp.",
+        "ru": "Поезд отправится вовремя."
+      },
+      {
+        "ro": "Vom discuta după ședință.",
+        "ru": "Мы поговорим после совещания."
+      },
+      {
+        "ro": "Vă voi suna mâine.",
+        "ru": "Я позвоню вам завтра."
+      }
+    ],
+    "form": {
+      "prompt": "Мы придём: Noi ___ veni.",
+      "answer": "vom",
+      "why": "Будущее для noi: vom + veni."
+    }
+  },
+  {
+    "id": "a2-cases",
+    "level": "A2",
+    "title": "Чей предмет и кому?",
+    "subtitle": "Genitiv și dativ",
+    "rule": "Родительный отвечает на вопрос принадлежности, дательный — кому. В определённых формах часто совпадают: cartea fetei — книга девочки, îi dau fetei o carte — даю девочке книгу. Мужская форма: copilului; множественное число: copiilor.",
+    "tip": "Не заменяйте все падежные конструкции предлогом de: важно различать конкретного владельца и общий признак.",
+    "minutes": 14,
+    "pairs": [
+      {
+        "ro": "Aceasta este cartea fetei.",
+        "ru": "Это книга девочки."
+      },
+      {
+        "ro": "Îi dau copilului o carte.",
+        "ru": "Я даю ребёнку книгу."
+      },
+      {
+        "ro": "Ușa camerei este deschisă.",
+        "ru": "Дверь комнаты открыта."
+      },
+      {
+        "ro": "Numele profesorului este Ionescu.",
+        "ru": "Фамилия преподавателя — Ионеску."
+      },
+      {
+        "ro": "Le explic elevilor regula.",
+        "ru": "Я объясняю ученикам правило."
+      }
+    ],
+    "form": {
+      "prompt": "Книга ребёнка: cartea ___ (copilul)",
+      "answer": "copilului",
+      "why": "Определённая форма родительного: copilului."
+    }
+  },
+  {
+    "id": "a2-pronouns",
+    "level": "A2",
+    "title": "Короткие местоимения",
+    "subtitle": "Îl, o, îi",
+    "rule": "Безударные местоимения занимают позицию около глагола: îl văd — вижу его, o văd — вижу её. Для косвенного дополнения единственного числа используется îi. В сложном прошедшем женское o обычно идёт после причастия: am văzut-o.",
+    "tip": "Следите за прямым и косвенным дополнением: вижу кого, даю кому. Они требуют разных местоимений.",
+    "minutes": 14,
+    "pairs": [
+      {
+        "ro": "Îl văd pe Andrei.",
+        "ru": "Я вижу Андрея."
+      },
+      {
+        "ro": "O cunosc pe Ana.",
+        "ru": "Я знаю Ану."
+      },
+      {
+        "ro": "Îi trimit un mesaj.",
+        "ru": "Я отправляю ему или ей сообщение."
+      },
+      {
+        "ro": "Am văzut-o ieri.",
+        "ru": "Я видел её вчера."
+      },
+      {
+        "ro": "Nu îl înțeleg.",
+        "ru": "Я его не понимаю."
+      }
+    ],
+    "form": {
+      "prompt": "Я вижу её: ___ văd.",
+      "answer": "O",
+      "why": "Безударное прямое дополнение женского рода: o."
+    }
+  },
+  {
+    "id": "b1-imperfect",
+    "level": "B1",
+    "title": "Фон и привычка в прошлом",
+    "subtitle": "Imperfect și perfect compus",
+    "rule": "Imperfect описывает длительный фон, состояние или повторение в прошлом: citeam. Perfect compus выделяет событие: a sunat. В рассказе эти времена дополняют друг друга. Выбор определяется ролью действия в контексте, а не только длительностью в минутах.",
+    "tip": "Слова mereu и în fiecare zi часто сопровождают привычку, но механическое правило по одному наречию ненадёжно.",
+    "minutes": 14,
+    "pairs": [
+      {
+        "ro": "Când eram copil, locuiam la Brașov.",
+        "ru": "Когда я был ребёнком, я жил в Брашове."
+      },
+      {
+        "ro": "Citeam când a sunat telefonul.",
+        "ru": "Я читал, когда зазвонил телефон."
+      },
+      {
+        "ro": "În fiecare vară mergeam la bunici.",
+        "ru": "Каждое лето мы ездили к бабушке и дедушке."
+      },
+      {
+        "ro": "Ieri am terminat raportul.",
+        "ru": "Вчера я закончил отчёт."
+      },
+      {
+        "ro": "Afară ploua, iar noi așteptam trenul.",
+        "ru": "На улице шёл дождь, а мы ждали поезд."
+      }
+    ],
+    "form": {
+      "prompt": "Фоновое чтение: Eu ___ când ai venit. (a citi)",
+      "answer": "citeam",
+      "why": "Imperfect: citeam — действие происходило в момент прихода."
+    }
+  },
+  {
+    "id": "b1-subjunctive",
+    "level": "B1",
+    "title": "Желания и необходимость",
+    "subtitle": "Conjunctiv",
+    "rule": "Conjunctiv образуется с să и личной формой. Он часто следует после vreau, doresc, trebuie. Первое и второе лицо часто совпадают с настоящим временем, третье может отличаться: merge → să meargă. Глагол a fi имеет формы să fiu, să fii, să fie, să fim, să fiți, să fie.",
+    "tip": "Să — часть конструкции. После vreau не подставляйте английскую модель с голым инфинитивом.",
+    "minutes": 14,
+    "pairs": [
+      {
+        "ro": "Vreau să învăț limba română.",
+        "ru": "Я хочу выучить румынский язык."
+      },
+      {
+        "ro": "Trebuie să plecăm acum.",
+        "ru": "Нам нужно уходить сейчас."
+      },
+      {
+        "ro": "Doresc să vorbesc cu directorul.",
+        "ru": "Я желаю поговорить с директором."
+      },
+      {
+        "ro": "Este important să fii atent.",
+        "ru": "Важно быть внимательным."
+      },
+      {
+        "ro": "Vreau ca el să vină mâine.",
+        "ru": "Я хочу, чтобы он пришёл завтра."
+      }
+    ],
+    "form": {
+      "prompt": "Пусть он идёт: să ___ (a merge)",
+      "answer": "meargă",
+      "why": "Третье лицо conjunctiv: să meargă."
+    }
+  },
+  {
+    "id": "b1-conditional",
+    "level": "B1",
+    "title": "Если бы у меня было время",
+    "subtitle": "Condițional prezent",
+    "rule": "Гипотетическое действие: aș, ai, ar, am, ați, ar + инфинитив без a. Конструкция используется в желаниях, советах и вежливых просьбах. В нереальном условии о настоящем condițional может быть в обеих частях: dacă aș avea timp, aș citi.",
+    "tip": "Не смешивайте будущее va с условным ar. Реальное условие и гипотеза передают разный смысл.",
+    "minutes": 14,
+    "pairs": [
+      {
+        "ro": "Aș dori o cafea, vă rog.",
+        "ru": "Я хотел бы кофе, пожалуйста."
+      },
+      {
+        "ro": "Dacă aș avea timp, aș călători mai mult.",
+        "ru": "Если бы у меня было время, я бы больше путешествовал."
+      },
+      {
+        "ro": "Ai putea să repeți?",
+        "ru": "Ты мог бы повторить?"
+      },
+      {
+        "ro": "Noi am prefera altă soluție.",
+        "ru": "Мы предпочли бы другое решение."
+      },
+      {
+        "ro": "Ar fi bine să verificăm datele.",
+        "ru": "Было бы хорошо проверить данные."
+      }
+    ],
+    "form": {
+      "prompt": "Я бы прочёл: Eu ___ citi.",
+      "answer": "aș",
+      "why": "Первое лицо условного: aș citi."
+    }
+  },
+  {
+    "id": "b1-relative",
+    "level": "B1",
+    "title": "Уточнить, о ком речь",
+    "subtitle": "Propoziții relative",
+    "rule": "Относительные предложения уточняют существительное. Для подлежащего используется care: omul care vine. Прямое дополнение обычно имеет pe care и дублирующее местоимение: cartea pe care am citit-o. Дательный требует căruia, căreia или cărora по числу и роду.",
+    "tip": "В выражении cartea pe care am citit-o нужны и pe, и местоимение o после причастия.",
+    "minutes": 14,
+    "pairs": [
+      {
+        "ro": "Omul care vorbește este profesorul meu.",
+        "ru": "Человек, который говорит, — мой преподаватель."
+      },
+      {
+        "ro": "Cartea pe care am citit-o este interesantă.",
+        "ru": "Книга, которую я прочёл, интересная."
+      },
+      {
+        "ro": "Acesta este colegul căruia i-am scris.",
+        "ru": "Это коллега, которому я написал."
+      },
+      {
+        "ro": "Orașul în care locuiesc este liniștit.",
+        "ru": "Город, в котором я живу, спокойный."
+      },
+      {
+        "ro": "Caut persoana care a trimis mesajul.",
+        "ru": "Я ищу человека, который отправил сообщение."
+      }
+    ],
+    "form": {
+      "prompt": "Книга, которую я прочёл: cartea ___ am citit-o",
+      "answer": "pe care",
+      "why": "Прямое относительное дополнение: pe care."
+    }
+  },
+  {
+    "id": "b2-past-condition",
+    "level": "B2",
+    "title": "Несбывшееся прошлое",
+    "subtitle": "Condițional perfect",
+    "rule": "Нереальная ситуация в прошлом передаётся aș fi + причастие: aș fi venit. В условном придаточном возможна та же конструкция: Dacă aș fi știut, aș fi venit. Частица fi и причастие не меняются, меняется вспомогательная форма: ai fi, ar fi, am fi, ați fi.",
+    "tip": "Различайте aș veni — пришёл бы сейчас или потом, и aș fi venit — пришёл бы тогда, но этого не произошло.",
+    "minutes": 14,
+    "pairs": [
+      {
+        "ro": "Dacă aș fi știut, aș fi venit.",
+        "ru": "Если бы я знал, я бы пришёл."
+      },
+      {
+        "ro": "Ai fi putut să mă anunți.",
+        "ru": "Ты мог бы меня предупредить."
+      },
+      {
+        "ro": "Am fi plecat mai devreme.",
+        "ru": "Мы бы уехали раньше."
+      },
+      {
+        "ro": "Ea ar fi acceptat oferta.",
+        "ru": "Она бы приняла предложение."
+      },
+      {
+        "ro": "Nu aș fi spus asta.",
+        "ru": "Я бы этого не сказал."
+      }
+    ],
+    "form": {
+      "prompt": "Он бы пришёл тогда: El ___ fi venit.",
+      "answer": "ar",
+      "why": "Третье лицо condițional perfect: ar fi venit."
+    }
+  },
+  {
+    "id": "b2-passive",
+    "level": "B2",
+    "title": "Процесс и исполнитель",
+    "subtitle": "Diateza pasivă",
+    "rule": "Пассив часто образуется a fi + причастие. В отличие от perfect compus, причастие согласуется с подлежащим: raportul este verificat, documentele sunt verificate. Исполнитель вводится de или de către. Выбирайте пассив, когда в центре внимания действие или его объект.",
+    "tip": "Am verificat — активное прошедшее; este verificat — пассив. Здесь причастие согласуется в роде и числе.",
+    "minutes": 14,
+    "pairs": [
+      {
+        "ro": "Raportul este verificat de colegul meu.",
+        "ru": "Отчёт проверяется моим коллегой."
+      },
+      {
+        "ro": "Documentele sunt verificate înainte de trimitere.",
+        "ru": "Документы проверяются перед отправкой."
+      },
+      {
+        "ro": "Cererea a fost aprobată ieri.",
+        "ru": "Заявление было одобрено вчера."
+      },
+      {
+        "ro": "Lucrările vor fi terminate vineri.",
+        "ru": "Работы будут закончены в пятницу."
+      },
+      {
+        "ro": "Datele au fost corectate.",
+        "ru": "Данные были исправлены."
+      }
+    ],
+    "form": {
+      "prompt": "Документы проверены: Documentele sunt ___. (verificat)",
+      "answer": "verificate",
+      "why": "Подлежащее documentele — мн. число; причастие verificate."
+    }
+  },
+  {
+    "id": "b2-concession",
+    "level": "B2",
+    "title": "Уступка и противопоставление",
+    "subtitle": "Deși, chiar dacă, cu toate că",
+    "rule": "Уступка связывает ожидаемую причину и неожиданный результат: deși plouă, ieșim. Союзы deși и cu toate că вводят фактическую уступку. Chiar dacă может вводить допущение: даже если. Различайте факт и гипотезу, а не переводите все союзы одним шаблоном.",
+    "tip": "Deși обычно сочетается с изъявительным. Для гипотетических сравнений ca și cum нужна отдельная модель.",
+    "minutes": 14,
+    "pairs": [
+      {
+        "ro": "Deși plouă, vom pleca.",
+        "ru": "Хотя идёт дождь, мы уедем."
+      },
+      {
+        "ro": "Cu toate că era obosit, a continuat să lucreze.",
+        "ru": "Несмотря на усталость, он продолжил работать."
+      },
+      {
+        "ro": "Chiar dacă nu ești de acord, te ascult.",
+        "ru": "Даже если ты не согласен, я тебя выслушаю."
+      },
+      {
+        "ro": "Oferta este bună, însă are câteva limite.",
+        "ru": "Предложение хорошее, однако у него есть несколько ограничений."
+      },
+      {
+        "ro": "Nu contest ideea, ci modul de aplicare.",
+        "ru": "Я оспариваю не идею, а способ её применения."
+      }
+    ],
+    "form": {
+      "prompt": "Хотя идёт дождь: ___ plouă, ieșim.",
+      "answer": "Deși",
+      "why": "Deși вводит фактическую уступку."
+    }
+  },
+  {
+    "id": "b2-reported",
+    "level": "B2",
+    "title": "Передать чужие слова",
+    "subtitle": "Vorbire indirectă",
+    "rule": "Чужое сообщение вводится că, косвенный вопрос — dacă или вопросительным словом. Время выбирается по реальному отношению событий; румынская речь не требует механического английского согласования всех времён. Указатели здесь/завтра и местоимения меняются с точкой зрения говорящего.",
+    "tip": "Dacă может означать «ли» в косвенном вопросе. Это не всегда условие «если».",
+    "minutes": 14,
+    "pairs": [
+      {
+        "ro": "Ana a spus că va veni mâine.",
+        "ru": "Ана сказала, что придёт завтра."
+      },
+      {
+        "ro": "M-a întrebat dacă am timp.",
+        "ru": "Он спросил меня, есть ли у меня время."
+      },
+      {
+        "ro": "Nu știu unde locuiește.",
+        "ru": "Я не знаю, где он живёт."
+      },
+      {
+        "ro": "Profesorul a explicat că regula are excepții.",
+        "ru": "Преподаватель объяснил, что у правила есть исключения."
+      },
+      {
+        "ro": "Mi-a spus să aștept aici.",
+        "ru": "Он сказал мне подождать здесь."
+      }
+    ],
+    "form": {
+      "prompt": "Он спросил, приду ли я: A întrebat ___ voi veni.",
+      "answer": "dacă",
+      "why": "Dacă вводит косвенный общий вопрос."
+    }
+  },
+  {
+    "id": "c1-argument",
+    "level": "C1",
+    "title": "Сформулировать аргумент",
+    "subtitle": "Argumentare și nuanță",
+    "rule": "Стройте аргумент как тезис, основание, ограничение и вывод. Prin urmare указывает на следствие, în schimb — на противопоставление, în măsura în care ограничивает утверждение условием или степенью применимости. Не заменяйте проверку доказательств уверенной интонацией.",
+    "tip": "Уровень C1 требует не редких слов ради сложности, а точных связей между мыслями, уместного регистра и понимания оговорок.",
+    "minutes": 14,
+    "pairs": [
+      {
+        "ro": "Datele sunt incomplete; prin urmare, concluzia rămâne provizorie.",
+        "ru": "Данные неполны; следовательно, вывод остаётся предварительным."
+      },
+      {
+        "ro": "Nu contest utilitatea proiectului, ci prioritățile stabilite.",
+        "ru": "Я оспариваю не полезность проекта, а установленные приоритеты."
+      },
+      {
+        "ro": "În măsura în care datele vor fi confirmate, vom menține concluzia.",
+        "ru": "Если данные будут подтверждены, мы сохраним вывод."
+      },
+      {
+        "ro": "Pe de o parte, costurile scad; pe de altă parte, riscurile cresc.",
+        "ru": "С одной стороны, затраты снижаются; с другой — риски растут."
+      },
+      {
+        "ro": "Această interpretare trebuie privită cu prudență.",
+        "ru": "К этой интерпретации следует относиться с осторожностью."
+      }
+    ],
+    "form": {
+      "prompt": "Следовательно: prin ___",
+      "answer": "urmare",
+      "why": "Prin urmare связывает основание и вывод."
+    }
+  },
+  {
+    "id": "c1-register",
+    "level": "C1",
+    "title": "Деловой и нейтральный регистр",
+    "subtitle": "Registru și politețe",
+    "rule": "Уместность зависит от адресата и цели. Неофициальное Poți să…? может стать Puteți să…? или V-aș ruga să… в обращении к незнакомому человеку. Деловая речь требует точного действия, срока и ответственности, а не только более длинных слов.",
+    "tip": "Не считайте длинную формулу автоматически более вежливой. Ясность просьбы и корректное обращение важнее канцелярского стиля.",
+    "minutes": 14,
+    "pairs": [
+      {
+        "ro": "V-aș ruga să confirmați primirea documentelor.",
+        "ru": "Я попросил бы вас подтвердить получение документов."
+      },
+      {
+        "ro": "Vă transmit, în anexă, raportul solicitat.",
+        "ru": "Направляю вам в приложении запрошенный отчёт."
+      },
+      {
+        "ro": "Aș aprecia dacă ne-ați comunica decizia până vineri.",
+        "ru": "Я был бы признателен, если бы вы сообщили нам решение до пятницы."
+      },
+      {
+        "ro": "În legătură cu solicitarea dumneavoastră, vă informăm că analiza continuă.",
+        "ru": "В связи с вашим запросом сообщаем, что рассмотрение продолжается."
+      },
+      {
+        "ro": "Rămân la dispoziția dumneavoastră pentru clarificări.",
+        "ru": "Остаюсь в вашем распоряжении для уточнений."
+      }
+    ],
+    "form": {
+      "prompt": "Вежливо: V-___ ruga să confirmați.",
+      "answer": "aș",
+      "why": "V-aș ruga — вежливая формула condițional."
+    }
+  },
+  {
+    "id": "c1-relative",
+    "level": "C1",
+    "title": "Точная связь и согласование",
+    "subtitle": "Al cărui, a cărei, ai căror",
+    "rule": "В родительной относительной конструкции две связи согласования. Al/a/ai/ale согласуется с принадлежащим предметом, cărui/cărei/căror — с владельцем. В datele a căror exactitate… a относится к exactitate, а căror — к datele. Разбирайте обе связи отдельно.",
+    "tip": "Не выбирайте a только по ближайшему слову перед конструкцией: сначала определите, какой предмет кому принадлежит.",
+    "minutes": 14,
+    "pairs": [
+      {
+        "ro": "Acesta este autorul a cărui carte am citit-o.",
+        "ru": "Это автор, книгу которого я прочёл."
+      },
+      {
+        "ro": "Am discutat cu cercetătoarea ale cărei articole le cunosc.",
+        "ru": "Я поговорил с исследовательницей, статьи которой мне знакомы."
+      },
+      {
+        "ro": "Datele a căror exactitate a fost verificată sunt publice.",
+        "ru": "Данные, точность которых была проверена, общедоступны."
+      },
+      {
+        "ro": "Proiectul al cărui buget a crescut va fi revizuit.",
+        "ru": "Проект, бюджет которого вырос, будет пересмотрен."
+      },
+      {
+        "ro": "Studenții ai căror profesori au participat au primit informațiile.",
+        "ru": "Студенты, чьи преподаватели участвовали, получили информацию."
+      }
+    ],
+    "form": {
+      "prompt": "Данные, точность которых: datele ___ exactitate a fost verificată",
+      "answer": "a căror",
+      "why": "A согласуется с exactitate, căror — с datele."
+    }
+  },
+  {
+    "id": "c1-inference",
+    "level": "C1",
+    "title": "Сообщить факт или предположение",
+    "subtitle": "Evidență și surse",
+    "rule": "Отделяйте установленное событие от сведений источника и собственной интерпретации. Potrivit raportului указывает на источник, se pare că — на неполную уверенность, nu rezultă că — на отсутствие логического вывода. Эти средства меняют ответственность за высказывание.",
+    "tip": "Уверенная грамматическая форма не доказывает истинность. Уточняйте источник и степень подтверждения, особенно в профессиональной речи.",
+    "minutes": 14,
+    "pairs": [
+      {
+        "ro": "Potrivit raportului, verificarea a fost finalizată.",
+        "ru": "Согласно отчёту, проверка завершена."
+      },
+      {
+        "ro": "Se pare că rezultatele inițiale nu au fost confirmate.",
+        "ru": "По-видимому, первоначальные результаты не подтвердились."
+      },
+      {
+        "ro": "Din aceste date nu rezultă că măsura este eficientă.",
+        "ru": "Из этих данных не следует, что мера эффективна."
+      },
+      {
+        "ro": "Concluzia depinde de validitatea ipotezelor.",
+        "ru": "Вывод зависит от обоснованности гипотез."
+      },
+      {
+        "ro": "Afirmația trebuie susținută prin dovezi verificabile.",
+        "ru": "Утверждение должно быть подкреплено проверяемыми доказательствами."
+      }
+    ],
+    "form": {
+      "prompt": "Согласно отчёту: ___ raportului",
+      "answer": "Potrivit",
+      "why": "Potrivit в значении «согласно» употребляется с дательным."
+    }
+  }
+]

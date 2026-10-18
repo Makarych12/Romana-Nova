@@ -1,8 +1,9 @@
 import type {Lesson,Pair} from "./course";
+import academyDialogues from "./academy/dialogues.ts";
 import expanded from "./expanded-dialogues.json" with {type:"json"};
 export type DialogueOption={ro:string;ru:string;correct:boolean;feedback:string;continuation:Pair[]};
 export type DialogueTurn={speaker:string;promptRo:string;promptRu:string;options:DialogueOption[];answerRo:string;anchorIndex?:number};
-export type Dialogue=Lesson & {turns?:DialogueTurn[]};
+export type Dialogue=Lesson & {turns?:DialogueTurn[];familyId?:string;variant?:number;audioMode?:"sequence";questions?:{prompt:string;answer:string;options:string[];audio:string}[]};
 export const dialogues: Dialogue[] = [
   {
     id: "dialogue-intro",
@@ -169,3 +170,6 @@ dialogues[1].turns=[{speaker:'Посетитель',promptRo:dialogues[1].pairs[
 dialogues[2].turns=[{speaker:'Пассажир',promptRo:dialogues[2].pairs[1].ro,promptRu:dialogues[2].pairs[1].ru,answerRo:dialogues[2].pairs[2].ro,options:[{...dialogues[2].pairs[2],correct:true,feedback:'Вы уточнили направление поездки и класс.',continuation:dialogues[2].pairs.slice(3)},{ro:'Dus-întors, vă rog. Mă întorc duminică.',ru:'Туда и обратно, пожалуйста. Я возвращаюсь в воскресенье.',correct:true,feedback:'Для обратного билета важно назвать день возвращения.',continuation:[{ro:'Doriți aceeași clasă pentru ambele călătorii?',ru:'Вы хотите тот же класс для обеих поездок?',note:'Кассир'},{ro:'Da, clasa a doua pentru ambele.',ru:'Да, второй класс для обеих.',note:'Пассажир'}]}]}];
 dialogues[3].turns=[{speaker:'Руководитель',promptRo:dialogues[3].pairs[2].ro,promptRu:dialogues[3].pairs[2].ru,answerRo:dialogues[3].pairs[3].ro,options:[{...dialogues[3].pairs[3],correct:true,feedback:'Вы назвали точный срок сдачи.',continuation:dialogues[3].pairs.slice(4)},{ro:'Termenul este luni dimineață, dar putem discuta dacă apar dificultăți.',ru:'Срок — утро понедельника, но при трудностях мы можем это обсудить.',correct:true,feedback:'Ответ задаёт срок и оставляет возможность обсудить затруднения.',continuation:[{ro:'Vă mulțumesc. Vă trimit o primă variantă vineri.',ru:'Спасибо. Я отправлю вам первый вариант в пятницу.',note:'Сотрудник'},{ro:'Bine. Voi putea să vă dau câteva observații înainte de termen.',ru:'Хорошо. Я смогу дать вам несколько замечаний до срока сдачи.',note:'Руководитель'}]}]}];
 dialogues.push(...expanded as Dialogue[]);
+
+for(const d of dialogues)if(!d.questions){const line=d.pairs[1];d.questions=[{prompt:'Выберите смысл услышанной реплики собеседника.',answer:line.ru,options:[line.ru,...d.pairs.filter(p=>p.ru!==line.ru).slice(0,3).map(p=>p.ru)],audio:line.ro}];}
+dialogues.push(...academyDialogues as Dialogue[]);

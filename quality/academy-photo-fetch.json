@@ -1,0 +1,20 @@
+{
+  "fetched": 6,
+  "rejected": [
+    {
+      "id": "curated-branza",
+      "reason": "License or attribution not accepted",
+      "license": "GFDL 1.2"
+    },
+    {
+      "id": "curated-nor",
+      "reason": "License or attribution not accepted",
+      "license": "GFDL 1.2"
+    },
+    {
+      "id": "curated-vant",
+      "reason": "License or attribution not accepted",
+      "license": "CC BY-SA 3.0 de"
+    }
+  ]
+}

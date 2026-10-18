@@ -61,7 +61,7 @@ export default function LessonPlayer({
     () =>
       e
         ? shuffle(
-            (e.characterBuild ? Array.from(e.answer) : e.answer.split(" ")).map(
+            (e.buildUnits || (e.characterBuild ? Array.from(e.answer) : e.answer.split(" "))).map(
               (word, id) => ({ word, id }),
             ),
           )
@@ -70,7 +70,13 @@ export default function LessonPlayer({
   );
   const closeRef = useRef<HTMLButtonElement>(null);
   const modalRef = useRef<HTMLDivElement>(null);
-  const recognizeRef = useRef<{ stop: () => void } | null>(null);
+  const recognizeRef = useRef<Recognition | null>(null);
+  const speechOwner = useRef(0);
+  function cancelRecognition(updateState=true){
+    speechOwner.current++;const r=recognizeRef.current;recognizeRef.current=null;
+    if(r){r.onresult=()=>{};r.onerror=()=>{};r.onend=()=>{};try{r.stop();}catch{}}
+    if(updateState)setListening(false);
+  }
   const scorePercent = Math.round((score / exercises.length) * 100);
   useEffect(() => {
     const previous = document.activeElement as HTMLElement;
@@ -80,17 +86,19 @@ export default function LessonPlayer({
     return () => {
       document.body.style.overflow = prev;
       previous?.focus();
-      recognizeRef.current?.stop();
+      cancelRecognition(false);
     };
   }, []);
   function check() {
     if (!value.trim() || checked !== null) return;
+    cancelRecognition();
     const ok = isCorrect(value, e.answer);
     setChecked(ok);
     if (ok) setScore((x) => x + 1);
     onAnswer(e, ok);
   }
   function next() {
+    cancelRecognition();
     stopAudio();
     if (index === exercises.length - 1) {
       onComplete(scorePercent);
@@ -114,22 +122,26 @@ export default function LessonPlayer({
       );
       return;
     }
+    cancelRecognition();
+    const token=++speechOwner.current;
     const recognition = new Ctor();
     recognizeRef.current = recognition;
     recognition.lang = "ro-RO";
     recognition.onresult = (event) => {
+      if(token!==speechOwner.current)return;
       setValue(event.results[0][0].transcript);
       setListening(false);
     };
     recognition.onerror = () => {
+      if(token!==speechOwner.current)return;
       setListening(false);
       notify(
         "Не удалось распознать речь. Проверьте микрофон и подключение к интернету.",
       );
     };
-    recognition.onend = () => setListening(false);
+    recognition.onend = () => {if(token===speechOwner.current){recognizeRef.current=null;setListening(false);}};
     setListening(true);
-    recognition.start();
+    try{recognition.start();}catch{cancelRecognition();notify("Не удалось запустить распознавание. Введите ответ текстом.");}
   }
   return (
     <div
@@ -347,7 +359,7 @@ export default function LessonPlayer({
                     onClick={() => setValue(option)}
                   >
                     <span>{i + 1}</span>
-                    {option}
+                    {e.optionPhotos?.find(p=>p.value===option)?<SafeImage src={e.optionPhotos.find(p=>p.value===option)!.image} alt={e.optionPhotos.find(p=>p.value===option)!.alt} className="answer-photo"/>:option}
                     {value === option && <Check size={19} />}
                   </button>
                 ))}
@@ -403,12 +415,11 @@ export default function LessonPlayer({
                 <input
                   autoComplete="off"
                   spellCheck={false}
-                  readOnly={e.kind === "speech"}
                   aria-label="Ваш ответ"
                   className="answer-input"
                   placeholder={
                     e.kind === "speech"
-                      ? "Распознанная фраза появится здесь"
+                      ? "Введите ответ или используйте микрофон"
                       : "Введите ответ…"
                   }
                   value={value}
@@ -421,7 +432,7 @@ export default function LessonPlayer({
                 <div className="diacritics">
                   {"ăâîșț".split("").map((c) => (
                     <button
-                      disabled={checked !== null || e.kind === "speech"}
+                      disabled={checked !== null}
                       key={c}
                       onClick={() => setValue((v) => v + c)}
                     >
@@ -431,6 +442,7 @@ export default function LessonPlayer({
                 </div>
               </>
             )}
+            {!!e.optionPhotos?.length&&<details className="word-attribution"><summary>Источники фотографий</summary><p><a href="/photos/attribution.json" target="_blank" rel="noreferrer">Атрибуция исходных фотографий проекта</a></p>{e.optionPhotos.filter(p=>p.source).map(p=><p key={p.value}><a href={p.source!.url} target="_blank" rel="noreferrer">{p.source!.attribution}</a> · {p.source!.license}</p>)}</details>}
             {checked !== null && (
               <div
                 className={`feedback ${checked ? "success" : "failure"}`}

@@ -58,6 +58,8 @@ for(const word of vocabulary){
   word.image=photo.image;word.imageSource=photo.imageSource;word.photoReview=photo.photoReview;
  }
 }
+const academyPatches=JSON.parse(fs.readFileSync('src/data/academy/card-enrichment.json','utf8'));
+for(const word of vocabulary){const patch=academyPatches[word.id];if(patch){const previousExamples=word.examples;for(const field of allowedFields)if(field in patch)word[field]=patch[field];word.examples=[...patch.examples,...previousExamples.filter(e=>!patch.examples.some(p=>p.ro===e.ro))];patchedCards++;}}
 const editorialNotesPath='src/data/editorial-review-notes.json';
 const editorialNotes=fs.existsSync(editorialNotesPath)?JSON.parse(fs.readFileSync(editorialNotesPath,'utf8')):{};
 const qualityIssues=auditLexicon(vocabulary);

@@ -7082,14 +7082,15 @@
     "photoReview": {
       "method": "exact-ro-ru-wikidata-labels-p18-commons-license",
       "status": "automated-bilingual-match",
-      "visuallyReviewed": false,
+      "visuallyReviewed": true,
       "entity": "Q37930",
       "commonsFile": "Salvador 1892 Sc74.jpg",
       "roLabel": "timbru",
       "ruLabel": "почтовая марка",
       "sourceWidth": 640,
       "sourceHeight": 769,
-      "verifiedAt": "2026-10-17"
+      "verifiedAt": "2026-10-17",
+      "visualReviewMethod": "agent visual review of contact sheet 2026-10-18"
     }
   },
   "open-535ee5819e7ea604": {
@@ -8352,14 +8353,15 @@
     "photoReview": {
       "method": "exact-ro-ru-wikidata-labels-p18-commons-license",
       "status": "automated-bilingual-match",
-      "visuallyReviewed": false,
+      "visuallyReviewed": true,
       "entity": "Q106252",
       "commonsFile": "Rolling out the marzipan (11029638025).jpg",
       "roLabel": "marțipan",
       "ruLabel": "марципан",
       "sourceWidth": 4608,
       "sourceHeight": 3456,
-      "verifiedAt": "2026-10-17"
+      "verifiedAt": "2026-10-17",
+      "visualReviewMethod": "agent visual review of contact sheet 2026-10-18"
     }
   },
   "open-8720cea6f92cd157": {
@@ -9079,7 +9081,8 @@
       "ruLabel": "белуха",
       "sourceWidth": 3072,
       "sourceHeight": 2304,
-      "verifiedAt": "2026-10-17"
+      "verifiedAt": "2026-10-17",
+      "visualReviewMethod": "agent visual review of contact sheet 2026-10-18"
     }
   },
   "open-0b350e8823dda59a": {
@@ -12394,14 +12397,15 @@
     "photoReview": {
       "method": "exact-ro-ru-wikidata-labels-p18-commons-license",
       "status": "automated-bilingual-match",
-      "visuallyReviewed": false,
+      "visuallyReviewed": true,
       "entity": "Q10981947",
       "commonsFile": "C&O Railway Heritage Center - Sledgehammer.jpg",
       "roLabel": "baros",
       "ruLabel": "кувалда",
       "sourceWidth": 1710,
       "sourceHeight": 3596,
-      "verifiedAt": "2026-10-17"
+      "verifiedAt": "2026-10-17",
+      "visualReviewMethod": "agent visual review of contact sheet 2026-10-18"
     }
   },
   "open-7c18cce240a62e5f": {
@@ -13968,6 +13972,120 @@
       "sourceWidth": 1500,
       "sourceHeight": 2250,
       "verifiedAt": "2026-10-17"
+    }
+  },
+  "curated-dulap": {
+    "image": "/photos/academy/curated-dulap.webp",
+    "imageSource": {
+      "name": "Wall-closet.jpg",
+      "url": "https://commons.wikimedia.org/wiki/File:Wall-closet.jpg",
+      "license": "Public domain",
+      "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "attribution": "Tysto; уменьшено до 800 px, преобразовано в WebP."
+    },
+    "photoReview": {
+      "method": "commons-individual-license-and-agent-visual-review",
+      "status": "accepted",
+      "visuallyReviewed": true,
+      "commonsFile": "Wall-closet.jpg",
+      "verifiedAt": "2026-10-18",
+      "visualReviewMethod": "contact-sheet-visual-review",
+      "roLabel": "dulap"
+    }
+  },
+  "curated-copac": {
+    "image": "/photos/academy/curated-copac.webp",
+    "imageSource": {
+      "name": "Alnus glutinosa 011.jpg",
+      "url": "https://commons.wikimedia.org/wiki/File:Alnus_glutinosa_011.jpg",
+      "license": "CC BY 2.5",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.5",
+      "attribution": "Willow; уменьшено до 800 px, преобразовано в WebP."
+    },
+    "photoReview": {
+      "method": "commons-individual-license-and-agent-visual-review",
+      "status": "accepted",
+      "visuallyReviewed": true,
+      "commonsFile": "Alnus glutinosa 011.jpg",
+      "verifiedAt": "2026-10-18",
+      "visualReviewMethod": "contact-sheet-visual-review",
+      "roLabel": "copac"
+    }
+  },
+  "w6": {
+    "image": "/photos/academy/w6.webp",
+    "imageSource": {
+      "name": "UBTZ 2TE116UM-022 Cagaan Had - Sumangijn Zoo.jpg",
+      "url": "https://commons.wikimedia.org/wiki/File:UBTZ_2TE116UM-022_Cagaan_Had_-_Sumangijn_Zoo.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "attribution": "Kabelleger / David Gubler; уменьшено до 800 px, преобразовано в WebP."
+    },
+    "photoReview": {
+      "method": "commons-individual-license-and-agent-visual-review",
+      "status": "accepted",
+      "visuallyReviewed": true,
+      "commonsFile": "UBTZ 2TE116UM-022 Cagaan Had - Sumangijn Zoo.jpg",
+      "verifiedAt": "2026-10-18",
+      "visualReviewMethod": "contact-sheet-visual-review",
+      "roLabel": "tren"
+    }
+  },
+  "w14": {
+    "image": "/photos/academy/w14.webp",
+    "imageSource": {
+      "name": "Tea in different grade of fermentation.jpg",
+      "url": "https://commons.wikimedia.org/wiki/File:Tea_in_different_grade_of_fermentation.jpg",
+      "license": "Public domain",
+      "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "attribution": "Haneburger; уменьшено до 800 px, преобразовано в WebP."
+    },
+    "photoReview": {
+      "method": "commons-individual-license-and-agent-visual-review",
+      "status": "accepted",
+      "visuallyReviewed": true,
+      "commonsFile": "Tea in different grade of fermentation.jpg",
+      "verifiedAt": "2026-10-18",
+      "visualReviewMethod": "contact-sheet-visual-review",
+      "roLabel": "ceai"
+    }
+  },
+  "curated-soare": {
+    "image": "/photos/academy/curated-soare.webp",
+    "imageSource": {
+      "name": "The Sun in white light.jpg",
+      "url": "https://commons.wikimedia.org/wiki/File:The_Sun_in_white_light.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "attribution": "Matúš Motlo; уменьшено до 800 px, преобразовано в WebP."
+    },
+    "photoReview": {
+      "method": "commons-individual-license-and-agent-visual-review",
+      "status": "accepted",
+      "visuallyReviewed": true,
+      "commonsFile": "The Sun in white light.jpg",
+      "verifiedAt": "2026-10-18",
+      "visualReviewMethod": "contact-sheet-visual-review",
+      "roLabel": "soare"
+    }
+  },
+  "curated-ploaie": {
+    "image": "/photos/academy/curated-ploaie.webp",
+    "imageSource": {
+      "name": "Vihmavarjuga jalakäija Sossi mäel Tallinnas. 2016. aasta aprill..jpg",
+      "url": "https://commons.wikimedia.org/wiki/File:Vihmavarjuga_jalak%C3%A4ija_Sossi_m%C3%A4el_Tallinnas._2016._aasta_aprill..jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "attribution": "Sillerkiil; уменьшено до 800 px, преобразовано в WebP."
+    },
+    "photoReview": {
+      "method": "commons-individual-license-and-agent-visual-review",
+      "status": "accepted",
+      "visuallyReviewed": true,
+      "commonsFile": "Vihmavarjuga jalakäija Sossi mäel Tallinnas. 2016. aasta aprill..jpg",
+      "verifiedAt": "2026-10-18",
+      "visualReviewMethod": "contact-sheet-visual-review",
+      "roLabel": "ploaie"
     }
   }
 }

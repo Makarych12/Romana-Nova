@@ -10,6 +10,7 @@ import onnxruntime as ort
 from piper.voice import PiperVoice,ESPEAK_DATA_DIR
 from piper.config import PiperConfig,SynthesisConfig
 voice=None
+overrides=json.loads(Path("src/data/academy/pronunciation-overrides.json").read_text()) if Path("src/data/academy/pronunciation-overrides.json").exists() else {}
 
 def init(model):
  global voice
@@ -22,7 +23,14 @@ def generate(item):
  if path.exists() and path.stat().st_size>500:return text,str(path),None
  try:
   pcm=io.BytesIO()
-  with wave.open(pcm,'wb') as wav:voice.synthesize_wav(text,wav,syn_config=SynthesisConfig(length_scale=1.05))
+  with wave.open(pcm,'wb') as wav:
+   if text in overrides:
+    phonemes=overrides[text]['phonemes']
+    if any(p not in voice.config.phoneme_id_map for p in phonemes):raise RuntimeError('Unsupported pronunciation override')
+    audio=voice.phoneme_ids_to_audio(voice.phonemes_to_ids(phonemes),SynthesisConfig(length_scale=1.05))
+    peak=np.max(np.abs(audio));audio=audio/peak if peak>1e-8 else audio
+    wav.setnchannels(1);wav.setsampwidth(2);wav.setframerate(voice.config.sample_rate);wav.writeframes((np.clip(audio,-1,1)*32767).astype(np.int16).tobytes())
+   else:voice.synthesize_wav(text,wav,syn_config=SynthesisConfig(length_scale=1.05))
   result=subprocess.run(['ffmpeg','-hide_banner','-loglevel','error','-i','pipe:0','-codec:a','libmp3lame','-b:a','56k','-ar','22050','-ac','1','-y',str(path)],input=pcm.getvalue(),capture_output=True)
   if result.returncode:raise RuntimeError(result.stderr.decode()[:200])
   if path.stat().st_size<=500:raise RuntimeError('empty audio')

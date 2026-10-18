@@ -18,8 +18,10 @@ export type Exercise = {
   audio?: string;
   image?: string;
   imageSource?:Source;
+  optionPhotos?:{value:string;image:string;alt:string;source?:Source}[];
   wordId?: string;
   characterBuild?: boolean;
+  buildUnits?:string[];
   why: string;
   skill: "reading" | "writing" | "listening" | "speaking";
 };

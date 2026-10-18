@@ -1,7 +1,12 @@
 import { lessons, words, railLesson } from "../src/data/course.ts";
 import fs from "node:fs";
 import { dialogues, dialogueAudio } from "../src/data/dialogues.ts";
-const texts = new Set([
+import {listeningAudioTexts} from "../src/data/academy/listening.ts";
+import {workshopAudioTexts} from "../src/data/academy/workshop.ts";
+import {railAudioTexts} from "../src/data/academy/railway.ts";
+import {grammarAudioTexts} from "../src/data/academy/grammar.ts";
+import {phoneticAudioTexts} from "../src/data/academy/phonetics.ts";
+const texts = new Set([...phoneticAudioTexts(),...listeningAudioTexts(),...grammarAudioTexts(),...railAudioTexts(),...workshopAudioTexts(),
   "împreună",
   "Învățăm împreună.",
   "Bună ziua! Învăț limba română.",
@@ -10,7 +15,7 @@ const add = (t) => {
   if (t?.trim()) texts.add(t.normalize("NFC").replace(/\s+/g, " ").trim());
 };
 for (const d of dialogues) {
-  add(dialogueAudio(d));
+  if(d.audioMode!=="sequence")add(dialogueAudio(d));
   d.pairs.forEach((p) => add(p.ro));
   for(const turn of d.turns||[]){add(turn.promptRo);for(const option of turn.options){add(option.ro);for(const line of option.continuation||[])add(line.ro);}}
 
@@ -34,6 +39,7 @@ for (const name of ["imported-vocabulary", "curated-vocabulary"]) {
 }
 const correctionFile='src/data/vocabulary-corrections.json';
 if(fs.existsSync(correctionFile)){for(const patch of Object.values(JSON.parse(fs.readFileSync(correctionFile,'utf8')))){for(const ex of patch.examples||[])add(ex.ro);}}
+for(const patch of Object.values(JSON.parse(fs.readFileSync('src/data/academy/card-enrichment.json','utf8')))){for(const ex of patch.examples||[])add(ex.ro);}
 fs.mkdirSync('/tmp/romana-tts',{recursive:true});
 fs.writeFileSync(
   "/tmp/romana-tts/texts.json",

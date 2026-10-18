@@ -45,8 +45,13 @@ import { AudioBar } from "./components/AudioControls";
 import AppUpdate from "./components/AppUpdate";
 const ConversationPlayer=lazy(()=>import("./components/ConversationPlayer"));
 const LessonPlayer = lazy(() => import("./components/LessonPlayer"));
+const AcademyLabs = lazy(() => import("./pages/AcademyLabs"));
+const PhoneticsAcademy = lazy(() => import("./pages/PhoneticsAcademy"));
 const AcademyPages = lazy(() => import("./pages/AcademyPages"));
 export type Page =
+  | "listening"
+  | "voice"
+  | "phonetics"
   | "home"
   | "course"
   | "practice"
@@ -73,7 +78,10 @@ export type PageProps = {
 const navigation: [Page, string, typeof Map][] = [
   ["home", "Обзор", LayoutDashboard],
   ["course", "Мой путь", Map],
+  ["phonetics", "Алфавит и произношение", Volume2],
   ["practice", "Практика", Layers],
+  ["listening", "Аудирование", Volume2],
+  ["voice", "Разговорная лаборатория", Sparkles],
   ["dictionary", "Словарь", BookOpen],
   ["grammar", "Грамматика", GraduationCap],
   ["rail", "Железная дорога", TrainFront],
@@ -179,13 +187,13 @@ export default function App() {
   };
   const next =
     lessons.find((l) => !progress.completed.includes(l.id)) || lessons[0];
-  const learned = Object.values(progress.reviews).filter(
-    (x) => x.reps >= 3,
+  const learned = Object.entries(progress.reviews).filter(
+    ([id,x]) => !id.startsWith("phon:") && !id.startsWith("academy:") && x.reps >= 3,
   ).length;
   const due = Math.max(
     0,
     catalogMeta.total -
-      Object.values(progress.reviews).filter((r) => r.due > Date.now()).length,
+      Object.entries(progress.reviews).filter(([id,r]) => !id.startsWith("phon:") && !id.startsWith("academy:") && r.due > Date.now()).length,
   );
   const today = progress.activity[dayKey()] || 0;
   const complete = (score: number) => {
@@ -747,14 +755,14 @@ export default function App() {
               <Suspense
                 fallback={<p className="loading-content">Открываем раздел…</p>}
               >
-                <AcademyPages
+                {["listening","voice","grammar"].includes(page) ? <AcademyLabs key={page} page={page} progress={progress} update={update} openLesson={openLesson} openConversation={setConversation} notify={notify}/> : page === "phonetics" ? <PhoneticsAcademy page={page} progress={progress} update={update} openLesson={openLesson} openConversation={setConversation} notify={notify}/> : <AcademyPages
                   page={page}
                   progress={progress}
                   update={update}
                   openLesson={openLesson}
                   notify={notify}
                   openConversation={d=>{stopAudio();setConversation(d)}}
-                />
+                />}
               </Suspense>
             )}
           </main>

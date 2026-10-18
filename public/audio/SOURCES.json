@@ -7,7 +7,7 @@
   "modelRepositoryLicense": "MIT",
   "trainingDatasetLicense": "CC0 (as declared in the voice MODEL_CARD)",
   "important": "Training-data license does not replace source-text licenses. Audio is synthesized, not a recording of a human reader.",
-  "textSources": "/data/vocabulary-1ecf372bf417.json",
+  "textSources": "/data/vocabulary-c095fa9b0096.json",
   "textToFile": "/audio/text-to-file.json",
   "textLicenses": [
     "Original project learning examples",
@@ -16,8 +16,9 @@
   ],
   "attribution": "Individual sentence and dictionary authors, source URLs and license links are retained in the vocabulary catalog, under source / examples[].source. Audio readings of licensed excerpts retain the applicable source-text license and attribution.",
   "generator": "scripts/generate-audio.py",
+  "pronunciationOverrides": "/audio/academy-pronunciation.json",
   "sampleRate": 22050,
   "codec": "MP3",
   "bitRate": 56000,
-  "files": 11455
+  "files": 13740
 }

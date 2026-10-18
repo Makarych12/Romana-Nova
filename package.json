@@ -8,7 +8,7 @@
     "build": "tsc -b && vite build",
     "test": "vitest run",
     "preview": "vite preview --host 0.0.0.0",
-    "prepare:content": "node --experimental-strip-types scripts/prepare-content.mjs && node --experimental-strip-types scripts/write-audio-provenance.mjs && node --experimental-strip-types scripts/build-audio-index.mjs",
+    "prepare:content": "node --experimental-strip-types scripts/prepare-content.mjs && node --experimental-strip-types scripts/write-audio-provenance.mjs && node --experimental-strip-types scripts/build-audio-index.mjs && node --experimental-strip-types scripts/build-academy-checks.mjs",
     "prebuild": "npm run prepare:content",
     "predev": "npm run prepare:content",
     "audit:content": "node --experimental-strip-types scripts/audit-content.mjs",

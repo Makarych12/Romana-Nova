@@ -1,0 +1,178 @@
+{
+  "newFamilies": 34,
+  "variantsPerFamily": 10,
+  "newDialogues": 340,
+  "countsMeaning": "340 fully populated controlled variants across 34 authored situation families; not 340 unrelated scenarios.",
+  "families": [
+    {
+      "id": "cafe",
+      "title": "Заказ напитка",
+      "level": "A1"
+    },
+    {
+      "id": "bakery",
+      "title": "В пекарне",
+      "level": "A1"
+    },
+    {
+      "id": "restaurant",
+      "title": "В ресторане",
+      "level": "A1"
+    },
+    {
+      "id": "grocery",
+      "title": "Покупки продуктов",
+      "level": "A1"
+    },
+    {
+      "id": "clothes",
+      "title": "Выбор одежды",
+      "level": "A1"
+    },
+    {
+      "id": "shoes",
+      "title": "В обувном магазине",
+      "level": "A1"
+    },
+    {
+      "id": "hotel-booking",
+      "title": "Бронирование номера",
+      "level": "A2"
+    },
+    {
+      "id": "hotel-issue",
+      "title": "Проблема в гостинице",
+      "level": "A2"
+    },
+    {
+      "id": "rental",
+      "title": "Условия аренды",
+      "level": "B1"
+    },
+    {
+      "id": "home-repair",
+      "title": "Заявка на ремонт дома",
+      "level": "A2"
+    },
+    {
+      "id": "train-ticket",
+      "title": "Билет на поезд",
+      "level": "A2"
+    },
+    {
+      "id": "bus",
+      "title": "Маршрут городского транспорта",
+      "level": "A1"
+    },
+    {
+      "id": "taxi",
+      "title": "Поездка на такси",
+      "level": "A1"
+    },
+    {
+      "id": "doctor",
+      "title": "Описать жалобу врачу",
+      "level": "A2"
+    },
+    {
+      "id": "pharmacy",
+      "title": "Товары в аптеке",
+      "level": "A2"
+    },
+    {
+      "id": "documents",
+      "title": "Подать документы",
+      "level": "B1"
+    },
+    {
+      "id": "bank",
+      "title": "Уточнить банковскую услугу",
+      "level": "B1"
+    },
+    {
+      "id": "phone",
+      "title": "Телефонное уточнение",
+      "level": "B1"
+    },
+    {
+      "id": "interview",
+      "title": "Опыт на собеседовании",
+      "level": "B1"
+    },
+    {
+      "id": "work-task",
+      "title": "Уточнить рабочую задачу",
+      "level": "B1"
+    },
+    {
+      "id": "meeting",
+      "title": "Согласовать время",
+      "level": "A2"
+    },
+    {
+      "id": "course",
+      "title": "Запись на обучение",
+      "level": "A2"
+    },
+    {
+      "id": "library",
+      "title": "В библиотеке",
+      "level": "A2"
+    },
+    {
+      "id": "tourism",
+      "title": "Туристический маршрут",
+      "level": "A2"
+    },
+    {
+      "id": "delivery",
+      "title": "Уточнить доставку",
+      "level": "A2"
+    },
+    {
+      "id": "return",
+      "title": "Возврат товара",
+      "level": "B1"
+    },
+    {
+      "id": "depot",
+      "title": "Сообщение в депо",
+      "level": "B1"
+    },
+    {
+      "id": "maintenance",
+      "title": "План обслуживания",
+      "level": "B1"
+    },
+    {
+      "id": "rail-documents",
+      "title": "Техническая документация",
+      "level": "B2"
+    },
+    {
+      "id": "electrical",
+      "title": "Уточнение по электрической схеме",
+      "level": "B2"
+    },
+    {
+      "id": "conference",
+      "title": "Научное уточнение",
+      "level": "C1"
+    },
+    {
+      "id": "negotiation",
+      "title": "Обсуждение условий",
+      "level": "B2"
+    },
+    {
+      "id": "evidence",
+      "title": "Оценка доказательств",
+      "level": "C1"
+    },
+    {
+      "id": "complaint",
+      "title": "Деловое обращение",
+      "level": "C1"
+    }
+  ]
+}
