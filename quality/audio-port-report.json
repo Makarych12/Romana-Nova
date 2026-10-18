@@ -33,5 +33,13 @@
   "testFiles": 13,
   "vercelHTTPChecksPassed": 1283,
   "vercelPiperHealthStatus": 404,
-  "vercelPiperEndpointDeployed": false
+  "vercelPiperEndpointDeployed": false,
+  "userConfirmedPlayback": {
+    "date": "2026-10-18",
+    "text": "cafea",
+    "url": "/audio/2b74797589c1dd08c06b07cb.mp3",
+    "audible": true,
+    "reportedBy": "user",
+    "scope": "Only cafea was explicitly confirmed. Other browser cases, currentTime traces and offline mode remain unverified."
+  }
 }
