@@ -28,5 +28,10 @@
     "newPhraseHTTP": 200,
     "newPhraseDecodedWithFFmpeg": true
   },
-  "librariesInstalled": []
+  "librariesInstalled": [],
+  "testsPassed": 95,
+  "testFiles": 13,
+  "vercelHTTPChecksPassed": 1283,
+  "vercelPiperHealthStatus": 404,
+  "vercelPiperEndpointDeployed": false
 }

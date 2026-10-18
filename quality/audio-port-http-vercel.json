@@ -1,0 +1,22 @@
+{
+  "origin": "https://romana-nova.vercel.app",
+  "indexRevision": "5d87089497bb",
+  "lookupParts": 256,
+  "photoVariants": 994,
+  "playbackCaseMP3": 33,
+  "requested": 1283,
+  "passed": 1283,
+  "errors": [],
+  "mainEntry": "/assets/index-BGiGk9km.js",
+  "mainEntryBytes": 453095,
+  "mainEntrySHA256": "8f2024047623a6366f7d98f35066428452c306b9ecf984364cea7416ee97ba03",
+  "initialBundleUniqueMP3Pointers": 83,
+  "fullIndexNotInInitialBundle": true,
+  "persistentPlayerInBundle": true,
+  "lookupCacheInServiceWorker": true,
+  "lookupPartsNotPrecached": true,
+  "responsivePhotosNotPrecached": true,
+  "browserPlaybackVerified": false,
+  "physicalListeningVerified": false,
+  "scope": "HTTP MIME and bytes compared against local assets; no browser click, currentTime or audible output was observed."
+}
