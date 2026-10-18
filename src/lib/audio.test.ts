@@ -23,14 +23,19 @@ class MediaMock {
   onloadedmetadata: (() => void) | null = null;
   onwaiting: (() => void) | null = null;
   constructor() {
-    instances.push(this);
+    const element = document.createElement("audio");
+    Object.defineProperties(element, Object.getOwnPropertyDescriptors(this));
+    instances.push(element as unknown as MediaMock);
+    return element as unknown as MediaMock;
   }
-  play = vi.fn(async () => {
+  play = vi.fn(async function(this: MediaMock) {
+    if (!(this as unknown as HTMLAudioElement).isConnected)
+      throw new DOMException("The play() request was interrupted because the media was removed from the document.", "AbortError");
     if (blocked) throw new DOMException("blocked", "NotAllowedError");
     this.onloadedmetadata?.();
     this.onplaying?.();
   });
-  pause = vi.fn(() => this.onpause?.());
+  pause = vi.fn(function(this: MediaMock) { this.onpause?.(); });
   load = vi.fn();
   removeAttribute = vi.fn();
 }
@@ -70,6 +75,7 @@ beforeEach(async () => {
 });
 afterEach(() => {
   api.stopAudio();
+  document.getElementById("romana-audio-player")?.remove();
   vi.clearAllTimers();
   vi.useRealTimers();
   vi.unstubAllGlobals();
@@ -179,7 +185,50 @@ describe("Надёжный румынский аудиодвижок", () => {
       rate: 1.25,
       status: "playing",
     });
-    expect(instances[1].playbackRate).toBe(1.25);
+    expect(instances).toHaveLength(1);
+    expect(instances[0].playbackRate).toBe(1.25);
+  });
+  it("закрепляет проигрыватель вне React root до вызова play и сохраняет его при смене карточки", async () => {
+    const root = document.createElement("div");
+    root.id = "root";
+    document.body.appendChild(root);
+    api.speak("Bună!", 1);
+    const media = document.getElementById("romana-audio-player") as HTMLAudioElement;
+    expect(media.parentElement).toBe(document.body);
+    expect(media.isConnected).toBe(true);
+    root.replaceChildren(document.createElement("section"));
+    api.speak("Bună ziua! Învăț limba română.", 1);
+    await Promise.resolve();
+    expect(document.getElementById("romana-audio-player")).toBe(media);
+    expect(instances).toHaveLength(1);
+    expect(instances[0].load).not.toHaveBeenCalled();
+    expect(instances[0].removeAttribute).not.toHaveBeenCalled();
+    api.stopAudio();
+    expect(media.isConnected).toBe(true);
+    root.remove();
+  });
+  it("прерванный старый play не переводит новый MP3 в ошибку", async () => {
+    let abortOld!: (error: DOMException) => void;
+    api.speak("Bună!", 1);
+    await Promise.resolve();
+    instances[0].play.mockImplementationOnce(() => new Promise<void>((_resolve, reject) => { abortOld = reject; }));
+    api.speak("Bună!", 1);
+    api.speak("Bună ziua! Învăț limba română.", 1);
+    abortOld(new DOMException("The media was removed from the document", "AbortError"));
+    await Promise.resolve();
+    await Promise.resolve();
+    expect(api.getAudioState()).toMatchObject({ status: "playing", text: "Bună ziua! Învăț limba română.", error: "" });
+  });
+  it("актуальный AbortError остаётся ошибкой и сообщает состояние DOM-плеера", async () => {
+    api.speak("Bună!", 1);
+    await Promise.resolve();
+    instances[0].play.mockRejectedValueOnce(new DOMException("media removed", "AbortError"));
+    api.repeatAudio();
+    await Promise.resolve();
+    await Promise.resolve();
+    expect(api.getAudioState().status).toBe("error");
+    expect(api.getAudioState().error).toContain("Плеер в документе: да");
+    expect(api.getAudioState().error).toContain("AbortError");
   });
   it("пауза, продолжение и смена скорости управляют реальным media-объектом", async () => {
     api.speak("Bună!", 1);

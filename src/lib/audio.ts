@@ -38,6 +38,20 @@ let state: AudioState = {
 };
 const listeners = new Set<() => void>();
 let player: HTMLAudioElement | null = null;
+// Owned by the engine, outside React's root. Keep the same connected element
+// through card changes and AudioBar mounts; never remove it during play().
+let mediaElement: HTMLAudioElement | null = null;
+function connectedPlayer() {
+  if (!mediaElement || mediaElement.ownerDocument !== document) {
+    mediaElement = new Audio();
+    mediaElement.id = "romana-audio-player";
+    mediaElement.hidden = true;
+    mediaElement.setAttribute("aria-hidden", "true");
+    mediaElement.preload = "auto";
+  }
+  if (!mediaElement.isConnected) document.body.appendChild(mediaElement);
+  return mediaElement;
+}
 let utterance: SpeechSynthesisUtterance | null = null;
 let generation = 0;
 let timer: ReturnType<typeof setTimeout> | undefined;
@@ -106,8 +120,8 @@ function clearPlayback() {
     player.onloadedmetadata = null;
     player.onwaiting = null;
     player.pause();
-    player.removeAttribute("src");
-    player.load();
+    // pause() cancels playback without destroying the resource or detaching
+    // the element. src removal + load() also abort an unsettled play promise.
     player = null;
   }
   if (utterance) {
@@ -161,7 +175,7 @@ async function filePlayback(
     url,
   });
   try {
-    const media = new Audio();
+    const media = connectedPlayer();
     player = media;
     media.preload = "auto";
     media.src = url;
@@ -229,10 +243,13 @@ async function filePlayback(
     await media.play();
   } catch (error) {
     const name = error instanceof DOMException ? error.name : "";
+    const context = name === "AbortError"
+      ? ` Плеер в документе: ${player?.isConnected ? "да" : "нет"}; readyState=${player?.readyState ?? "—"}; networkState=${player?.networkState ?? "—"}; страница=${document.visibilityState}.`
+      : "";
     failure(
       name === "NotAllowedError"
         ? "Браузер заблокировал звук. Нажмите «Повтор» — запуск должен происходить вашим нажатием."
-        : `MP3 не запустился${name ? ` (${name})` : ""}: ${url}. ${error instanceof Error ? error.message : "Проверьте сеть и формат в диагностике."}`,
+        : `MP3 не запустился${name ? ` (${name})` : ""}: ${url}. ${error instanceof Error ? error.message : "Проверьте сеть и формат в диагностике."}${context}`,
       id,
       onError,
     );
