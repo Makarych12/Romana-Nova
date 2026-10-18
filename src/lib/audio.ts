@@ -1,4 +1,5 @@
 import files from "../data/audio-manifest.json";
+import { cachePlayedAudio } from "./audio-cache";
 export type AudioStatus =
   | "idle"
   | "loading"
@@ -16,6 +17,7 @@ export type AudioState = {
   duration: number;
   voices: string[];
   voiceReady: boolean;
+  url: string;
 };
 export const audioKey = (text: string) =>
   text.normalize("NFC").replace(/\s+/g, " ").trim();
@@ -32,6 +34,7 @@ let state: AudioState = {
   duration: 0,
   voices: [],
   voiceReady: false,
+  url: "",
 };
 const listeners = new Set<() => void>();
 let player: HTMLAudioElement | null = null;
@@ -56,8 +59,11 @@ function synth() {
     ? window.speechSynthesis
     : undefined;
 }
+function speechVoices(): SpeechSynthesisVoice[] {
+  try { return synth()?.getVoices() || []; } catch { return []; }
+}
 function roVoice() {
-  const voices = synth()?.getVoices() || [];
+  const voices = speechVoices();
   return (
     voices.find((v) => /^ro[-_]RO$/i.test(v.lang)) ||
     voices.find((v) => /^ro$/i.test(v.lang))
@@ -69,8 +75,7 @@ export function initializeAudio() {
   const update = () =>
     emit({
       voices:
-        synth()
-          ?.getVoices()
+        speechVoices()
           .filter((v) => /^ro(?:[-_]RO)?$/i.test(v.lang))
           .map((v) => `${v.name || "Румынский"} · ${v.lang}`) || [],
       voiceReady: true,
@@ -113,7 +118,8 @@ function clearPlayback() {
     utterance.onresume = null;
     utterance = null;
   }
-  synth()?.cancel();
+  // A disabled OS speech service must never prevent local MP3 playback.
+  try { synth()?.cancel(); } catch { /* MP3 does not need SpeechSynthesis. */ }
 }
 export function stopAudio(note = "") {
   generation++;
@@ -152,6 +158,7 @@ async function filePlayback(
     error: "",
     currentTime: 0,
     duration: 0,
+    url,
   });
   try {
     const media = new Audio();
@@ -163,6 +170,7 @@ async function filePlayback(
       if (id === generation) {
         clearTimeout(timer);
         emit({ status: "playing" });
+        void cachePlayedAudio(url);
       }
     };
     media.onwaiting = () => {
@@ -199,14 +207,16 @@ async function filePlayback(
         emit({ status: "ended", currentTime: media.duration || 0 });
       }
     };
-    media.onerror = () =>
-      failure(
-        navigator.onLine
-          ? "Не удалось загрузить румынское аудио. Повторите попытку или откройте диагностику."
-          : "Аудиофайл ещё не сохранён офлайн. Подключитесь к интернету и прослушайте его один раз.",
-        id,
-        onError,
-      );
+    media.onerror = () => {
+      const code = media.error?.code;
+      const reasons: Record<number, string> = {
+        1: "Загрузка прервана",
+        2: "Сетевая ошибка",
+        3: "Браузер не смог декодировать MP3",
+        4: "Файл недоступен или формат не поддерживается",
+      };
+      failure(`${code ? reasons[code] || "Ошибка проигрывателя" : "Ошибка загрузки MP3"}${code ? ` (MediaError ${code})` : ""}. ${url}${navigator.onLine ? "" : " · Офлайн: файл мог ещё не сохраниться."}`, id, onError);
+    };
     timer = setTimeout(
       () =>
         failure(
@@ -222,7 +232,7 @@ async function filePlayback(
     failure(
       name === "NotAllowedError"
         ? "Браузер заблокировал звук. Нажмите «Повтор» — запуск должен происходить вашим нажатием."
-        : "Аудиофайл не воспроизводится. Проверьте громкость, сеть и формат в диагностике.",
+        : `MP3 не запустился${name ? ` (${name})` : ""}: ${url}. ${error instanceof Error ? error.message : "Проверьте сеть и формат в диагностике."}`,
       id,
       onError,
     );
@@ -296,6 +306,7 @@ export function speak(
     error: "",
     currentTime: 0,
     duration: 0,
+    url: "",
   });
   if (strategy === "file") {
     void filePlayback(text, rate, id, onError);

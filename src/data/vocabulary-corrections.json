@@ -17787,5 +17787,1626 @@
         "CEFR исходной карточки остаётся оценочным."
       ]
     }
+  },
+  "open-1704189573899296": {
+    "examples": [
+      {
+        "ro": "Mielul stă lângă oaie.",
+        "ru": "Ягнёнок стоит рядом с овцой."
+      },
+      {
+        "ro": "La fermă s-a născut un miel.",
+        "ru": "На ферме родился ягнёнок."
+      }
+    ],
+    "editorial": {
+      "status": "reviewed",
+      "examplesReviewed": true,
+      "method": "agent-editorial-review",
+      "scope": [
+        "examples"
+      ],
+      "notes": [
+        "Добавлены контекстные примеры с переводом 2026-10-18. Независимой проверки носителем языка нет."
+      ]
+    }
+  },
+  "open-1f05f2bdadcc14b6": {
+    "examples": [
+      {
+        "ro": "Curăț podeaua cu o mătură.",
+        "ru": "Я подметаю пол метлой."
+      },
+      {
+        "ro": "Mătura este în dulap.",
+        "ru": "Метла находится в шкафу."
+      }
+    ],
+    "editorial": {
+      "status": "reviewed",
+      "examplesReviewed": true,
+      "method": "agent-editorial-review",
+      "scope": [
+        "examples"
+      ],
+      "notes": [
+        "Добавлены контекстные примеры с переводом 2026-10-18. Независимой проверки носителем языка нет."
+      ]
+    }
+  },
+  "open-45f57fa9d037c614": {
+    "examples": [
+      {
+        "ro": "Încălzesc uleiul într-o tigaie.",
+        "ru": "Я разогреваю масло на сковородке."
+      },
+      {
+        "ro": "Tigaia este prea fierbinte.",
+        "ru": "Сковородка слишком горячая."
+      }
+    ],
+    "editorial": {
+      "status": "reviewed",
+      "examplesReviewed": true,
+      "method": "agent-editorial-review",
+      "scope": [
+        "examples"
+      ],
+      "notes": [
+        "Добавлены контекстные примеры с переводом 2026-10-18. Независимой проверки носителем языка нет."
+      ]
+    }
+  },
+  "open-9b89365027123ecd": {
+    "examples": [
+      {
+        "ro": "Pun șaua pe cal.",
+        "ru": "Я надеваю седло на лошадь."
+      },
+      {
+        "ro": "Această șa este făcută din piele.",
+        "ru": "Это седло сделано из кожи."
+      }
+    ],
+    "editorial": {
+      "status": "reviewed",
+      "examplesReviewed": true,
+      "method": "agent-editorial-review",
+      "scope": [
+        "examples"
+      ],
+      "notes": [
+        "Добавлены контекстные примеры с переводом 2026-10-18. Независимой проверки носителем языка нет."
+      ]
+    }
+  },
+  "open-6ebd229b088d1cfd": {
+    "examples": [
+      {
+        "ro": "Un șobolan a intrat în magazie.",
+        "ru": "В сарай забралась крыса."
+      },
+      {
+        "ro": "Șobolanul se ascunde lângă perete.",
+        "ru": "Крыса прячется у стены."
+      }
+    ],
+    "editorial": {
+      "status": "reviewed",
+      "examplesReviewed": true,
+      "method": "agent-editorial-review",
+      "scope": [
+        "examples"
+      ],
+      "notes": [
+        "Добавлены контекстные примеры с переводом 2026-10-18. Независимой проверки носителем языка нет."
+      ]
+    }
+  },
+  "open-5d88b4f8d72495ef": {
+    "examples": [
+      {
+        "ro": "Am o batistă curată în buzunar.",
+        "ru": "У меня в кармане чистый носовой платок."
+      },
+      {
+        "ro": "Îmi șterg nasul cu o batistă.",
+        "ru": "Я вытираю нос носовым платком."
+      }
+    ],
+    "editorial": {
+      "status": "reviewed",
+      "examplesReviewed": true,
+      "method": "agent-editorial-review",
+      "scope": [
+        "examples"
+      ],
+      "notes": [
+        "Добавлены контекстные примеры с переводом 2026-10-18. Независимой проверки носителем языка нет."
+      ]
+    }
+  },
+  "open-76dd3b59c2eed5a9": {
+    "examples": [
+      {
+        "ro": "Folosim o busolă ca să găsim nordul.",
+        "ru": "Мы используем компас, чтобы найти север."
+      },
+      {
+        "ro": "Busola este în rucsac.",
+        "ru": "Компас находится в рюкзаке."
+      }
+    ],
+    "editorial": {
+      "status": "reviewed",
+      "examplesReviewed": true,
+      "method": "agent-editorial-review",
+      "scope": [
+        "examples"
+      ],
+      "notes": [
+        "Добавлены контекстные примеры с переводом 2026-10-18. Независимой проверки носителем языка нет."
+      ]
+    }
+  },
+  "open-90feeac9811e7780": {
+    "examples": [
+      {
+        "ro": "Am pierdut un cercel în autobuz.",
+        "ru": "Я потеряла серьгу в автобусе."
+      },
+      {
+        "ro": "Acest cercel este din argint.",
+        "ru": "Эта серьга из серебра."
+      }
+    ],
+    "editorial": {
+      "status": "reviewed",
+      "examplesReviewed": true,
+      "method": "agent-editorial-review",
+      "scope": [
+        "examples"
+      ],
+      "notes": [
+        "Добавлены контекстные примеры с переводом 2026-10-18. Независимой проверки носителем языка нет."
+      ]
+    }
+  },
+  "open-22bb2555a4e4767b": {
+    "examples": [
+      {
+        "ro": "Coiotul trăiește în America de Nord.",
+        "ru": "Койот живёт в Северной Америке."
+      },
+      {
+        "ro": "Am văzut un coiot într-un documentar.",
+        "ru": "Я видел койота в документальном фильме."
+      }
+    ],
+    "editorial": {
+      "status": "reviewed",
+      "examplesReviewed": true,
+      "method": "agent-editorial-review",
+      "scope": [
+        "examples"
+      ],
+      "notes": [
+        "Добавлены контекстные примеры с переводом 2026-10-18. Независимой проверки носителем языка нет."
+      ]
+    }
+  },
+  "open-a2f6fe3b0d514a4c": {
+    "examples": [
+      {
+        "ro": "Camera mea este la capătul coridorului.",
+        "ru": "Моя комната находится в конце коридора."
+      },
+      {
+        "ro": "Pe coridor este liniște.",
+        "ru": "В коридоре тихо."
+      }
+    ],
+    "editorial": {
+      "status": "reviewed",
+      "examplesReviewed": true,
+      "method": "agent-editorial-review",
+      "scope": [
+        "examples"
+      ],
+      "notes": [
+        "Добавлены контекстные примеры с переводом 2026-10-18. Независимой проверки носителем языка нет."
+      ]
+    }
+  },
+  "open-62f9fda2c26bf686": {
+    "examples": [
+      {
+        "ro": "Agăț geanta de un cârlig.",
+        "ru": "Я вешаю сумку на крючок."
+      },
+      {
+        "ro": "Cârligul este fixat de perete.",
+        "ru": "Крючок закреплён на стене."
+      }
+    ],
+    "editorial": {
+      "status": "reviewed",
+      "examplesReviewed": true,
+      "method": "agent-editorial-review",
+      "scope": [
+        "examples"
+      ],
+      "notes": [
+        "Добавлены контекстные примеры с переводом 2026-10-18. Независимой проверки носителем языка нет."
+      ]
+    }
+  },
+  "open-c226681bdfeff352": {
+    "examples": [
+      {
+        "ro": "Lanțul bicicletei s-a rupt.",
+        "ru": "Цепь велосипеда порвалась."
+      },
+      {
+        "ro": "Poarta este închisă cu un lanț.",
+        "ru": "Ворота закрыты цепью."
+      }
+    ],
+    "editorial": {
+      "status": "reviewed",
+      "examplesReviewed": true,
+      "method": "agent-editorial-review",
+      "scope": [
+        "examples"
+      ],
+      "notes": [
+        "Добавлены контекстные примеры с переводом 2026-10-18. Независимой проверки носителем языка нет."
+      ]
+    }
+  },
+  "open-2bd639b283b8e192": {
+    "examples": [
+      {
+        "ro": "Bunicul are o livadă cu meri.",
+        "ru": "У дедушки есть яблоневый сад."
+      },
+      {
+        "ro": "Culegem fructe în livadă.",
+        "ru": "Мы собираем фрукты в саду."
+      }
+    ],
+    "editorial": {
+      "status": "reviewed",
+      "examplesReviewed": true,
+      "method": "agent-editorial-review",
+      "scope": [
+        "examples"
+      ],
+      "notes": [
+        "Добавлены контекстные примеры с переводом 2026-10-18. Независимой проверки носителем языка нет."
+      ]
+    }
+  },
+  "open-25f870a4adf26141": {
+    "examples": [
+      {
+        "ro": "Sap o groapă cu lopata.",
+        "ru": "Я копаю яму лопатой."
+      },
+      {
+        "ro": "Am lăsat lopata lângă gard.",
+        "ru": "Я оставил лопату у забора."
+      }
+    ],
+    "editorial": {
+      "status": "reviewed",
+      "examplesReviewed": true,
+      "method": "agent-editorial-review",
+      "scope": [
+        "examples"
+      ],
+      "notes": [
+        "Добавлены контекстные примеры с переводом 2026-10-18. Независимой проверки носителем языка нет."
+      ]
+    }
+  },
+  "open-a6dcd537376bb82b": {
+    "examples": [
+      {
+        "ro": "Măgarul duce sacii pe potecă.",
+        "ru": "Осёл несёт мешки по тропинке."
+      },
+      {
+        "ro": "Un măgar paște lângă casă.",
+        "ru": "Рядом с домом пасётся осёл."
+      }
+    ],
+    "editorial": {
+      "status": "reviewed",
+      "examplesReviewed": true,
+      "method": "agent-editorial-review",
+      "scope": [
+        "examples"
+      ],
+      "notes": [
+        "Добавлены контекстные примеры с переводом 2026-10-18. Независимой проверки носителем языка нет."
+      ]
+    }
+  },
+  "open-f7579585f0ad72ec": {
+    "examples": [
+      {
+        "ro": "Copilul călărește un ponei.",
+        "ru": "Ребёнок катается на пони."
+      },
+      {
+        "ro": "Poneiul are o coamă lungă.",
+        "ru": "У пони длинная грива."
+      }
+    ],
+    "editorial": {
+      "status": "reviewed",
+      "examplesReviewed": true,
+      "method": "agent-editorial-review",
+      "scope": [
+        "examples"
+      ],
+      "notes": [
+        "Добавлены контекстные примеры с переводом 2026-10-18. Независимой проверки носителем языка нет."
+      ]
+    }
+  },
+  "open-5ebf1e08d312b8c4": {
+    "examples": [
+      {
+        "ro": "Adaug scorțișoară în ceai.",
+        "ru": "Я добавляю корицу в чай."
+      },
+      {
+        "ro": "Prăjitura miroase a scorțișoară.",
+        "ru": "Пирог пахнет корицей."
+      }
+    ],
+    "editorial": {
+      "status": "reviewed",
+      "examplesReviewed": true,
+      "method": "agent-editorial-review",
+      "scope": [
+        "examples"
+      ],
+      "notes": [
+        "Добавлены контекстные примеры с переводом 2026-10-18. Независимой проверки носителем языка нет."
+      ]
+    }
+  },
+  "open-4ebde790877e2f92": {
+    "examples": [
+      {
+        "ro": "Pantoful are un toc înalt.",
+        "ru": "У туфли высокий каблук."
+      },
+      {
+        "ro": "Mi s-a rupt tocul pe scări.",
+        "ru": "У меня сломался каблук на лестнице."
+      }
+    ],
+    "editorial": {
+      "status": "reviewed",
+      "examplesReviewed": true,
+      "method": "agent-editorial-review",
+      "scope": [
+        "examples"
+      ],
+      "notes": [
+        "Добавлены контекстные примеры с переводом 2026-10-18. Независимой проверки носителем языка нет."
+      ]
+    }
+  },
+  "open-893e6a96cf443591": {
+    "examples": [
+      {
+        "ro": "Am nevoie de ață albă pentru cămașă.",
+        "ru": "Мне нужна белая нитка для рубашки."
+      },
+      {
+        "ro": "Bag ața în ac.",
+        "ru": "Я вдеваю нитку в иголку."
+      }
+    ],
+    "editorial": {
+      "status": "reviewed",
+      "examplesReviewed": true,
+      "method": "agent-editorial-review",
+      "scope": [
+        "examples"
+      ],
+      "notes": [
+        "Добавлены контекстные примеры с переводом 2026-10-18. Независимой проверки носителем языка нет."
+      ]
+    }
+  },
+  "open-73fc099735e44b18": {
+    "examples": [
+      {
+        "ro": "Bunica citește într-un balansoar.",
+        "ru": "Бабушка читает в кресле-качалке."
+      },
+      {
+        "ro": "Am pus balansoarul pe terasă.",
+        "ru": "Мы поставили кресло-качалку на террасе."
+      }
+    ],
+    "editorial": {
+      "status": "reviewed",
+      "examplesReviewed": true,
+      "method": "agent-editorial-review",
+      "scope": [
+        "examples"
+      ],
+      "notes": [
+        "Добавлены контекстные примеры с переводом 2026-10-18. Независимой проверки носителем языка нет."
+      ]
+    }
+  },
+  "open-17874ed995e4ea0c": {
+    "examples": [
+      {
+        "ro": "Privesc păsările prin binoclu.",
+        "ru": "Я наблюдаю за птицами в бинокль."
+      },
+      {
+        "ro": "Binoclul este în husa lui.",
+        "ru": "Бинокль находится в своём чехле."
+      }
+    ],
+    "editorial": {
+      "status": "reviewed",
+      "examplesReviewed": true,
+      "method": "agent-editorial-review",
+      "scope": [
+        "examples"
+      ],
+      "notes": [
+        "Добавлены контекстные примеры с переводом 2026-10-18. Независимой проверки носителем языка нет."
+      ]
+    }
+  },
+  "open-2af99a28bd255098": {
+    "examples": [
+      {
+        "ro": "Capibara trăiește lângă apă.",
+        "ru": "Капибара живёт у воды."
+      },
+      {
+        "ro": "Am văzut o capibara la grădina zoologică.",
+        "ru": "Я видел капибару в зоопарке."
+      }
+    ],
+    "editorial": {
+      "status": "reviewed",
+      "examplesReviewed": true,
+      "method": "agent-editorial-review",
+      "scope": [
+        "examples"
+      ],
+      "notes": [
+        "Добавлены контекстные примеры с переводом 2026-10-18. Независимой проверки носителем языка нет."
+      ]
+    }
+  },
+  "open-f9f985e99388d7dd": {
+    "examples": [
+      {
+        "ro": "Copiii se dau în carusel.",
+        "ru": "Дети катаются на карусели."
+      },
+      {
+        "ro": "Caruselul se oprește încet.",
+        "ru": "Карусель медленно останавливается."
+      }
+    ],
+    "editorial": {
+      "status": "reviewed",
+      "examplesReviewed": true,
+      "method": "agent-editorial-review",
+      "scope": [
+        "examples"
+      ],
+      "notes": [
+        "Добавлены контекстные примеры с переводом 2026-10-18. Независимой проверки носителем языка нет."
+      ]
+    }
+  },
+  "open-f12e2ef8b17d41fa": {
+    "examples": [
+      {
+        "ro": "Gătim supa într-un ceaun.",
+        "ru": "Мы готовим суп в котле."
+      },
+      {
+        "ro": "Ceaunul stă deasupra focului.",
+        "ru": "Котёл висит над огнём."
+      }
+    ],
+    "editorial": {
+      "status": "reviewed",
+      "examplesReviewed": true,
+      "method": "agent-editorial-review",
+      "scope": [
+        "examples"
+      ],
+      "notes": [
+        "Добавлены контекстные примеры с переводом 2026-10-18. Независимой проверки носителем языка нет."
+      ]
+    }
+  },
+  "open-f25cd0ae8741146c": {
+    "examples": [
+      {
+        "ro": "Pianul are o claviatură cu clape albe și negre.",
+        "ru": "У пианино клавиатура с белыми и чёрными клавишами."
+      },
+      {
+        "ro": "Pianista își așază mâinile pe claviatură.",
+        "ru": "Пианистка кладёт руки на клавиатуру."
+      }
+    ],
+    "editorial": {
+      "status": "reviewed",
+      "examplesReviewed": true,
+      "method": "agent-editorial-review",
+      "scope": [
+        "examples"
+      ],
+      "notes": [
+        "Добавлены контекстные примеры с переводом 2026-10-18. Независимой проверки носителем языка нет."
+      ]
+    }
+  },
+  "open-64b04d795dfea875": {
+    "examples": [
+      {
+        "ro": "Bunicul taie iarba cu o coasă.",
+        "ru": "Дедушка косит траву косой."
+      },
+      {
+        "ro": "Coasa este sprijinită de gard.",
+        "ru": "Коса прислонена к забору."
+      }
+    ],
+    "editorial": {
+      "status": "reviewed",
+      "examplesReviewed": true,
+      "method": "agent-editorial-review",
+      "scope": [
+        "examples"
+      ],
+      "notes": [
+        "Добавлены контекстные примеры с переводом 2026-10-18. Независимой проверки носителем языка нет."
+      ]
+    }
+  },
+  "open-b66e694e27bc6706": {
+    "examples": [
+      {
+        "ro": "Cobaiul mănâncă o frunză de salată.",
+        "ru": "Морская свинка ест лист салата."
+      },
+      {
+        "ro": "Copilul are grijă de un cobai.",
+        "ru": "Ребёнок заботится о морской свинке."
+      }
+    ],
+    "editorial": {
+      "status": "reviewed",
+      "examplesReviewed": true,
+      "method": "agent-editorial-review",
+      "scope": [
+        "examples"
+      ],
+      "notes": [
+        "Добавлены контекстные примеры с переводом 2026-10-18. Независимой проверки носителем языка нет."
+      ]
+    }
+  },
+  "open-48dd5ca12a0e5426": {
+    "examples": [
+      {
+        "ro": "Pun drojdie în aluatul de pâine.",
+        "ru": "Я добавляю дрожжи в хлебное тесто."
+      },
+      {
+        "ro": "Cumpăr drojdie proaspătă de la magazin.",
+        "ru": "Я покупаю свежие дрожжи в магазине."
+      }
+    ],
+    "editorial": {
+      "status": "reviewed",
+      "examplesReviewed": true,
+      "method": "agent-editorial-review",
+      "scope": [
+        "examples"
+      ],
+      "notes": [
+        "Добавлены контекстные примеры с переводом 2026-10-18. Независимой проверки носителем языка нет."
+      ]
+    }
+  },
+  "open-a6dafbd7b9310a15": {
+    "examples": [
+      {
+        "ro": "Tai hârtia cu o pereche de foarfece.",
+        "ru": "Я режу бумагу ножницами."
+      },
+      {
+        "ro": "Am pus foarfecele în sertar.",
+        "ru": "Я положил ножницы в ящик."
+      }
+    ],
+    "editorial": {
+      "status": "reviewed",
+      "examplesReviewed": true,
+      "method": "agent-editorial-review",
+      "scope": [
+        "examples"
+      ],
+      "notes": [
+        "Добавлены контекстные примеры с переводом 2026-10-18. Независимой проверки носителем языка нет."
+      ]
+    }
+  },
+  "open-b4a1b8d34c7895a2": {
+    "examples": [
+      {
+        "ro": "Separ gălbenușul de albuș.",
+        "ru": "Я отделяю желток от белка."
+      },
+      {
+        "ro": "Adaug un gălbenuș în cremă.",
+        "ru": "Я добавляю в крем один желток."
+      }
+    ],
+    "editorial": {
+      "status": "reviewed",
+      "examplesReviewed": true,
+      "method": "agent-editorial-review",
+      "scope": [
+        "examples"
+      ],
+      "notes": [
+        "Добавлены контекстные примеры с переводом 2026-10-18. Независимой проверки носителем языка нет."
+      ]
+    }
+  },
+  "open-cc86d865e47a25af": {
+    "examples": [
+      {
+        "ro": "După meci, toți fanii s-au îndreptat spre fast-food-ul din colț pentru a-și cumpăra câte un hamburger și o porție mare de cartofi prăjiți.",
+        "ru": "После матча все болельщики направились в закусочную на углу, чтобы купить себе по гамбургеру и большой порции жареной картошки.",
+        "source": {
+          "name": "Русский Викисловарь / Kaikki",
+          "url": "https://ru.wiktionary.org/wiki/hamburger#Румынский",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "attribution": "Авторы статьи в русском Викисловаре; история правок доступна по ссылке источника. Извлечение: Kaikki / Wiktextract."
+        }
+      },
+      {
+        "ro": "Aș dori un hamburger fără ceapă.",
+        "ru": "Я хотел бы гамбургер без лука."
+      },
+      {
+        "ro": "Hamburgerul este servit cu cartofi prăjiți.",
+        "ru": "Гамбургер подают с жареной картошкой."
+      }
+    ],
+    "editorial": {
+      "status": "reviewed",
+      "examplesReviewed": true,
+      "method": "agent-editorial-review",
+      "scope": [
+        "examples"
+      ],
+      "notes": [
+        "Добавлены контекстные примеры с переводом 2026-10-18. Независимой проверки носителем языка нет."
+      ]
+    }
+  },
+  "open-1a353bf1bda8c084": {
+    "examples": [
+      {
+        "ro": "Bunicul ascultă muzică la un magnetofon vechi.",
+        "ru": "Дедушка слушает музыку на старом магнитофоне."
+      },
+      {
+        "ro": "Magnetofonul nu mai înregistrează.",
+        "ru": "Магнитофон больше не записывает."
+      }
+    ],
+    "editorial": {
+      "status": "reviewed",
+      "examplesReviewed": true,
+      "method": "agent-editorial-review",
+      "scope": [
+        "examples"
+      ],
+      "notes": [
+        "Добавлены контекстные примеры с переводом 2026-10-18. Независимой проверки носителем языка нет."
+      ]
+    }
+  },
+  "open-02361d9784eec255": {
+    "examples": [
+      {
+        "ro": "Cumpăr marmeladă de gutui.",
+        "ru": "Я покупаю айвовый мармелад."
+      },
+      {
+        "ro": "Am tăiat marmelada în bucăți mici.",
+        "ru": "Я нарезал мармелад маленькими кусочками."
+      }
+    ],
+    "editorial": {
+      "status": "reviewed",
+      "examplesReviewed": true,
+      "method": "agent-editorial-review",
+      "scope": [
+        "examples"
+      ],
+      "notes": [
+        "Добавлены контекстные примеры с переводом 2026-10-18. Независимой проверки носителем языка нет."
+      ]
+    }
+  },
+  "open-11ce371ffd2ac100": {
+    "examples": [
+      {
+        "ro": "Am primit o matrioșka din lemn.",
+        "ru": "Мне подарили деревянную матрёшку."
+      },
+      {
+        "ro": "În această matrioșka sunt alte păpuși mai mici.",
+        "ru": "В этой матрёшке находятся другие куклы поменьше."
+      }
+    ],
+    "editorial": {
+      "status": "reviewed",
+      "examplesReviewed": true,
+      "method": "agent-editorial-review",
+      "scope": [
+        "examples"
+      ],
+      "notes": [
+        "Добавлены контекстные примеры с переводом 2026-10-18. Независимой проверки носителем языка нет."
+      ]
+    }
+  },
+  "open-331afa52d13beabd": {
+    "examples": [
+      {
+        "ro": "Un mistreț a traversat poteca.",
+        "ru": "Кабан пересёк тропинку."
+      },
+      {
+        "ro": "Am văzut urme de mistreț în pădure.",
+        "ru": "Я видел в лесу следы кабана."
+      }
+    ],
+    "editorial": {
+      "status": "reviewed",
+      "examplesReviewed": true,
+      "method": "agent-editorial-review",
+      "scope": [
+        "examples"
+      ],
+      "notes": [
+        "Добавлены контекстные примеры с переводом 2026-10-18. Независимой проверки носителем языка нет."
+      ]
+    }
+  },
+  "open-119a6224cab3647c": {
+    "examples": [
+      {
+        "ro": "Am cules o mură coaptă.",
+        "ru": "Я сорвал спелую ежевику."
+      },
+      {
+        "ro": "Această mură este foarte dulce.",
+        "ru": "Эта ягода ежевики очень сладкая."
+      }
+    ],
+    "editorial": {
+      "status": "reviewed",
+      "examplesReviewed": true,
+      "method": "agent-editorial-review",
+      "scope": [
+        "examples"
+      ],
+      "notes": [
+        "Добавлены контекстные примеры с переводом 2026-10-18. Независимой проверки носителем языка нет."
+      ]
+    }
+  },
+  "open-55ed885708721edd": {
+    "examples": [
+      {
+        "ro": "Olarul modelează un vas din lut.",
+        "ru": "Гончар лепит сосуд из глины."
+      },
+      {
+        "ro": "Am vizitat atelierul unui olar.",
+        "ru": "Я посетил мастерскую гончара."
+      }
+    ],
+    "editorial": {
+      "status": "reviewed",
+      "examplesReviewed": true,
+      "method": "agent-editorial-review",
+      "scope": [
+        "examples"
+      ],
+      "notes": [
+        "Добавлены контекстные примеры с переводом 2026-10-18. Независимой проверки носителем языка нет."
+      ]
+    }
+  },
+  "open-39c5492a44fca450": {
+    "examples": [
+      {
+        "ro": "Parașuta s-a deschis la timp.",
+        "ru": "Парашют раскрылся вовремя."
+      },
+      {
+        "ro": "Instructorul verifică parașuta înainte de salt.",
+        "ru": "Инструктор проверяет парашют перед прыжком."
+      }
+    ],
+    "editorial": {
+      "status": "reviewed",
+      "examplesReviewed": true,
+      "method": "agent-editorial-review",
+      "scope": [
+        "examples"
+      ],
+      "notes": [
+        "Добавлены контекстные примеры с переводом 2026-10-18. Независимой проверки носителем языка нет."
+      ]
+    }
+  },
+  "open-9631bacf6148bef6": {
+    "examples": [
+      {
+        "ro": "Pendulul ceasului se mișcă încet.",
+        "ru": "Маятник часов медленно движется."
+      },
+      {
+        "ro": "Profesorul ne arată un experiment cu un pendul.",
+        "ru": "Учитель показывает нам опыт с маятником."
+      }
+    ],
+    "editorial": {
+      "status": "reviewed",
+      "examplesReviewed": true,
+      "method": "agent-editorial-review",
+      "scope": [
+        "examples"
+      ],
+      "notes": [
+        "Добавлены контекстные примеры с переводом 2026-10-18. Независимой проверки носителем языка нет."
+      ]
+    }
+  },
+  "open-0e0f0dc0d66b3b75": {
+    "examples": [
+      {
+        "ro": "Poștașul aduce scrisorile dimineața.",
+        "ru": "Почтальон приносит письма утром."
+      },
+      {
+        "ro": "L-am întâlnit pe poștaș la poartă.",
+        "ru": "Я встретил почтальона у ворот."
+      }
+    ],
+    "editorial": {
+      "status": "reviewed",
+      "examplesReviewed": true,
+      "method": "agent-editorial-review",
+      "scope": [
+        "examples"
+      ],
+      "notes": [
+        "Добавлены контекстные примеры с переводом 2026-10-18. Независимой проверки носителем языка нет."
+      ]
+    }
+  },
+  "open-57bf6e9626adc09a": {
+    "examples": [
+      {
+        "ro": "Acoperim lemnele cu o prelată.",
+        "ru": "Мы накрываем дрова брезентом."
+      },
+      {
+        "ro": "Prelata protejează bicicleta de ploaie.",
+        "ru": "Брезент защищает велосипед от дождя."
+      }
+    ],
+    "editorial": {
+      "status": "reviewed",
+      "examplesReviewed": true,
+      "method": "agent-editorial-review",
+      "scope": [
+        "examples"
+      ],
+      "notes": [
+        "Добавлены контекстные примеры с переводом 2026-10-18. Независимой проверки носителем языка нет."
+      ]
+    }
+  },
+  "open-6df1fbde7fbc19c3": {
+    "examples": [
+      {
+        "ro": "Am auzit o prepeliță pe câmp.",
+        "ru": "Я слышал перепела в поле."
+      },
+      {
+        "ro": "Prepelița se ascunde în iarba înaltă.",
+        "ru": "Перепел прячется в высокой траве."
+      }
+    ],
+    "editorial": {
+      "status": "reviewed",
+      "examplesReviewed": true,
+      "method": "agent-editorial-review",
+      "scope": [
+        "examples"
+      ],
+      "notes": [
+        "Добавлены контекстные примеры с переводом 2026-10-18. Независимой проверки носителем языка нет."
+      ]
+    }
+  },
+  "open-b19420a4eb6179ff": {
+    "examples": [
+      {
+        "ro": "Păstorul duce oile la pășune.",
+        "ru": "Пастух ведёт овец на пастбище."
+      },
+      {
+        "ro": "Un păstor stă lângă turmă.",
+        "ru": "Рядом со стадом стоит пастух."
+      }
+    ],
+    "editorial": {
+      "status": "reviewed",
+      "examplesReviewed": true,
+      "method": "agent-editorial-review",
+      "scope": [
+        "examples"
+      ],
+      "notes": [
+        "Добавлены контекстные примеры с переводом 2026-10-18. Независимой проверки носителем языка нет."
+      ]
+    }
+  },
+  "open-ba978cf0887bf2be": {
+    "examples": [
+      {
+        "ro": "Inelul are un rubin roșu.",
+        "ru": "В кольце красный рубин."
+      },
+      {
+        "ro": "Bijutierul examinează rubinul cu o lupă.",
+        "ru": "Ювелир рассматривает рубин через лупу."
+      }
+    ],
+    "editorial": {
+      "status": "reviewed",
+      "examplesReviewed": true,
+      "method": "agent-editorial-review",
+      "scope": [
+        "examples"
+      ],
+      "notes": [
+        "Добавлены контекстные примеры с переводом 2026-10-18. Независимой проверки носителем языка нет."
+      ]
+    }
+  },
+  "open-e8b1b8fdfd7f046e": {
+    "examples": [
+      {
+        "ro": "O salcie crește pe malul râului.",
+        "ru": "На берегу реки растёт ива."
+      },
+      {
+        "ro": "Ne odihnim la umbra unei sălcii.",
+        "ru": "Мы отдыхаем в тени ивы."
+      }
+    ],
+    "editorial": {
+      "status": "reviewed",
+      "examplesReviewed": true,
+      "method": "agent-editorial-review",
+      "scope": [
+        "examples"
+      ],
+      "notes": [
+        "Добавлены контекстные примеры с переводом 2026-10-18. Независимой проверки носителем языка нет."
+      ]
+    }
+  },
+  "open-f3d88c60a941cc44": {
+    "examples": [
+      {
+        "ro": "Sconcsul are blana albă și neagră.",
+        "ru": "У скунса чёрно-белая шерсть."
+      },
+      {
+        "ro": "Am văzut un sconcs într-un documentar despre animale.",
+        "ru": "Я видел скунса в документальном фильме о животных."
+      }
+    ],
+    "editorial": {
+      "status": "reviewed",
+      "examplesReviewed": true,
+      "method": "agent-editorial-review",
+      "scope": [
+        "examples"
+      ],
+      "notes": [
+        "Добавлены контекстные примеры с переводом 2026-10-18. Независимой проверки носителем языка нет."
+      ]
+    }
+  },
+  "open-038750191850488e": {
+    "examples": [
+      {
+        "ro": "Sculptorul lucrează la o statuie nouă.",
+        "ru": "Скульптор работает над новой статуей."
+      },
+      {
+        "ro": "Am vizitat atelierul unui sculptor.",
+        "ru": "Я посетил мастерскую скульптора."
+      }
+    ],
+    "editorial": {
+      "status": "reviewed",
+      "examplesReviewed": true,
+      "method": "agent-editorial-review",
+      "scope": [
+        "examples"
+      ],
+      "notes": [
+        "Добавлены контекстные примеры с переводом 2026-10-18. Независимой проверки носителем языка нет."
+      ]
+    }
+  },
+  "open-2e9bdf921e95302a": {
+    "examples": [
+      {
+        "ro": "Un vierme se mișcă prin pământul umed.",
+        "ru": "Червь движется во влажной земле."
+      },
+      {
+        "ro": "Am găsit un vierme sub o frunză.",
+        "ru": "Я нашёл червя под листом."
+      }
+    ],
+    "editorial": {
+      "status": "reviewed",
+      "examplesReviewed": true,
+      "method": "agent-editorial-review",
+      "scope": [
+        "examples"
+      ],
+      "notes": [
+        "Добавлены контекстные примеры с переводом 2026-10-18. Независимой проверки носителем языка нет."
+      ]
+    }
+  },
+  "open-7d2959ec13f4fe3e": {
+    "examples": [
+      {
+        "ro": "Vițelul stă lângă vacă.",
+        "ru": "Телёнок стоит рядом с коровой."
+      },
+      {
+        "ro": "La fermă s-a născut un vițel.",
+        "ru": "На ферме родился телёнок."
+      }
+    ],
+    "editorial": {
+      "status": "reviewed",
+      "examplesReviewed": true,
+      "method": "agent-editorial-review",
+      "scope": [
+        "examples"
+      ],
+      "notes": [
+        "Добавлены контекстные примеры с переводом 2026-10-18. Независимой проверки носителем языка нет."
+      ]
+    }
+  },
+  "open-9c5e1f77970bece7": {
+    "examples": [
+      {
+        "ro": "Pe raft se află o sticlă de votcă.",
+        "ru": "На полке стоит бутылка водки."
+      },
+      {
+        "ro": "Această rețetă de sos conține votcă.",
+        "ru": "Этот рецепт соуса содержит водку."
+      }
+    ],
+    "editorial": {
+      "status": "reviewed",
+      "examplesReviewed": true,
+      "method": "agent-editorial-review",
+      "scope": [
+        "examples"
+      ],
+      "notes": [
+        "Добавлены контекстные примеры с переводом 2026-10-18. Независимой проверки носителем языка нет."
+      ]
+    }
+  },
+  "open-117fc29e18a86b2c": {
+    "examples": [
+      {
+        "ro": "Un smochin crește lângă casă.",
+        "ru": "Рядом с домом растёт инжирное дерево."
+      },
+      {
+        "ro": "Fructele smochinului sunt coapte.",
+        "ru": "Плоды инжирного дерева созрели."
+      }
+    ],
+    "editorial": {
+      "status": "reviewed",
+      "examplesReviewed": true,
+      "method": "agent-editorial-review",
+      "scope": [
+        "examples"
+      ],
+      "notes": [
+        "Добавлены контекстные примеры с переводом 2026-10-18. Независимой проверки носителем языка нет."
+      ]
+    }
+  },
+  "open-03ecab669ba200ba": {
+    "examples": [
+      {
+        "ro": "Această cutie este făcută din metal.",
+        "ru": "Эта коробка сделана из металла."
+      },
+      {
+        "ro": "Metalul se încălzește la soare.",
+        "ru": "Металл нагревается на солнце."
+      }
+    ],
+    "editorial": {
+      "status": "reviewed",
+      "examplesReviewed": true,
+      "method": "agent-editorial-review",
+      "scope": [
+        "examples"
+      ],
+      "notes": [
+        "Добавлены контекстные примеры с переводом 2026-10-18. Независимой проверки носителем языка нет."
+      ]
+    }
+  },
+  "open-3526d467f3d79471": {
+    "examples": [
+      {
+        "ro": "Acest parfum miroase a flori.",
+        "ru": "Эти духи пахнут цветами."
+      },
+      {
+        "ro": "Am primit o sticlă de parfum.",
+        "ru": "Мне подарили флакон духов."
+      }
+    ],
+    "editorial": {
+      "status": "reviewed",
+      "examplesReviewed": true,
+      "method": "agent-editorial-review",
+      "scope": [
+        "examples"
+      ],
+      "notes": [
+        "Добавлены контекстные примеры с переводом 2026-10-18. Независимой проверки носителем языка нет."
+      ]
+    }
+  },
+  "open-b3a403460aab7e48": {
+    "examples": [
+      {
+        "ro": "Am găsit o monedă sub masă.",
+        "ru": "Я нашёл монету под столом."
+      },
+      {
+        "ro": "Această monedă valorează un leu.",
+        "ru": "Эта монета стоит один лей."
+      }
+    ],
+    "editorial": {
+      "status": "reviewed",
+      "examplesReviewed": true,
+      "method": "agent-editorial-review",
+      "scope": [
+        "examples"
+      ],
+      "notes": [
+        "Добавлены контекстные примеры с переводом 2026-10-18. Независимой проверки носителем языка нет."
+      ]
+    }
+  },
+  "open-884faea7d9b80eef": {
+    "examples": [
+      {
+        "ro": "Pe clădire flutură un steag.",
+        "ru": "На здании развевается флаг."
+      },
+      {
+        "ro": "Steagul României are trei culori.",
+        "ru": "У флага Румынии три цвета."
+      }
+    ],
+    "editorial": {
+      "status": "reviewed",
+      "examplesReviewed": true,
+      "method": "agent-editorial-review",
+      "scope": [
+        "examples"
+      ],
+      "notes": [
+        "Добавлены контекстные примеры с переводом 2026-10-18. Независимой проверки носителем языка нет."
+      ]
+    }
+  },
+  "open-6fe5384e1ccf8fba": {
+    "examples": [
+      {
+        "ro": "Care este temperatura afară?",
+        "ru": "Какая температура на улице?"
+      },
+      {
+        "ro": "Temperatura din cameră este de douăzeci de grade.",
+        "ru": "Температура в комнате — двадцать градусов."
+      }
+    ],
+    "editorial": {
+      "status": "reviewed",
+      "examplesReviewed": true,
+      "method": "agent-editorial-review",
+      "scope": [
+        "examples"
+      ],
+      "notes": [
+        "Добавлены контекстные примеры с переводом 2026-10-18. Независимой проверки носителем языка нет."
+      ]
+    }
+  },
+  "open-505d87159210b7cd": {
+    "examples": [
+      {
+        "ro": "În sobă a rămas cenușă.",
+        "ru": "В печи осталась зола."
+      },
+      {
+        "ro": "Curăț cenușa după ce se răcește soba.",
+        "ru": "Я убираю золу после того, как печь остынет."
+      }
+    ],
+    "editorial": {
+      "status": "reviewed",
+      "examplesReviewed": true,
+      "method": "agent-editorial-review",
+      "scope": [
+        "examples"
+      ],
+      "notes": [
+        "Добавлены контекстные примеры с переводом 2026-10-18. Независимой проверки носителем языка нет."
+      ]
+    }
+  },
+  "open-22e1e0eabf8c2cba": {
+    "examples": [
+      {
+        "ro": "După ploaie s-a format o baltă pe drum.",
+        "ru": "После дождя на дороге образовалась лужа."
+      },
+      {
+        "ro": "Broaștele trăiesc într-o baltă lângă sat.",
+        "ru": "Лягушки живут в пруду рядом с деревней."
+      }
+    ],
+    "editorial": {
+      "status": "reviewed",
+      "examplesReviewed": true,
+      "method": "agent-editorial-review",
+      "scope": [
+        "examples"
+      ],
+      "notes": [
+        "Добавлены контекстные примеры с переводом 2026-10-18. Независимой проверки носителем языка нет."
+      ]
+    }
+  },
+  "open-d4c4814ce9ce15ca": {
+    "examples": [
+      {
+        "ro": "Am primit o broșură despre muzeu.",
+        "ru": "Я получил брошюру о музее."
+      },
+      {
+        "ro": "Programul excursiilor este în această broșură.",
+        "ru": "Расписание экскурсий находится в этой брошюре."
+      }
+    ],
+    "editorial": {
+      "status": "reviewed",
+      "examplesReviewed": true,
+      "method": "agent-editorial-review",
+      "scope": [
+        "examples"
+      ],
+      "notes": [
+        "Добавлены контекстные примеры с переводом 2026-10-18. Независимой проверки носителем языка нет."
+      ]
+    }
+  },
+  "open-8548e7d19852495e": {
+    "examples": [
+      {
+        "ro": "Acest inel are un diamant mic.",
+        "ru": "В этом кольце маленький алмаз."
+      },
+      {
+        "ro": "Diamantul este o piatră foarte dură.",
+        "ru": "Алмаз — очень твёрдый камень."
+      }
+    ],
+    "editorial": {
+      "status": "reviewed",
+      "examplesReviewed": true,
+      "method": "agent-editorial-review",
+      "scope": [
+        "examples"
+      ],
+      "notes": [
+        "Добавлены контекстные примеры с переводом 2026-10-18. Независимой проверки носителем языка нет."
+      ]
+    }
+  },
+  "open-de54c9b116dff346": {
+    "examples": [
+      {
+        "ro": "Verific echipamentul înainte de plecare.",
+        "ru": "Я проверяю снаряжение перед отъездом."
+      },
+      {
+        "ro": "Laboratorul are echipament nou.",
+        "ru": "В лаборатории новое оборудование."
+      }
+    ],
+    "editorial": {
+      "status": "reviewed",
+      "examplesReviewed": true,
+      "method": "agent-editorial-review",
+      "scope": [
+        "examples"
+      ],
+      "notes": [
+        "Добавлены контекстные примеры с переводом 2026-10-18. Независимой проверки носителем языка нет."
+      ]
+    }
+  },
+  "open-cb37790a8586667f": {
+    "examples": [
+      {
+        "ro": "Muzicianul lovește gongul o singură dată.",
+        "ru": "Музыкант ударяет в гонг один раз."
+      },
+      {
+        "ro": "Sunetul gongului se aude în toată sala.",
+        "ru": "Звук гонга слышен во всём зале."
+      }
+    ],
+    "editorial": {
+      "status": "reviewed",
+      "examplesReviewed": true,
+      "method": "agent-editorial-review",
+      "scope": [
+        "examples"
+      ],
+      "notes": [
+        "Добавлены контекстные примеры с переводом 2026-10-18. Независимой проверки носителем языка нет."
+      ]
+    }
+  },
+  "open-842bc6fbe192e3be": {
+    "examples": [
+      {
+        "ro": "Am vizitat un palat vechi.",
+        "ru": "Я посетил старый дворец."
+      },
+      {
+        "ro": "Grădina palatului este deschisă publicului.",
+        "ru": "Сад дворца открыт для посетителей."
+      }
+    ],
+    "editorial": {
+      "status": "reviewed",
+      "examplesReviewed": true,
+      "method": "agent-editorial-review",
+      "scope": [
+        "examples"
+      ],
+      "notes": [
+        "Добавлены контекстные примеры с переводом 2026-10-18. Независимой проверки носителем языка нет."
+      ]
+    }
+  },
+  "open-f7f8d605e921ad0c": {
+    "examples": [
+      {
+        "ro": "Pe podeaua atelierului este rumeguș.",
+        "ru": "На полу мастерской лежат опилки."
+      },
+      {
+        "ro": "Strâng rumegușul după ce tai scândurile.",
+        "ru": "Я собираю опилки после распиловки досок."
+      }
+    ],
+    "editorial": {
+      "status": "reviewed",
+      "examplesReviewed": true,
+      "method": "agent-editorial-review",
+      "scope": [
+        "examples"
+      ],
+      "notes": [
+        "Добавлены контекстные примеры с переводом 2026-10-18. Независимой проверки носителем языка нет."
+      ]
+    }
+  },
+  "open-b92cb4dd1f184c7e": {
+    "examples": [
+      {
+        "ro": "Petrolul este transportat prin conducte.",
+        "ru": "Нефть транспортируют по трубопроводам."
+      },
+      {
+        "ro": "Această țară produce petrol.",
+        "ru": "Эта страна добывает нефть."
+      }
+    ],
+    "editorial": {
+      "status": "reviewed",
+      "examplesReviewed": true,
+      "method": "agent-editorial-review",
+      "scope": [
+        "examples"
+      ],
+      "notes": [
+        "Добавлены контекстные примеры с переводом 2026-10-18. Независимой проверки носителем языка нет."
+      ]
+    }
+  },
+  "open-4b77da12aa2329fe": {
+    "examples": [
+      {
+        "ro": "O limuzină albă a oprit în fața hotelului.",
+        "ru": "Перед гостиницей остановился белый лимузин."
+      },
+      {
+        "ro": "Mirii au sosit într-o limuzină.",
+        "ru": "Молодожёны приехали на лимузине."
+      }
+    ],
+    "editorial": {
+      "status": "reviewed",
+      "examplesReviewed": true,
+      "method": "agent-editorial-review",
+      "scope": [
+        "examples"
+      ],
+      "notes": [
+        "Добавлены контекстные примеры с переводом 2026-10-18. Независимой проверки носителем языка нет."
+      ]
+    }
+  },
+  "open-794b8c9575ffd4af": {
+    "examples": [
+      {
+        "ro": "Bărbierul folosește un brici.",
+        "ru": "Парикмахер использует опасную бритву."
+      },
+      {
+        "ro": "Briciul este foarte ascuțit.",
+        "ru": "Опасная бритва очень острая."
+      }
+    ],
+    "editorial": {
+      "status": "reviewed",
+      "examplesReviewed": true,
+      "method": "agent-editorial-review",
+      "scope": [
+        "examples"
+      ],
+      "notes": [
+        "Добавлены контекстные примеры с переводом 2026-10-18. Независимой проверки носителем языка нет."
+      ]
+    }
+  },
+  "open-2a96afeef14f0a44": {
+    "examples": [
+      {
+        "ro": "Mirele așteaptă lângă mireasă.",
+        "ru": "Жених ждёт рядом с невестой."
+      },
+      {
+        "ro": "Mirele poartă un costum albastru.",
+        "ru": "На женихе синий костюм."
+      }
+    ],
+    "editorial": {
+      "status": "reviewed",
+      "examplesReviewed": true,
+      "method": "agent-editorial-review",
+      "scope": [
+        "examples"
+      ],
+      "notes": [
+        "Добавлены контекстные примеры с переводом 2026-10-18. Независимой проверки носителем языка нет."
+      ]
+    }
+  },
+  "open-1bafc471784418c0": {
+    "examples": [
+      {
+        "ro": "Turiștii vizitează un mausoleu vechi.",
+        "ru": "Туристы посещают старый мавзолей."
+      },
+      {
+        "ro": "Intrarea în mausoleu este închisă astăzi.",
+        "ru": "Вход в мавзолей сегодня закрыт."
+      }
+    ],
+    "editorial": {
+      "status": "reviewed",
+      "examplesReviewed": true,
+      "method": "agent-editorial-review",
+      "scope": [
+        "examples"
+      ],
+      "notes": [
+        "Добавлены контекстные примеры с переводом 2026-10-18. Независимой проверки носителем языка нет."
+      ]
+    }
+  },
+  "open-c3d8a87468449af9": {
+    "examples": [
+      {
+        "ro": "În muzeu se află un sarcofag din piatră.",
+        "ru": "В музее находится каменный саркофаг."
+      },
+      {
+        "ro": "Ghidul ne arată inscripția de pe sarcofag.",
+        "ru": "Гид показывает нам надпись на саркофаге."
+      }
+    ],
+    "editorial": {
+      "status": "reviewed",
+      "examplesReviewed": true,
+      "method": "agent-editorial-review",
+      "scope": [
+        "examples"
+      ],
+      "notes": [
+        "Добавлены контекстные примеры с переводом 2026-10-18. Независимой проверки носителем языка нет."
+      ]
+    }
   }
 }

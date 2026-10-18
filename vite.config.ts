@@ -8,6 +8,7 @@ export default defineConfig({
     tailwindcss(),
     VitePWA({
       registerType: "prompt",
+      injectRegister: false,
       includeAssets: ["icon.svg", "icon-192.png", "icon-512.png"],
       manifest: {
         name: "ROMÂNA NOVA — Академия румынского языка",
@@ -41,6 +42,7 @@ export default defineConfig({
         ],
       },
       workbox: {
+        clientsClaim: true,
         globPatterns: ["**/*.{js,css,html,svg,png,jpg,webp,woff2}"],
         globIgnores: ["data/**", "audio/**", "photos/**"],
         additionalManifestEntries: [
@@ -54,9 +56,9 @@ export default defineConfig({
             urlPattern: /\/audio\/.*\.mp3$/,
             handler: "CacheFirst",
             options: {
-              cacheName: "romana-audio-v1",
+              cacheName: "romana-audio-v2",
               rangeRequests: true,
-              cacheableResponse: { statuses: [200] },
+              cacheableResponse: { statuses: [200], headers: { "content-type": "audio/mpeg" } },
               expiration: { maxEntries: 1500, maxAgeSeconds: 7776000 },
             },
           },

@@ -120,6 +120,20 @@ describe("Надёжный румынский аудиодвижок", () => {
       source: "file",
     });
   });
+  it("локальный MP3 не зависит от исправности системного синтезатора", async () => {
+    engine.cancel.mockImplementation(() => { throw new Error("OS speech unavailable"); });
+    api.speak("Bună!", 1);
+    await Promise.resolve();
+    expect(api.getAudioState()).toMatchObject({ status: "playing", source: "file", url: "/audio/buna.mp3" });
+  });
+  it("ошибка декодера содержит код и конкретный URL", async () => {
+    api.speak("Bună!", 1);
+    await Promise.resolve();
+    Object.assign(instances[0], { error: { code: 3 } });
+    instances[0].onerror?.();
+    expect(api.getAudioState().error).toContain("MediaError 3");
+    expect(api.getAudioState().error).toContain("/audio/buna.mp3");
+  });
   it("не сообщает о воспроизведении при отказе мобильного autoplay", async () => {
     blocked = true;
     const error = vi.fn();

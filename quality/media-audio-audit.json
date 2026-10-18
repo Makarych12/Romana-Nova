@@ -1,0 +1,19 @@
+{
+  "date": "2026-10-18",
+  "catalog": "/data/vocabulary-1ecf372bf417.json",
+  "manifestSHA256": "b608ef209c7b50921675b8f37772561cdb12920a8972d45c1b814626fb2949db",
+  "cards": 7984,
+  "wordFiles": 7984,
+  "examples": 2655,
+  "exampleFiles": 2655,
+  "linkedPhotos": 497,
+  "cardsWithFewerThanTwoExamples": 6813,
+  "uniqueMP3": 11455,
+  "originalMediaFilesChecked": 11725,
+  "decodedAllMP3": true,
+  "browserPlaybackVerified": false,
+  "physicalSoundVerified": false,
+  "mobileRenderingVerified": false,
+  "preservedCardIds": 7984,
+  "errors": []
+}

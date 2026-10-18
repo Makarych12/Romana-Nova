@@ -1,4 +1,4 @@
-import { useState, useEffect } from "react";
+import { useState } from "react";
 import { ImageOff } from "lucide-react";
 export default function SafeImage({
   src,
@@ -9,9 +9,8 @@ export default function SafeImage({
   alt: string;
   className?: string;
 }) {
-  const [failed, setFailed] = useState(false);
-  useEffect(() => setFailed(false), [src]);
-  return failed ? (
+  const [failedSrc, setFailedSrc] = useState<string | null>(null);
+  return failedSrc === src ? (
     <div
       role="img"
       aria-label={`Фото недоступно: ${alt}`}
@@ -22,12 +21,13 @@ export default function SafeImage({
     </div>
   ) : (
     <img
+      key={src}
       src={src}
       alt={alt}
       className={className}
       loading="lazy"
       decoding="async"
-      onError={() => setFailed(true)}
+      onError={() => setFailedSrc(src)}
     />
   );
 }

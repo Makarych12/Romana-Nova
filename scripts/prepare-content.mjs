@@ -74,8 +74,9 @@ const filename = `vocabulary-${crypto.createHash("sha256").update(body).digest("
 // Retain the deployed 1.1.0 catalog and recent versions for older app tabs.
 const baselineMeta='quality/baseline-1.1.0/catalog-meta.json';
 const pinned=fs.existsSync(baselineMeta)?JSON.parse(fs.readFileSync(baselineMeta,'utf8')).url.split('/').at(-1):'';
-const recent=fs.readdirSync('public/data').filter(n=>/^vocabulary-[a-f0-9]+\.json$/.test(n)).sort((a,b)=>fs.statSync('public/data/'+b).mtimeMs-fs.statSync('public/data/'+a).mtimeMs).slice(0,2);
-for(const name of fs.readdirSync('public/data'))if(/^vocabulary-[a-f0-9]+\.json$/.test(name)&&name!==filename&&name!==pinned&&!recent.includes(name))fs.unlinkSync('public/data/'+name);
+const recent=fs.readdirSync('public/data').filter(n=>/^vocabulary-[a-f0-9]+\.json$/.test(n)&&n!==filename).sort((a,b)=>fs.statSync('public/data/'+b).mtimeMs-fs.statSync('public/data/'+a).mtimeMs).slice(0,4);
+// Older installed PWA bundles refer to their exact content hash. Keep those
+// catalogs available on the host; runtime cache expiration is managed by SW.
 fs.writeFileSync(`public/data/${filename}`, body);
 const meta = {
   url: `/data/${filename}`,

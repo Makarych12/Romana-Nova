@@ -5324,14 +5324,18 @@
     "photoReview": {
       "method": "exact-ro-ru-wikidata-labels-p18-commons-license",
       "status": "automated-bilingual-match",
-      "visuallyReviewed": false,
+      "visuallyReviewed": true,
       "entity": "Q14748",
       "commonsFile": "Parsons Table.jpg",
       "roLabel": "masă",
       "ruLabel": "стол",
       "sourceWidth": 700,
       "sourceHeight": 394,
-      "verifiedAt": "2026-10-17"
+      "verifiedAt": "2026-10-17",
+      "visualReviewMethod": "agent-contact-sheet-visual-review",
+      "visualReviewDate": "2026-10-18",
+      "reviewSheet": "artifacts/photo-review/revision-2026-10-18/sheet-01.jpg",
+      "reviewIndex": 0
     }
   },
   "curated-cuptor": {
@@ -5346,14 +5350,18 @@
     "photoReview": {
       "method": "exact-ro-ru-wikidata-labels-p18-commons-license",
       "status": "automated-bilingual-match",
-      "visuallyReviewed": false,
+      "visuallyReviewed": true,
       "entity": "Q36539",
       "commonsFile": "Palacio de la Reunificación, Ciudad Ho Chi Minh, Vietnam, 2013-08-14, DD 28.JPG",
       "roLabel": "cuptor",
       "ruLabel": "печь",
       "sourceWidth": 3302,
       "sourceHeight": 4561,
-      "verifiedAt": "2026-10-17"
+      "verifiedAt": "2026-10-17",
+      "visualReviewMethod": "agent-contact-sheet-visual-review",
+      "visualReviewDate": "2026-10-18",
+      "reviewSheet": "artifacts/photo-review/revision-2026-10-18/sheet-01.jpg",
+      "reviewIndex": 4
     }
   },
   "w15": {
@@ -5368,14 +5376,18 @@
     "photoReview": {
       "method": "exact-ro-ru-wikidata-labels-p18-commons-license",
       "status": "automated-bilingual-match",
-      "visuallyReviewed": false,
+      "visuallyReviewed": true,
       "entity": "Q1368",
       "commonsFile": "Euro coins and banknotes.jpg",
       "roLabel": "bani",
       "ruLabel": "деньги",
       "sourceWidth": 2272,
       "sourceHeight": 1704,
-      "verifiedAt": "2026-10-17"
+      "verifiedAt": "2026-10-17",
+      "visualReviewMethod": "agent-contact-sheet-visual-review",
+      "visualReviewDate": "2026-10-18",
+      "reviewSheet": "artifacts/photo-review/revision-2026-10-18/sheet-01.jpg",
+      "reviewIndex": 1
     }
   },
   "curated-motocicleta": {
@@ -5390,14 +5402,18 @@
     "photoReview": {
       "method": "exact-ro-ru-wikidata-labels-p18-commons-license",
       "status": "automated-bilingual-match",
-      "visuallyReviewed": false,
+      "visuallyReviewed": true,
       "entity": "Q34493",
       "commonsFile": "Norton Motorcycle.jpg",
       "roLabel": "motocicletă",
       "ruLabel": "мотоцикл",
       "sourceWidth": 4928,
       "sourceHeight": 3280,
-      "verifiedAt": "2026-10-17"
+      "verifiedAt": "2026-10-17",
+      "visualReviewMethod": "agent-contact-sheet-visual-review",
+      "visualReviewDate": "2026-10-18",
+      "reviewSheet": "artifacts/photo-review/revision-2026-10-18/sheet-01.jpg",
+      "reviewIndex": 8
     }
   },
   "curated-contract": {
@@ -5478,14 +5494,18 @@
     "photoReview": {
       "method": "exact-ro-ru-wikidata-labels-p18-commons-license",
       "status": "automated-bilingual-match",
-      "visuallyReviewed": false,
+      "visuallyReviewed": true,
       "entity": "Q25550691",
       "commonsFile": "Rathaus Stralsund nächtlich erleuchtet.jpg",
       "roLabel": "primărie",
       "ruLabel": "мэрия",
       "sourceWidth": 3000,
       "sourceHeight": 3000,
-      "verifiedAt": "2026-10-17"
+      "verifiedAt": "2026-10-17",
+      "visualReviewMethod": "agent-contact-sheet-visual-review",
+      "visualReviewDate": "2026-10-18",
+      "reviewSheet": "artifacts/photo-review/revision-2026-10-18/sheet-01.jpg",
+      "reviewIndex": 12
     }
   },
   "open-8a2539e2b69d9daf": {
@@ -5500,14 +5520,18 @@
     "photoReview": {
       "method": "exact-ro-ru-wikidata-labels-p18-commons-license",
       "status": "automated-bilingual-match",
-      "visuallyReviewed": false,
+      "visuallyReviewed": true,
       "entity": "Q282",
       "commonsFile": "Red and white wine 12-2015.jpg",
       "roLabel": "vin",
       "ruLabel": "вино",
       "sourceWidth": 3073,
       "sourceHeight": 3073,
-      "verifiedAt": "2026-10-17"
+      "verifiedAt": "2026-10-17",
+      "visualReviewMethod": "agent-contact-sheet-visual-review",
+      "visualReviewDate": "2026-10-18",
+      "reviewSheet": "artifacts/photo-review/revision-2026-10-18/sheet-01.jpg",
+      "reviewIndex": 16
     }
   },
   "open-d3052463b7a5e9db": {
@@ -5610,14 +5634,18 @@
     "photoReview": {
       "method": "exact-ro-ru-wikidata-labels-p18-commons-license",
       "status": "automated-bilingual-match",
-      "visuallyReviewed": false,
+      "visuallyReviewed": true,
       "entity": "Q27686",
       "commonsFile": "PNY Exterior with Rolls Royce.jpg",
       "roLabel": "hotel",
       "ruLabel": "гостиница",
       "sourceWidth": 5357,
       "sourceHeight": 3773,
-      "verifiedAt": "2026-10-17"
+      "verifiedAt": "2026-10-17",
+      "visualReviewMethod": "agent-contact-sheet-visual-review",
+      "visualReviewDate": "2026-10-18",
+      "reviewSheet": "artifacts/photo-review/revision-2026-10-18/sheet-01.jpg",
+      "reviewIndex": 20
     }
   },
   "open-1f7330d04cde8888": {
@@ -5632,14 +5660,18 @@
     "photoReview": {
       "method": "exact-ro-ru-wikidata-labels-p18-commons-license",
       "status": "automated-bilingual-match",
-      "visuallyReviewed": false,
+      "visuallyReviewed": true,
       "entity": "Q44",
       "commonsFile": "NCI Visuals Food Beer.jpg",
       "roLabel": "bere",
       "ruLabel": "пиво",
       "sourceWidth": 2700,
       "sourceHeight": 1800,
-      "verifiedAt": "2026-10-17"
+      "verifiedAt": "2026-10-17",
+      "visualReviewMethod": "agent-contact-sheet-visual-review",
+      "visualReviewDate": "2026-10-18",
+      "reviewSheet": "artifacts/photo-review/revision-2026-10-18/sheet-01.jpg",
+      "reviewIndex": 26
     }
   },
   "open-91a9eb5e7e990793": {
@@ -5676,14 +5708,18 @@
     "photoReview": {
       "method": "exact-ro-ru-wikidata-labels-p18-commons-license",
       "status": "automated-bilingual-match",
-      "visuallyReviewed": false,
+      "visuallyReviewed": true,
       "entity": "Q718",
       "commonsFile": "Opening chess position from black side.jpg",
       "roLabel": "șah",
       "ruLabel": "шахматы",
       "sourceWidth": 3190,
       "sourceHeight": 2196,
-      "verifiedAt": "2026-10-17"
+      "verifiedAt": "2026-10-17",
+      "visualReviewMethod": "agent-contact-sheet-visual-review",
+      "visualReviewDate": "2026-10-18",
+      "reviewSheet": "artifacts/photo-review/revision-2026-10-18/sheet-01.jpg",
+      "reviewIndex": 28
     }
   },
   "open-f8d397a33fcb9725": {
@@ -5698,14 +5734,18 @@
     "photoReview": {
       "method": "exact-ro-ru-wikidata-labels-p18-commons-license",
       "status": "automated-bilingual-match",
-      "visuallyReviewed": false,
+      "visuallyReviewed": true,
       "entity": "Q44782",
       "commonsFile": "Port of Piraeus.jpg",
       "roLabel": "port",
       "ruLabel": "порт",
       "sourceWidth": 3264,
       "sourceHeight": 2448,
-      "verifiedAt": "2026-10-17"
+      "verifiedAt": "2026-10-17",
+      "visualReviewMethod": "agent-contact-sheet-visual-review",
+      "visualReviewDate": "2026-10-18",
+      "reviewSheet": "artifacts/photo-review/revision-2026-10-18/sheet-01.jpg",
+      "reviewIndex": 27
     }
   },
   "open-64879f7d6b960a01": {
@@ -5742,14 +5782,18 @@
     "photoReview": {
       "method": "exact-ro-ru-wikidata-labels-p18-commons-license",
       "status": "automated-bilingual-match",
-      "visuallyReviewed": false,
+      "visuallyReviewed": true,
       "entity": "Q22731",
       "commonsFile": "Packed rocks.jpg",
       "roLabel": "piatră",
       "ruLabel": "камень",
       "sourceWidth": 2560,
       "sourceHeight": 1706,
-      "verifiedAt": "2026-10-17"
+      "verifiedAt": "2026-10-17",
+      "visualReviewMethod": "agent-contact-sheet-visual-review",
+      "visualReviewDate": "2026-10-18",
+      "reviewSheet": "artifacts/photo-review/revision-2026-10-18/sheet-01.jpg",
+      "reviewIndex": 29
     }
   },
   "open-cbde78cc776c50db": {
@@ -5764,14 +5808,18 @@
     "photoReview": {
       "method": "exact-ro-ru-wikidata-labels-p18-commons-license",
       "status": "automated-bilingual-match",
-      "visuallyReviewed": false,
+      "visuallyReviewed": true,
       "entity": "Q376",
       "commonsFile": "Pendulum clock by Jacob Kock, antique furniture photography, IMG 0931 edit.jpg",
       "roLabel": "ceas",
       "ruLabel": "часы",
       "sourceWidth": 3378,
       "sourceHeight": 4622,
-      "verifiedAt": "2026-10-17"
+      "verifiedAt": "2026-10-17",
+      "visualReviewMethod": "agent-contact-sheet-visual-review",
+      "visualReviewDate": "2026-10-18",
+      "reviewSheet": "artifacts/photo-review/revision-2026-10-18/sheet-01.jpg",
+      "reviewIndex": 30
     }
   },
   "open-353882dc8e112ae4": {
@@ -5786,14 +5834,18 @@
     "photoReview": {
       "method": "exact-ro-ru-wikidata-labels-p18-commons-license",
       "status": "automated-bilingual-match",
-      "visuallyReviewed": false,
+      "visuallyReviewed": true,
       "entity": "Q12166442",
       "commonsFile": "Mecz piłkarski 22 października 2022 - Zaglębie Sosnowiec vs Wisła Kraków, Station Ludowy.jpg",
       "roLabel": "meci",
       "ruLabel": "матч",
       "sourceWidth": 7008,
       "sourceHeight": 4672,
-      "verifiedAt": "2026-10-17"
+      "verifiedAt": "2026-10-17",
+      "visualReviewMethod": "agent-contact-sheet-visual-review",
+      "visualReviewDate": "2026-10-18",
+      "reviewSheet": "artifacts/photo-review/revision-2026-10-18/sheet-01.jpg",
+      "reviewIndex": 33
     }
   },
   "open-2b687f9b0a248bed": {
@@ -5830,14 +5882,18 @@
     "photoReview": {
       "method": "exact-ro-ru-wikidata-labels-p18-commons-license",
       "status": "automated-bilingual-match",
-      "visuallyReviewed": false,
+      "visuallyReviewed": true,
       "entity": "Q11563",
       "commonsFile": "Numbers grid in NY.jpg",
       "roLabel": "număr",
       "ruLabel": "число",
       "sourceWidth": 2560,
       "sourceHeight": 1920,
-      "verifiedAt": "2026-10-17"
+      "verifiedAt": "2026-10-17",
+      "visualReviewMethod": "agent-contact-sheet-visual-review",
+      "visualReviewDate": "2026-10-18",
+      "reviewSheet": "artifacts/photo-review/revision-2026-10-18/sheet-01.jpg",
+      "reviewIndex": 37
     }
   },
   "open-e35449223b54bce2": {
@@ -5940,14 +5996,18 @@
     "photoReview": {
       "method": "exact-ro-ru-wikidata-labels-p18-commons-license",
       "status": "automated-bilingual-match",
-      "visuallyReviewed": false,
+      "visuallyReviewed": true,
       "entity": "Q728",
       "commonsFile": "Sabre bayonette carabine.jpg",
       "roLabel": "armă",
       "ruLabel": "оружие",
       "sourceWidth": 1920,
       "sourceHeight": 2560,
-      "verifiedAt": "2026-10-17"
+      "verifiedAt": "2026-10-17",
+      "visualReviewMethod": "agent-contact-sheet-visual-review",
+      "visualReviewDate": "2026-10-18",
+      "reviewSheet": "artifacts/photo-review/revision-2026-10-18/sheet-01.jpg",
+      "reviewIndex": 42
     }
   },
   "open-7f1f073d8bb9b2e3": {
@@ -6028,14 +6088,18 @@
     "photoReview": {
       "method": "exact-ro-ru-wikidata-labels-p18-commons-license",
       "status": "automated-bilingual-match",
-      "visuallyReviewed": false,
+      "visuallyReviewed": true,
       "entity": "Q9430",
       "commonsFile": "Ocean beach at low tide against the sun.jpg",
       "roLabel": "ocean",
       "ruLabel": "океан",
       "sourceWidth": 2529,
       "sourceHeight": 1839,
-      "verifiedAt": "2026-10-17"
+      "verifiedAt": "2026-10-17",
+      "visualReviewMethod": "agent-contact-sheet-visual-review",
+      "visualReviewDate": "2026-10-18",
+      "reviewSheet": "artifacts/photo-review/revision-2026-10-18/sheet-01.jpg",
+      "reviewIndex": 45
     }
   },
   "open-57e7f97aa3902d64": {
@@ -6072,14 +6136,18 @@
     "photoReview": {
       "method": "exact-ro-ru-wikidata-labels-p18-commons-license",
       "status": "automated-bilingual-match",
-      "visuallyReviewed": false,
+      "visuallyReviewed": true,
       "entity": "Q191067",
       "commonsFile": "New York Times 1918-08-19.jpg",
       "roLabel": "articol",
       "ruLabel": "статья",
       "sourceWidth": 756,
       "sourceHeight": 572,
-      "verifiedAt": "2026-10-17"
+      "verifiedAt": "2026-10-17",
+      "visualReviewMethod": "agent-contact-sheet-visual-review",
+      "visualReviewDate": "2026-10-18",
+      "reviewSheet": "artifacts/photo-review/revision-2026-10-18/sheet-01.jpg",
+      "reviewIndex": 47
     }
   },
   "open-d5e14ba6289c57c3": {
@@ -6138,14 +6206,18 @@
     "photoReview": {
       "method": "exact-ro-ru-wikidata-labels-p18-commons-license",
       "status": "automated-bilingual-match",
-      "visuallyReviewed": false,
+      "visuallyReviewed": true,
       "entity": "Q152095",
       "commonsFile": "1rm60rt0t rtbcwh.jpg",
       "roLabel": "cadă",
       "ruLabel": "ванна",
       "sourceWidth": 636,
       "sourceHeight": 420,
-      "verifiedAt": "2026-10-17"
+      "verifiedAt": "2026-10-17",
+      "visualReviewMethod": "agent-contact-sheet-visual-review",
+      "visualReviewDate": "2026-10-18",
+      "reviewSheet": "artifacts/photo-review/revision-2026-10-18/sheet-02.jpg",
+      "reviewIndex": 52
     }
   },
   "open-b63cb424701d4bff": {
@@ -6160,14 +6232,18 @@
     "photoReview": {
       "method": "exact-ro-ru-wikidata-labels-p18-commons-license",
       "status": "automated-bilingual-match",
-      "visuallyReviewed": false,
+      "visuallyReviewed": true,
       "entity": "Q124695",
       "commonsFile": "Honey comb.jpg",
       "roLabel": "ceară",
       "ruLabel": "воск",
       "sourceWidth": 800,
       "sourceHeight": 600,
-      "verifiedAt": "2026-10-17"
+      "verifiedAt": "2026-10-17",
+      "visualReviewMethod": "agent-contact-sheet-visual-review",
+      "visualReviewDate": "2026-10-18",
+      "reviewSheet": "artifacts/photo-review/revision-2026-10-18/sheet-02.jpg",
+      "reviewIndex": 50
     }
   },
   "open-7f1af712085feab3": {
@@ -6182,14 +6258,18 @@
     "photoReview": {
       "method": "exact-ro-ru-wikidata-labels-p18-commons-license",
       "status": "automated-bilingual-match",
-      "visuallyReviewed": false,
+      "visuallyReviewed": true,
       "entity": "Q1578",
       "commonsFile": "Cigaret-5.jpg",
       "roLabel": "țigară",
       "ruLabel": "сигарета",
       "sourceWidth": 2048,
       "sourceHeight": 1536,
-      "verifiedAt": "2026-10-17"
+      "verifiedAt": "2026-10-17",
+      "visualReviewMethod": "agent-contact-sheet-visual-review",
+      "visualReviewDate": "2026-10-18",
+      "reviewSheet": "artifacts/photo-review/revision-2026-10-18/sheet-02.jpg",
+      "reviewIndex": 58
     }
   },
   "open-fe442c03fdd5f807": {
@@ -6248,14 +6328,18 @@
     "photoReview": {
       "method": "exact-ro-ru-wikidata-labels-p18-commons-license",
       "status": "automated-bilingual-match",
-      "visuallyReviewed": false,
+      "visuallyReviewed": true,
       "entity": "Q131514",
       "commonsFile": "0 4374 Couch im Freien.jpg",
       "roLabel": "Canapea",
       "ruLabel": "диван",
       "sourceWidth": 5700,
       "sourceHeight": 3800,
-      "verifiedAt": "2026-10-17"
+      "verifiedAt": "2026-10-17",
+      "visualReviewMethod": "agent-contact-sheet-visual-review",
+      "visualReviewDate": "2026-10-18",
+      "reviewSheet": "artifacts/photo-review/revision-2026-10-18/sheet-02.jpg",
+      "reviewIndex": 53
     }
   },
   "open-f0875f3e5603aed1": {
@@ -6358,14 +6442,18 @@
     "photoReview": {
       "method": "exact-ro-ru-wikidata-labels-p18-commons-license",
       "status": "automated-bilingual-match",
-      "visuallyReviewed": false,
+      "visuallyReviewed": true,
       "entity": "Q168983",
       "commonsFile": "Fire inside an abandoned convent in Massueville, Quebec, Canada.jpg",
       "roLabel": "incendiu",
       "ruLabel": "пожар",
       "sourceWidth": 2362,
       "sourceHeight": 1682,
-      "verifiedAt": "2026-10-17"
+      "verifiedAt": "2026-10-17",
+      "visualReviewMethod": "agent-contact-sheet-visual-review",
+      "visualReviewDate": "2026-10-18",
+      "reviewSheet": "artifacts/photo-review/revision-2026-10-18/sheet-02.jpg",
+      "reviewIndex": 66
     }
   },
   "open-176a11f13c92823b": {
@@ -6380,14 +6468,18 @@
     "photoReview": {
       "method": "exact-ro-ru-wikidata-labels-p18-commons-license",
       "status": "automated-bilingual-match",
-      "visuallyReviewed": false,
+      "visuallyReviewed": true,
       "entity": "Q989946",
       "commonsFile": "Réunion Maïdo kiosque pique-nique.JPG",
       "roLabel": "adăpost",
       "ruLabel": "укрытие",
       "sourceWidth": 3350,
       "sourceHeight": 2237,
-      "verifiedAt": "2026-10-17"
+      "verifiedAt": "2026-10-17",
+      "visualReviewMethod": "agent-contact-sheet-visual-review",
+      "visualReviewDate": "2026-10-18",
+      "reviewSheet": "artifacts/photo-review/revision-2026-10-18/sheet-02.jpg",
+      "reviewIndex": 62
     }
   },
   "open-f8229c61eac45b21": {
@@ -6424,14 +6516,18 @@
     "photoReview": {
       "method": "exact-ro-ru-wikidata-labels-p18-commons-license",
       "status": "automated-bilingual-match",
-      "visuallyReviewed": false,
+      "visuallyReviewed": true,
       "entity": "Q14745",
       "commonsFile": "Płock, Muzeum Mazowieckie (28).jpg",
       "roLabel": "mobilă",
       "ruLabel": "мебель",
       "sourceWidth": 4000,
       "sourceHeight": 2600,
-      "verifiedAt": "2026-10-17"
+      "verifiedAt": "2026-10-17",
+      "visualReviewMethod": "agent-contact-sheet-visual-review",
+      "visualReviewDate": "2026-10-18",
+      "reviewSheet": "artifacts/photo-review/revision-2026-10-18/sheet-02.jpg",
+      "reviewIndex": 67
     }
   },
   "open-924610f25ef26ec8": {
@@ -6446,14 +6542,18 @@
     "photoReview": {
       "method": "exact-ro-ru-wikidata-labels-p18-commons-license",
       "status": "automated-bilingual-match",
-      "visuallyReviewed": false,
+      "visuallyReviewed": true,
       "entity": "Q639669",
       "commonsFile": "Quito Accordion player.jpg",
       "roLabel": "muzician",
       "ruLabel": "музыкант",
       "sourceWidth": 2581,
       "sourceHeight": 3231,
-      "verifiedAt": "2026-10-17"
+      "verifiedAt": "2026-10-17",
+      "visualReviewMethod": "agent-contact-sheet-visual-review",
+      "visualReviewDate": "2026-10-18",
+      "reviewSheet": "artifacts/photo-review/revision-2026-10-18/sheet-02.jpg",
+      "reviewIndex": 68
     }
   },
   "open-e9f0a474a8a97ac3": {
@@ -6490,14 +6590,18 @@
     "photoReview": {
       "method": "exact-ro-ru-wikidata-labels-p18-commons-license",
       "status": "automated-bilingual-match",
-      "visuallyReviewed": false,
+      "visuallyReviewed": true,
       "entity": "Q34679",
       "commonsFile": "River sand of Chinna Salem.jpg",
       "roLabel": "nisip",
       "ruLabel": "песок",
       "sourceWidth": 3000,
       "sourceHeight": 4000,
-      "verifiedAt": "2026-10-17"
+      "verifiedAt": "2026-10-17",
+      "visualReviewMethod": "agent-contact-sheet-visual-review",
+      "visualReviewDate": "2026-10-18",
+      "reviewSheet": "artifacts/photo-review/revision-2026-10-18/sheet-02.jpg",
+      "reviewIndex": 69
     }
   },
   "open-2ffed73e4a674839": {
@@ -6512,14 +6616,18 @@
     "photoReview": {
       "method": "exact-ro-ru-wikidata-labels-p18-commons-license",
       "status": "automated-bilingual-match",
-      "visuallyReviewed": false,
+      "visuallyReviewed": true,
       "entity": "Q194428",
       "commonsFile": "PlayhouseTheatreInterior.JPG",
       "roLabel": "scenă",
       "ruLabel": "сцена",
       "sourceWidth": 3072,
       "sourceHeight": 2304,
-      "verifiedAt": "2026-10-17"
+      "verifiedAt": "2026-10-17",
+      "visualReviewMethod": "agent-contact-sheet-visual-review",
+      "visualReviewDate": "2026-10-18",
+      "reviewSheet": "artifacts/photo-review/revision-2026-10-18/sheet-02.jpg",
+      "reviewIndex": 71
     }
   },
   "open-478ba9965f38aaad": {
@@ -6534,14 +6642,18 @@
     "photoReview": {
       "method": "exact-ro-ru-wikidata-labels-p18-commons-license",
       "status": "automated-bilingual-match",
-      "visuallyReviewed": false,
+      "visuallyReviewed": true,
       "entity": "Q166564",
       "commonsFile": "Päijänne and päijätsalo.jpg",
       "roLabel": "apus",
       "ruLabel": "закат",
       "sourceWidth": 2399,
       "sourceHeight": 1599,
-      "verifiedAt": "2026-10-17"
+      "verifiedAt": "2026-10-17",
+      "visualReviewMethod": "agent-contact-sheet-visual-review",
+      "visualReviewDate": "2026-10-18",
+      "reviewSheet": "artifacts/photo-review/revision-2026-10-18/sheet-02.jpg",
+      "reviewIndex": 77
     }
   },
   "open-8635d595910d446a": {
@@ -6578,14 +6690,18 @@
     "photoReview": {
       "method": "exact-ro-ru-wikidata-labels-p18-commons-license",
       "status": "automated-bilingual-match",
-      "visuallyReviewed": false,
+      "visuallyReviewed": true,
       "entity": "Q1028181",
       "commonsFile": "Painters Xingping town 20090502 6089.jpg",
       "roLabel": "pictor",
       "ruLabel": "художник",
       "sourceWidth": 2568,
       "sourceHeight": 1916,
-      "verifiedAt": "2026-10-17"
+      "verifiedAt": "2026-10-17",
+      "visualReviewMethod": "agent-contact-sheet-visual-review",
+      "visualReviewDate": "2026-10-18",
+      "reviewSheet": "artifacts/photo-review/revision-2026-10-18/sheet-02.jpg",
+      "reviewIndex": 74
     }
   },
   "open-3accf057bd88536a": {
@@ -6600,14 +6716,18 @@
     "photoReview": {
       "method": "exact-ro-ru-wikidata-labels-p18-commons-license",
       "status": "automated-bilingual-match",
-      "visuallyReviewed": false,
+      "visuallyReviewed": true,
       "entity": "Q8242",
       "commonsFile": "Old book bindings.jpg",
       "roLabel": "literatură",
       "ruLabel": "литература",
       "sourceWidth": 3072,
       "sourceHeight": 2048,
-      "verifiedAt": "2026-10-17"
+      "verifiedAt": "2026-10-17",
+      "visualReviewMethod": "agent-contact-sheet-visual-review",
+      "visualReviewDate": "2026-10-18",
+      "reviewSheet": "artifacts/photo-review/revision-2026-10-18/sheet-02.jpg",
+      "reviewIndex": 79
     }
   },
   "open-aa3a05d9d57c08d6": {
@@ -6710,14 +6830,18 @@
     "photoReview": {
       "method": "exact-ro-ru-wikidata-labels-p18-commons-license",
       "status": "automated-bilingual-match",
-      "visuallyReviewed": false,
+      "visuallyReviewed": true,
       "entity": "Q14660",
       "commonsFile": "Palais des Nations unies, à Genève (cropped).jpg",
       "roLabel": "steag",
       "ruLabel": "флаг",
       "sourceWidth": 2365,
       "sourceHeight": 1577,
-      "verifiedAt": "2026-10-17"
+      "verifiedAt": "2026-10-17",
+      "visualReviewMethod": "agent-contact-sheet-visual-review",
+      "visualReviewDate": "2026-10-18",
+      "reviewSheet": "artifacts/photo-review/revision-2026-10-18/sheet-02.jpg",
+      "reviewIndex": 88
     }
   },
   "open-6fe5384e1ccf8fba": {
@@ -6732,14 +6856,18 @@
     "photoReview": {
       "method": "exact-ro-ru-wikidata-labels-p18-commons-license",
       "status": "automated-bilingual-match",
-      "visuallyReviewed": false,
+      "visuallyReviewed": true,
       "entity": "Q11466",
       "commonsFile": "Pakkanen.jpg",
       "roLabel": "temperatură",
       "ruLabel": "температура",
       "sourceWidth": 781,
       "sourceHeight": 2133,
-      "verifiedAt": "2026-10-17"
+      "verifiedAt": "2026-10-17",
+      "visualReviewMethod": "agent-contact-sheet-visual-review",
+      "visualReviewDate": "2026-10-18",
+      "reviewSheet": "artifacts/photo-review/revision-2026-10-18/sheet-02.jpg",
+      "reviewIndex": 89
     }
   },
   "open-43cc23fa52b87b4c": {
@@ -6776,14 +6904,18 @@
     "photoReview": {
       "method": "exact-ro-ru-wikidata-labels-p18-commons-license",
       "status": "automated-bilingual-match",
-      "visuallyReviewed": false,
+      "visuallyReviewed": true,
       "entity": "Q179415",
       "commonsFile": "Ostentrop Germany Chanchai-Thaimassage-10.jpg",
       "roLabel": "masaj",
       "ruLabel": "массаж",
       "sourceWidth": 3840,
       "sourceHeight": 4969,
-      "verifiedAt": "2026-10-17"
+      "verifiedAt": "2026-10-17",
+      "visualReviewMethod": "agent-contact-sheet-visual-review",
+      "visualReviewDate": "2026-10-18",
+      "reviewSheet": "artifacts/photo-review/revision-2026-10-18/sheet-02.jpg",
+      "reviewIndex": 86
     }
   },
   "open-a32fab8f0e7562eb": {
@@ -6798,14 +6930,18 @@
     "photoReview": {
       "method": "exact-ro-ru-wikidata-labels-p18-commons-license",
       "status": "automated-bilingual-match",
-      "visuallyReviewed": false,
+      "visuallyReviewed": true,
       "entity": "Q174219",
       "commonsFile": "Orange peeling paint -a.jpg",
       "roLabel": "vopsea",
       "ruLabel": "краска",
       "sourceWidth": 800,
       "sourceHeight": 533,
-      "verifiedAt": "2026-10-17"
+      "verifiedAt": "2026-10-17",
+      "visualReviewMethod": "agent-contact-sheet-visual-review",
+      "visualReviewDate": "2026-10-18",
+      "reviewSheet": "artifacts/photo-review/revision-2026-10-18/sheet-02.jpg",
+      "reviewIndex": 90
     }
   },
   "open-65d3ac4366abf022": {
@@ -6842,14 +6978,18 @@
     "photoReview": {
       "method": "exact-ro-ru-wikidata-labels-p18-commons-license",
       "status": "automated-bilingual-match",
-      "visuallyReviewed": false,
+      "visuallyReviewed": true,
       "entity": "Q152079",
       "commonsFile": "Paper ash, Burnt paper, Rostov-on-Don, Russia.jpg",
       "roLabel": "cenușă",
       "ruLabel": "зола",
       "sourceWidth": 4032,
       "sourceHeight": 2688,
-      "verifiedAt": "2026-10-17"
+      "verifiedAt": "2026-10-17",
+      "visualReviewMethod": "agent-contact-sheet-visual-review",
+      "visualReviewDate": "2026-10-18",
+      "reviewSheet": "artifacts/photo-review/revision-2026-10-18/sheet-02.jpg",
+      "reviewIndex": 92
     }
   },
   "open-b92cb4dd1f184c7e": {
@@ -6864,14 +7004,18 @@
     "photoReview": {
       "method": "exact-ro-ru-wikidata-labels-p18-commons-license",
       "status": "automated-bilingual-match",
-      "visuallyReviewed": false,
+      "visuallyReviewed": true,
       "entity": "Q22656",
       "commonsFile": "Petroleum sample.jpg",
       "roLabel": "petrol",
       "ruLabel": "нефть",
       "sourceWidth": 2444,
       "sourceHeight": 2443,
-      "verifiedAt": "2026-10-17"
+      "verifiedAt": "2026-10-17",
+      "visualReviewMethod": "agent-contact-sheet-visual-review",
+      "visualReviewDate": "2026-10-18",
+      "reviewSheet": "artifacts/photo-review/revision-2026-10-18/sheet-03.jpg",
+      "reviewIndex": 96
     }
   },
   "open-3526d467f3d79471": {
@@ -6886,14 +7030,18 @@
     "photoReview": {
       "method": "exact-ro-ru-wikidata-labels-p18-commons-license",
       "status": "automated-bilingual-match",
-      "visuallyReviewed": false,
+      "visuallyReviewed": true,
       "entity": "Q131746",
       "commonsFile": "Perfume set from Sovjetunio cca 1965.jpg",
       "roLabel": "parfum",
       "ruLabel": "духи",
       "sourceWidth": 1559,
       "sourceHeight": 1559,
-      "verifiedAt": "2026-10-17"
+      "verifiedAt": "2026-10-17",
+      "visualReviewMethod": "agent-contact-sheet-visual-review",
+      "visualReviewDate": "2026-10-18",
+      "reviewSheet": "artifacts/photo-review/revision-2026-10-18/sheet-02.jpg",
+      "reviewIndex": 95
     }
   },
   "open-b3a403460aab7e48": {
@@ -6908,14 +7056,18 @@
     "photoReview": {
       "method": "exact-ro-ru-wikidata-labels-p18-commons-license",
       "status": "automated-bilingual-match",
-      "visuallyReviewed": false,
+      "visuallyReviewed": true,
       "entity": "Q41207",
       "commonsFile": "One Rupee East India Company.JPG",
       "roLabel": "monedă",
       "ruLabel": "монета",
       "sourceWidth": 1192,
       "sourceHeight": 1160,
-      "verifiedAt": "2026-10-17"
+      "verifiedAt": "2026-10-17",
+      "visualReviewMethod": "agent-contact-sheet-visual-review",
+      "visualReviewDate": "2026-10-18",
+      "reviewSheet": "artifacts/photo-review/revision-2026-10-18/sheet-02.jpg",
+      "reviewIndex": 93
     }
   },
   "open-e9968407663c810c": {
@@ -6996,14 +7148,18 @@
     "photoReview": {
       "method": "exact-ro-ru-wikidata-labels-p18-commons-license",
       "status": "automated-bilingual-match",
-      "visuallyReviewed": false,
+      "visuallyReviewed": true,
       "entity": "Q483453",
       "commonsFile": "Schlossplatzspringbrunnen Schlossplatz Stuttgart 2015 03.jpg",
       "roLabel": "fântână",
       "ruLabel": "фонтан",
       "sourceWidth": 4096,
       "sourceHeight": 2283,
-      "verifiedAt": "2026-10-17"
+      "verifiedAt": "2026-10-17",
+      "visualReviewMethod": "agent-contact-sheet-visual-review",
+      "visualReviewDate": "2026-10-18",
+      "reviewSheet": "artifacts/photo-review/revision-2026-10-18/sheet-03.jpg",
+      "reviewIndex": 101
     }
   },
   "open-9b54f65b000676f5": {
@@ -7040,14 +7196,18 @@
     "photoReview": {
       "method": "exact-ro-ru-wikidata-labels-p18-commons-license",
       "status": "automated-bilingual-match",
-      "visuallyReviewed": false,
+      "visuallyReviewed": true,
       "entity": "Q11420",
       "commonsFile": "KOCIS Korea Judo Kim Jaebum London 36 (7696361164).jpg",
       "roLabel": "judo",
       "ruLabel": "дзюдо",
       "sourceWidth": 4096,
       "sourceHeight": 3320,
-      "verifiedAt": "2026-10-17"
+      "verifiedAt": "2026-10-17",
+      "visualReviewMethod": "agent-contact-sheet-visual-review",
+      "visualReviewDate": "2026-10-18",
+      "reviewSheet": "artifacts/photo-review/revision-2026-10-18/sheet-03.jpg",
+      "reviewIndex": 104
     }
   },
   "open-c39a7d569c97d58a": {
@@ -7128,14 +7288,18 @@
     "photoReview": {
       "method": "exact-ro-ru-wikidata-labels-p18-commons-license",
       "status": "automated-bilingual-match",
-      "visuallyReviewed": false,
+      "visuallyReviewed": true,
       "entity": "Q188475",
       "commonsFile": "98-02 Lincoln Town Car limousine.jpg",
       "roLabel": "Limuzină",
       "ruLabel": "лимузин",
       "sourceWidth": 1724,
       "sourceHeight": 740,
-      "verifiedAt": "2026-10-17"
+      "verifiedAt": "2026-10-17",
+      "visualReviewMethod": "agent-contact-sheet-visual-review",
+      "visualReviewDate": "2026-10-18",
+      "reviewSheet": "artifacts/photo-review/revision-2026-10-18/sheet-03.jpg",
+      "reviewIndex": 106
     }
   },
   "open-2a96afeef14f0a44": {
@@ -7150,14 +7314,18 @@
     "photoReview": {
       "method": "exact-ro-ru-wikidata-labels-p18-commons-license",
       "status": "automated-bilingual-match",
-      "visuallyReviewed": false,
+      "visuallyReviewed": true,
       "entity": "Q854830",
       "commonsFile": "Groom waiting for bride.jpg",
       "roLabel": "mire",
       "ruLabel": "жених",
       "sourceWidth": 2560,
       "sourceHeight": 1920,
-      "verifiedAt": "2026-10-17"
+      "verifiedAt": "2026-10-17",
+      "visualReviewMethod": "agent-contact-sheet-visual-review",
+      "visualReviewDate": "2026-10-18",
+      "reviewSheet": "artifacts/photo-review/revision-2026-10-18/sheet-03.jpg",
+      "reviewIndex": 110
     }
   },
   "open-3f75502c2182b03c": {
@@ -7194,14 +7362,18 @@
     "photoReview": {
       "method": "exact-ro-ru-wikidata-labels-p18-commons-license",
       "status": "automated-bilingual-match",
-      "visuallyReviewed": false,
+      "visuallyReviewed": true,
       "entity": "Q172833",
       "commonsFile": "Imyeyo.jpg",
       "roLabel": "mătură",
       "ruLabel": "метла",
       "sourceWidth": 3264,
       "sourceHeight": 2448,
-      "verifiedAt": "2026-10-17"
+      "verifiedAt": "2026-10-17",
+      "visualReviewMethod": "agent-contact-sheet-visual-review",
+      "visualReviewDate": "2026-10-18",
+      "reviewSheet": "artifacts/photo-review/revision-2026-10-18/sheet-03.jpg",
+      "reviewIndex": 112
     }
   },
   "open-32687f92c724050e": {
@@ -7260,14 +7432,18 @@
     "photoReview": {
       "method": "exact-ro-ru-wikidata-labels-p18-commons-license",
       "status": "automated-bilingual-match",
-      "visuallyReviewed": false,
+      "visuallyReviewed": true,
       "entity": "Q81103",
       "commonsFile": "French Trench Overlook Yorktown (16969445747).jpg",
       "roLabel": "tun",
       "ruLabel": "пушка",
       "sourceWidth": 5467,
       "sourceHeight": 3640,
-      "verifiedAt": "2026-10-17"
+      "verifiedAt": "2026-10-17",
+      "visualReviewMethod": "agent-contact-sheet-visual-review",
+      "visualReviewDate": "2026-10-18",
+      "reviewSheet": "artifacts/photo-review/revision-2026-10-18/sheet-03.jpg",
+      "reviewIndex": 119
     }
   },
   "open-db76c2f34ec3bbbb": {
@@ -7304,14 +7480,18 @@
     "photoReview": {
       "method": "exact-ro-ru-wikidata-labels-p18-commons-license",
       "status": "automated-bilingual-match",
-      "visuallyReviewed": false,
+      "visuallyReviewed": true,
       "entity": "Q127666",
       "commonsFile": "Innervillgraten - Oberstalleralm - Almhütte vulgo Außer-Obergruber - 2.jpg",
       "roLabel": "Tigaie",
       "ruLabel": "сковородка",
       "sourceWidth": 4567,
       "sourceHeight": 3425,
-      "verifiedAt": "2026-10-17"
+      "verifiedAt": "2026-10-17",
+      "visualReviewMethod": "agent-contact-sheet-visual-review",
+      "visualReviewDate": "2026-10-18",
+      "reviewSheet": "artifacts/photo-review/revision-2026-10-18/sheet-03.jpg",
+      "reviewIndex": 117
     }
   },
   "open-99231e173492a284": {
@@ -7348,14 +7528,18 @@
     "photoReview": {
       "method": "exact-ro-ru-wikidata-labels-p18-commons-license",
       "status": "automated-bilingual-match",
-      "visuallyReviewed": false,
+      "visuallyReviewed": true,
       "entity": "Q192249",
       "commonsFile": "English saddle.jpg",
       "roLabel": "șa",
       "ruLabel": "седло",
       "sourceWidth": 544,
       "sourceHeight": 668,
-      "verifiedAt": "2026-10-17"
+      "verifiedAt": "2026-10-17",
+      "visualReviewMethod": "agent-contact-sheet-visual-review",
+      "visualReviewDate": "2026-10-18",
+      "reviewSheet": "artifacts/photo-review/revision-2026-10-18/sheet-03.jpg",
+      "reviewIndex": 121
     }
   },
   "open-9d4ff3ed42a7be64": {
@@ -7370,14 +7554,18 @@
     "photoReview": {
       "method": "exact-ro-ru-wikidata-labels-p18-commons-license",
       "status": "automated-bilingual-match",
-      "visuallyReviewed": false,
+      "visuallyReviewed": true,
       "entity": "Q23498",
       "commonsFile": "Clavo de fundación.JPG",
       "roLabel": "arheologie",
       "ruLabel": "археология",
       "sourceWidth": 6000,
       "sourceHeight": 4000,
-      "verifiedAt": "2026-10-17"
+      "verifiedAt": "2026-10-17",
+      "visualReviewMethod": "agent-contact-sheet-visual-review",
+      "visualReviewDate": "2026-10-18",
+      "reviewSheet": "artifacts/photo-review/revision-2026-10-18/sheet-03.jpg",
+      "reviewIndex": 125
     }
   },
   "open-f1de82484c6f4300": {
@@ -7414,14 +7602,18 @@
     "photoReview": {
       "method": "exact-ro-ru-wikidata-labels-p18-commons-license",
       "status": "automated-bilingual-match",
-      "visuallyReviewed": false,
+      "visuallyReviewed": true,
       "entity": "Q41425",
       "commonsFile": "Darcey Bussell, curtain call for Theme and Variations 2007.jpg",
       "roLabel": "balet",
       "ruLabel": "балет",
       "sourceWidth": 1984,
       "sourceHeight": 1488,
-      "verifiedAt": "2026-10-17"
+      "verifiedAt": "2026-10-17",
+      "visualReviewMethod": "agent-contact-sheet-visual-review",
+      "visualReviewDate": "2026-10-18",
+      "reviewSheet": "artifacts/photo-review/revision-2026-10-18/sheet-03.jpg",
+      "reviewIndex": 127
     }
   },
   "open-22e1e0eabf8c2cba": {
@@ -7436,14 +7628,18 @@
     "photoReview": {
       "method": "exact-ro-ru-wikidata-labels-p18-commons-license",
       "status": "automated-bilingual-match",
-      "visuallyReviewed": false,
+      "visuallyReviewed": true,
       "entity": "Q12719646",
       "commonsFile": "Faches etang des periseaux.jpg",
       "roLabel": "Baltă",
       "ruLabel": "пруд",
       "sourceWidth": 4896,
       "sourceHeight": 3208,
-      "verifiedAt": "2026-10-17"
+      "verifiedAt": "2026-10-17",
+      "visualReviewMethod": "agent-contact-sheet-visual-review",
+      "visualReviewDate": "2026-10-18",
+      "reviewSheet": "artifacts/photo-review/revision-2026-10-18/sheet-03.jpg",
+      "reviewIndex": 128
     }
   },
   "open-6ccf89d35be9636f": {
@@ -7458,14 +7654,18 @@
     "photoReview": {
       "method": "exact-ro-ru-wikidata-labels-p18-commons-license",
       "status": "automated-bilingual-match",
-      "visuallyReviewed": false,
+      "visuallyReviewed": true,
       "entity": "Q626066",
       "commonsFile": "Nobel banquet 1958.jpg",
       "roLabel": "banchet",
       "ruLabel": "банкет",
       "sourceWidth": 771,
       "sourceHeight": 607,
-      "verifiedAt": "2026-10-17"
+      "verifiedAt": "2026-10-17",
+      "visualReviewMethod": "agent-contact-sheet-visual-review",
+      "visualReviewDate": "2026-10-18",
+      "reviewSheet": "artifacts/photo-review/revision-2026-10-18/sheet-03.jpg",
+      "reviewIndex": 129
     }
   },
   "open-5d88b4f8d72495ef": {
@@ -7480,14 +7680,18 @@
     "photoReview": {
       "method": "exact-ro-ru-wikidata-labels-p18-commons-license",
       "status": "automated-bilingual-match",
-      "visuallyReviewed": false,
+      "visuallyReviewed": true,
       "entity": "Q192411",
       "commonsFile": "Handkerchief.jpg",
       "roLabel": "batistă",
       "ruLabel": "носовой платок",
       "sourceWidth": 671,
       "sourceHeight": 606,
-      "verifiedAt": "2026-10-17"
+      "verifiedAt": "2026-10-17",
+      "visualReviewMethod": "agent-contact-sheet-visual-review",
+      "visualReviewDate": "2026-10-18",
+      "reviewSheet": "artifacts/photo-review/revision-2026-10-18/sheet-03.jpg",
+      "reviewIndex": 130
     }
   },
   "open-76dd3b59c2eed5a9": {
@@ -7502,14 +7706,18 @@
     "photoReview": {
       "method": "exact-ro-ru-wikidata-labels-p18-commons-license",
       "status": "automated-bilingual-match",
-      "visuallyReviewed": false,
+      "visuallyReviewed": true,
       "entity": "Q34735",
       "commonsFile": "Plastic-compass.jpg",
       "roLabel": "busolă",
       "ruLabel": "компас",
       "sourceWidth": 1200,
       "sourceHeight": 1000,
-      "verifiedAt": "2026-10-17"
+      "verifiedAt": "2026-10-17",
+      "visualReviewMethod": "agent-contact-sheet-visual-review",
+      "visualReviewDate": "2026-10-18",
+      "reviewSheet": "artifacts/photo-review/revision-2026-10-18/sheet-03.jpg",
+      "reviewIndex": 135
     }
   },
   "open-794b8c9575ffd4af": {
@@ -7524,14 +7732,18 @@
     "photoReview": {
       "method": "exact-ro-ru-wikidata-labels-p18-commons-license",
       "status": "automated-bilingual-match",
-      "visuallyReviewed": false,
+      "visuallyReviewed": true,
       "entity": "Q597040",
       "commonsFile": "Open Razor with double stabiliser.JPG",
       "roLabel": "Brici",
       "ruLabel": "бритва",
       "sourceWidth": 2510,
       "sourceHeight": 1141,
-      "verifiedAt": "2026-10-17"
+      "verifiedAt": "2026-10-17",
+      "visualReviewMethod": "agent-contact-sheet-visual-review",
+      "visualReviewDate": "2026-10-18",
+      "reviewSheet": "artifacts/photo-review/revision-2026-10-18/sheet-03.jpg",
+      "reviewIndex": 132
     }
   },
   "open-50eb70f1f71a1461": {
@@ -7590,14 +7802,18 @@
     "photoReview": {
       "method": "exact-ro-ru-wikidata-labels-p18-commons-license",
       "status": "automated-bilingual-match",
-      "visuallyReviewed": false,
+      "visuallyReviewed": true,
       "entity": "Q191709",
       "commonsFile": "KroonluchterEsnogaAmsterdam.jpg",
       "roLabel": "candelabru",
       "ruLabel": "люстра",
       "sourceWidth": 2000,
       "sourceHeight": 1750,
-      "verifiedAt": "2026-10-17"
+      "verifiedAt": "2026-10-17",
+      "visualReviewMethod": "agent-contact-sheet-visual-review",
+      "visualReviewDate": "2026-10-18",
+      "reviewSheet": "artifacts/photo-review/revision-2026-10-18/sheet-03.jpg",
+      "reviewIndex": 136
     }
   },
   "open-90feeac9811e7780": {
@@ -7612,14 +7828,18 @@
     "photoReview": {
       "method": "exact-ro-ru-wikidata-labels-p18-commons-license",
       "status": "automated-bilingual-match",
-      "visuallyReviewed": false,
+      "visuallyReviewed": true,
       "entity": "Q168456",
       "commonsFile": "Positions of earrings.jpg",
       "roLabel": "cercel",
       "ruLabel": "серьга",
       "sourceWidth": 952,
       "sourceHeight": 1652,
-      "verifiedAt": "2026-10-17"
+      "verifiedAt": "2026-10-17",
+      "visualReviewMethod": "agent-contact-sheet-visual-review",
+      "visualReviewDate": "2026-10-18",
+      "reviewSheet": "artifacts/photo-review/revision-2026-10-18/sheet-03.jpg",
+      "reviewIndex": 139
     }
   },
   "open-bd08022e8fb80701": {
@@ -7656,14 +7876,18 @@
     "photoReview": {
       "method": "exact-ro-ru-wikidata-labels-p18-commons-license",
       "status": "automated-bilingual-match",
-      "visuallyReviewed": false,
+      "visuallyReviewed": true,
       "entity": "Q937106",
       "commonsFile": "Double snuffbox MET ES5787.jpg",
       "roLabel": "tabacheră",
       "ruLabel": "табакерка",
       "sourceWidth": 1857,
       "sourceHeight": 1544,
-      "verifiedAt": "2026-10-17"
+      "verifiedAt": "2026-10-17",
+      "visualReviewMethod": "agent-contact-sheet-visual-review",
+      "visualReviewDate": "2026-10-18",
+      "reviewSheet": "artifacts/photo-review/revision-2026-10-18/sheet-03.jpg",
+      "reviewIndex": 116
     }
   },
   "open-22bb2555a4e4767b": {
@@ -7678,14 +7902,18 @@
     "photoReview": {
       "method": "exact-ro-ru-wikidata-labels-p18-commons-license",
       "status": "automated-bilingual-match",
-      "visuallyReviewed": false,
+      "visuallyReviewed": true,
       "entity": "Q44299",
       "commonsFile": "2009-Coyote-Yosemite.jpg",
       "roLabel": "coiot",
       "ruLabel": "койот",
       "sourceWidth": 565,
       "sourceHeight": 656,
-      "verifiedAt": "2026-10-17"
+      "verifiedAt": "2026-10-17",
+      "visualReviewMethod": "agent-contact-sheet-visual-review",
+      "visualReviewDate": "2026-10-18",
+      "reviewSheet": "artifacts/photo-review/revision-2026-10-18/sheet-03.jpg",
+      "reviewIndex": 140
     }
   },
   "open-3620af06d6f2d301": {
@@ -7744,14 +7972,18 @@
     "photoReview": {
       "method": "exact-ro-ru-wikidata-labels-p18-commons-license",
       "status": "automated-bilingual-match",
-      "visuallyReviewed": false,
+      "visuallyReviewed": true,
       "entity": "Q4243098",
       "commonsFile": "Gesmede ijzeren last- of schenkelhaak - O36ZFL - 60015878 - RCE.jpg",
       "roLabel": "Cârlig",
       "ruLabel": "крючок",
       "sourceWidth": 5616,
       "sourceHeight": 3744,
-      "verifiedAt": "2026-10-17"
+      "verifiedAt": "2026-10-17",
+      "visualReviewMethod": "agent-contact-sheet-visual-review",
+      "visualReviewDate": "2026-10-18",
+      "reviewSheet": "artifacts/photo-review/revision-2026-10-18/sheet-04.jpg",
+      "reviewIndex": 146
     }
   },
   "open-a2f6fe3b0d514a4c": {
@@ -7766,14 +7998,18 @@
     "photoReview": {
       "method": "exact-ro-ru-wikidata-labels-p18-commons-license",
       "status": "automated-bilingual-match",
-      "visuallyReviewed": false,
+      "visuallyReviewed": true,
       "entity": "Q1135449",
       "commonsFile": "Explorer of the Seas corridor.jpg",
       "roLabel": "coridor",
       "ruLabel": "коридор",
       "sourceWidth": 2304,
       "sourceHeight": 3072,
-      "verifiedAt": "2026-10-17"
+      "verifiedAt": "2026-10-17",
+      "visualReviewMethod": "agent-contact-sheet-visual-review",
+      "visualReviewDate": "2026-10-18",
+      "reviewSheet": "artifacts/photo-review/revision-2026-10-18/sheet-03.jpg",
+      "reviewIndex": 142
     }
   },
   "open-f20d5eeede953e61": {
@@ -7810,14 +8046,18 @@
     "photoReview": {
       "method": "exact-ro-ru-wikidata-labels-p18-commons-license",
       "status": "automated-bilingual-match",
-      "visuallyReviewed": false,
+      "visuallyReviewed": true,
       "entity": "Q5283",
       "commonsFile": "Rough Diamond.jpg",
       "roLabel": "diamant",
       "ruLabel": "алмаз",
       "sourceWidth": 960,
       "sourceHeight": 891,
-      "verifiedAt": "2026-10-17"
+      "verifiedAt": "2026-10-17",
+      "visualReviewMethod": "agent-contact-sheet-visual-review",
+      "visualReviewDate": "2026-10-18",
+      "reviewSheet": "artifacts/photo-review/revision-2026-10-18/sheet-04.jpg",
+      "reviewIndex": 149
     }
   },
   "open-30d2a49932c8ffe7": {
@@ -7876,14 +8116,18 @@
     "photoReview": {
       "method": "exact-ro-ru-wikidata-labels-p18-commons-license",
       "status": "automated-bilingual-match",
-      "visuallyReviewed": false,
+      "visuallyReviewed": true,
       "entity": "Q10273457",
       "commonsFile": "Electronics workbench.jpg",
       "roLabel": "echipament",
       "ruLabel": "снаряжение",
       "sourceWidth": 2629,
       "sourceHeight": 1992,
-      "verifiedAt": "2026-10-17"
+      "verifiedAt": "2026-10-17",
+      "visualReviewMethod": "agent-contact-sheet-visual-review",
+      "visualReviewDate": "2026-10-18",
+      "reviewSheet": "artifacts/photo-review/revision-2026-10-18/sheet-04.jpg",
+      "reviewIndex": 150
     }
   },
   "open-0a5e568cc97b2c3e": {
@@ -7964,14 +8208,18 @@
     "photoReview": {
       "method": "exact-ro-ru-wikidata-labels-p18-commons-license",
       "status": "automated-bilingual-match",
-      "visuallyReviewed": false,
+      "visuallyReviewed": true,
       "entity": "Q205375",
       "commonsFile": "Dave Warren with BlackBox Prototype.jpg",
       "roLabel": "inventator",
       "ruLabel": "изобретатель",
       "sourceWidth": 600,
       "sourceHeight": 593,
-      "verifiedAt": "2026-10-17"
+      "verifiedAt": "2026-10-17",
+      "visualReviewMethod": "agent-contact-sheet-visual-review",
+      "visualReviewDate": "2026-10-18",
+      "reviewSheet": "artifacts/photo-review/revision-2026-10-18/sheet-04.jpg",
+      "reviewIndex": 157
     }
   },
   "open-b2c0a4a5598e2c78": {
@@ -8030,14 +8278,18 @@
     "photoReview": {
       "method": "exact-ro-ru-wikidata-labels-p18-commons-license",
       "status": "automated-bilingual-match",
-      "visuallyReviewed": false,
+      "visuallyReviewed": true,
       "entity": "Q208320",
       "commonsFile": "19th Century Gong on display at the National Folk Museum of Korea.jpg",
       "roLabel": "Gong",
       "ruLabel": "гонг",
       "sourceWidth": 3672,
       "sourceHeight": 4896,
-      "verifiedAt": "2026-10-17"
+      "verifiedAt": "2026-10-17",
+      "visualReviewMethod": "agent-contact-sheet-visual-review",
+      "visualReviewDate": "2026-10-18",
+      "reviewSheet": "artifacts/photo-review/revision-2026-10-18/sheet-04.jpg",
+      "reviewIndex": 154
     }
   },
   "open-d8357a4cf00af101": {
@@ -8074,14 +8326,18 @@
     "photoReview": {
       "method": "exact-ro-ru-wikidata-labels-p18-commons-license",
       "status": "automated-bilingual-match",
-      "visuallyReviewed": false,
+      "visuallyReviewed": true,
       "entity": "Q236371",
       "commonsFile": "Orchard of Celestianpower.JPG",
       "roLabel": "Livadă",
       "ruLabel": "фруктовый сад",
       "sourceWidth": 1280,
       "sourceHeight": 960,
-      "verifiedAt": "2026-10-17"
+      "verifiedAt": "2026-10-17",
+      "visualReviewMethod": "agent-contact-sheet-visual-review",
+      "visualReviewDate": "2026-10-18",
+      "reviewSheet": "artifacts/photo-review/revision-2026-10-18/sheet-04.jpg",
+      "reviewIndex": 161
     }
   },
   "open-d6a07f27460d719e": {
@@ -8140,14 +8396,18 @@
     "photoReview": {
       "method": "exact-ro-ru-wikidata-labels-p18-commons-license",
       "status": "automated-bilingual-match",
-      "visuallyReviewed": false,
+      "visuallyReviewed": true,
       "entity": "Q11426",
       "commonsFile": "Métal Hurlant (84368201).jpeg",
       "roLabel": "metal",
       "ruLabel": "металл",
       "sourceWidth": 2048,
       "sourceHeight": 1365,
-      "verifiedAt": "2026-10-17"
+      "verifiedAt": "2026-10-17",
+      "visualReviewMethod": "agent-contact-sheet-visual-review",
+      "visualReviewDate": "2026-10-18",
+      "reviewSheet": "artifacts/photo-review/revision-2026-10-18/sheet-04.jpg",
+      "reviewIndex": 165
     }
   },
   "open-7d704b396e1f9159": {
@@ -8162,14 +8422,18 @@
     "photoReview": {
       "method": "exact-ro-ru-wikidata-labels-p18-commons-license",
       "status": "automated-bilingual-match",
-      "visuallyReviewed": false,
+      "visuallyReviewed": true,
       "entity": "Q15179",
       "commonsFile": "1x1 MG 2796.jpg",
       "roLabel": "mustață",
       "ruLabel": "усы",
       "sourceWidth": 3929,
       "sourceHeight": 3929,
-      "verifiedAt": "2026-10-17"
+      "verifiedAt": "2026-10-17",
+      "visualReviewMethod": "agent-contact-sheet-visual-review",
+      "visualReviewDate": "2026-10-18",
+      "reviewSheet": "artifacts/photo-review/revision-2026-10-18/sheet-04.jpg",
+      "reviewIndex": 166
     }
   },
   "open-70dd2646537aee96": {
@@ -8250,14 +8514,18 @@
     "photoReview": {
       "method": "exact-ro-ru-wikidata-labels-p18-commons-license",
       "status": "automated-bilingual-match",
-      "visuallyReviewed": false,
+      "visuallyReviewed": true,
       "entity": "Q16560",
       "commonsFile": "2025 Pałac w Kamieńcu Ząbkowickim (06).jpg",
       "roLabel": "palat",
       "ruLabel": "дворец",
       "sourceWidth": 3690,
       "sourceHeight": 2696,
-      "verifiedAt": "2026-10-17"
+      "verifiedAt": "2026-10-17",
+      "visualReviewMethod": "agent-contact-sheet-visual-review",
+      "visualReviewDate": "2026-10-18",
+      "reviewSheet": "artifacts/photo-review/revision-2026-10-18/sheet-04.jpg",
+      "reviewIndex": 172
     }
   },
   "open-4e552786d7c77f8d": {
@@ -8294,14 +8562,18 @@
     "photoReview": {
       "method": "exact-ro-ru-wikidata-labels-p18-commons-license",
       "status": "automated-bilingual-match",
-      "visuallyReviewed": false,
+      "visuallyReviewed": true,
       "entity": "Q838828",
       "commonsFile": "Parquethall.jpg",
       "roLabel": "parchet",
       "ruLabel": "Паркет",
       "sourceWidth": 4168,
       "sourceHeight": 1914,
-      "verifiedAt": "2026-10-17"
+      "verifiedAt": "2026-10-17",
+      "visualReviewMethod": "agent-contact-sheet-visual-review",
+      "visualReviewDate": "2026-10-18",
+      "reviewSheet": "artifacts/photo-review/revision-2026-10-18/sheet-04.jpg",
+      "reviewIndex": 174
     }
   },
   "open-64d2fdd6d6e0a617": {
@@ -8382,14 +8654,18 @@
     "photoReview": {
       "method": "exact-ro-ru-wikidata-labels-p18-commons-license",
       "status": "automated-bilingual-match",
-      "visuallyReviewed": false,
+      "visuallyReviewed": true,
       "entity": "Q188828",
       "commonsFile": "IcelandicHorseInWinter.jpg",
       "roLabel": "Ponei",
       "ruLabel": "пони",
       "sourceWidth": 2980,
       "sourceHeight": 1987,
-      "verifiedAt": "2026-10-17"
+      "verifiedAt": "2026-10-17",
+      "visualReviewMethod": "agent-contact-sheet-visual-review",
+      "visualReviewDate": "2026-10-18",
+      "reviewSheet": "artifacts/photo-review/revision-2026-10-18/sheet-04.jpg",
+      "reviewIndex": 176
     }
   },
   "open-027fe02e766655a3": {
@@ -8492,14 +8768,18 @@
     "photoReview": {
       "method": "exact-ro-ru-wikidata-labels-p18-commons-license",
       "status": "automated-bilingual-match",
-      "visuallyReviewed": false,
+      "visuallyReviewed": true,
       "entity": "Q816713",
       "commonsFile": "Saw dust (Zaagsel).jpg",
       "roLabel": "rumeguș",
       "ruLabel": "опилки",
       "sourceWidth": 1844,
       "sourceHeight": 2301,
-      "verifiedAt": "2026-10-17"
+      "verifiedAt": "2026-10-17",
+      "visualReviewMethod": "agent-contact-sheet-visual-review",
+      "visualReviewDate": "2026-10-18",
+      "reviewSheet": "artifacts/photo-review/revision-2026-10-18/sheet-04.jpg",
+      "reviewIndex": 182
     }
   },
   "open-5ebf1e08d312b8c4": {
@@ -8514,14 +8794,18 @@
     "photoReview": {
       "method": "exact-ro-ru-wikidata-labels-p18-commons-license",
       "status": "automated-bilingual-match",
-      "visuallyReviewed": false,
+      "visuallyReviewed": true,
       "entity": "Q28165",
       "commonsFile": "Ground Cinnamon Powder and a Cinnamon Stick.jpg",
       "roLabel": "scorțișoară",
       "ruLabel": "корица",
       "sourceWidth": 4000,
       "sourceHeight": 2667,
-      "verifiedAt": "2026-10-17"
+      "verifiedAt": "2026-10-17",
+      "visualReviewMethod": "agent-contact-sheet-visual-review",
+      "visualReviewDate": "2026-10-18",
+      "reviewSheet": "artifacts/photo-review/revision-2026-10-18/sheet-04.jpg",
+      "reviewIndex": 184
     }
   },
   "open-7fa6ab75dacfed0c": {
@@ -8558,14 +8842,18 @@
     "photoReview": {
       "method": "exact-ro-ru-wikidata-labels-p18-commons-license",
       "status": "automated-bilingual-match",
-      "visuallyReviewed": false,
+      "visuallyReviewed": true,
       "entity": "Q289",
       "commonsFile": "LG smart TV.jpg",
       "roLabel": "televiziune",
       "ruLabel": "телевидение",
       "sourceWidth": 1700,
       "sourceHeight": 1171,
-      "verifiedAt": "2026-10-17"
+      "verifiedAt": "2026-10-17",
+      "visualReviewMethod": "agent-contact-sheet-visual-review",
+      "visualReviewDate": "2026-10-18",
+      "reviewSheet": "artifacts/photo-review/revision-2026-10-18/sheet-04.jpg",
+      "reviewIndex": 188
     }
   },
   "open-2c80e939b8bed79d": {
@@ -8580,14 +8868,18 @@
     "photoReview": {
       "method": "exact-ro-ru-wikidata-labels-p18-commons-license",
       "status": "automated-bilingual-match",
-      "visuallyReviewed": false,
+      "visuallyReviewed": true,
       "entity": "Q72941682",
       "commonsFile": "MUYAYO ta.jpg",
       "roLabel": "tatuaj",
       "ruLabel": "татуировка",
       "sourceWidth": 2802,
       "sourceHeight": 2722,
-      "verifiedAt": "2026-10-17"
+      "verifiedAt": "2026-10-17",
+      "visualReviewMethod": "agent-contact-sheet-visual-review",
+      "visualReviewDate": "2026-10-18",
+      "reviewSheet": "artifacts/photo-review/revision-2026-10-18/sheet-04.jpg",
+      "reviewIndex": 187
     }
   },
   "open-05017685ee808dfc": {
@@ -8602,14 +8894,18 @@
     "photoReview": {
       "method": "exact-ro-ru-wikidata-labels-p18-commons-license",
       "status": "automated-bilingual-match",
-      "visuallyReviewed": false,
+      "visuallyReviewed": true,
       "entity": "Q49546",
       "commonsFile": "Sample of Acetone.jpg",
       "roLabel": "Acetonă",
       "ruLabel": "ацетон",
       "sourceWidth": 2110,
       "sourceHeight": 3010,
-      "verifiedAt": "2026-10-17"
+      "verifiedAt": "2026-10-17",
+      "visualReviewMethod": "agent-contact-sheet-visual-review",
+      "visualReviewDate": "2026-10-18",
+      "reviewSheet": "artifacts/photo-review/revision-2026-10-18/sheet-05.jpg",
+      "reviewIndex": 195
     }
   },
   "open-769db16d757479ac": {
@@ -8624,14 +8920,18 @@
     "photoReview": {
       "method": "exact-ro-ru-wikidata-labels-p18-commons-license",
       "status": "automated-bilingual-match",
-      "visuallyReviewed": false,
+      "visuallyReviewed": true,
       "entity": "Q121713",
       "commonsFile": "Acupuncture1-1.jpg",
       "roLabel": "acupunctură",
       "ruLabel": "иглоукалывание",
       "sourceWidth": 500,
       "sourceHeight": 525,
-      "verifiedAt": "2026-10-17"
+      "verifiedAt": "2026-10-17",
+      "visualReviewMethod": "agent-contact-sheet-visual-review",
+      "visualReviewDate": "2026-10-18",
+      "reviewSheet": "artifacts/photo-review/revision-2026-10-18/sheet-05.jpg",
+      "reviewIndex": 196
     }
   },
   "open-8d3287c6fbb605cb": {
@@ -8646,14 +8946,18 @@
     "photoReview": {
       "method": "exact-ro-ru-wikidata-labels-p18-commons-license",
       "status": "automated-bilingual-match",
-      "visuallyReviewed": false,
+      "visuallyReviewed": true,
       "entity": "Q127134",
       "commonsFile": "Cut Aloe Vera Leaf.jpg",
       "roLabel": "Aloe",
       "ruLabel": "алоэ",
       "sourceWidth": 3264,
       "sourceHeight": 2448,
-      "verifiedAt": "2026-10-17"
+      "verifiedAt": "2026-10-17",
+      "visualReviewMethod": "agent-contact-sheet-visual-review",
+      "visualReviewDate": "2026-10-18",
+      "reviewSheet": "artifacts/photo-review/revision-2026-10-18/sheet-05.jpg",
+      "reviewIndex": 198
     }
   },
   "open-b494f88b7e090e49": {
@@ -8668,14 +8972,18 @@
     "photoReview": {
       "method": "exact-ro-ru-wikidata-labels-p18-commons-license",
       "status": "automated-bilingual-match",
-      "visuallyReviewed": false,
+      "visuallyReviewed": true,
       "entity": "Q474",
       "commonsFile": "Pont du Gard BLS.jpg",
       "roLabel": "apeduct",
       "ruLabel": "акведук",
       "sourceWidth": 12648,
       "sourceHeight": 4882,
-      "verifiedAt": "2026-10-17"
+      "verifiedAt": "2026-10-17",
+      "visualReviewMethod": "agent-contact-sheet-visual-review",
+      "visualReviewDate": "2026-10-18",
+      "reviewSheet": "artifacts/photo-review/revision-2026-10-18/sheet-05.jpg",
+      "reviewIndex": 202
     }
   },
   "open-ae009899db5a5378": {
@@ -8690,14 +8998,18 @@
     "photoReview": {
       "method": "exact-ro-ru-wikidata-labels-p18-commons-license",
       "status": "automated-bilingual-match",
-      "visuallyReviewed": false,
+      "visuallyReviewed": true,
       "entity": "Q641226",
       "commonsFile": "NBA Game.jpg",
       "roLabel": "arenă",
       "ruLabel": "арена",
       "sourceWidth": 1024,
       "sourceHeight": 649,
-      "verifiedAt": "2026-10-17"
+      "verifiedAt": "2026-10-17",
+      "visualReviewMethod": "agent-contact-sheet-visual-review",
+      "visualReviewDate": "2026-10-18",
+      "reviewSheet": "artifacts/photo-review/revision-2026-10-18/sheet-05.jpg",
+      "reviewIndex": 203
     }
   },
   "open-7b119007b71df751": {
@@ -8734,14 +9046,18 @@
     "photoReview": {
       "method": "exact-ro-ru-wikidata-labels-p18-commons-license",
       "status": "automated-bilingual-match",
-      "visuallyReviewed": false,
+      "visuallyReviewed": true,
       "entity": "Q5386",
       "commonsFile": "Ryan blaney (51370765488).jpg",
       "roLabel": "automobilism",
       "ruLabel": "автоспорт",
       "sourceWidth": 4708,
       "sourceHeight": 3456,
-      "verifiedAt": "2026-10-17"
+      "verifiedAt": "2026-10-17",
+      "visualReviewMethod": "agent-contact-sheet-visual-review",
+      "visualReviewDate": "2026-10-18",
+      "reviewSheet": "artifacts/photo-review/revision-2026-10-18/sheet-05.jpg",
+      "reviewIndex": 207
     }
   },
   "open-db4b593cedf2b826": {
@@ -8778,14 +9094,18 @@
     "photoReview": {
       "method": "exact-ro-ru-wikidata-labels-p18-commons-license",
       "status": "automated-bilingual-match",
-      "visuallyReviewed": false,
+      "visuallyReviewed": true,
       "entity": "Q3341285",
       "commonsFile": "Cromlix House 3 (geograph 4216021).jpg",
       "roLabel": "biliard",
       "ruLabel": "бильярд",
       "sourceWidth": 5144,
       "sourceHeight": 3656,
-      "verifiedAt": "2026-10-17"
+      "verifiedAt": "2026-10-17",
+      "visualReviewMethod": "agent-contact-sheet-visual-review",
+      "visualReviewDate": "2026-10-18",
+      "reviewSheet": "artifacts/photo-review/revision-2026-10-18/sheet-05.jpg",
+      "reviewIndex": 218
     }
   },
   "open-7dbf880be5110f59": {
@@ -8822,14 +9142,18 @@
     "photoReview": {
       "method": "exact-ro-ru-wikidata-labels-p18-commons-license",
       "status": "automated-bilingual-match",
-      "visuallyReviewed": false,
+      "visuallyReviewed": true,
       "entity": "Q19625",
       "commonsFile": "Eckzahn in Fehlstellung wegen Platzmangel.jpg",
       "roLabel": "canin",
       "ruLabel": "клык",
       "sourceWidth": 5616,
       "sourceHeight": 3744,
-      "verifiedAt": "2026-10-17"
+      "verifiedAt": "2026-10-17",
+      "visualReviewMethod": "agent-contact-sheet-visual-review",
+      "visualReviewDate": "2026-10-18",
+      "reviewSheet": "artifacts/photo-review/revision-2026-10-18/sheet-05.jpg",
+      "reviewIndex": 227
     }
   },
   "open-e9f2a75fba22ea69": {
@@ -8888,14 +9212,18 @@
     "photoReview": {
       "method": "exact-ro-ru-wikidata-labels-p18-commons-license",
       "status": "automated-bilingual-match",
-      "visuallyReviewed": false,
+      "visuallyReviewed": true,
       "entity": "Q901207",
       "commonsFile": "Piano-keyboard.jpg",
       "roLabel": "claviatură",
       "ruLabel": "клавиатура (музыка)",
       "sourceWidth": 800,
       "sourceHeight": 561,
-      "verifiedAt": "2026-10-17"
+      "verifiedAt": "2026-10-17",
+      "visualReviewMethod": "agent-contact-sheet-visual-review",
+      "visualReviewDate": "2026-10-18",
+      "reviewSheet": "artifacts/photo-review/revision-2026-10-18/sheet-05.jpg",
+      "reviewIndex": 238
     }
   },
   "open-4fa885d2ae38fb75": {
@@ -8910,14 +9238,18 @@
     "photoReview": {
       "method": "exact-ro-ru-wikidata-labels-p18-commons-license",
       "status": "automated-bilingual-match",
-      "visuallyReviewed": false,
+      "visuallyReviewed": true,
       "entity": "Q1155838",
       "commonsFile": "Nicosia 3 April 2008 06.jpg",
       "roLabel": "corespondent",
       "ruLabel": "корреспондент",
       "sourceWidth": 2848,
       "sourceHeight": 2136,
-      "verifiedAt": "2026-10-17"
+      "verifiedAt": "2026-10-17",
+      "visualReviewMethod": "agent-contact-sheet-visual-review",
+      "visualReviewDate": "2026-10-18",
+      "reviewSheet": "artifacts/photo-review/revision-2026-10-18/sheet-06.jpg",
+      "reviewIndex": 245
     }
   },
   "open-e29f305c2984d36d": {
@@ -9020,14 +9352,18 @@
     "photoReview": {
       "method": "exact-ro-ru-wikidata-labels-p18-commons-license",
       "status": "automated-bilingual-match",
-      "visuallyReviewed": false,
+      "visuallyReviewed": true,
       "entity": "Q45422",
       "commonsFile": "S cerevisiae under DIC microscopy.jpg",
       "roLabel": "drojdie",
       "ruLabel": "дрожжи",
       "sourceWidth": 1560,
       "sourceHeight": 1560,
-      "verifiedAt": "2026-10-17"
+      "verifiedAt": "2026-10-17",
+      "visualReviewMethod": "agent-contact-sheet-visual-review",
+      "visualReviewDate": "2026-10-18",
+      "reviewSheet": "artifacts/photo-review/revision-2026-10-18/sheet-06.jpg",
+      "reviewIndex": 254
     }
   },
   "open-a2cb9f65e3da16e6": {
@@ -9042,14 +9378,18 @@
     "photoReview": {
       "method": "exact-ro-ru-wikidata-labels-p18-commons-license",
       "status": "automated-bilingual-match",
-      "visuallyReviewed": false,
+      "visuallyReviewed": true,
       "entity": "Q154549",
       "commonsFile": "PalmercarpenterA.jpg",
       "roLabel": "dulgher",
       "ruLabel": "плотник",
       "sourceWidth": 2301,
       "sourceHeight": 3000,
-      "verifiedAt": "2026-10-17"
+      "verifiedAt": "2026-10-17",
+      "visualReviewMethod": "agent-contact-sheet-visual-review",
+      "visualReviewDate": "2026-10-18",
+      "reviewSheet": "artifacts/photo-review/revision-2026-10-18/sheet-06.jpg",
+      "reviewIndex": 255
     }
   },
   "open-e358a1f44db0fbf6": {
@@ -9064,14 +9404,18 @@
     "photoReview": {
       "method": "exact-ro-ru-wikidata-labels-p18-commons-license",
       "status": "automated-bilingual-match",
-      "visuallyReviewed": false,
+      "visuallyReviewed": true,
       "entity": "Q153",
       "commonsFile": "Sample of Absolute Ethanol.jpg",
       "roLabel": "etanol",
       "ruLabel": "этиловый спирт",
       "sourceWidth": 2020,
       "sourceHeight": 2879,
-      "verifiedAt": "2026-10-17"
+      "verifiedAt": "2026-10-17",
+      "visualReviewMethod": "agent-contact-sheet-visual-review",
+      "visualReviewDate": "2026-10-18",
+      "reviewSheet": "artifacts/photo-review/revision-2026-10-18/sheet-06.jpg",
+      "reviewIndex": 257
     }
   },
   "open-fa5e207f7bee4326": {
@@ -9086,14 +9430,18 @@
     "photoReview": {
       "method": "exact-ro-ru-wikidata-labels-p18-commons-license",
       "status": "automated-bilingual-match",
-      "visuallyReviewed": false,
+      "visuallyReviewed": true,
       "entity": "Q188734",
       "commonsFile": "Catigbian 1 earthquake.JPG",
       "roLabel": "dolină",
       "ruLabel": "карстовая воронка",
       "sourceWidth": 1944,
       "sourceHeight": 2592,
-      "verifiedAt": "2026-10-17"
+      "verifiedAt": "2026-10-17",
+      "visualReviewMethod": "agent-contact-sheet-visual-review",
+      "visualReviewDate": "2026-10-18",
+      "reviewSheet": "artifacts/photo-review/revision-2026-10-18/sheet-06.jpg",
+      "reviewIndex": 253
     }
   },
   "open-f739d7bb819bec1f": {
@@ -9108,14 +9456,18 @@
     "photoReview": {
       "method": "exact-ro-ru-wikidata-labels-p18-commons-license",
       "status": "automated-bilingual-match",
-      "visuallyReviewed": false,
+      "visuallyReviewed": true,
       "entity": "Q41760",
       "commonsFile": "Production of cheese 2.jpg",
       "roLabel": "fermentație",
       "ruLabel": "ферментация",
       "sourceWidth": 3456,
       "sourceHeight": 2304,
-      "verifiedAt": "2026-10-17"
+      "verifiedAt": "2026-10-17",
+      "visualReviewMethod": "agent-contact-sheet-visual-review",
+      "visualReviewDate": "2026-10-18",
+      "reviewSheet": "artifacts/photo-review/revision-2026-10-18/sheet-06.jpg",
+      "reviewIndex": 259
     }
   },
   "open-a6dafbd7b9310a15": {
@@ -9130,14 +9482,18 @@
     "photoReview": {
       "method": "exact-ro-ru-wikidata-labels-p18-commons-license",
       "status": "automated-bilingual-match",
-      "visuallyReviewed": false,
+      "visuallyReviewed": true,
       "entity": "Q40847",
       "commonsFile": "Scissors collection.jpg",
       "roLabel": "Foarfece",
       "ruLabel": "ножницы",
       "sourceWidth": 4032,
       "sourceHeight": 3024,
-      "verifiedAt": "2026-10-17"
+      "verifiedAt": "2026-10-17",
+      "visualReviewMethod": "agent-contact-sheet-visual-review",
+      "visualReviewDate": "2026-10-18",
+      "reviewSheet": "artifacts/photo-review/revision-2026-10-18/sheet-06.jpg",
+      "reviewIndex": 261
     }
   },
   "open-fbcc2d9bf6ade163": {
@@ -9196,14 +9552,18 @@
     "photoReview": {
       "method": "exact-ro-ru-wikidata-labels-p18-commons-license",
       "status": "automated-bilingual-match",
-      "visuallyReviewed": false,
+      "visuallyReviewed": true,
       "entity": "Q132501",
       "commonsFile": "Sample of Glycerine.jpg",
       "roLabel": "glicerol",
       "ruLabel": "глицерол",
       "sourceWidth": 2075,
       "sourceHeight": 3064,
-      "verifiedAt": "2026-10-17"
+      "verifiedAt": "2026-10-17",
+      "visualReviewMethod": "agent-contact-sheet-visual-review",
+      "visualReviewDate": "2026-10-18",
+      "reviewSheet": "artifacts/photo-review/revision-2026-10-18/sheet-06.jpg",
+      "reviewIndex": 270
     }
   },
   "open-c8c68876719150ba": {
@@ -9218,14 +9578,18 @@
     "photoReview": {
       "method": "exact-ro-ru-wikidata-labels-p18-commons-license",
       "status": "automated-bilingual-match",
-      "visuallyReviewed": false,
+      "visuallyReviewed": true,
       "entity": "Q209042",
       "commonsFile": "Scheibenegge.jpg",
       "roLabel": "Grapă",
       "ruLabel": "борона",
       "sourceWidth": 1309,
       "sourceHeight": 774,
-      "verifiedAt": "2026-10-17"
+      "verifiedAt": "2026-10-17",
+      "visualReviewMethod": "agent-contact-sheet-visual-review",
+      "visualReviewDate": "2026-10-18",
+      "reviewSheet": "artifacts/photo-review/revision-2026-10-18/sheet-06.jpg",
+      "reviewIndex": 271
     }
   },
   "open-b4a1b8d34c7895a2": {
@@ -9240,14 +9604,18 @@
     "photoReview": {
       "method": "exact-ro-ru-wikidata-labels-p18-commons-license",
       "status": "automated-bilingual-match",
-      "visuallyReviewed": false,
+      "visuallyReviewed": true,
       "entity": "Q181409",
       "commonsFile": "Raw egg.jpg",
       "roLabel": "gălbenuș",
       "ruLabel": "желток",
       "sourceWidth": 2436,
       "sourceHeight": 1698,
-      "verifiedAt": "2026-10-17"
+      "verifiedAt": "2026-10-17",
+      "visualReviewMethod": "agent-contact-sheet-visual-review",
+      "visualReviewDate": "2026-10-18",
+      "reviewSheet": "artifacts/photo-review/revision-2026-10-18/sheet-06.jpg",
+      "reviewIndex": 272
     }
   },
   "open-c751ceda78f2bcb0": {
@@ -9284,14 +9652,18 @@
     "photoReview": {
       "method": "exact-ro-ru-wikidata-labels-p18-commons-license",
       "status": "automated-bilingual-match",
-      "visuallyReviewed": false,
+      "visuallyReviewed": true,
       "entity": "Q1640824",
       "commonsFile": "Epigrafe Colonia Julia Mazzocchi.jpg",
       "roLabel": "inscripție",
       "ruLabel": "надпись",
       "sourceWidth": 1599,
       "sourceHeight": 1200,
-      "verifiedAt": "2026-10-17"
+      "verifiedAt": "2026-10-17",
+      "visualReviewMethod": "agent-contact-sheet-visual-review",
+      "visualReviewDate": "2026-10-18",
+      "reviewSheet": "artifacts/photo-review/revision-2026-10-18/sheet-06.jpg",
+      "reviewIndex": 278
     }
   },
   "open-e04031c5d5a68b5f": {
@@ -9306,14 +9678,18 @@
     "photoReview": {
       "method": "exact-ro-ru-wikidata-labels-p18-commons-license",
       "status": "automated-bilingual-match",
-      "visuallyReviewed": false,
+      "visuallyReviewed": true,
       "entity": "Q108728",
       "commonsFile": "Schody s linoleem.jpg",
       "roLabel": "linoleum",
       "ruLabel": "линолеум",
       "sourceWidth": 2048,
       "sourceHeight": 1536,
-      "verifiedAt": "2026-10-17"
+      "verifiedAt": "2026-10-17",
+      "visualReviewMethod": "agent-contact-sheet-visual-review",
+      "visualReviewDate": "2026-10-18",
+      "reviewSheet": "artifacts/photo-review/revision-2026-10-18/sheet-06.jpg",
+      "reviewIndex": 280
     }
   },
   "open-1bafc471784418c0": {
@@ -9328,14 +9704,18 @@
     "photoReview": {
       "method": "exact-ro-ru-wikidata-labels-p18-commons-license",
       "status": "automated-bilingual-match",
-      "visuallyReviewed": false,
+      "visuallyReviewed": true,
       "entity": "Q162875",
       "commonsFile": "Photographs of the Mausoleum of Augustus 14 (cropped).jpg",
       "roLabel": "mausoleu",
       "ruLabel": "мавзолей",
       "sourceWidth": 3176,
       "sourceHeight": 2268,
-      "verifiedAt": "2026-10-17"
+      "verifiedAt": "2026-10-17",
+      "visualReviewMethod": "agent-contact-sheet-visual-review",
+      "visualReviewDate": "2026-10-18",
+      "reviewSheet": "artifacts/photo-review/revision-2026-10-18/sheet-06.jpg",
+      "reviewIndex": 286
     }
   },
   "open-25aa94ebee8800cd": {
@@ -9372,14 +9752,18 @@
     "photoReview": {
       "method": "exact-ro-ru-wikidata-labels-p18-commons-license",
       "status": "automated-bilingual-match",
-      "visuallyReviewed": false,
+      "visuallyReviewed": true,
       "entity": "Q17297",
       "commonsFile": "Russian-Matroshka no bg.jpg",
       "roLabel": "matrioșka",
       "ruLabel": "матрёшка",
       "sourceWidth": 1900,
       "sourceHeight": 1262,
-      "verifiedAt": "2026-10-17"
+      "verifiedAt": "2026-10-17",
+      "visualReviewMethod": "agent-contact-sheet-visual-review",
+      "visualReviewDate": "2026-10-18",
+      "reviewSheet": "artifacts/photo-review/revision-2026-10-18/sheet-06.jpg",
+      "reviewIndex": 285
     }
   },
   "open-02361d9784eec255": {
@@ -9394,14 +9778,18 @@
     "photoReview": {
       "method": "exact-ro-ru-wikidata-labels-p18-commons-license",
       "status": "automated-bilingual-match",
-      "visuallyReviewed": false,
+      "visuallyReviewed": true,
       "entity": "Q5834964",
       "commonsFile": "Dulce de membrillo.jpg",
       "roLabel": "marmeladă",
       "ruLabel": "мармелад (джем)",
       "sourceWidth": 1476,
       "sourceHeight": 1476,
-      "verifiedAt": "2026-10-17"
+      "verifiedAt": "2026-10-17",
+      "visualReviewMethod": "agent-contact-sheet-visual-review",
+      "visualReviewDate": "2026-10-18",
+      "reviewSheet": "artifacts/photo-review/revision-2026-10-18/sheet-06.jpg",
+      "reviewIndex": 283
     }
   },
   "open-3c5299ce6264f641": {
@@ -9416,14 +9804,18 @@
     "photoReview": {
       "method": "exact-ro-ru-wikidata-labels-p18-commons-license",
       "status": "automated-bilingual-match",
-      "visuallyReviewed": false,
+      "visuallyReviewed": true,
       "entity": "Q19596",
       "commonsFile": "Polycrystalline-germanium.jpg",
       "roLabel": "metaloid",
       "ruLabel": "полуметалл",
       "sourceWidth": 1056,
       "sourceHeight": 1056,
-      "verifiedAt": "2026-10-17"
+      "verifiedAt": "2026-10-17",
+      "visualReviewMethod": "agent-contact-sheet-visual-review",
+      "visualReviewDate": "2026-10-18",
+      "reviewSheet": "artifacts/photo-review/revision-2026-10-18/sheet-07.jpg",
+      "reviewIndex": 289
     }
   },
   "open-5ff1c002fbd43ddf": {
@@ -9438,14 +9830,18 @@
     "photoReview": {
       "method": "exact-ro-ru-wikidata-labels-p18-commons-license",
       "status": "automated-bilingual-match",
-      "visuallyReviewed": false,
+      "visuallyReviewed": true,
       "entity": "Q1800545",
       "commonsFile": "Connochaetes taurinus -Wildebeest crossing river -East Africa.jpg",
       "roLabel": "migrație",
       "ruLabel": "миграция",
       "sourceWidth": 2816,
       "sourceHeight": 1880,
-      "verifiedAt": "2026-10-17"
+      "verifiedAt": "2026-10-17",
+      "visualReviewMethod": "agent-contact-sheet-visual-review",
+      "visualReviewDate": "2026-10-18",
+      "reviewSheet": "artifacts/photo-review/revision-2026-10-18/sheet-07.jpg",
+      "reviewIndex": 290
     }
   },
   "open-e8b02bef55c4c2f0": {
@@ -9526,14 +9922,18 @@
     "photoReview": {
       "method": "exact-ro-ru-wikidata-labels-p18-commons-license",
       "status": "automated-bilingual-match",
-      "visuallyReviewed": false,
+      "visuallyReviewed": true,
       "entity": "Q19842373",
       "commonsFile": "Ripe, ripening, and green blackberries.jpg",
       "roLabel": "mură",
       "ruLabel": "ежевика",
       "sourceWidth": 3394,
       "sourceHeight": 2418,
-      "verifiedAt": "2026-10-17"
+      "verifiedAt": "2026-10-17",
+      "visualReviewMethod": "agent-contact-sheet-visual-review",
+      "visualReviewDate": "2026-10-18",
+      "reviewSheet": "artifacts/photo-review/revision-2026-10-18/sheet-07.jpg",
+      "reviewIndex": 297
     }
   },
   "open-40777b9cda21ad18": {
@@ -9548,14 +9948,18 @@
     "photoReview": {
       "method": "exact-ro-ru-wikidata-labels-p18-commons-license",
       "status": "automated-bilingual-match",
-      "visuallyReviewed": false,
+      "visuallyReviewed": true,
       "entity": "Q133067",
       "commonsFile": "Mosaic stones0001.jpg",
       "roLabel": "mozaic",
       "ruLabel": "мозаика",
       "sourceWidth": 1779,
       "sourceHeight": 1188,
-      "verifiedAt": "2026-10-17"
+      "verifiedAt": "2026-10-17",
+      "visualReviewMethod": "agent-contact-sheet-visual-review",
+      "visualReviewDate": "2026-10-18",
+      "reviewSheet": "artifacts/photo-review/revision-2026-10-18/sheet-07.jpg",
+      "reviewIndex": 295
     }
   },
   "open-55ed885708721edd": {
@@ -9570,14 +9974,18 @@
     "photoReview": {
       "method": "exact-ro-ru-wikidata-labels-p18-commons-license",
       "status": "automated-bilingual-match",
-      "visuallyReviewed": false,
+      "visuallyReviewed": true,
       "entity": "Q3400050",
       "commonsFile": "Nepal Himalaya Pavillon Wiesent 12.jpg",
       "roLabel": "olar",
       "ruLabel": "гончар",
       "sourceWidth": 3072,
       "sourceHeight": 2304,
-      "verifiedAt": "2026-10-17"
+      "verifiedAt": "2026-10-17",
+      "visualReviewMethod": "agent-contact-sheet-visual-review",
+      "visualReviewDate": "2026-10-18",
+      "reviewSheet": "artifacts/photo-review/revision-2026-10-18/sheet-07.jpg",
+      "reviewIndex": 298
     }
   },
   "open-bb50d52a4169110d": {
@@ -9592,14 +10000,18 @@
     "photoReview": {
       "method": "exact-ro-ru-wikidata-labels-p18-commons-license",
       "status": "automated-bilingual-match",
-      "visuallyReviewed": false,
+      "visuallyReviewed": true,
       "entity": "Q39818",
       "commonsFile": "Pablo Zibes Pantomime.jpg",
       "roLabel": "Pantomimă",
       "ruLabel": "пантомима",
       "sourceWidth": 1200,
       "sourceHeight": 1156,
-      "verifiedAt": "2026-10-17"
+      "verifiedAt": "2026-10-17",
+      "visualReviewMethod": "agent-contact-sheet-visual-review",
+      "visualReviewDate": "2026-10-18",
+      "reviewSheet": "artifacts/photo-review/revision-2026-10-18/sheet-07.jpg",
+      "reviewIndex": 301
     }
   },
   "open-39c5492a44fca450": {
@@ -9614,14 +10026,18 @@
     "photoReview": {
       "method": "exact-ro-ru-wikidata-labels-p18-commons-license",
       "status": "automated-bilingual-match",
-      "visuallyReviewed": false,
+      "visuallyReviewed": true,
       "entity": "Q482816",
       "commonsFile": "NASA's Orion Spacecraft Parachutes Tested at U.S. Army Yuma Proving Ground.jpg",
       "roLabel": "parașută",
       "ruLabel": "парашют",
       "sourceWidth": 3280,
       "sourceHeight": 4928,
-      "verifiedAt": "2026-10-17"
+      "verifiedAt": "2026-10-17",
+      "visualReviewMethod": "agent-contact-sheet-visual-review",
+      "visualReviewDate": "2026-10-18",
+      "reviewSheet": "artifacts/photo-review/revision-2026-10-18/sheet-07.jpg",
+      "reviewIndex": 303
     }
   },
   "open-d9c82be4e60e1ed8": {
@@ -9658,14 +10074,18 @@
     "photoReview": {
       "method": "exact-ro-ru-wikidata-labels-p18-commons-license",
       "status": "automated-bilingual-match",
-      "visuallyReviewed": false,
+      "visuallyReviewed": true,
       "entity": "Q58148",
       "commonsFile": "Milk Vat.jpg",
       "roLabel": "Pasteurizare",
       "ruLabel": "Пастеризация",
       "sourceWidth": 640,
       "sourceHeight": 480,
-      "verifiedAt": "2026-10-17"
+      "verifiedAt": "2026-10-17",
+      "visualReviewMethod": "agent-contact-sheet-visual-review",
+      "visualReviewDate": "2026-10-18",
+      "reviewSheet": "artifacts/photo-review/revision-2026-10-18/sheet-07.jpg",
+      "reviewIndex": 304
     }
   },
   "open-c5942e4643ab689c": {
@@ -9724,14 +10144,18 @@
     "photoReview": {
       "method": "exact-ro-ru-wikidata-labels-p18-commons-license",
       "status": "automated-bilingual-match",
-      "visuallyReviewed": false,
+      "visuallyReviewed": true,
       "entity": "Q14373",
       "commonsFile": "Deepsea.JPG",
       "roLabel": "pescuire",
       "ruLabel": "рыбалка",
       "sourceWidth": 2048,
       "sourceHeight": 1536,
-      "verifiedAt": "2026-10-17"
+      "verifiedAt": "2026-10-17",
+      "visualReviewMethod": "agent-contact-sheet-visual-review",
+      "visualReviewDate": "2026-10-18",
+      "reviewSheet": "artifacts/photo-review/revision-2026-10-18/sheet-07.jpg",
+      "reviewIndex": 308
     }
   },
   "open-cf50c379e0560633": {
@@ -9746,14 +10170,18 @@
     "photoReview": {
       "method": "exact-ro-ru-wikidata-labels-p18-commons-license",
       "status": "automated-bilingual-match",
-      "visuallyReviewed": false,
+      "visuallyReviewed": true,
       "entity": "Q79749",
       "commonsFile": "FreshFrozenPlasma.JPG",
       "roLabel": "Plasmă",
       "ruLabel": "плазма крови",
       "sourceWidth": 1633,
       "sourceHeight": 2090,
-      "verifiedAt": "2026-10-17"
+      "verifiedAt": "2026-10-17",
+      "visualReviewMethod": "agent-contact-sheet-visual-review",
+      "visualReviewDate": "2026-10-18",
+      "reviewSheet": "artifacts/photo-review/revision-2026-10-18/sheet-07.jpg",
+      "reviewIndex": 312
     }
   },
   "open-01735c5ff1608734": {
@@ -9768,14 +10196,18 @@
     "photoReview": {
       "method": "exact-ro-ru-wikidata-labels-p18-commons-license",
       "status": "automated-bilingual-match",
-      "visuallyReviewed": false,
+      "visuallyReviewed": true,
       "entity": "Q191034",
       "commonsFile": "Port wine.jpg",
       "roLabel": "Porto",
       "ruLabel": "портвейн",
       "sourceWidth": 1024,
       "sourceHeight": 768,
-      "verifiedAt": "2026-10-17"
+      "verifiedAt": "2026-10-17",
+      "visualReviewMethod": "agent-contact-sheet-visual-review",
+      "visualReviewDate": "2026-10-18",
+      "reviewSheet": "artifacts/photo-review/revision-2026-10-18/sheet-07.jpg",
+      "reviewIndex": 313
     }
   },
   "open-236f89f3c74eff3c": {
@@ -9812,14 +10244,18 @@
     "photoReview": {
       "method": "exact-ro-ru-wikidata-labels-p18-commons-license",
       "status": "automated-bilingual-match",
-      "visuallyReviewed": false,
+      "visuallyReviewed": true,
       "entity": "Q5347026",
       "commonsFile": "Bažantnice (Hodonín) after tornado strike 2021-07-10 1863.jpg",
       "roLabel": "prelată",
       "ruLabel": "брезент",
       "sourceWidth": 3888,
       "sourceHeight": 2592,
-      "verifiedAt": "2026-10-17"
+      "verifiedAt": "2026-10-17",
+      "visualReviewMethod": "agent-contact-sheet-visual-review",
+      "visualReviewDate": "2026-10-18",
+      "reviewSheet": "artifacts/photo-review/revision-2026-10-18/sheet-07.jpg",
+      "reviewIndex": 316
     }
   },
   "open-0e0f0dc0d66b3b75": {
@@ -9834,14 +10270,18 @@
     "photoReview": {
       "method": "exact-ro-ru-wikidata-labels-p18-commons-license",
       "status": "automated-bilingual-match",
-      "visuallyReviewed": false,
+      "visuallyReviewed": true,
       "entity": "Q2180295",
       "commonsFile": "Meitar Collection (997008136723305171).jpg",
       "roLabel": "poștaș",
       "ruLabel": "почтальон",
       "sourceWidth": 1322,
       "sourceHeight": 1378,
-      "verifiedAt": "2026-10-17"
+      "verifiedAt": "2026-10-17",
+      "visualReviewMethod": "agent-contact-sheet-visual-review",
+      "visualReviewDate": "2026-10-18",
+      "reviewSheet": "artifacts/photo-review/revision-2026-10-18/sheet-07.jpg",
+      "reviewIndex": 315
     }
   },
   "open-f9392c2f87cb4094": {
@@ -9878,14 +10318,18 @@
     "photoReview": {
       "method": "exact-ro-ru-wikidata-labels-p18-commons-license",
       "status": "automated-bilingual-match",
-      "visuallyReviewed": false,
+      "visuallyReviewed": true,
       "entity": "Q28358",
       "commonsFile": "Coturnix coturnix, Fraunberg, Bayern, Deutschland 2, Ausschnitt.jpg",
       "roLabel": "prepeliță",
       "ruLabel": "перепел",
       "sourceWidth": 923,
       "sourceHeight": 651,
-      "verifiedAt": "2026-10-17"
+      "verifiedAt": "2026-10-17",
+      "visualReviewMethod": "agent-contact-sheet-visual-review",
+      "visualReviewDate": "2026-10-18",
+      "reviewSheet": "artifacts/photo-review/revision-2026-10-18/sheet-07.jpg",
+      "reviewIndex": 317
     }
   },
   "open-f61260c55a31c034": {
@@ -9922,14 +10366,18 @@
     "photoReview": {
       "method": "exact-ro-ru-wikidata-labels-p18-commons-license",
       "status": "automated-bilingual-match",
-      "visuallyReviewed": false,
+      "visuallyReviewed": true,
       "entity": "Q12059906",
       "commonsFile": "Rumunia 5806.jpg",
       "roLabel": "păstor",
       "ruLabel": "пастух",
       "sourceWidth": 2049,
       "sourceHeight": 1467,
-      "verifiedAt": "2026-10-17"
+      "verifiedAt": "2026-10-17",
+      "visualReviewMethod": "agent-contact-sheet-visual-review",
+      "visualReviewDate": "2026-10-18",
+      "reviewSheet": "artifacts/photo-review/revision-2026-10-18/sheet-07.jpg",
+      "reviewIndex": 322
     }
   },
   "open-a1ec7c7703ba78fc": {
@@ -9966,14 +10414,18 @@
     "photoReview": {
       "method": "exact-ro-ru-wikidata-labels-p18-commons-license",
       "status": "automated-bilingual-match",
-      "visuallyReviewed": false,
+      "visuallyReviewed": true,
       "entity": "Q43088",
       "commonsFile": "Ruby - Winza, Tanzania.jpg",
       "roLabel": "rubin",
       "ruLabel": "рубин",
       "sourceWidth": 602,
       "sourceHeight": 802,
-      "verifiedAt": "2026-10-17"
+      "verifiedAt": "2026-10-17",
+      "visualReviewMethod": "agent-contact-sheet-visual-review",
+      "visualReviewDate": "2026-10-18",
+      "reviewSheet": "artifacts/photo-review/revision-2026-10-18/sheet-07.jpg",
+      "reviewIndex": 324
     }
   },
   "open-7b8d85e669492787": {
@@ -10010,14 +10462,18 @@
     "photoReview": {
       "method": "exact-ro-ru-wikidata-labels-p18-commons-license",
       "status": "automated-bilingual-match",
-      "visuallyReviewed": false,
+      "visuallyReviewed": true,
       "entity": "Q36050",
       "commonsFile": "Salix alba Morton.jpg",
       "roLabel": "Salcie",
       "ruLabel": "Верба",
       "sourceWidth": 500,
       "sourceHeight": 500,
-      "verifiedAt": "2026-10-17"
+      "verifiedAt": "2026-10-17",
+      "visualReviewMethod": "agent-contact-sheet-visual-review",
+      "visualReviewDate": "2026-10-18",
+      "reviewSheet": "artifacts/photo-review/revision-2026-10-18/sheet-07.jpg",
+      "reviewIndex": 326
     }
   },
   "open-c3d8a87468449af9": {
@@ -10032,14 +10488,18 @@
     "photoReview": {
       "method": "exact-ro-ru-wikidata-labels-p18-commons-license",
       "status": "automated-bilingual-match",
-      "visuallyReviewed": false,
+      "visuallyReviewed": true,
       "entity": "Q48634",
       "commonsFile": "Salona - ancient tomb.JPG",
       "roLabel": "sarcofag",
       "ruLabel": "саркофаг",
       "sourceWidth": 2592,
       "sourceHeight": 1944,
-      "verifiedAt": "2026-10-17"
+      "verifiedAt": "2026-10-17",
+      "visualReviewMethod": "agent-contact-sheet-visual-review",
+      "visualReviewDate": "2026-10-18",
+      "reviewSheet": "artifacts/photo-review/revision-2026-10-18/sheet-07.jpg",
+      "reviewIndex": 328
     }
   },
   "open-2df84a679ae22f29": {
@@ -10054,14 +10514,18 @@
     "photoReview": {
       "method": "exact-ro-ru-wikidata-labels-p18-commons-license",
       "status": "automated-bilingual-match",
-      "visuallyReviewed": false,
+      "visuallyReviewed": true,
       "entity": "Q38142",
       "commonsFile": "Samurai with sword.jpg",
       "roLabel": "samurai",
       "ruLabel": "самурай",
       "sourceWidth": 1275,
       "sourceHeight": 1600,
-      "verifiedAt": "2026-10-17"
+      "verifiedAt": "2026-10-17",
+      "visualReviewMethod": "agent-contact-sheet-visual-review",
+      "visualReviewDate": "2026-10-18",
+      "reviewSheet": "artifacts/photo-review/revision-2026-10-18/sheet-07.jpg",
+      "reviewIndex": 327
     }
   },
   "open-14d3ff869839c7fa": {
@@ -10098,14 +10562,18 @@
     "photoReview": {
       "method": "exact-ro-ru-wikidata-labels-p18-commons-license",
       "status": "automated-bilingual-match",
-      "visuallyReviewed": false,
+      "visuallyReviewed": true,
       "entity": "Q215865",
       "commonsFile": "Paua.jpg",
       "roLabel": "sidef",
       "ruLabel": "перламутр",
       "sourceWidth": 720,
       "sourceHeight": 540,
-      "verifiedAt": "2026-10-17"
+      "verifiedAt": "2026-10-17",
+      "visualReviewMethod": "agent-contact-sheet-visual-review",
+      "visualReviewDate": "2026-10-18",
+      "reviewSheet": "artifacts/photo-review/revision-2026-10-18/sheet-07.jpg",
+      "reviewIndex": 332
     }
   },
   "open-5703756e238933f4": {
@@ -10120,14 +10588,18 @@
     "photoReview": {
       "method": "exact-ro-ru-wikidata-labels-p18-commons-license",
       "status": "automated-bilingual-match",
-      "visuallyReviewed": false,
+      "visuallyReviewed": true,
       "entity": "Q34627",
       "commonsFile": "Princes Road Synagogue Nave.jpg",
       "roLabel": "sinagogă",
       "ruLabel": "синагога",
       "sourceWidth": 8735,
       "sourceHeight": 5855,
-      "verifiedAt": "2026-10-17"
+      "verifiedAt": "2026-10-17",
+      "visualReviewMethod": "agent-contact-sheet-visual-review",
+      "visualReviewDate": "2026-10-18",
+      "reviewSheet": "artifacts/photo-review/revision-2026-10-18/sheet-07.jpg",
+      "reviewIndex": 334
     }
   },
   "open-7114d75b28f21587": {
@@ -10142,14 +10614,18 @@
     "photoReview": {
       "method": "exact-ro-ru-wikidata-labels-p18-commons-license",
       "status": "automated-bilingual-match",
-      "visuallyReviewed": false,
+      "visuallyReviewed": true,
       "entity": "Q131448",
       "commonsFile": "Sambucus nigra0.jpg",
       "roLabel": "Soc",
       "ruLabel": "бузина",
       "sourceWidth": 640,
       "sourceHeight": 480,
-      "verifiedAt": "2026-10-17"
+      "verifiedAt": "2026-10-17",
+      "visualReviewMethod": "agent-contact-sheet-visual-review",
+      "visualReviewDate": "2026-10-18",
+      "reviewSheet": "artifacts/photo-review/revision-2026-10-18/sheet-08.jpg",
+      "reviewIndex": 336
     }
   },
   "open-da973dcaceef26b1": {
@@ -10318,14 +10794,18 @@
     "photoReview": {
       "method": "exact-ro-ru-wikidata-labels-p18-commons-license",
       "status": "automated-bilingual-match",
-      "visuallyReviewed": false,
+      "visuallyReviewed": true,
       "entity": "Q184624",
       "commonsFile": "Peat (49302157252).jpg",
       "roLabel": "turbă",
       "ruLabel": "торф",
       "sourceWidth": 1024,
       "sourceHeight": 768,
-      "verifiedAt": "2026-10-17"
+      "verifiedAt": "2026-10-17",
+      "visualReviewMethod": "agent-contact-sheet-visual-review",
+      "visualReviewDate": "2026-10-18",
+      "reviewSheet": "artifacts/photo-review/revision-2026-10-18/sheet-08.jpg",
+      "reviewIndex": 346
     }
   },
   "open-244b32c5454d3385": {
@@ -10406,14 +10886,18 @@
     "photoReview": {
       "method": "exact-ro-ru-wikidata-labels-p18-commons-license",
       "status": "automated-bilingual-match",
-      "visuallyReviewed": false,
+      "visuallyReviewed": true,
       "entity": "Q2935",
       "commonsFile": "New born Frisian red white calf.jpg",
       "roLabel": "vițel",
       "ruLabel": "телёнок",
       "sourceWidth": 2309,
       "sourceHeight": 1732,
-      "verifiedAt": "2026-10-17"
+      "verifiedAt": "2026-10-17",
+      "visualReviewMethod": "agent-contact-sheet-visual-review",
+      "visualReviewDate": "2026-10-18",
+      "reviewSheet": "artifacts/photo-review/revision-2026-10-18/sheet-08.jpg",
+      "reviewIndex": 353
     }
   },
   "open-2e9bdf921e95302a": {
@@ -10428,14 +10912,18 @@
     "photoReview": {
       "method": "exact-ro-ru-wikidata-labels-p18-commons-license",
       "status": "automated-bilingual-match",
-      "visuallyReviewed": false,
+      "visuallyReviewed": true,
       "entity": "Q47253",
       "commonsFile": "Regenwurm1.jpg",
       "roLabel": "vierme",
       "ruLabel": "червяк",
       "sourceWidth": 660,
       "sourceHeight": 663,
-      "verifiedAt": "2026-10-17"
+      "verifiedAt": "2026-10-17",
+      "visualReviewMethod": "agent-contact-sheet-visual-review",
+      "visualReviewDate": "2026-10-18",
+      "reviewSheet": "artifacts/photo-review/revision-2026-10-18/sheet-08.jpg",
+      "reviewIndex": 349
     }
   },
   "open-97886350f99ecb19": {
@@ -10450,14 +10938,18 @@
     "photoReview": {
       "method": "exact-ro-ru-wikidata-labels-p18-commons-license",
       "status": "automated-bilingual-match",
-      "visuallyReviewed": false,
+      "visuallyReviewed": true,
       "entity": "Q25618",
       "commonsFile": "Mélèze en Automne.JPG",
       "roLabel": "Zadă",
       "ruLabel": "Лиственница",
       "sourceWidth": 1536,
       "sourceHeight": 2048,
-      "verifiedAt": "2026-10-17"
+      "verifiedAt": "2026-10-17",
+      "visualReviewMethod": "agent-contact-sheet-visual-review",
+      "visualReviewDate": "2026-10-18",
+      "reviewSheet": "artifacts/photo-review/revision-2026-10-18/sheet-08.jpg",
+      "reviewIndex": 355
     }
   },
   "open-e3a5f75aa726fae3": {
@@ -10472,14 +10964,18 @@
     "photoReview": {
       "method": "exact-ro-ru-wikidata-labels-p18-commons-license",
       "status": "automated-bilingual-match",
-      "visuallyReviewed": false,
+      "visuallyReviewed": true,
       "entity": "Q126167",
       "commonsFile": "Bearded Vulture - Giant Castle 010001 (15280863060).jpg",
       "roLabel": "Zăgan",
       "ruLabel": "Ягнятник",
       "sourceWidth": 1024,
       "sourceHeight": 699,
-      "verifiedAt": "2026-10-17"
+      "verifiedAt": "2026-10-17",
+      "visualReviewMethod": "agent-contact-sheet-visual-review",
+      "visualReviewDate": "2026-10-18",
+      "reviewSheet": "artifacts/photo-review/revision-2026-10-18/sheet-08.jpg",
+      "reviewIndex": 356
     }
   },
   "open-7c376eacfa208cfe": {
@@ -10494,14 +10990,18 @@
     "photoReview": {
       "method": "exact-ro-ru-wikidata-labels-p18-commons-license",
       "status": "automated-bilingual-match",
-      "visuallyReviewed": false,
+      "visuallyReviewed": true,
       "entity": "Q27981",
       "commonsFile": "3 Ghanaian young men play Tumatu.jpg",
       "roLabel": "Șotron",
       "ruLabel": "классики",
       "sourceWidth": 4688,
       "sourceHeight": 3584,
-      "verifiedAt": "2026-10-17"
+      "verifiedAt": "2026-10-17",
+      "visualReviewMethod": "agent-contact-sheet-visual-review",
+      "visualReviewDate": "2026-10-18",
+      "reviewSheet": "artifacts/photo-review/revision-2026-10-18/sheet-08.jpg",
+      "reviewIndex": 358
     }
   },
   "curated-zahar": {
@@ -10516,14 +11016,18 @@
     "photoReview": {
       "method": "exact-ro-ru-wikidata-labels-p18-commons-license",
       "status": "automated-bilingual-match",
-      "visuallyReviewed": false,
+      "visuallyReviewed": true,
       "entity": "Q11002",
       "commonsFile": "Sugar 2xmacro.jpg",
       "roLabel": "zahăr",
       "ruLabel": "сахар",
       "sourceWidth": 3456,
       "sourceHeight": 2304,
-      "verifiedAt": "2026-10-17"
+      "verifiedAt": "2026-10-17",
+      "visualReviewMethod": "agent-contact-sheet-visual-review",
+      "visualReviewDate": "2026-10-18",
+      "reviewSheet": "artifacts/photo-review/revision-2026-10-18/sheet-01.jpg",
+      "reviewIndex": 3
     }
   },
   "curated-orez": {
@@ -10538,14 +11042,18 @@
     "photoReview": {
       "method": "exact-ro-ru-wikidata-labels-p18-commons-license",
       "status": "automated-bilingual-match",
-      "visuallyReviewed": false,
+      "visuallyReviewed": true,
       "entity": "Q5090",
       "commonsFile": "White, Brown, Red & Wild rice.jpg",
       "roLabel": "orez",
       "ruLabel": "рис",
       "sourceWidth": 2592,
       "sourceHeight": 1944,
-      "verifiedAt": "2026-10-17"
+      "verifiedAt": "2026-10-17",
+      "visualReviewMethod": "agent-contact-sheet-visual-review",
+      "visualReviewDate": "2026-10-18",
+      "reviewSheet": "artifacts/photo-review/revision-2026-10-18/sheet-01.jpg",
+      "reviewIndex": 2
     }
   },
   "curated-rau": {
@@ -10560,14 +11068,18 @@
     "photoReview": {
       "method": "exact-ro-ru-wikidata-labels-p18-commons-license",
       "status": "automated-bilingual-match",
-      "visuallyReviewed": false,
+      "visuallyReviewed": true,
       "entity": "Q4022",
       "commonsFile": "White Nile Fishermen (18156464842).jpg",
       "roLabel": "râu",
       "ruLabel": "река",
       "sourceWidth": 2525,
       "sourceHeight": 1893,
-      "verifiedAt": "2026-10-17"
+      "verifiedAt": "2026-10-17",
+      "visualReviewMethod": "agent-contact-sheet-visual-review",
+      "visualReviewDate": "2026-10-18",
+      "reviewSheet": "artifacts/photo-review/revision-2026-10-18/sheet-01.jpg",
+      "reviewIndex": 5
     }
   },
   "curated-geaca": {
@@ -10582,14 +11094,18 @@
     "photoReview": {
       "method": "exact-ro-ru-wikidata-labels-p18-commons-license",
       "status": "automated-bilingual-match",
-      "visuallyReviewed": false,
+      "visuallyReviewed": true,
       "entity": "Q849964",
       "commonsFile": "Windbreaker Jacket, Hood Outside.jpg",
       "roLabel": "Geacă",
       "ruLabel": "куртка",
       "sourceWidth": 1208,
       "sourceHeight": 1060,
-      "verifiedAt": "2026-10-17"
+      "verifiedAt": "2026-10-17",
+      "visualReviewMethod": "agent-contact-sheet-visual-review",
+      "visualReviewDate": "2026-10-18",
+      "reviewSheet": "artifacts/photo-review/revision-2026-10-18/sheet-01.jpg",
+      "reviewIndex": 7
     }
   },
   "curated-camasa": {
@@ -10604,14 +11120,18 @@
     "photoReview": {
       "method": "exact-ro-ru-wikidata-labels-p18-commons-license",
       "status": "automated-bilingual-match",
-      "visuallyReviewed": false,
+      "visuallyReviewed": true,
       "entity": "Q76768",
       "commonsFile": "Shirt, men's (AM 2015.44.1-1).jpg",
       "roLabel": "cămașă",
       "ruLabel": "рубашка",
       "sourceWidth": 3447,
       "sourceHeight": 4684,
-      "verifiedAt": "2026-10-17"
+      "verifiedAt": "2026-10-17",
+      "visualReviewMethod": "agent-contact-sheet-visual-review",
+      "visualReviewDate": "2026-10-18",
+      "reviewSheet": "artifacts/photo-review/revision-2026-10-18/sheet-01.jpg",
+      "reviewIndex": 6
     }
   },
   "open-768490634b6310d0": {
@@ -10626,14 +11146,18 @@
     "photoReview": {
       "method": "exact-ro-ru-wikidata-labels-p18-commons-license",
       "status": "automated-bilingual-match",
-      "visuallyReviewed": false,
+      "visuallyReviewed": true,
       "entity": "Q527",
       "commonsFile": "Sky over Munich 02.jpg",
       "roLabel": "cer",
       "ruLabel": "небо",
       "sourceWidth": 3888,
       "sourceHeight": 2592,
-      "verifiedAt": "2026-10-17"
+      "verifiedAt": "2026-10-17",
+      "visualReviewMethod": "agent-contact-sheet-visual-review",
+      "visualReviewDate": "2026-10-18",
+      "reviewSheet": "artifacts/photo-review/revision-2026-10-18/sheet-01.jpg",
+      "reviewIndex": 18
     }
   },
   "curated-sotie": {
@@ -10890,14 +11414,18 @@
     "photoReview": {
       "method": "exact-ro-ru-wikidata-labels-p18-commons-license",
       "status": "automated-bilingual-match",
-      "visuallyReviewed": false,
+      "visuallyReviewed": true,
       "entity": "Q1269",
       "commonsFile": "Strawberry jam on a dish.JPG",
       "roLabel": "gem",
       "ruLabel": "джем",
       "sourceWidth": 2592,
       "sourceHeight": 1952,
-      "verifiedAt": "2026-10-17"
+      "verifiedAt": "2026-10-17",
+      "visualReviewMethod": "agent-contact-sheet-visual-review",
+      "visualReviewDate": "2026-10-18",
+      "reviewSheet": "artifacts/photo-review/revision-2026-10-18/sheet-02.jpg",
+      "reviewIndex": 72
     }
   },
   "open-9fee21911535f559": {
@@ -10934,14 +11462,18 @@
     "photoReview": {
       "method": "exact-ro-ru-wikidata-labels-p18-commons-license",
       "status": "automated-bilingual-match",
-      "visuallyReviewed": false,
+      "visuallyReviewed": true,
       "entity": "Q178651",
       "commonsFile": "Wikimania interview dlf3.jpg",
       "roLabel": "interviu",
       "ruLabel": "интервью",
       "sourceWidth": 1500,
       "sourceHeight": 996,
-      "verifiedAt": "2026-10-17"
+      "verifiedAt": "2026-10-17",
+      "visualReviewMethod": "agent-contact-sheet-visual-review",
+      "visualReviewDate": "2026-10-18",
+      "reviewSheet": "artifacts/photo-review/revision-2026-10-18/sheet-02.jpg",
+      "reviewIndex": 85
     }
   },
   "open-8db59feb4d217f26": {
@@ -10956,14 +11488,18 @@
     "photoReview": {
       "method": "exact-ro-ru-wikidata-labels-p18-commons-license",
       "status": "automated-bilingual-match",
-      "visuallyReviewed": false,
+      "visuallyReviewed": true,
       "entity": "Q36133",
       "commonsFile": "Stagnogley.JPG",
       "roLabel": "sol",
       "ruLabel": "почва",
       "sourceWidth": 1511,
       "sourceHeight": 1179,
-      "verifiedAt": "2026-10-17"
+      "verifiedAt": "2026-10-17",
+      "visualReviewMethod": "agent-contact-sheet-visual-review",
+      "visualReviewDate": "2026-10-18",
+      "reviewSheet": "artifacts/photo-review/revision-2026-10-18/sheet-02.jpg",
+      "reviewIndex": 81
     }
   },
   "open-9a9140cef778b55f": {
@@ -11000,14 +11536,18 @@
     "photoReview": {
       "method": "exact-ro-ru-wikidata-labels-p18-commons-license",
       "status": "automated-bilingual-match",
-      "visuallyReviewed": false,
+      "visuallyReviewed": true,
       "entity": "Q329737",
       "commonsFile": "Wiki Loves Mett P1020898.JPG",
       "roLabel": "măcelar",
       "ruLabel": "мясник",
       "sourceWidth": 4896,
       "sourceHeight": 3672,
-      "verifiedAt": "2026-10-17"
+      "verifiedAt": "2026-10-17",
+      "visualReviewMethod": "agent-contact-sheet-visual-review",
+      "visualReviewDate": "2026-10-18",
+      "reviewSheet": "artifacts/photo-review/revision-2026-10-18/sheet-02.jpg",
+      "reviewIndex": 87
     }
   },
   "open-462d873ad6f6009d": {
@@ -11022,14 +11562,18 @@
     "photoReview": {
       "method": "exact-ro-ru-wikidata-labels-p18-commons-license",
       "status": "automated-bilingual-match",
-      "visuallyReviewed": false,
+      "visuallyReviewed": true,
       "entity": "Q43261",
       "commonsFile": "Sureal Horizon.jpg",
       "roLabel": "Orizont",
       "ruLabel": "горизонт",
       "sourceWidth": 4288,
       "sourceHeight": 2848,
-      "verifiedAt": "2026-10-17"
+      "verifiedAt": "2026-10-17",
+      "visualReviewMethod": "agent-contact-sheet-visual-review",
+      "visualReviewDate": "2026-10-18",
+      "reviewSheet": "artifacts/photo-review/revision-2026-10-18/sheet-02.jpg",
+      "reviewIndex": 94
     }
   },
   "open-13d76aff3f953d9f": {
@@ -11088,14 +11632,18 @@
     "photoReview": {
       "method": "exact-ro-ru-wikidata-labels-p18-commons-license",
       "status": "automated-bilingual-match",
-      "visuallyReviewed": false,
+      "visuallyReviewed": true,
       "entity": "Q36146",
       "commonsFile": "Smokve na grani.jpg",
       "roLabel": "Smochin",
       "ruLabel": "Фиговое дерево",
       "sourceWidth": 5152,
       "sourceHeight": 3864,
-      "verifiedAt": "2026-10-17"
+      "verifiedAt": "2026-10-17",
+      "visualReviewMethod": "agent-contact-sheet-visual-review",
+      "visualReviewDate": "2026-10-18",
+      "reviewSheet": "artifacts/photo-review/revision-2026-10-18/sheet-03.jpg",
+      "reviewIndex": 114
     }
   },
   "open-40c4a47a4610dd9a": {
@@ -11132,14 +11680,18 @@
     "photoReview": {
       "method": "exact-ro-ru-wikidata-labels-p18-commons-license",
       "status": "automated-bilingual-match",
-      "visuallyReviewed": false,
+      "visuallyReviewed": true,
       "entity": "Q4575936",
       "commonsFile": "Sheep, Stodmarsh 6.jpg",
       "roLabel": "miel",
       "ruLabel": "ягнёнок",
       "sourceWidth": 2100,
       "sourceHeight": 2360,
-      "verifiedAt": "2026-10-17"
+      "verifiedAt": "2026-10-17",
+      "visualReviewMethod": "agent-contact-sheet-visual-review",
+      "visualReviewDate": "2026-10-18",
+      "reviewSheet": "artifacts/photo-review/revision-2026-10-18/sheet-03.jpg",
+      "reviewIndex": 109
     }
   },
   "open-6ab0d22724edd2a2": {
@@ -11154,14 +11706,18 @@
     "photoReview": {
       "method": "exact-ro-ru-wikidata-labels-p18-commons-license",
       "status": "automated-bilingual-match",
-      "visuallyReviewed": false,
+      "visuallyReviewed": true,
       "entity": "Q2761147",
       "commonsFile": "Staff meeting (3).jpg",
       "roLabel": "adunare",
       "ruLabel": "собрание",
       "sourceWidth": 2700,
       "sourceHeight": 1800,
-      "verifiedAt": "2026-10-17"
+      "verifiedAt": "2026-10-17",
+      "visualReviewMethod": "agent-contact-sheet-visual-review",
+      "visualReviewDate": "2026-10-18",
+      "reviewSheet": "artifacts/photo-review/revision-2026-10-18/sheet-03.jpg",
+      "reviewIndex": 124
     }
   },
   "open-6ebd229b088d1cfd": {
@@ -11176,14 +11732,18 @@
     "photoReview": {
       "method": "exact-ro-ru-wikidata-labels-p18-commons-license",
       "status": "automated-bilingual-match",
-      "visuallyReviewed": false,
+      "visuallyReviewed": true,
       "entity": "Q36396",
       "commonsFile": "WildRat.jpg",
       "roLabel": "Șobolan",
       "ruLabel": "крыса",
       "sourceWidth": 1280,
       "sourceHeight": 960,
-      "verifiedAt": "2026-10-17"
+      "verifiedAt": "2026-10-17",
+      "visualReviewMethod": "agent-contact-sheet-visual-review",
+      "visualReviewDate": "2026-10-18",
+      "reviewSheet": "artifacts/photo-review/revision-2026-10-18/sheet-03.jpg",
+      "reviewIndex": 123
     }
   },
   "open-d4c3e8a11256ab82": {
@@ -11198,14 +11758,18 @@
     "photoReview": {
       "method": "exact-ro-ru-wikidata-labels-p18-commons-license",
       "status": "automated-bilingual-match",
-      "visuallyReviewed": false,
+      "visuallyReviewed": true,
       "entity": "Q6368",
       "commonsFile": "Wiki Smartphones.jpg",
       "roLabel": "browser",
       "ruLabel": "браузер",
       "sourceWidth": 4032,
       "sourceHeight": 3024,
-      "verifiedAt": "2026-10-17"
+      "verifiedAt": "2026-10-17",
+      "visualReviewMethod": "agent-contact-sheet-visual-review",
+      "visualReviewDate": "2026-10-18",
+      "reviewSheet": "artifacts/photo-review/revision-2026-10-18/sheet-03.jpg",
+      "reviewIndex": 133
     }
   },
   "open-d4c4814ce9ce15ca": {
@@ -11220,14 +11784,18 @@
     "photoReview": {
       "method": "exact-ro-ru-wikidata-labels-p18-commons-license",
       "status": "automated-bilingual-match",
-      "visuallyReviewed": false,
+      "visuallyReviewed": true,
       "entity": "Q5173771",
       "commonsFile": "Wikimedia foundation wikipedia educational brochures.JPG",
       "roLabel": "broșură",
       "ruLabel": "брошюра",
       "sourceWidth": 3264,
       "sourceHeight": 2448,
-      "verifiedAt": "2026-10-17"
+      "verifiedAt": "2026-10-17",
+      "visualReviewMethod": "agent-contact-sheet-visual-review",
+      "visualReviewDate": "2026-10-18",
+      "reviewSheet": "artifacts/photo-review/revision-2026-10-18/sheet-03.jpg",
+      "reviewIndex": 134
     }
   },
   "open-d36926a42ccbefa7": {
@@ -11264,14 +11832,18 @@
     "photoReview": {
       "method": "exact-ro-ru-wikidata-labels-p18-commons-license",
       "status": "automated-bilingual-match",
-      "visuallyReviewed": false,
+      "visuallyReviewed": true,
       "entity": "Q7220961",
       "commonsFile": "Skovl.jpg",
       "roLabel": "lopată",
       "ruLabel": "лопата",
       "sourceWidth": 800,
       "sourceHeight": 800,
-      "verifiedAt": "2026-10-17"
+      "verifiedAt": "2026-10-17",
+      "visualReviewMethod": "agent-contact-sheet-visual-review",
+      "visualReviewDate": "2026-10-18",
+      "reviewSheet": "artifacts/photo-review/revision-2026-10-18/sheet-04.jpg",
+      "reviewIndex": 162
     }
   },
   "open-178697a65fc5caae": {
@@ -11308,14 +11880,18 @@
     "photoReview": {
       "method": "exact-ro-ru-wikidata-labels-p18-commons-license",
       "status": "automated-bilingual-match",
-      "visuallyReviewed": false,
+      "visuallyReviewed": true,
       "entity": "Q2397485",
       "commonsFile": "Broad chain closeup.jpg",
       "roLabel": "lanț",
       "ruLabel": "цепь",
       "sourceWidth": 800,
       "sourceHeight": 600,
-      "verifiedAt": "2026-10-17"
+      "verifiedAt": "2026-10-17",
+      "visualReviewMethod": "agent-contact-sheet-visual-review",
+      "visualReviewDate": "2026-10-18",
+      "reviewSheet": "artifacts/photo-review/revision-2026-10-18/sheet-04.jpg",
+      "reviewIndex": 159
     }
   },
   "open-9672a16c4e9b332b": {
@@ -11374,14 +11950,18 @@
     "photoReview": {
       "method": "exact-ro-ru-wikidata-labels-p18-commons-license",
       "status": "automated-bilingual-match",
-      "visuallyReviewed": false,
+      "visuallyReviewed": true,
       "entity": "Q19707",
       "commonsFile": "Donkey in Clovelly, North Devon, England.jpg",
       "roLabel": "măgar",
       "ruLabel": "ишак",
       "sourceWidth": 750,
       "sourceHeight": 536,
-      "verifiedAt": "2026-10-17"
+      "verifiedAt": "2026-10-17",
+      "visualReviewMethod": "agent-contact-sheet-visual-review",
+      "visualReviewDate": "2026-10-18",
+      "reviewSheet": "artifacts/photo-review/revision-2026-10-18/sheet-04.jpg",
+      "reviewIndex": 167
     }
   },
   "open-7b5a828cc546a952": {
@@ -11396,14 +11976,18 @@
     "photoReview": {
       "method": "exact-ro-ru-wikidata-labels-p18-commons-license",
       "status": "automated-bilingual-match",
-      "visuallyReviewed": false,
+      "visuallyReviewed": true,
       "entity": "Q184296",
       "commonsFile": "Wild Men and Moors (Detail 01 of 12).jpg",
       "roLabel": "tapiserie",
       "ruLabel": "гобелен",
       "sourceWidth": 1024,
       "sourceHeight": 694,
-      "verifiedAt": "2026-10-17"
+      "verifiedAt": "2026-10-17",
+      "visualReviewMethod": "agent-contact-sheet-visual-review",
+      "visualReviewDate": "2026-10-18",
+      "reviewSheet": "artifacts/photo-review/revision-2026-10-18/sheet-04.jpg",
+      "reviewIndex": 186
     }
   },
   "open-4ebde790877e2f92": {
@@ -11418,14 +12002,18 @@
     "photoReview": {
       "method": "exact-ro-ru-wikidata-labels-p18-commons-license",
       "status": "automated-bilingual-match",
-      "visuallyReviewed": false,
+      "visuallyReviewed": true,
       "entity": "Q257120",
       "commonsFile": "Heels for female shoes 08.jpg",
       "roLabel": "Toc",
       "ruLabel": "каблук",
       "sourceWidth": 4000,
       "sourceHeight": 3000,
-      "verifiedAt": "2026-10-17"
+      "verifiedAt": "2026-10-17",
+      "visualReviewMethod": "agent-contact-sheet-visual-review",
+      "visualReviewDate": "2026-10-18",
+      "reviewSheet": "artifacts/photo-review/revision-2026-10-18/sheet-04.jpg",
+      "reviewIndex": 190
     }
   },
   "open-c9a57445de85e6b0": {
@@ -11440,14 +12028,18 @@
     "photoReview": {
       "method": "exact-ro-ru-wikidata-labels-p18-commons-license",
       "status": "automated-bilingual-match",
-      "visuallyReviewed": false,
+      "visuallyReviewed": true,
       "entity": "Q6881511",
       "commonsFile": "Wolfsburg VW-Werk.jpg",
       "roLabel": "întreprindere",
       "ruLabel": "предприятие",
       "sourceWidth": 1024,
       "sourceHeight": 768,
-      "verifiedAt": "2026-10-17"
+      "verifiedAt": "2026-10-17",
+      "visualReviewMethod": "agent-contact-sheet-visual-review",
+      "visualReviewDate": "2026-10-18",
+      "reviewSheet": "artifacts/photo-review/revision-2026-10-18/sheet-05.jpg",
+      "reviewIndex": 193
     }
   },
   "open-75cf8229cc6eb7e8": {
@@ -11462,14 +12054,18 @@
     "photoReview": {
       "method": "exact-ro-ru-wikidata-labels-p18-commons-license",
       "status": "automated-bilingual-match",
-      "visuallyReviewed": false,
+      "visuallyReviewed": true,
       "entity": "Q42889",
       "commonsFile": "079-A2 31 Amman 20000910.jpg",
       "roLabel": "vehicul",
       "ruLabel": "транспортное средство",
       "sourceWidth": 3062,
       "sourceHeight": 2027,
-      "verifiedAt": "2026-10-17"
+      "verifiedAt": "2026-10-17",
+      "visualReviewMethod": "agent-contact-sheet-visual-review",
+      "visualReviewDate": "2026-10-18",
+      "reviewSheet": "artifacts/photo-review/revision-2026-10-18/sheet-05.jpg",
+      "reviewIndex": 192
     }
   },
   "open-74356fbb67fef5ed": {
@@ -11506,14 +12102,18 @@
     "photoReview": {
       "method": "exact-ro-ru-wikidata-labels-p18-commons-license",
       "status": "automated-bilingual-match",
-      "visuallyReviewed": false,
+      "visuallyReviewed": true,
       "entity": "Q372301",
       "commonsFile": "BLW Carborundum crystals.jpg",
       "roLabel": "Abraziv",
       "ruLabel": "Абразив",
       "sourceWidth": 3532,
       "sourceHeight": 2338,
-      "verifiedAt": "2026-10-17"
+      "verifiedAt": "2026-10-17",
+      "visualReviewMethod": "agent-contact-sheet-visual-review",
+      "visualReviewDate": "2026-10-18",
+      "reviewSheet": "artifacts/photo-review/revision-2026-10-18/sheet-05.jpg",
+      "reviewIndex": 194
     }
   },
   "open-ab61fb148e6bff32": {
@@ -11572,14 +12172,18 @@
     "photoReview": {
       "method": "exact-ro-ru-wikidata-labels-p18-commons-license",
       "status": "automated-bilingual-match",
-      "visuallyReviewed": false,
+      "visuallyReviewed": true,
       "entity": "Q216197",
       "commonsFile": "Aircraft altimeter.JPG",
       "roLabel": "altimetru",
       "ruLabel": "высотомер",
       "sourceWidth": 1632,
       "sourceHeight": 1232,
-      "verifiedAt": "2026-10-17"
+      "verifiedAt": "2026-10-17",
+      "visualReviewMethod": "agent-contact-sheet-visual-review",
+      "visualReviewDate": "2026-10-18",
+      "reviewSheet": "artifacts/photo-review/revision-2026-10-18/sheet-05.jpg",
+      "reviewIndex": 199
     }
   },
   "open-81b5fed6dfd0a3eb": {
@@ -11616,14 +12220,18 @@
     "photoReview": {
       "method": "exact-ro-ru-wikidata-labels-p18-commons-license",
       "status": "automated-bilingual-match",
-      "visuallyReviewed": false,
+      "visuallyReviewed": true,
       "entity": "Q12271",
       "commonsFile": "Ray and Maria Stata Center (MIT).JPG",
       "roLabel": "arhitectură",
       "ruLabel": "архитектура",
       "sourceWidth": 5184,
       "sourceHeight": 3456,
-      "verifiedAt": "2026-10-17"
+      "verifiedAt": "2026-10-17",
+      "visualReviewMethod": "agent-contact-sheet-visual-review",
+      "visualReviewDate": "2026-10-18",
+      "reviewSheet": "artifacts/photo-review/revision-2026-10-18/sheet-05.jpg",
+      "reviewIndex": 204
     }
   },
   "open-10a2be0e6b6765b7": {
@@ -11638,14 +12246,18 @@
     "photoReview": {
       "method": "exact-ro-ru-wikidata-labels-p18-commons-license",
       "status": "automated-bilingual-match",
-      "visuallyReviewed": false,
+      "visuallyReviewed": true,
       "entity": "Q184199",
       "commonsFile": "RobotMintCanb.jpg",
       "roLabel": "automatizare",
       "ruLabel": "автоматизация",
       "sourceWidth": 1024,
       "sourceHeight": 768,
-      "verifiedAt": "2026-10-17"
+      "verifiedAt": "2026-10-17",
+      "visualReviewMethod": "agent-contact-sheet-visual-review",
+      "visualReviewDate": "2026-10-18",
+      "reviewSheet": "artifacts/photo-review/revision-2026-10-18/sheet-05.jpg",
+      "reviewIndex": 206
     }
   },
   "open-dfd62d4c3db66428": {
@@ -11704,14 +12316,18 @@
     "photoReview": {
       "method": "exact-ro-ru-wikidata-labels-p18-commons-license",
       "status": "automated-bilingual-match",
-      "visuallyReviewed": false,
+      "visuallyReviewed": true,
       "entity": "Q14963",
       "commonsFile": "Moravská galerie 02 - Thonet-Mundus křeslo.jpg",
       "roLabel": "Balansoar",
       "ruLabel": "кресло-качалка",
       "sourceWidth": 3241,
       "sourceHeight": 2431,
-      "verifiedAt": "2026-10-17"
+      "verifiedAt": "2026-10-17",
+      "visualReviewMethod": "agent-contact-sheet-visual-review",
+      "visualReviewDate": "2026-10-18",
+      "reviewSheet": "artifacts/photo-review/revision-2026-10-18/sheet-05.jpg",
+      "reviewIndex": 211
     }
   },
   "open-893e6a96cf443591": {
@@ -11726,14 +12342,18 @@
     "photoReview": {
       "method": "exact-ro-ru-wikidata-labels-p18-commons-license",
       "status": "automated-bilingual-match",
-      "visuallyReviewed": false,
+      "visuallyReviewed": true,
       "entity": "Q49007",
       "commonsFile": "Kente 70.jpg",
       "roLabel": "ață",
       "ruLabel": "нитка",
       "sourceWidth": 5472,
       "sourceHeight": 3648,
-      "verifiedAt": "2026-10-17"
+      "verifiedAt": "2026-10-17",
+      "visualReviewMethod": "agent-contact-sheet-visual-review",
+      "visualReviewDate": "2026-10-18",
+      "reviewSheet": "artifacts/photo-review/revision-2026-10-18/sheet-05.jpg",
+      "reviewIndex": 209
     }
   },
   "open-15827029160dc9aa": {
@@ -11748,14 +12368,18 @@
     "photoReview": {
       "method": "exact-ro-ru-wikidata-labels-p18-commons-license",
       "status": "automated-bilingual-match",
-      "visuallyReviewed": false,
+      "visuallyReviewed": true,
       "entity": "Q658386",
       "commonsFile": "Baluster, rotscheck.jpg",
       "roLabel": "Balustru",
       "ruLabel": "балясина",
       "sourceWidth": 1969,
       "sourceHeight": 2626,
-      "verifiedAt": "2026-10-17"
+      "verifiedAt": "2026-10-17",
+      "visualReviewMethod": "agent-contact-sheet-visual-review",
+      "visualReviewDate": "2026-10-18",
+      "reviewSheet": "artifacts/photo-review/revision-2026-10-18/sheet-05.jpg",
+      "reviewIndex": 212
     }
   },
   "open-ce04b15274ffd154": {
@@ -11814,14 +12438,18 @@
     "photoReview": {
       "method": "exact-ro-ru-wikidata-labels-p18-commons-license",
       "status": "automated-bilingual-match",
-      "visuallyReviewed": false,
+      "visuallyReviewed": true,
       "entity": "Q836904",
       "commonsFile": "12-hopfenwiegen.jpg",
       "roLabel": "berar",
       "ruLabel": "пивовар",
       "sourceWidth": 1280,
       "sourceHeight": 879,
-      "verifiedAt": "2026-10-17"
+      "verifiedAt": "2026-10-17",
+      "visualReviewMethod": "agent-contact-sheet-visual-review",
+      "visualReviewDate": "2026-10-18",
+      "reviewSheet": "artifacts/photo-review/revision-2026-10-18/sheet-05.jpg",
+      "reviewIndex": 215
     }
   },
   "open-17874ed995e4ea0c": {
@@ -11836,14 +12464,18 @@
     "photoReview": {
       "method": "exact-ro-ru-wikidata-labels-p18-commons-license",
       "status": "automated-bilingual-match",
-      "visuallyReviewed": false,
+      "visuallyReviewed": true,
       "entity": "Q102626",
       "commonsFile": "2020 Lornetka Baigish 8x30.jpg",
       "roLabel": "binoclu",
       "ruLabel": "бинокль",
       "sourceWidth": 4670,
       "sourceHeight": 3470,
-      "verifiedAt": "2026-10-17"
+      "verifiedAt": "2026-10-17",
+      "visualReviewMethod": "agent-contact-sheet-visual-review",
+      "visualReviewDate": "2026-10-18",
+      "reviewSheet": "artifacts/photo-review/revision-2026-10-18/sheet-05.jpg",
+      "reviewIndex": 220
     }
   },
   "open-3d8755fe0e3e51a8": {
@@ -11946,14 +12578,18 @@
     "photoReview": {
       "method": "exact-ro-ru-wikidata-labels-p18-commons-license",
       "status": "automated-bilingual-match",
-      "visuallyReviewed": false,
+      "visuallyReviewed": true,
       "entity": "Q132390",
       "commonsFile": "Carp gill defect.jpg",
       "roLabel": "Branhie",
       "ruLabel": "жабры",
       "sourceWidth": 3296,
       "sourceHeight": 2472,
-      "verifiedAt": "2026-10-17"
+      "verifiedAt": "2026-10-17",
+      "visualReviewMethod": "agent-contact-sheet-visual-review",
+      "visualReviewDate": "2026-10-18",
+      "reviewSheet": "artifacts/photo-review/revision-2026-10-18/sheet-05.jpg",
+      "reviewIndex": 225
     }
   },
   "open-c85494ac4c01c393": {
@@ -11990,14 +12626,18 @@
     "photoReview": {
       "method": "exact-ro-ru-wikidata-labels-p18-commons-license",
       "status": "automated-bilingual-match",
-      "visuallyReviewed": false,
+      "visuallyReviewed": true,
       "entity": "Q13382566",
       "commonsFile": "Rio 2016. Canoagem de Velocidade-Canoe sprint (28855459730).jpg",
       "roLabel": "canoist",
       "ruLabel": "каноист",
       "sourceWidth": 4000,
       "sourceHeight": 2248,
-      "verifiedAt": "2026-10-17"
+      "verifiedAt": "2026-10-17",
+      "visualReviewMethod": "agent-contact-sheet-visual-review",
+      "visualReviewDate": "2026-10-18",
+      "reviewSheet": "artifacts/photo-review/revision-2026-10-18/sheet-05.jpg",
+      "reviewIndex": 228
     }
   },
   "open-9e9255bdfa0dfa02": {
@@ -12012,14 +12652,18 @@
     "photoReview": {
       "method": "exact-ro-ru-wikidata-labels-p18-commons-license",
       "status": "automated-bilingual-match",
-      "visuallyReviewed": false,
+      "visuallyReviewed": true,
       "entity": "Q180049",
       "commonsFile": "Gambar kaleidoskop warna-warni.jpg",
       "roLabel": "Caleidoscop",
       "ruLabel": "калейдоскоп",
       "sourceWidth": 961,
       "sourceHeight": 973,
-      "verifiedAt": "2026-10-17"
+      "verifiedAt": "2026-10-17",
+      "visualReviewMethod": "agent-contact-sheet-visual-review",
+      "visualReviewDate": "2026-10-18",
+      "reviewSheet": "artifacts/photo-review/revision-2026-10-18/sheet-05.jpg",
+      "reviewIndex": 226
     }
   },
   "open-23fa2b40db782a52": {
@@ -12034,14 +12678,18 @@
     "photoReview": {
       "method": "exact-ro-ru-wikidata-labels-p18-commons-license",
       "status": "automated-bilingual-match",
-      "visuallyReviewed": false,
+      "visuallyReviewed": true,
       "entity": "Q324369",
       "commonsFile": "Carneool.jpg",
       "roLabel": "carneol",
       "ruLabel": "карнеол",
       "sourceWidth": 1600,
       "sourceHeight": 1200,
-      "verifiedAt": "2026-10-17"
+      "verifiedAt": "2026-10-17",
+      "visualReviewMethod": "agent-contact-sheet-visual-review",
+      "visualReviewDate": "2026-10-18",
+      "reviewSheet": "artifacts/photo-review/revision-2026-10-18/sheet-05.jpg",
+      "reviewIndex": 230
     }
   },
   "open-2af99a28bd255098": {
@@ -12056,14 +12704,18 @@
     "photoReview": {
       "method": "exact-ro-ru-wikidata-labels-p18-commons-license",
       "status": "automated-bilingual-match",
-      "visuallyReviewed": false,
+      "visuallyReviewed": true,
       "entity": "Q131538",
       "commonsFile": "Capybaras (Hydrochoerus hydrachaeris) female and young suckling ... (48427191032).jpg",
       "roLabel": "Capibara",
       "ruLabel": "водосвинка",
       "sourceWidth": 4753,
       "sourceHeight": 2929,
-      "verifiedAt": "2026-10-17"
+      "verifiedAt": "2026-10-17",
+      "visualReviewMethod": "agent-contact-sheet-visual-review",
+      "visualReviewDate": "2026-10-18",
+      "reviewSheet": "artifacts/photo-review/revision-2026-10-18/sheet-05.jpg",
+      "reviewIndex": 229
     }
   },
   "open-639d5ecb9ddb4ad8": {
@@ -12100,14 +12752,18 @@
     "photoReview": {
       "method": "exact-ro-ru-wikidata-labels-p18-commons-license",
       "status": "automated-bilingual-match",
-      "visuallyReviewed": false,
+      "visuallyReviewed": true,
       "entity": "Q1317634",
       "commonsFile": "Gulyas080.jpg",
       "roLabel": "Ceaun",
       "ruLabel": "Котёл",
       "sourceWidth": 1280,
       "sourceHeight": 960,
-      "verifiedAt": "2026-10-17"
+      "verifiedAt": "2026-10-17",
+      "visualReviewMethod": "agent-contact-sheet-visual-review",
+      "visualReviewDate": "2026-10-18",
+      "reviewSheet": "artifacts/photo-review/revision-2026-10-18/sheet-05.jpg",
+      "reviewIndex": 234
     }
   },
   "open-f9f985e99388d7dd": {
@@ -12122,14 +12778,18 @@
     "photoReview": {
       "method": "exact-ro-ru-wikidata-labels-p18-commons-license",
       "status": "automated-bilingual-match",
-      "visuallyReviewed": false,
+      "visuallyReviewed": true,
       "entity": "Q208322",
       "commonsFile": "ManègeLR1.jpg",
       "roLabel": "carusel",
       "ruLabel": "карусель",
       "sourceWidth": 3264,
       "sourceHeight": 2448,
-      "verifiedAt": "2026-10-17"
+      "verifiedAt": "2026-10-17",
+      "visualReviewMethod": "agent-contact-sheet-visual-review",
+      "visualReviewDate": "2026-10-18",
+      "reviewSheet": "artifacts/photo-review/revision-2026-10-18/sheet-05.jpg",
+      "reviewIndex": 231
     }
   },
   "open-f66255b25fd6a68a": {
@@ -12166,14 +12826,18 @@
     "photoReview": {
       "method": "exact-ro-ru-wikidata-labels-p18-commons-license",
       "status": "automated-bilingual-match",
-      "visuallyReviewed": false,
+      "visuallyReviewed": true,
       "entity": "Q88291",
       "commonsFile": "Ciudadela Jaca Vista Aerea.JPG",
       "roLabel": "citadelă",
       "ruLabel": "цитадель",
       "sourceWidth": 3264,
       "sourceHeight": 2448,
-      "verifiedAt": "2026-10-17"
+      "verifiedAt": "2026-10-17",
+      "visualReviewMethod": "agent-contact-sheet-visual-review",
+      "visualReviewDate": "2026-10-18",
+      "reviewSheet": "artifacts/photo-review/revision-2026-10-18/sheet-05.jpg",
+      "reviewIndex": 237
     }
   },
   "open-ddcdb99dd480c0f6": {
@@ -12188,14 +12852,18 @@
     "photoReview": {
       "method": "exact-ro-ru-wikidata-labels-p18-commons-license",
       "status": "automated-bilingual-match",
-      "visuallyReviewed": false,
+      "visuallyReviewed": true,
       "entity": "Q129757",
       "commonsFile": "Homa femuro.jpg",
       "roLabel": "coapsă",
       "ruLabel": "бедро",
       "sourceWidth": 3840,
       "sourceHeight": 5760,
-      "verifiedAt": "2026-10-17"
+      "verifiedAt": "2026-10-17",
+      "visualReviewMethod": "agent-contact-sheet-visual-review",
+      "visualReviewDate": "2026-10-18",
+      "reviewSheet": "artifacts/photo-review/revision-2026-10-18/sheet-05.jpg",
+      "reviewIndex": 239
     }
   },
   "open-64b04d795dfea875": {
@@ -12210,14 +12878,18 @@
     "photoReview": {
       "method": "exact-ro-ru-wikidata-labels-p18-commons-license",
       "status": "automated-bilingual-match",
-      "visuallyReviewed": false,
+      "visuallyReviewed": true,
       "entity": "Q130912",
       "commonsFile": "20160520-RD-LSC-0803 (26795735334).jpg",
       "roLabel": "coasă",
       "ruLabel": "коса",
       "sourceWidth": 7360,
       "sourceHeight": 4912,
-      "verifiedAt": "2026-10-17"
+      "verifiedAt": "2026-10-17",
+      "visualReviewMethod": "agent-contact-sheet-visual-review",
+      "visualReviewDate": "2026-10-18",
+      "reviewSheet": "artifacts/photo-review/revision-2026-10-18/sheet-06.jpg",
+      "reviewIndex": 240
     }
   },
   "open-7cc5bd13db0d6cae": {
@@ -12254,14 +12926,18 @@
     "photoReview": {
       "method": "exact-ro-ru-wikidata-labels-p18-commons-license",
       "status": "automated-bilingual-match",
-      "visuallyReviewed": false,
+      "visuallyReviewed": true,
       "entity": "Q138937",
       "commonsFile": "Kolophonium Loeten.jpg",
       "roLabel": "Colofoniu",
       "ruLabel": "канифоль",
       "sourceWidth": 1440,
       "sourceHeight": 1212,
-      "verifiedAt": "2026-10-17"
+      "verifiedAt": "2026-10-17",
+      "visualReviewMethod": "agent-contact-sheet-visual-review",
+      "visualReviewDate": "2026-10-18",
+      "reviewSheet": "artifacts/photo-review/revision-2026-10-18/sheet-06.jpg",
+      "reviewIndex": 242
     }
   },
   "open-63b7f0fe42919a8d": {
@@ -12276,14 +12952,18 @@
     "photoReview": {
       "method": "exact-ro-ru-wikidata-labels-p18-commons-license",
       "status": "automated-bilingual-match",
-      "visuallyReviewed": false,
+      "visuallyReviewed": true,
       "entity": "Q506126",
       "commonsFile": "Sotare på ett tak i Stockholm.jpg",
       "roLabel": "coșar",
       "ruLabel": "трубочист",
       "sourceWidth": 7936,
       "sourceHeight": 5648,
-      "verifiedAt": "2026-10-17"
+      "verifiedAt": "2026-10-17",
+      "visualReviewMethod": "agent-contact-sheet-visual-review",
+      "visualReviewDate": "2026-10-18",
+      "reviewSheet": "artifacts/photo-review/revision-2026-10-18/sheet-06.jpg",
+      "reviewIndex": 247
     }
   },
   "open-b66e694e27bc6706": {
@@ -12298,14 +12978,18 @@
     "photoReview": {
       "method": "exact-ro-ru-wikidata-labels-p18-commons-license",
       "status": "automated-bilingual-match",
-      "visuallyReviewed": false,
+      "visuallyReviewed": true,
       "entity": "Q79803",
       "commonsFile": "Conill porquí gàbia.JPG",
       "roLabel": "Cobai",
       "ruLabel": "морская свинка",
       "sourceWidth": 3648,
       "sourceHeight": 2736,
-      "verifiedAt": "2026-10-17"
+      "verifiedAt": "2026-10-17",
+      "visualReviewMethod": "agent-contact-sheet-visual-review",
+      "visualReviewDate": "2026-10-18",
+      "reviewSheet": "artifacts/photo-review/revision-2026-10-18/sheet-06.jpg",
+      "reviewIndex": 241
     }
   },
   "open-08c27929b14313d7": {
@@ -12342,14 +13026,18 @@
     "photoReview": {
       "method": "exact-ro-ru-wikidata-labels-p18-commons-license",
       "status": "automated-bilingual-match",
-      "visuallyReviewed": false,
+      "visuallyReviewed": true,
       "entity": "Q15982795",
       "commonsFile": "Puffed up (7453723786).jpg",
       "roLabel": "culturist",
       "ruLabel": "культурист",
       "sourceWidth": 4272,
       "sourceHeight": 2848,
-      "verifiedAt": "2026-10-17"
+      "verifiedAt": "2026-10-17",
+      "visualReviewMethod": "agent-contact-sheet-visual-review",
+      "visualReviewDate": "2026-10-18",
+      "reviewSheet": "artifacts/photo-review/revision-2026-10-18/sheet-06.jpg",
+      "reviewIndex": 248
     }
   },
   "open-1bde8900f793a663": {
@@ -12364,14 +13052,18 @@
     "photoReview": {
       "method": "exact-ro-ru-wikidata-labels-p18-commons-license",
       "status": "automated-bilingual-match",
-      "visuallyReviewed": false,
+      "visuallyReviewed": true,
       "entity": "Q158852",
       "commonsFile": "Roman Catholic Elementary School- Life at St Joseph's, Upper Norwood, 1943 D14456.jpg",
       "roLabel": "dirijor",
       "ruLabel": "дирижёр",
       "sourceWidth": 785,
       "sourceHeight": 800,
-      "verifiedAt": "2026-10-17"
+      "verifiedAt": "2026-10-17",
+      "visualReviewMethod": "agent-contact-sheet-visual-review",
+      "visualReviewDate": "2026-10-18",
+      "reviewSheet": "artifacts/photo-review/revision-2026-10-18/sheet-06.jpg",
+      "reviewIndex": 252
     }
   },
   "open-9f7fb41439e0d776": {
@@ -12408,14 +13100,18 @@
     "photoReview": {
       "method": "exact-ro-ru-wikidata-labels-p18-commons-license",
       "status": "automated-bilingual-match",
-      "visuallyReviewed": false,
+      "visuallyReviewed": true,
       "entity": "Q672980",
       "commonsFile": "Forsythia flower.JPG",
       "roLabel": "Forsiția",
       "ruLabel": "Форзиция",
       "sourceWidth": 3648,
       "sourceHeight": 2736,
-      "verifiedAt": "2026-10-17"
+      "verifiedAt": "2026-10-17",
+      "visualReviewMethod": "agent-contact-sheet-visual-review",
+      "visualReviewDate": "2026-10-18",
+      "reviewSheet": "artifacts/photo-review/revision-2026-10-18/sheet-06.jpg",
+      "reviewIndex": 262
     }
   },
   "open-405dc225e113acc2": {
@@ -12452,14 +13148,18 @@
     "photoReview": {
       "method": "exact-ro-ru-wikidata-labels-p18-commons-license",
       "status": "automated-bilingual-match",
-      "visuallyReviewed": false,
+      "visuallyReviewed": true,
       "entity": "Q171497",
       "commonsFile": "Helianthus annuus exposed 2004-05-22.jpg",
       "roLabel": "floarea-soarelui",
       "ruLabel": "подсолнух",
       "sourceWidth": 768,
       "sourceHeight": 1024,
-      "verifiedAt": "2026-10-17"
+      "verifiedAt": "2026-10-17",
+      "visualReviewMethod": "agent-contact-sheet-visual-review",
+      "visualReviewDate": "2026-10-18",
+      "reviewSheet": "artifacts/photo-review/revision-2026-10-18/sheet-06.jpg",
+      "reviewIndex": 260
     }
   },
   "open-c46193928351cd10": {
@@ -12474,14 +13174,18 @@
     "photoReview": {
       "method": "exact-ro-ru-wikidata-labels-p18-commons-license",
       "status": "automated-bilingual-match",
-      "visuallyReviewed": false,
+      "visuallyReviewed": true,
       "entity": "Q419167",
       "commonsFile": "Basic Fuchsine in aqueous solution.jpg",
       "roLabel": "Fucsină",
       "ruLabel": "Фуксин",
       "sourceWidth": 1679,
       "sourceHeight": 2114,
-      "verifiedAt": "2026-10-17"
+      "verifiedAt": "2026-10-17",
+      "visualReviewMethod": "agent-contact-sheet-visual-review",
+      "visualReviewDate": "2026-10-18",
+      "reviewSheet": "artifacts/photo-review/revision-2026-10-18/sheet-06.jpg",
+      "reviewIndex": 264
     }
   },
   "open-9ccf70ffb3d753a1": {
@@ -12518,14 +13222,18 @@
     "photoReview": {
       "method": "exact-ro-ru-wikidata-labels-p18-commons-license",
       "status": "automated-bilingual-match",
-      "visuallyReviewed": false,
+      "visuallyReviewed": true,
       "entity": "Q43450",
       "commonsFile": "Gymnastics brokenchopstick.jpg",
       "roLabel": "gimnastică",
       "ruLabel": "гимнастика",
       "sourceWidth": 741,
       "sourceHeight": 493,
-      "verifiedAt": "2026-10-17"
+      "verifiedAt": "2026-10-17",
+      "visualReviewMethod": "agent-contact-sheet-visual-review",
+      "visualReviewDate": "2026-10-18",
+      "reviewSheet": "artifacts/photo-review/revision-2026-10-18/sheet-06.jpg",
+      "reviewIndex": 269
     }
   },
   "open-2f102bae561a1fef": {
@@ -12540,14 +13248,18 @@
     "photoReview": {
       "method": "exact-ro-ru-wikidata-labels-p18-commons-license",
       "status": "automated-bilingual-match",
-      "visuallyReviewed": false,
+      "visuallyReviewed": true,
       "entity": "Q1723884",
       "commonsFile": "MaryRose-round shot.JPG",
       "roLabel": "ghiulea",
       "ruLabel": "пушечное ядро",
       "sourceWidth": 3264,
       "sourceHeight": 2448,
-      "verifiedAt": "2026-10-17"
+      "verifiedAt": "2026-10-17",
+      "visualReviewMethod": "agent-contact-sheet-visual-review",
+      "visualReviewDate": "2026-10-18",
+      "reviewSheet": "artifacts/photo-review/revision-2026-10-18/sheet-06.jpg",
+      "reviewIndex": 267
     }
   },
   "open-cc86d865e47a25af": {
@@ -12562,14 +13274,18 @@
     "photoReview": {
       "method": "exact-ro-ru-wikidata-labels-p18-commons-license",
       "status": "automated-bilingual-match",
-      "visuallyReviewed": false,
+      "visuallyReviewed": true,
       "entity": "Q6663",
       "commonsFile": "NCI Visuals Food Hamburger.jpg",
       "roLabel": "hamburger",
       "ruLabel": "гамбургер",
       "sourceWidth": 2700,
       "sourceHeight": 1800,
-      "verifiedAt": "2026-10-17"
+      "verifiedAt": "2026-10-17",
+      "visualReviewMethod": "agent-contact-sheet-visual-review",
+      "visualReviewDate": "2026-10-18",
+      "reviewSheet": "artifacts/photo-review/revision-2026-10-18/sheet-06.jpg",
+      "reviewIndex": 273
     }
   },
   "open-d1f63b59d3fa06e8": {
@@ -12606,14 +13322,18 @@
     "photoReview": {
       "method": "exact-ro-ru-wikidata-labels-p18-commons-license",
       "status": "automated-bilingual-match",
-      "visuallyReviewed": false,
+      "visuallyReviewed": true,
       "entity": "Q779519",
       "commonsFile": "Stehaufmann.jpg",
       "roLabel": "Hopa-mitică",
       "ruLabel": "неваляшка",
       "sourceWidth": 750,
       "sourceHeight": 798,
-      "verifiedAt": "2026-10-17"
+      "verifiedAt": "2026-10-17",
+      "visualReviewMethod": "agent-contact-sheet-visual-review",
+      "visualReviewDate": "2026-10-18",
+      "reviewSheet": "artifacts/photo-review/revision-2026-10-18/sheet-06.jpg",
+      "reviewIndex": 275
     }
   },
   "open-a661e4a2ada197cc": {
@@ -12628,14 +13348,18 @@
     "photoReview": {
       "method": "exact-ro-ru-wikidata-labels-p18-commons-license",
       "status": "automated-bilingual-match",
-      "visuallyReviewed": false,
+      "visuallyReviewed": true,
       "entity": "Q8418",
       "commonsFile": "Albert Rocas Selección 2013.jpg",
       "roLabel": "handbal",
       "ruLabel": "гандбол",
       "sourceWidth": 1200,
       "sourceHeight": 1800,
-      "verifiedAt": "2026-10-17"
+      "verifiedAt": "2026-10-17",
+      "visualReviewMethod": "agent-contact-sheet-visual-review",
+      "visualReviewDate": "2026-10-18",
+      "reviewSheet": "artifacts/photo-review/revision-2026-10-18/sheet-06.jpg",
+      "reviewIndex": 274
     }
   },
   "open-491dadbb1bca4831": {
@@ -12650,14 +13374,18 @@
     "photoReview": {
       "method": "exact-ro-ru-wikidata-labels-p18-commons-license",
       "status": "automated-bilingual-match",
-      "visuallyReviewed": false,
+      "visuallyReviewed": true,
       "entity": "Q288514",
       "commonsFile": "2008Overview1.JPG",
       "roLabel": "iarmaroc",
       "ruLabel": "ярмарка",
       "sourceWidth": 1200,
       "sourceHeight": 800,
-      "verifiedAt": "2026-10-17"
+      "verifiedAt": "2026-10-17",
+      "visualReviewMethod": "agent-contact-sheet-visual-review",
+      "visualReviewDate": "2026-10-18",
+      "reviewSheet": "artifacts/photo-review/revision-2026-10-18/sheet-06.jpg",
+      "reviewIndex": 276
     }
   },
   "open-dd32831e9d5f3da3": {
@@ -12716,14 +13444,18 @@
     "photoReview": {
       "method": "exact-ro-ru-wikidata-labels-p18-commons-license",
       "status": "automated-bilingual-match",
-      "visuallyReviewed": false,
+      "visuallyReviewed": true,
       "entity": "Q213777",
       "commonsFile": "Studer B67 reel-to-reel audio tape recorder, ca. 1978 (cropped and edited, larger 10 inch tapes).jpg",
       "roLabel": "magnetofon",
       "ruLabel": "магнитофон",
       "sourceWidth": 2530,
       "sourceHeight": 2560,
-      "verifiedAt": "2026-10-17"
+      "verifiedAt": "2026-10-17",
+      "visualReviewMethod": "agent-contact-sheet-visual-review",
+      "visualReviewDate": "2026-10-18",
+      "reviewSheet": "artifacts/photo-review/revision-2026-10-18/sheet-06.jpg",
+      "reviewIndex": 282
     }
   },
   "open-ae5c3cd67c64e1ff": {
@@ -12804,14 +13536,18 @@
     "photoReview": {
       "method": "exact-ro-ru-wikidata-labels-p18-commons-license",
       "status": "automated-bilingual-match",
-      "visuallyReviewed": false,
+      "visuallyReviewed": true,
       "entity": "Q58697",
       "commonsFile": "Wildschwein, Nähe Pulverstampftor.jpg",
       "roLabel": "mistreț",
       "ruLabel": "кабан",
       "sourceWidth": 3248,
       "sourceHeight": 2165,
-      "verifiedAt": "2026-10-17"
+      "verifiedAt": "2026-10-17",
+      "visualReviewMethod": "agent-contact-sheet-visual-review",
+      "visualReviewDate": "2026-10-18",
+      "reviewSheet": "artifacts/photo-review/revision-2026-10-18/sheet-07.jpg",
+      "reviewIndex": 291
     }
   },
   "open-23d0c26705c5a70d": {
@@ -12892,14 +13628,18 @@
     "photoReview": {
       "method": "exact-ro-ru-wikidata-labels-p18-commons-license",
       "status": "automated-bilingual-match",
-      "visuallyReviewed": false,
+      "visuallyReviewed": true,
       "entity": "Q20702",
       "commonsFile": "Pendulum-242740 640.jpg",
       "roLabel": "pendul",
       "ruLabel": "маятник",
       "sourceWidth": 640,
       "sourceHeight": 426,
-      "verifiedAt": "2026-10-17"
+      "verifiedAt": "2026-10-17",
+      "visualReviewMethod": "agent-contact-sheet-visual-review",
+      "visualReviewDate": "2026-10-18",
+      "reviewSheet": "artifacts/photo-review/revision-2026-10-18/sheet-07.jpg",
+      "reviewIndex": 307
     }
   },
   "open-11fe66d148a978b5": {
@@ -12936,14 +13676,18 @@
     "photoReview": {
       "method": "exact-ro-ru-wikidata-labels-p18-commons-license",
       "status": "automated-bilingual-match",
-      "visuallyReviewed": false,
+      "visuallyReviewed": true,
       "entity": "Q148319",
       "commonsFile": "Planetarium Ślaski Park Nauki.jpg",
       "roLabel": "Planetarium",
       "ruLabel": "планетарий",
       "sourceWidth": 4000,
       "sourceHeight": 2792,
-      "verifiedAt": "2026-10-17"
+      "verifiedAt": "2026-10-17",
+      "visualReviewMethod": "agent-contact-sheet-visual-review",
+      "visualReviewDate": "2026-10-18",
+      "reviewSheet": "artifacts/photo-review/revision-2026-10-18/sheet-07.jpg",
+      "reviewIndex": 311
     }
   },
   "open-cf2f170b6951d904": {
@@ -13002,14 +13746,18 @@
     "photoReview": {
       "method": "exact-ro-ru-wikidata-labels-p18-commons-license",
       "status": "automated-bilingual-match",
-      "visuallyReviewed": false,
+      "visuallyReviewed": true,
       "entity": "Q83244",
       "commonsFile": "Striped skunk, close (21303507080).jpg",
       "roLabel": "sconcs",
       "ruLabel": "скунс",
       "sourceWidth": 3861,
       "sourceHeight": 2574,
-      "verifiedAt": "2026-10-17"
+      "verifiedAt": "2026-10-17",
+      "visualReviewMethod": "agent-contact-sheet-visual-review",
+      "visualReviewDate": "2026-10-18",
+      "reviewSheet": "artifacts/photo-review/revision-2026-10-18/sheet-07.jpg",
+      "reviewIndex": 329
     }
   },
   "open-038750191850488e": {
@@ -13024,14 +13772,18 @@
     "photoReview": {
       "method": "exact-ro-ru-wikidata-labels-p18-commons-license",
       "status": "automated-bilingual-match",
-      "visuallyReviewed": false,
+      "visuallyReviewed": true,
       "entity": "Q1281618",
       "commonsFile": "Paolo Monti - Servizio fotografico - BEIC 6365476.jpg",
       "roLabel": "sculptor",
       "ruLabel": "скульптор",
       "sourceWidth": 1158,
       "sourceHeight": 1180,
-      "verifiedAt": "2026-10-17"
+      "verifiedAt": "2026-10-17",
+      "visualReviewMethod": "agent-contact-sheet-visual-review",
+      "visualReviewDate": "2026-10-18",
+      "reviewSheet": "artifacts/photo-review/revision-2026-10-18/sheet-07.jpg",
+      "reviewIndex": 330
     }
   },
   "open-5d8b952c7e5df664": {
@@ -13068,14 +13820,18 @@
     "photoReview": {
       "method": "exact-ro-ru-wikidata-labels-p18-commons-license",
       "status": "automated-bilingual-match",
-      "visuallyReviewed": false,
+      "visuallyReviewed": true,
       "entity": "Q35830",
       "commonsFile": "Sneeze.JPG",
       "roLabel": "Strănut",
       "ruLabel": "Чихание",
       "sourceWidth": 4240,
       "sourceHeight": 2836,
-      "verifiedAt": "2026-10-17"
+      "verifiedAt": "2026-10-17",
+      "visualReviewMethod": "agent-contact-sheet-visual-review",
+      "visualReviewDate": "2026-10-18",
+      "reviewSheet": "artifacts/photo-review/revision-2026-10-18/sheet-08.jpg",
+      "reviewIndex": 337
     }
   },
   "open-a60e7b6f8a2e7508": {
@@ -13178,14 +13934,18 @@
     "photoReview": {
       "method": "exact-ro-ru-wikidata-labels-p18-commons-license",
       "status": "automated-bilingual-match",
-      "visuallyReviewed": false,
+      "visuallyReviewed": true,
       "entity": "Q374",
       "commonsFile": "Monopolowa Baczewski.JPG",
       "roLabel": "votcă",
       "ruLabel": "водка",
       "sourceWidth": 1649,
       "sourceHeight": 2199,
-      "verifiedAt": "2026-10-17"
+      "verifiedAt": "2026-10-17",
+      "visualReviewMethod": "agent-contact-sheet-visual-review",
+      "visualReviewDate": "2026-10-18",
+      "reviewSheet": "artifacts/photo-review/revision-2026-10-18/sheet-08.jpg",
+      "reviewIndex": 354
     }
   },
   "open-e54b1876ef268b88": {

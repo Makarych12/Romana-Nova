@@ -3,7 +3,7 @@
   "wikipediaEntities": 1243,
   "exactBilingualCandidates": 932,
   "downloadedPhotos": 590,
-  "manualVisualReviews": 231,
+  "manualVisualReviews": 421,
   "pending": 4577,
   "rejectionReasons": {
     "license, attribution or JPEG metadata not accepted": 131,
@@ -20,5 +20,7 @@
     "graphic or intimate image excluded": 2,
     "same image already used for a different card": 19
   },
-  "bytes": 56996686
+  "bytes": 56996686,
+  "visualReviewMethod": "agent contact sheet review; no independent human review",
+  "publishedPhotos": 497
 }

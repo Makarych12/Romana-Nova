@@ -7,7 +7,7 @@
   "modelRepositoryLicense": "MIT",
   "trainingDatasetLicense": "CC0 (as declared in the voice MODEL_CARD)",
   "important": "Training-data license does not replace source-text licenses. Audio is synthesized, not a recording of a human reader.",
-  "textSources": "/data/vocabulary-c27d9b6549b8.json",
+  "textSources": "/data/vocabulary-1ecf372bf417.json",
   "textToFile": "/audio/text-to-file.json",
   "textLicenses": [
     "Original project learning examples",
@@ -19,5 +19,5 @@
   "sampleRate": 22050,
   "codec": "MP3",
   "bitRate": 56000,
-  "files": 10916
+  "files": 11455
 }

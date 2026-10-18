@@ -1,0 +1,2156 @@
+[
+  {
+    "id": "w12",
+    "ro": "masă",
+    "ru": "стол",
+    "image": "/photos/expanded/w12.webp"
+  },
+  {
+    "id": "w15",
+    "ro": "bani",
+    "ru": "деньги",
+    "image": "/photos/expanded/w15.webp"
+  },
+  {
+    "id": "curated-orez",
+    "ro": "orez",
+    "ru": "рис",
+    "image": "/photos/expanded/curated-orez.webp"
+  },
+  {
+    "id": "curated-zahar",
+    "ro": "zahăr",
+    "ru": "сахар",
+    "image": "/photos/expanded/curated-zahar.webp"
+  },
+  {
+    "id": "curated-cuptor",
+    "ro": "cuptor",
+    "ru": "духовка; печь",
+    "image": "/photos/expanded/curated-cuptor.webp"
+  },
+  {
+    "id": "curated-rau",
+    "ro": "râu",
+    "ru": "река",
+    "image": "/photos/expanded/curated-rau.webp"
+  },
+  {
+    "id": "curated-camasa",
+    "ro": "cămașă",
+    "ru": "рубашка",
+    "image": "/photos/expanded/curated-camasa.webp"
+  },
+  {
+    "id": "curated-geaca",
+    "ro": "geacă",
+    "ru": "куртка",
+    "image": "/photos/expanded/curated-geaca.webp"
+  },
+  {
+    "id": "curated-motocicleta",
+    "ro": "motocicletă",
+    "ru": "мотоцикл",
+    "image": "/photos/expanded/curated-motocicleta.webp"
+  },
+  {
+    "id": "curated-sotie",
+    "ro": "soție",
+    "ru": "жена; супруга",
+    "image": "/photos/expanded/curated-sotie.webp"
+  },
+  {
+    "id": "curated-contract",
+    "ro": "contract",
+    "ru": "договор; контракт",
+    "image": "/photos/expanded/curated-contract.webp"
+  },
+  {
+    "id": "curated-salariu",
+    "ro": "salariu",
+    "ru": "зарплата",
+    "image": "/photos/expanded/curated-salariu.webp"
+  },
+  {
+    "id": "curated-primarie",
+    "ro": "primărie",
+    "ru": "мэрия",
+    "image": "/photos/expanded/curated-primarie.webp"
+  },
+  {
+    "id": "curated-durere",
+    "ro": "durere",
+    "ru": "боль",
+    "image": "/photos/expanded/curated-durere.webp"
+  },
+  {
+    "id": "open-bf0fa77c949c10be",
+    "ro": "fiu",
+    "ru": "сын",
+    "image": "/photos/expanded/open-bf0fa77c949c10be.webp"
+  },
+  {
+    "id": "open-d3052463b7a5e9db",
+    "ro": "scris",
+    "ru": "письмо; письменная речь; почерк; написанное",
+    "image": "/photos/expanded/open-d3052463b7a5e9db.webp"
+  },
+  {
+    "id": "open-8a2539e2b69d9daf",
+    "ro": "vin",
+    "ru": "вино",
+    "image": "/photos/expanded/open-8a2539e2b69d9daf.webp"
+  },
+  {
+    "id": "open-23b4fb10498c6c08",
+    "ro": "frică",
+    "ru": "страх",
+    "image": "/photos/expanded/open-23b4fb10498c6c08.webp"
+  },
+  {
+    "id": "open-768490634b6310d0",
+    "ro": "cer",
+    "ru": "небо",
+    "image": "/photos/expanded/open-768490634b6310d0.webp"
+  },
+  {
+    "id": "open-e30152e891aac250",
+    "ro": "dragoste",
+    "ru": "любовь",
+    "image": "/photos/expanded/open-e30152e891aac250.webp"
+  },
+  {
+    "id": "open-8d53a3e3672946bd",
+    "ro": "hotel",
+    "ru": "гостиница, отель",
+    "image": "/photos/expanded/open-8d53a3e3672946bd.webp"
+  },
+  {
+    "id": "open-69292328eeb54794",
+    "ro": "vacanță",
+    "ru": "каникулы",
+    "image": "/photos/expanded/open-69292328eeb54794.webp"
+  },
+  {
+    "id": "open-91a9eb5e7e990793",
+    "ro": "nume",
+    "ru": "имя; фамилия; название; грам. имя (часть речи)",
+    "image": "/photos/expanded/open-91a9eb5e7e990793.webp"
+  },
+  {
+    "id": "open-64879f7d6b960a01",
+    "ro": "plan",
+    "ru": "план; геометр. плоскость; плоский; плоскостной",
+    "image": "/photos/expanded/open-64879f7d6b960a01.webp"
+  },
+  {
+    "id": "open-d2a4b0225697f9db",
+    "ro": "dicționar",
+    "ru": "словарь",
+    "image": "/photos/expanded/open-d2a4b0225697f9db.webp"
+  },
+  {
+    "id": "open-4a0a8c233dd2ad7b",
+    "ro": "preț",
+    "ru": "цена",
+    "image": "/photos/expanded/open-4a0a8c233dd2ad7b.webp"
+  },
+  {
+    "id": "open-1f7330d04cde8888",
+    "ro": "bere",
+    "ru": "пиво; распитие",
+    "image": "/photos/expanded/open-1f7330d04cde8888.webp"
+  },
+  {
+    "id": "open-f8d397a33fcb9725",
+    "ro": "port",
+    "ru": "порт, пристань",
+    "image": "/photos/expanded/open-f8d397a33fcb9725.webp"
+  },
+  {
+    "id": "open-bcd5e9696c0d554a",
+    "ro": "șah",
+    "ru": "шахматы",
+    "image": "/photos/expanded/open-bcd5e9696c0d554a.webp"
+  },
+  {
+    "id": "open-b91c103bb992e3e9",
+    "ro": "piatră",
+    "ru": "камень",
+    "image": "/photos/expanded/open-b91c103bb992e3e9.webp"
+  },
+  {
+    "id": "open-cbde78cc776c50db",
+    "ro": "ceas",
+    "ru": "час; часы",
+    "image": "/photos/expanded/open-cbde78cc776c50db.webp"
+  },
+  {
+    "id": "open-2bb80d537b1da3e3",
+    "ro": "secret",
+    "ru": "тайна, секрет; тайный, секретный",
+    "image": "/photos/expanded/open-2bb80d537b1da3e3.webp"
+  },
+  {
+    "id": "open-545eaa590b9cb04c",
+    "ro": "apartament",
+    "ru": "квартира",
+    "image": "/photos/expanded/open-545eaa590b9cb04c.webp"
+  },
+  {
+    "id": "open-353882dc8e112ae4",
+    "ro": "meci",
+    "ru": "матч; спортивная встреча",
+    "image": "/photos/expanded/open-353882dc8e112ae4.webp"
+  },
+  {
+    "id": "open-7e974de45fbf7089",
+    "ro": "sete",
+    "ru": "жажда",
+    "image": "/photos/expanded/open-7e974de45fbf7089.webp"
+  },
+  {
+    "id": "open-e35449223b54bce2",
+    "ro": "îndoială",
+    "ru": "сомнение",
+    "image": "/photos/expanded/open-e35449223b54bce2.webp"
+  },
+  {
+    "id": "open-2b687f9b0a248bed",
+    "ro": "grup",
+    "ru": "группа",
+    "image": "/photos/expanded/open-2b687f9b0a248bed.webp"
+  },
+  {
+    "id": "open-aed1e54dcffdca8d",
+    "ro": "număr",
+    "ru": "матем. число; число, количество; номер; грам. число",
+    "image": "/photos/expanded/open-aed1e54dcffdca8d.webp"
+  },
+  {
+    "id": "open-6bdd90fe42e6cde4",
+    "ro": "speranță",
+    "ru": "надежда",
+    "image": "/photos/expanded/open-6bdd90fe42e6cde4.webp"
+  },
+  {
+    "id": "open-f5cacda5f3939af8",
+    "ro": "cunoștință",
+    "ru": "знакомство; знания",
+    "image": "/photos/expanded/open-f5cacda5f3939af8.webp"
+  },
+  {
+    "id": "open-7f1f073d8bb9b2e3",
+    "ro": "pas",
+    "ru": "шаг",
+    "image": "/photos/expanded/open-7f1f073d8bb9b2e3.webp"
+  },
+  {
+    "id": "open-8375c0cf2a0d8d17",
+    "ro": "universitate",
+    "ru": "университет",
+    "image": "/photos/expanded/open-8375c0cf2a0d8d17.webp"
+  },
+  {
+    "id": "open-8b18a0f9d24fedb0",
+    "ro": "armă",
+    "ru": "оружие",
+    "image": "/photos/expanded/open-8b18a0f9d24fedb0.webp"
+  },
+  {
+    "id": "open-844efdee0cd2f266",
+    "ro": "conversație",
+    "ru": "разговор, беседа",
+    "image": "/photos/expanded/open-844efdee0cd2f266.webp"
+  },
+  {
+    "id": "open-beb8bfaff61e9347",
+    "ro": "minciună",
+    "ru": "ложь, враньё, обман; лживость",
+    "image": "/photos/expanded/open-beb8bfaff61e9347.webp"
+  },
+  {
+    "id": "open-47afad612b1f9cc8",
+    "ro": "ocean",
+    "ru": "океан",
+    "image": "/photos/expanded/open-47afad612b1f9cc8.webp"
+  },
+  {
+    "id": "open-57e7f97aa3902d64",
+    "ro": "putere",
+    "ru": "сила, мощь; мощность; власть",
+    "image": "/photos/expanded/open-57e7f97aa3902d64.webp"
+  },
+  {
+    "id": "open-24aecb31f99ef151",
+    "ro": "articol",
+    "ru": "лингв. артикль; статья (газетная); юр. статья, пункт, параграф; предмет, изделие, товар",
+    "image": "/photos/expanded/open-24aecb31f99ef151.webp"
+  },
+  {
+    "id": "open-d5e14ba6289c57c3",
+    "ro": "dovadă",
+    "ru": "доказательство",
+    "image": "/photos/expanded/open-d5e14ba6289c57c3.webp"
+  },
+  {
+    "id": "open-4c13d4715c8aec4b",
+    "ro": "istorie",
+    "ru": "история (наука); история, происшествие",
+    "image": "/photos/expanded/open-4c13d4715c8aec4b.webp"
+  },
+  {
+    "id": "open-b63cb424701d4bff",
+    "ro": "ceară",
+    "ru": "воск",
+    "image": "/photos/expanded/open-b63cb424701d4bff.webp"
+  },
+  {
+    "id": "open-4c89d9807f8397e3",
+    "ro": "libertate",
+    "ru": "свобода",
+    "image": "/photos/expanded/open-4c89d9807f8397e3.webp"
+  },
+  {
+    "id": "open-0185cfd00ea7593b",
+    "ro": "cadă",
+    "ru": "ванна (сосуд для купания); кадь, бадья, чан; лохань, корыто",
+    "image": "/photos/expanded/open-0185cfd00ea7593b.webp"
+  },
+  {
+    "id": "open-1b8b78766119f7d2",
+    "ro": "canapea",
+    "ru": "диван, софа",
+    "image": "/photos/expanded/open-1b8b78766119f7d2.webp"
+  },
+  {
+    "id": "open-8fa628f08b7bf643",
+    "ro": "crimă",
+    "ru": "убийство; тяжкое преступление",
+    "image": "/photos/expanded/open-8fa628f08b7bf643.webp"
+  },
+  {
+    "id": "open-458f93dbb2d7137f",
+    "ro": "informație",
+    "ru": "информация",
+    "image": "/photos/expanded/open-458f93dbb2d7137f.webp"
+  },
+  {
+    "id": "open-f0875f3e5603aed1",
+    "ro": "poftă",
+    "ru": "желание, охота, охота (к чему-либо); аппетит",
+    "image": "/photos/expanded/open-f0875f3e5603aed1.webp"
+  },
+  {
+    "id": "open-fe442c03fdd5f807",
+    "ro": "înțelepciune",
+    "ru": "мудрость",
+    "image": "/photos/expanded/open-fe442c03fdd5f807.webp"
+  },
+  {
+    "id": "open-7f1af712085feab3",
+    "ro": "țigară",
+    "ru": "сигарета",
+    "image": "/photos/expanded/open-7f1af712085feab3.webp"
+  },
+  {
+    "id": "open-7fce28b653ec1627",
+    "ro": "copilărie",
+    "ru": "детство",
+    "image": "/photos/expanded/open-7fce28b653ec1627.webp"
+  },
+  {
+    "id": "open-9fde43e76f4bcdeb",
+    "ro": "memorie",
+    "ru": "память",
+    "image": "/photos/expanded/open-9fde43e76f4bcdeb.webp"
+  },
+  {
+    "id": "open-98d44e13f455d916",
+    "ro": "sex",
+    "ru": "биол. пол; секс",
+    "image": "/photos/expanded/open-98d44e13f455d916.webp"
+  },
+  {
+    "id": "open-176a11f13c92823b",
+    "ro": "adăpost",
+    "ru": "укрытие, убежище",
+    "image": "/photos/expanded/open-176a11f13c92823b.webp"
+  },
+  {
+    "id": "open-9252b3b5164302a9",
+    "ro": "bază",
+    "ru": "основа; основание; базис; база",
+    "image": "/photos/expanded/open-9252b3b5164302a9.webp"
+  },
+  {
+    "id": "open-df4137bf0064426c",
+    "ro": "curaj",
+    "ru": "мужество; отвага",
+    "image": "/photos/expanded/open-df4137bf0064426c.webp"
+  },
+  {
+    "id": "open-f8229c61eac45b21",
+    "ro": "iluzie",
+    "ru": "иллюзия",
+    "image": "/photos/expanded/open-f8229c61eac45b21.webp"
+  },
+  {
+    "id": "open-ea59d5c0e31de437",
+    "ro": "incendiu",
+    "ru": "пожар",
+    "image": "/photos/expanded/open-ea59d5c0e31de437.webp"
+  },
+  {
+    "id": "open-9ece28e144efb66c",
+    "ro": "mobilă",
+    "ru": "мебель",
+    "image": "/photos/expanded/open-9ece28e144efb66c.webp"
+  },
+  {
+    "id": "open-924610f25ef26ec8",
+    "ro": "muzician",
+    "ru": "музыкант",
+    "image": "/photos/expanded/open-924610f25ef26ec8.webp"
+  },
+  {
+    "id": "open-06f1370f52a55cbc",
+    "ro": "nisip",
+    "ru": "песок",
+    "image": "/photos/expanded/open-06f1370f52a55cbc.webp"
+  },
+  {
+    "id": "open-e9f0a474a8a97ac3",
+    "ro": "popor",
+    "ru": "народ",
+    "image": "/photos/expanded/open-e9f0a474a8a97ac3.webp"
+  },
+  {
+    "id": "open-2ffed73e4a674839",
+    "ro": "scenă",
+    "ru": "сцена (театральные подмостки); сцена, эпизод; сцена, скандал",
+    "image": "/photos/expanded/open-2ffed73e4a674839.webp"
+  },
+  {
+    "id": "open-851cfc3d60d379af",
+    "ro": "gem",
+    "ru": "джем",
+    "image": "/photos/expanded/open-851cfc3d60d379af.webp"
+  },
+  {
+    "id": "open-9fee21911535f559",
+    "ro": "pedeapsă",
+    "ru": "наказание",
+    "image": "/photos/expanded/open-9fee21911535f559.webp"
+  },
+  {
+    "id": "open-4775ed810765803b",
+    "ro": "pictor",
+    "ru": "художник",
+    "image": "/photos/expanded/open-4775ed810765803b.webp"
+  },
+  {
+    "id": "open-8635d595910d446a",
+    "ro": "poreclă",
+    "ru": "прозвище, кличка",
+    "image": "/photos/expanded/open-8635d595910d446a.webp"
+  },
+  {
+    "id": "open-9a9140cef778b55f",
+    "ro": "studiu",
+    "ru": "изучение, исследование; учёба; этюд",
+    "image": "/photos/expanded/open-9a9140cef778b55f.webp"
+  },
+  {
+    "id": "open-478ba9965f38aaad",
+    "ro": "apus",
+    "ru": "геогр. запад; закат, заход (солнца)",
+    "image": "/photos/expanded/open-478ba9965f38aaad.webp"
+  },
+  {
+    "id": "open-d85c8f8053587e7e",
+    "ro": "avere",
+    "ru": "богатство; имущество",
+    "image": "/photos/expanded/open-d85c8f8053587e7e.webp"
+  },
+  {
+    "id": "open-3accf057bd88536a",
+    "ro": "literatură",
+    "ru": "литература",
+    "image": "/photos/expanded/open-3accf057bd88536a.webp"
+  },
+  {
+    "id": "open-aa3a05d9d57c08d6",
+    "ro": "radio",
+    "ru": "радио; радиоприёмник",
+    "image": "/photos/expanded/open-aa3a05d9d57c08d6.webp"
+  },
+  {
+    "id": "open-8db59feb4d217f26",
+    "ro": "sol",
+    "ru": "почва, грунт",
+    "image": "/photos/expanded/open-8db59feb4d217f26.webp"
+  },
+  {
+    "id": "open-656ae9268897e733",
+    "ro": "zeu",
+    "ru": "бог (языческий), идол",
+    "image": "/photos/expanded/open-656ae9268897e733.webp"
+  },
+  {
+    "id": "open-5b24c19c390f5a1a",
+    "ro": "competiție",
+    "ru": "конкуренция",
+    "image": "/photos/expanded/open-5b24c19c390f5a1a.webp"
+  },
+  {
+    "id": "open-43cc23fa52b87b4c",
+    "ro": "document",
+    "ru": "документ",
+    "image": "/photos/expanded/open-43cc23fa52b87b4c.webp"
+  },
+  {
+    "id": "open-0389a49fe399163a",
+    "ro": "interviu",
+    "ru": "интервью",
+    "image": "/photos/expanded/open-0389a49fe399163a.webp"
+  },
+  {
+    "id": "open-ac46af4054d3944d",
+    "ro": "masaj",
+    "ru": "массаж",
+    "image": "/photos/expanded/open-ac46af4054d3944d.webp"
+  },
+  {
+    "id": "open-7a72dc6962f7fdb1",
+    "ro": "măcelar",
+    "ru": "мясник",
+    "image": "/photos/expanded/open-7a72dc6962f7fdb1.webp"
+  },
+  {
+    "id": "open-884faea7d9b80eef",
+    "ro": "steag",
+    "ru": "флаг, знамя, стяг",
+    "image": "/photos/expanded/open-884faea7d9b80eef.webp"
+  },
+  {
+    "id": "open-6fe5384e1ccf8fba",
+    "ro": "temperatură",
+    "ru": "температура",
+    "image": "/photos/expanded/open-6fe5384e1ccf8fba.webp"
+  },
+  {
+    "id": "open-a32fab8f0e7562eb",
+    "ro": "vopsea",
+    "ru": "краска (вещество)",
+    "image": "/photos/expanded/open-a32fab8f0e7562eb.webp"
+  },
+  {
+    "id": "open-65d3ac4366abf022",
+    "ro": "catastrofă",
+    "ru": "катастрофа",
+    "image": "/photos/expanded/open-65d3ac4366abf022.webp"
+  },
+  {
+    "id": "open-505d87159210b7cd",
+    "ro": "cenușă",
+    "ru": "зола, пепел; пепел, зола",
+    "image": "/photos/expanded/open-505d87159210b7cd.webp"
+  },
+  {
+    "id": "open-b3a403460aab7e48",
+    "ro": "monedă",
+    "ru": "монета",
+    "image": "/photos/expanded/open-b3a403460aab7e48.webp"
+  },
+  {
+    "id": "open-462d873ad6f6009d",
+    "ro": "orizont",
+    "ru": "горизонт",
+    "image": "/photos/expanded/open-462d873ad6f6009d.webp"
+  },
+  {
+    "id": "open-3526d467f3d79471",
+    "ro": "parfum",
+    "ru": "духи",
+    "image": "/photos/expanded/open-3526d467f3d79471.webp"
+  },
+  {
+    "id": "open-b92cb4dd1f184c7e",
+    "ro": "petrol",
+    "ru": "нефть",
+    "image": "/photos/expanded/open-b92cb4dd1f184c7e.webp"
+  },
+  {
+    "id": "open-e9968407663c810c",
+    "ro": "timbru",
+    "ru": "почтовая марка",
+    "image": "/photos/expanded/open-e9968407663c810c.webp"
+  },
+  {
+    "id": "open-535ee5819e7ea604",
+    "ro": "coincidență",
+    "ru": "совпадение",
+    "image": "/photos/expanded/open-535ee5819e7ea604.webp"
+  },
+  {
+    "id": "open-13d76aff3f953d9f",
+    "ro": "diplomă",
+    "ru": "диплом",
+    "image": "/photos/expanded/open-13d76aff3f953d9f.webp"
+  },
+  {
+    "id": "open-7c350d969ca07f3c",
+    "ro": "dispreț",
+    "ru": "презрение; пренебрежение",
+    "image": "/photos/expanded/open-7c350d969ca07f3c.webp"
+  },
+  {
+    "id": "open-bf1ff147854c7eee",
+    "ro": "fântână",
+    "ru": "фонтан",
+    "image": "/photos/expanded/open-bf1ff147854c7eee.webp"
+  },
+  {
+    "id": "open-9b54f65b000676f5",
+    "ro": "geografie",
+    "ru": "география",
+    "image": "/photos/expanded/open-9b54f65b000676f5.webp"
+  },
+  {
+    "id": "open-fc269d73352ed8cb",
+    "ro": "gravitație",
+    "ru": "гравитация; тяготение",
+    "image": "/photos/expanded/open-fc269d73352ed8cb.webp"
+  },
+  {
+    "id": "open-289856b4e4b71c79",
+    "ro": "judo",
+    "ru": "дзюдо",
+    "image": "/photos/expanded/open-289856b4e4b71c79.webp"
+  },
+  {
+    "id": "open-0f8e73cba49ece43",
+    "ro": "lașitate",
+    "ru": "трусость, трусливость, малодушие",
+    "image": "/photos/expanded/open-0f8e73cba49ece43.webp"
+  },
+  {
+    "id": "open-4b77da12aa2329fe",
+    "ro": "limuzină",
+    "ru": "лимузин",
+    "image": "/photos/expanded/open-4b77da12aa2329fe.webp"
+  },
+  {
+    "id": "open-422315b1dc304f6e",
+    "ro": "literă",
+    "ru": "буква; полигр. литера",
+    "image": "/photos/expanded/open-422315b1dc304f6e.webp"
+  },
+  {
+    "id": "open-c39a7d569c97d58a",
+    "ro": "medicină",
+    "ru": "медицина",
+    "image": "/photos/expanded/open-c39a7d569c97d58a.webp"
+  },
+  {
+    "id": "open-1704189573899296",
+    "ro": "miel",
+    "ru": "ягнёнок",
+    "image": "/photos/expanded/open-1704189573899296.webp"
+  },
+  {
+    "id": "open-2a96afeef14f0a44",
+    "ro": "mire",
+    "ru": "жених",
+    "image": "/photos/expanded/open-2a96afeef14f0a44.webp"
+  },
+  {
+    "id": "open-3f75502c2182b03c",
+    "ro": "modificare",
+    "ru": "изменение",
+    "image": "/photos/expanded/open-3f75502c2182b03c.webp"
+  },
+  {
+    "id": "open-1f05f2bdadcc14b6",
+    "ro": "mătură",
+    "ru": "метла",
+    "image": "/photos/expanded/open-1f05f2bdadcc14b6.webp"
+  },
+  {
+    "id": "open-40c4a47a4610dd9a",
+    "ro": "selecție",
+    "ru": "отбор, выбор",
+    "image": "/photos/expanded/open-40c4a47a4610dd9a.webp"
+  },
+  {
+    "id": "open-117fc29e18a86b2c",
+    "ro": "smochin",
+    "ru": "инжирное дерево, смоковница, фиговое дерево",
+    "image": "/photos/expanded/open-117fc29e18a86b2c.webp"
+  },
+  {
+    "id": "open-32687f92c724050e",
+    "ro": "suferință",
+    "ru": "страдание, мучение",
+    "image": "/photos/expanded/open-32687f92c724050e.webp"
+  },
+  {
+    "id": "open-9c5eb8c83ce29ac1",
+    "ro": "tabacheră",
+    "ru": "табакерка",
+    "image": "/photos/expanded/open-9c5eb8c83ce29ac1.webp"
+  },
+  {
+    "id": "open-45f57fa9d037c614",
+    "ro": "tigaie",
+    "ru": "сковородка",
+    "image": "/photos/expanded/open-45f57fa9d037c614.webp"
+  },
+  {
+    "id": "open-d537bc9c04d322df",
+    "ro": "ton",
+    "ru": "тон (голоса); тон, оттенок",
+    "image": "/photos/expanded/open-d537bc9c04d322df.webp"
+  },
+  {
+    "id": "open-3cee866e173ffa8e",
+    "ro": "tun",
+    "ru": "пушка; орудие",
+    "image": "/photos/expanded/open-3cee866e173ffa8e.webp"
+  },
+  {
+    "id": "open-db76c2f34ec3bbbb",
+    "ro": "vrăjitoare",
+    "ru": "ведьма, колдунья",
+    "image": "/photos/expanded/open-db76c2f34ec3bbbb.webp"
+  },
+  {
+    "id": "open-9b89365027123ecd",
+    "ro": "șa",
+    "ru": "седло",
+    "image": "/photos/expanded/open-9b89365027123ecd.webp"
+  },
+  {
+    "id": "open-99231e173492a284",
+    "ro": "șampon",
+    "ru": "шампунь",
+    "image": "/photos/expanded/open-99231e173492a284.webp"
+  },
+  {
+    "id": "open-6ebd229b088d1cfd",
+    "ro": "șobolan",
+    "ru": "крыса (rattus)",
+    "image": "/photos/expanded/open-6ebd229b088d1cfd.webp"
+  },
+  {
+    "id": "open-6ab0d22724edd2a2",
+    "ro": "adunare",
+    "ru": "собрание; матем. сложение",
+    "image": "/photos/expanded/open-6ab0d22724edd2a2.webp"
+  },
+  {
+    "id": "open-9d4ff3ed42a7be64",
+    "ro": "arheologie",
+    "ru": "археология",
+    "image": "/photos/expanded/open-9d4ff3ed42a7be64.webp"
+  },
+  {
+    "id": "open-f1de82484c6f4300",
+    "ro": "asociație",
+    "ru": "объединение, ассоциация",
+    "image": "/photos/expanded/open-f1de82484c6f4300.webp"
+  },
+  {
+    "id": "open-538b91df37c0fed7",
+    "ro": "balet",
+    "ru": "балет",
+    "image": "/photos/expanded/open-538b91df37c0fed7.webp"
+  },
+  {
+    "id": "open-22e1e0eabf8c2cba",
+    "ro": "baltă",
+    "ru": "болото, пруд",
+    "image": "/photos/expanded/open-22e1e0eabf8c2cba.webp"
+  },
+  {
+    "id": "open-6ccf89d35be9636f",
+    "ro": "banchet",
+    "ru": "банкет, пир, торжественный обед",
+    "image": "/photos/expanded/open-6ccf89d35be9636f.webp"
+  },
+  {
+    "id": "open-5d88b4f8d72495ef",
+    "ro": "batistă",
+    "ru": "носовой платок",
+    "image": "/photos/expanded/open-5d88b4f8d72495ef.webp"
+  },
+  {
+    "id": "open-50eb70f1f71a1461",
+    "ro": "bilă",
+    "ru": "физиол. желчь, жёлчь",
+    "image": "/photos/expanded/open-50eb70f1f71a1461.webp"
+  },
+  {
+    "id": "open-794b8c9575ffd4af",
+    "ro": "brici",
+    "ru": "бритва",
+    "image": "/photos/expanded/open-794b8c9575ffd4af.webp"
+  },
+  {
+    "id": "open-d4c3e8a11256ab82",
+    "ro": "browser",
+    "ru": "комп. веб-браузер, браузер",
+    "image": "/photos/expanded/open-d4c3e8a11256ab82.webp"
+  },
+  {
+    "id": "open-d4c4814ce9ce15ca",
+    "ro": "broșură",
+    "ru": "брошюра",
+    "image": "/photos/expanded/open-d4c4814ce9ce15ca.webp"
+  },
+  {
+    "id": "open-76dd3b59c2eed5a9",
+    "ro": "busolă",
+    "ru": "компас",
+    "image": "/photos/expanded/open-76dd3b59c2eed5a9.webp"
+  },
+  {
+    "id": "open-c70f8ded58aabf32",
+    "ro": "candelabru",
+    "ru": "люстра",
+    "image": "/photos/expanded/open-c70f8ded58aabf32.webp"
+  },
+  {
+    "id": "open-bd08022e8fb80701",
+    "ro": "capital",
+    "ru": "капитал; главный, основной, капитальный",
+    "image": "/photos/expanded/open-bd08022e8fb80701.webp"
+  },
+  {
+    "id": "open-09c1da946d12fcd1",
+    "ro": "catolicism",
+    "ru": "католицизм",
+    "image": "/photos/expanded/open-09c1da946d12fcd1.webp"
+  },
+  {
+    "id": "open-90feeac9811e7780",
+    "ro": "cercel",
+    "ru": "серьга, серёжка",
+    "image": "/photos/expanded/open-90feeac9811e7780.webp"
+  },
+  {
+    "id": "open-22bb2555a4e4767b",
+    "ro": "coiot",
+    "ru": "койот",
+    "image": "/photos/expanded/open-22bb2555a4e4767b.webp"
+  },
+  {
+    "id": "open-3620af06d6f2d301",
+    "ro": "confort",
+    "ru": "комфорт, уют",
+    "image": "/photos/expanded/open-3620af06d6f2d301.webp"
+  },
+  {
+    "id": "open-a2f6fe3b0d514a4c",
+    "ro": "coridor",
+    "ru": "коридор",
+    "image": "/photos/expanded/open-a2f6fe3b0d514a4c.webp"
+  },
+  {
+    "id": "open-b0f90f7f50d97f58",
+    "ro": "corupție",
+    "ru": "коррупция",
+    "image": "/photos/expanded/open-b0f90f7f50d97f58.webp"
+  },
+  {
+    "id": "open-f20d5eeede953e61",
+    "ro": "creștin",
+    "ru": "христианин",
+    "image": "/photos/expanded/open-f20d5eeede953e61.webp"
+  },
+  {
+    "id": "open-d36926a42ccbefa7",
+    "ro": "cronometru",
+    "ru": "хронометр",
+    "image": "/photos/expanded/open-d36926a42ccbefa7.webp"
+  },
+  {
+    "id": "open-62f9fda2c26bf686",
+    "ro": "cârlig",
+    "ru": "крючок",
+    "image": "/photos/expanded/open-62f9fda2c26bf686.webp"
+  },
+  {
+    "id": "open-30d2a49932c8ffe7",
+    "ro": "demnitate",
+    "ru": "достоинство",
+    "image": "/photos/expanded/open-30d2a49932c8ffe7.webp"
+  },
+  {
+    "id": "open-04388b2a71d4fbaa",
+    "ro": "deputat",
+    "ru": "депутат",
+    "image": "/photos/expanded/open-04388b2a71d4fbaa.webp"
+  },
+  {
+    "id": "open-8548e7d19852495e",
+    "ro": "diamant",
+    "ru": "алмаз",
+    "image": "/photos/expanded/open-8548e7d19852495e.webp"
+  },
+  {
+    "id": "open-de54c9b116dff346",
+    "ro": "echipament",
+    "ru": "оборудование, снаряжение",
+    "image": "/photos/expanded/open-de54c9b116dff346.webp"
+  },
+  {
+    "id": "open-0a5e568cc97b2c3e",
+    "ro": "extaz",
+    "ru": "экстаз",
+    "image": "/photos/expanded/open-0a5e568cc97b2c3e.webp"
+  },
+  {
+    "id": "open-b42738f348ac5232",
+    "ro": "geograf",
+    "ru": "географ",
+    "image": "/photos/expanded/open-b42738f348ac5232.webp"
+  },
+  {
+    "id": "open-957cfd6bb84c2da8",
+    "ro": "ghicitoare",
+    "ru": "загадка",
+    "image": "/photos/expanded/open-957cfd6bb84c2da8.webp"
+  },
+  {
+    "id": "open-cb37790a8586667f",
+    "ro": "gong",
+    "ru": "гонг",
+    "image": "/photos/expanded/open-cb37790a8586667f.webp"
+  },
+  {
+    "id": "open-b2c0a4a5598e2c78",
+    "ro": "guvernator",
+    "ru": "губернатор",
+    "image": "/photos/expanded/open-b2c0a4a5598e2c78.webp"
+  },
+  {
+    "id": "open-4272053f1cb84c49",
+    "ro": "insultă",
+    "ru": "оскорбление, обида; мед. инсульт",
+    "image": "/photos/expanded/open-4272053f1cb84c49.webp"
+  },
+  {
+    "id": "open-fc2de03fa64f1ee1",
+    "ro": "inventator",
+    "ru": "изобретатель",
+    "image": "/photos/expanded/open-fc2de03fa64f1ee1.webp"
+  },
+  {
+    "id": "open-178697a65fc5caae",
+    "ro": "lacrimă",
+    "ru": "слеза",
+    "image": "/photos/expanded/open-178697a65fc5caae.webp"
+  },
+  {
+    "id": "open-c226681bdfeff352",
+    "ro": "lanț",
+    "ru": "цепь",
+    "image": "/photos/expanded/open-c226681bdfeff352.webp"
+  },
+  {
+    "id": "open-d8357a4cf00af101",
+    "ro": "leșin",
+    "ru": "обморок",
+    "image": "/photos/expanded/open-d8357a4cf00af101.webp"
+  },
+  {
+    "id": "open-2bd639b283b8e192",
+    "ro": "livadă",
+    "ru": "фруктовый сад",
+    "image": "/photos/expanded/open-2bd639b283b8e192.webp"
+  },
+  {
+    "id": "open-25f870a4adf26141",
+    "ro": "lopată",
+    "ru": "лопата",
+    "image": "/photos/expanded/open-25f870a4adf26141.webp"
+  },
+  {
+    "id": "open-8720cea6f92cd157",
+    "ro": "lăptar",
+    "ru": "молочник",
+    "image": "/photos/expanded/open-8720cea6f92cd157.webp"
+  },
+  {
+    "id": "open-d6a07f27460d719e",
+    "ro": "marțipan",
+    "ru": "марципан",
+    "image": "/photos/expanded/open-d6a07f27460d719e.webp"
+  },
+  {
+    "id": "open-03ecab669ba200ba",
+    "ro": "metal",
+    "ru": "металл",
+    "image": "/photos/expanded/open-03ecab669ba200ba.webp"
+  },
+  {
+    "id": "open-7d704b396e1f9159",
+    "ro": "mustață",
+    "ru": "усы",
+    "image": "/photos/expanded/open-7d704b396e1f9159.webp"
+  },
+  {
+    "id": "open-a6dcd537376bb82b",
+    "ro": "măgar",
+    "ru": "зоол. осёл, ишак (Equus asinus asinus)",
+    "image": "/photos/expanded/open-a6dcd537376bb82b.webp"
+  },
+  {
+    "id": "open-70dd2646537aee96",
+    "ro": "nostalgie",
+    "ru": "ностальгия, тоска по родине",
+    "image": "/photos/expanded/open-70dd2646537aee96.webp"
+  },
+  {
+    "id": "open-627149e2786d1983",
+    "ro": "orbire",
+    "ru": "слепота",
+    "image": "/photos/expanded/open-627149e2786d1983.webp"
+  },
+  {
+    "id": "open-82a533ae5743b5a4",
+    "ro": "ostatic",
+    "ru": "заложник",
+    "image": "/photos/expanded/open-82a533ae5743b5a4.webp"
+  },
+  {
+    "id": "open-64d2fdd6d6e0a617",
+    "ro": "otravă",
+    "ru": "яд, отрава",
+    "image": "/photos/expanded/open-64d2fdd6d6e0a617.webp"
+  },
+  {
+    "id": "open-842bc6fbe192e3be",
+    "ro": "palat",
+    "ru": "дворец",
+    "image": "/photos/expanded/open-842bc6fbe192e3be.webp"
+  },
+  {
+    "id": "open-4e552786d7c77f8d",
+    "ro": "palindrom",
+    "ru": "палиндром",
+    "image": "/photos/expanded/open-4e552786d7c77f8d.webp"
+  },
+  {
+    "id": "open-264aa3f07859034d",
+    "ro": "parchet",
+    "ru": "паркет",
+    "image": "/photos/expanded/open-264aa3f07859034d.webp"
+  },
+  {
+    "id": "open-7fb4656eca56a55c",
+    "ro": "pasager",
+    "ru": "пассажир",
+    "image": "/photos/expanded/open-7fb4656eca56a55c.webp"
+  },
+  {
+    "id": "open-f7579585f0ad72ec",
+    "ro": "ponei",
+    "ru": "пони",
+    "image": "/photos/expanded/open-f7579585f0ad72ec.webp"
+  },
+  {
+    "id": "open-75befec6f51514c3",
+    "ro": "prezervativ",
+    "ru": "презерватив, кондом",
+    "image": "/photos/expanded/open-75befec6f51514c3.webp"
+  },
+  {
+    "id": "open-bf10736a8b2dc6cb",
+    "ro": "producție",
+    "ru": "производство; продукция",
+    "image": "/photos/expanded/open-bf10736a8b2dc6cb.webp"
+  },
+  {
+    "id": "open-481dbb306efd2b9b",
+    "ro": "psihiatrie",
+    "ru": "психиатрия",
+    "image": "/photos/expanded/open-481dbb306efd2b9b.webp"
+  },
+  {
+    "id": "open-027fe02e766655a3",
+    "ro": "pubertate",
+    "ru": "половая зрелость, половое созревание",
+    "image": "/photos/expanded/open-027fe02e766655a3.webp"
+  },
+  {
+    "id": "open-74e5578504a47139",
+    "ro": "revoluție",
+    "ru": "революция, переворот; оборот, вращение",
+    "image": "/photos/expanded/open-74e5578504a47139.webp"
+  },
+  {
+    "id": "open-f7f8d605e921ad0c",
+    "ro": "rumeguș",
+    "ru": "опилки",
+    "image": "/photos/expanded/open-f7f8d605e921ad0c.webp"
+  },
+  {
+    "id": "open-01d78cfd0e7154bf",
+    "ro": "sclavie",
+    "ru": "рабство, неволя",
+    "image": "/photos/expanded/open-01d78cfd0e7154bf.webp"
+  },
+  {
+    "id": "open-5ebf1e08d312b8c4",
+    "ro": "scorțișoară",
+    "ru": "корица",
+    "image": "/photos/expanded/open-5ebf1e08d312b8c4.webp"
+  },
+  {
+    "id": "open-9672a16c4e9b332b",
+    "ro": "superstiție",
+    "ru": "суеверие, предрассудок",
+    "image": "/photos/expanded/open-9672a16c4e9b332b.webp"
+  },
+  {
+    "id": "open-7b5a828cc546a952",
+    "ro": "tapiserie",
+    "ru": "гобелен",
+    "image": "/photos/expanded/open-7b5a828cc546a952.webp"
+  },
+  {
+    "id": "open-2c80e939b8bed79d",
+    "ro": "tatuaj",
+    "ru": "татуировка",
+    "image": "/photos/expanded/open-2c80e939b8bed79d.webp"
+  },
+  {
+    "id": "open-504fdcd42c136b90",
+    "ro": "televiziune",
+    "ru": "телевидение",
+    "image": "/photos/expanded/open-504fdcd42c136b90.webp"
+  },
+  {
+    "id": "open-7fa6ab75dacfed0c",
+    "ro": "terorism",
+    "ru": "терроризм",
+    "image": "/photos/expanded/open-7fa6ab75dacfed0c.webp"
+  },
+  {
+    "id": "open-4ebde790877e2f92",
+    "ro": "toc",
+    "ru": "каблук",
+    "image": "/photos/expanded/open-4ebde790877e2f92.webp"
+  },
+  {
+    "id": "open-74356fbb67fef5ed",
+    "ro": "vas",
+    "ru": "сосуд, посудина; корабль, судно; анат. сосуд",
+    "image": "/photos/expanded/open-74356fbb67fef5ed.webp"
+  },
+  {
+    "id": "open-75cf8229cc6eb7e8",
+    "ro": "vehicul",
+    "ru": "транспортное средство",
+    "image": "/photos/expanded/open-75cf8229cc6eb7e8.webp"
+  },
+  {
+    "id": "open-c9a57445de85e6b0",
+    "ro": "întreprindere",
+    "ru": "предприятие",
+    "image": "/photos/expanded/open-c9a57445de85e6b0.webp"
+  },
+  {
+    "id": "open-239bcef2d7dcbcf4",
+    "ro": "abraziv",
+    "ru": "абразив",
+    "image": "/photos/expanded/open-239bcef2d7dcbcf4.webp"
+  },
+  {
+    "id": "open-05017685ee808dfc",
+    "ro": "acetonă",
+    "ru": "ацетон",
+    "image": "/photos/expanded/open-05017685ee808dfc.webp"
+  },
+  {
+    "id": "open-769db16d757479ac",
+    "ro": "acupunctură",
+    "ru": "мед. акупунктура, иглорефлексотерапия, иглотерапия, иглоукалывание",
+    "image": "/photos/expanded/open-769db16d757479ac.webp"
+  },
+  {
+    "id": "open-ab61fb148e6bff32",
+    "ro": "agheasmă",
+    "ru": "святая вода",
+    "image": "/photos/expanded/open-ab61fb148e6bff32.webp"
+  },
+  {
+    "id": "open-8d3287c6fbb605cb",
+    "ro": "aloe",
+    "ru": "алоэ",
+    "image": "/photos/expanded/open-8d3287c6fbb605cb.webp"
+  },
+  {
+    "id": "open-dba54fd097c1fb82",
+    "ro": "altimetru",
+    "ru": "высотомер; альтиметр",
+    "image": "/photos/expanded/open-dba54fd097c1fb82.webp"
+  },
+  {
+    "id": "open-a2cade470d3f6f55",
+    "ro": "ambasador",
+    "ru": "посол",
+    "image": "/photos/expanded/open-a2cade470d3f6f55.webp"
+  },
+  {
+    "id": "open-81b5fed6dfd0a3eb",
+    "ro": "americiu",
+    "ru": "америций, хим. химический элемент с атомным номером 95, обозначается химическим символом Am, радиоактивный металл из группы трансурановых актиноидов",
+    "image": "/photos/expanded/open-81b5fed6dfd0a3eb.webp"
+  },
+  {
+    "id": "open-b494f88b7e090e49",
+    "ro": "apeduct",
+    "ru": "акведук",
+    "image": "/photos/expanded/open-b494f88b7e090e49.webp"
+  },
+  {
+    "id": "open-ae009899db5a5378",
+    "ro": "arenă",
+    "ru": "арена",
+    "image": "/photos/expanded/open-ae009899db5a5378.webp"
+  },
+  {
+    "id": "open-74eae9fd0bbcb818",
+    "ro": "arhitectură",
+    "ru": "архитектура",
+    "image": "/photos/expanded/open-74eae9fd0bbcb818.webp"
+  },
+  {
+    "id": "open-7b119007b71df751",
+    "ro": "astrofizică",
+    "ru": "астрофизика",
+    "image": "/photos/expanded/open-7b119007b71df751.webp"
+  },
+  {
+    "id": "open-10a2be0e6b6765b7",
+    "ro": "automatizare",
+    "ru": "автоматизация",
+    "image": "/photos/expanded/open-10a2be0e6b6765b7.webp"
+  },
+  {
+    "id": "open-6c74a0e849064ec7",
+    "ro": "automobilism",
+    "ru": "автоспорт",
+    "image": "/photos/expanded/open-6c74a0e849064ec7.webp"
+  },
+  {
+    "id": "open-77cdaa22d74c5899",
+    "ro": "aviație",
+    "ru": "авиация",
+    "image": "/photos/expanded/open-77cdaa22d74c5899.webp"
+  },
+  {
+    "id": "open-893e6a96cf443591",
+    "ro": "ață",
+    "ru": "нитка",
+    "image": "/photos/expanded/open-893e6a96cf443591.webp"
+  },
+  {
+    "id": "open-dfd62d4c3db66428",
+    "ro": "babă",
+    "ru": "старуха",
+    "image": "/photos/expanded/open-dfd62d4c3db66428.webp"
+  },
+  {
+    "id": "open-73fc099735e44b18",
+    "ro": "balansoar",
+    "ru": "кресло-качалка",
+    "image": "/photos/expanded/open-73fc099735e44b18.webp"
+  },
+  {
+    "id": "open-15827029160dc9aa",
+    "ro": "balustru",
+    "ru": "балясина",
+    "image": "/photos/expanded/open-15827029160dc9aa.webp"
+  },
+  {
+    "id": "open-ce04b15274ffd154",
+    "ro": "baros",
+    "ru": "молот, кувалда",
+    "image": "/photos/expanded/open-ce04b15274ffd154.webp"
+  },
+  {
+    "id": "open-db4b593cedf2b826",
+    "ro": "beluga",
+    "ru": "белуха",
+    "image": "/photos/expanded/open-db4b593cedf2b826.webp"
+  },
+  {
+    "id": "open-ae7e36be82480baa",
+    "ro": "berar",
+    "ru": "пивовар",
+    "image": "/photos/expanded/open-ae7e36be82480baa.webp"
+  },
+  {
+    "id": "open-3d8755fe0e3e51a8",
+    "ro": "bibliografie",
+    "ru": "библиография",
+    "image": "/photos/expanded/open-3d8755fe0e3e51a8.webp"
+  },
+  {
+    "id": "open-7c18cce240a62e5f",
+    "ro": "bibliotecar",
+    "ru": "библиотекарь",
+    "image": "/photos/expanded/open-7c18cce240a62e5f.webp"
+  },
+  {
+    "id": "open-0b350e8823dda59a",
+    "ro": "biliard",
+    "ru": "бильярд",
+    "image": "/photos/expanded/open-0b350e8823dda59a.webp"
+  },
+  {
+    "id": "open-c85494ac4c01c393",
+    "ro": "bilingvism",
+    "ru": "лингв. билингвизм; двуязычие",
+    "image": "/photos/expanded/open-c85494ac4c01c393.webp"
+  },
+  {
+    "id": "open-17874ed995e4ea0c",
+    "ro": "binoclu",
+    "ru": "бинокль",
+    "image": "/photos/expanded/open-17874ed995e4ea0c.webp"
+  },
+  {
+    "id": "open-2985c48e1938891b",
+    "ro": "birocrat",
+    "ru": "бюрократ",
+    "image": "/photos/expanded/open-2985c48e1938891b.webp"
+  },
+  {
+    "id": "open-7dbf880be5110f59",
+    "ro": "birocrație",
+    "ru": "бюрократия",
+    "image": "/photos/expanded/open-7dbf880be5110f59.webp"
+  },
+  {
+    "id": "open-afa14c2a4f8b6183",
+    "ro": "bisexualitate",
+    "ru": "бисексуальность",
+    "image": "/photos/expanded/open-afa14c2a4f8b6183.webp"
+  },
+  {
+    "id": "open-a972eb6e03aa3aab",
+    "ro": "bordel",
+    "ru": "бордель, публичный дом",
+    "image": "/photos/expanded/open-a972eb6e03aa3aab.webp"
+  },
+  {
+    "id": "open-e784aa958c4e67d2",
+    "ro": "branhie",
+    "ru": "жабры",
+    "image": "/photos/expanded/open-e784aa958c4e67d2.webp"
+  },
+  {
+    "id": "open-9e9255bdfa0dfa02",
+    "ro": "caleidoscop",
+    "ru": "калейдоскоп",
+    "image": "/photos/expanded/open-9e9255bdfa0dfa02.webp"
+  },
+  {
+    "id": "open-c4577f6f825a3cfa",
+    "ro": "canin",
+    "ru": "клык",
+    "image": "/photos/expanded/open-c4577f6f825a3cfa.webp"
+  },
+  {
+    "id": "open-68777beac958be62",
+    "ro": "canoist",
+    "ru": "каноист",
+    "image": "/photos/expanded/open-68777beac958be62.webp"
+  },
+  {
+    "id": "open-2af99a28bd255098",
+    "ro": "capibara",
+    "ru": "зоол. капибара, водосвинка (Hydrochoerus hydrochaeris)",
+    "image": "/photos/expanded/open-2af99a28bd255098.webp"
+  },
+  {
+    "id": "open-23fa2b40db782a52",
+    "ro": "carneol",
+    "ru": "минер. сердолик, карнеол",
+    "image": "/photos/expanded/open-23fa2b40db782a52.webp"
+  },
+  {
+    "id": "open-f9f985e99388d7dd",
+    "ro": "carusel",
+    "ru": "карусель",
+    "image": "/photos/expanded/open-f9f985e99388d7dd.webp"
+  },
+  {
+    "id": "open-e9f2a75fba22ea69",
+    "ro": "cavalerie",
+    "ru": "воен. кавалерия, конница",
+    "image": "/photos/expanded/open-e9f2a75fba22ea69.webp"
+  },
+  {
+    "id": "open-639d5ecb9ddb4ad8",
+    "ro": "ceardaș",
+    "ru": "чардаш",
+    "image": "/photos/expanded/open-639d5ecb9ddb4ad8.webp"
+  },
+  {
+    "id": "open-f12e2ef8b17d41fa",
+    "ro": "ceaun",
+    "ru": "котёл",
+    "image": "/photos/expanded/open-f12e2ef8b17d41fa.webp"
+  },
+  {
+    "id": "open-6f6fdac9672558a9",
+    "ro": "cetățenie",
+    "ru": "гражданство, подданство",
+    "image": "/photos/expanded/open-6f6fdac9672558a9.webp"
+  },
+  {
+    "id": "open-f66255b25fd6a68a",
+    "ro": "chiromanție",
+    "ru": "хиромантия",
+    "image": "/photos/expanded/open-f66255b25fd6a68a.webp"
+  },
+  {
+    "id": "open-e74cc67a459e9bac",
+    "ro": "citadelă",
+    "ru": "цитадель",
+    "image": "/photos/expanded/open-e74cc67a459e9bac.webp"
+  },
+  {
+    "id": "open-f25cd0ae8741146c",
+    "ro": "claviatură",
+    "ru": "клавиатура",
+    "image": "/photos/expanded/open-f25cd0ae8741146c.webp"
+  },
+  {
+    "id": "open-ddcdb99dd480c0f6",
+    "ro": "coapsă",
+    "ru": "бедро",
+    "image": "/photos/expanded/open-ddcdb99dd480c0f6.webp"
+  },
+  {
+    "id": "open-64b04d795dfea875",
+    "ro": "coasă",
+    "ru": "коса (орудие)",
+    "image": "/photos/expanded/open-64b04d795dfea875.webp"
+  },
+  {
+    "id": "open-b66e694e27bc6706",
+    "ro": "cobai",
+    "ru": "морская свинка",
+    "image": "/photos/expanded/open-b66e694e27bc6706.webp"
+  },
+  {
+    "id": "open-41cc371e1656e90d",
+    "ro": "colofoniu",
+    "ru": "канифоль",
+    "image": "/photos/expanded/open-41cc371e1656e90d.webp"
+  },
+  {
+    "id": "open-e29f305c2984d36d",
+    "ro": "conservatorism",
+    "ru": "консерватизм",
+    "image": "/photos/expanded/open-e29f305c2984d36d.webp"
+  },
+  {
+    "id": "open-7cc5bd13db0d6cae",
+    "ro": "contracultură",
+    "ru": "контркультура",
+    "image": "/photos/expanded/open-7cc5bd13db0d6cae.webp"
+  },
+  {
+    "id": "open-4fa885d2ae38fb75",
+    "ro": "corespondent",
+    "ru": "корреспондент, репортёр",
+    "image": "/photos/expanded/open-4fa885d2ae38fb75.webp"
+  },
+  {
+    "id": "open-08c27929b14313d7",
+    "ro": "coridă",
+    "ru": "бой быков, коррида",
+    "image": "/photos/expanded/open-08c27929b14313d7.webp"
+  },
+  {
+    "id": "open-63b7f0fe42919a8d",
+    "ro": "coșar",
+    "ru": "трубочист",
+    "image": "/photos/expanded/open-63b7f0fe42919a8d.webp"
+  },
+  {
+    "id": "open-588ec307e43c03a5",
+    "ro": "culturist",
+    "ru": "культурист, бодибилдер",
+    "image": "/photos/expanded/open-588ec307e43c03a5.webp"
+  },
+  {
+    "id": "open-544a4d95dcdfefca",
+    "ro": "deshidratare",
+    "ru": "дегидратация",
+    "image": "/photos/expanded/open-544a4d95dcdfefca.webp"
+  },
+  {
+    "id": "open-a07ced06dc84a704",
+    "ro": "deșertificare",
+    "ru": "геогр. опустынивание; дезертификация",
+    "image": "/photos/expanded/open-a07ced06dc84a704.webp"
+  },
+  {
+    "id": "open-ec2cc7e2103c17ad",
+    "ro": "dinamită",
+    "ru": "динамит",
+    "image": "/photos/expanded/open-ec2cc7e2103c17ad.webp"
+  },
+  {
+    "id": "open-1bde8900f793a663",
+    "ro": "dirijor",
+    "ru": "дирижёр",
+    "image": "/photos/expanded/open-1bde8900f793a663.webp"
+  },
+  {
+    "id": "open-fa5e207f7bee4326",
+    "ro": "dolină",
+    "ru": "карстовая воронка, карстовый провал",
+    "image": "/photos/expanded/open-fa5e207f7bee4326.webp"
+  },
+  {
+    "id": "open-48dd5ca12a0e5426",
+    "ro": "drojdie",
+    "ru": "дрожжи",
+    "image": "/photos/expanded/open-48dd5ca12a0e5426.webp"
+  },
+  {
+    "id": "open-a2cb9f65e3da16e6",
+    "ro": "dulgher",
+    "ru": "плотник",
+    "image": "/photos/expanded/open-a2cb9f65e3da16e6.webp"
+  },
+  {
+    "id": "open-9f7fb41439e0d776",
+    "ro": "eseist",
+    "ru": "эссеист, очеркист",
+    "image": "/photos/expanded/open-9f7fb41439e0d776.webp"
+  },
+  {
+    "id": "open-e358a1f44db0fbf6",
+    "ro": "etanol",
+    "ru": "хим. этанол, этиловый спирт",
+    "image": "/photos/expanded/open-e358a1f44db0fbf6.webp"
+  },
+  {
+    "id": "open-9ccf70ffb3d753a1",
+    "ro": "facsimil",
+    "ru": "факсимиле",
+    "image": "/photos/expanded/open-9ccf70ffb3d753a1.webp"
+  },
+  {
+    "id": "open-f739d7bb819bec1f",
+    "ro": "fermentație",
+    "ru": "ферментация",
+    "image": "/photos/expanded/open-f739d7bb819bec1f.webp"
+  },
+  {
+    "id": "open-329671cf3ab65e0e",
+    "ro": "floarea-soarelui",
+    "ru": "ботан. подсолнечник; подсолнух",
+    "image": "/photos/expanded/open-329671cf3ab65e0e.webp"
+  },
+  {
+    "id": "open-a6dafbd7b9310a15",
+    "ro": "foarfece",
+    "ru": "ножницы",
+    "image": "/photos/expanded/open-a6dafbd7b9310a15.webp"
+  },
+  {
+    "id": "open-990e099e548d0996",
+    "ro": "forsiția",
+    "ru": "ботан. форсайтия, форзиция (Forsythia)",
+    "image": "/photos/expanded/open-990e099e548d0996.webp"
+  },
+  {
+    "id": "open-fbcc2d9bf6ade163",
+    "ro": "fructarianism",
+    "ru": "фрукторианство",
+    "image": "/photos/expanded/open-fbcc2d9bf6ade163.webp"
+  },
+  {
+    "id": "open-c46193928351cd10",
+    "ro": "fucsină",
+    "ru": "фуксин, розеин",
+    "image": "/photos/expanded/open-c46193928351cd10.webp"
+  },
+  {
+    "id": "open-12a85f00ae6ba50f",
+    "ro": "genealogie",
+    "ru": "генеалогия",
+    "image": "/photos/expanded/open-12a85f00ae6ba50f.webp"
+  },
+  {
+    "id": "open-405dc225e113acc2",
+    "ro": "genocid",
+    "ru": "геноцид",
+    "image": "/photos/expanded/open-405dc225e113acc2.webp"
+  },
+  {
+    "id": "open-2f102bae561a1fef",
+    "ro": "ghiulea",
+    "ru": "пушечное ядро",
+    "image": "/photos/expanded/open-2f102bae561a1fef.webp"
+  },
+  {
+    "id": "open-d1f63b59d3fa06e8",
+    "ro": "gigant",
+    "ru": "гигант",
+    "image": "/photos/expanded/open-d1f63b59d3fa06e8.webp"
+  },
+  {
+    "id": "open-33ea37c44e33fcea",
+    "ro": "gimnastică",
+    "ru": "гимнастика",
+    "image": "/photos/expanded/open-33ea37c44e33fcea.webp"
+  },
+  {
+    "id": "open-fec95f915aa8b50d",
+    "ro": "glicerol",
+    "ru": "хим. глицерин, глицерол",
+    "image": "/photos/expanded/open-fec95f915aa8b50d.webp"
+  },
+  {
+    "id": "open-c8c68876719150ba",
+    "ro": "grapă",
+    "ru": "борона",
+    "image": "/photos/expanded/open-c8c68876719150ba.webp"
+  },
+  {
+    "id": "open-b4a1b8d34c7895a2",
+    "ro": "gălbenuș",
+    "ru": "желток",
+    "image": "/photos/expanded/open-b4a1b8d34c7895a2.webp"
+  },
+  {
+    "id": "open-cc86d865e47a25af",
+    "ro": "hamburger",
+    "ru": "гамбургер",
+    "image": "/photos/expanded/open-cc86d865e47a25af.webp"
+  },
+  {
+    "id": "open-a661e4a2ada197cc",
+    "ro": "handbal",
+    "ru": "гандбол",
+    "image": "/photos/expanded/open-a661e4a2ada197cc.webp"
+  },
+  {
+    "id": "open-fafd02aa889362d1",
+    "ro": "hopa-mitică",
+    "ru": "неваляшка, ванька-встанька",
+    "image": "/photos/expanded/open-fafd02aa889362d1.webp"
+  },
+  {
+    "id": "open-491dadbb1bca4831",
+    "ro": "iarmaroc",
+    "ru": "ярмарка",
+    "image": "/photos/expanded/open-491dadbb1bca4831.webp"
+  },
+  {
+    "id": "open-dd32831e9d5f3da3",
+    "ro": "incest",
+    "ru": "инцест, кровосмешение",
+    "image": "/photos/expanded/open-dd32831e9d5f3da3.webp"
+  },
+  {
+    "id": "open-89971200417638da",
+    "ro": "inscripție",
+    "ru": "надпись (на памятнике); регистрация",
+    "image": "/photos/expanded/open-89971200417638da.webp"
+  },
+  {
+    "id": "open-c751ceda78f2bcb0",
+    "ro": "liber-cugetător",
+    "ru": "вольнодум, вольнодумец",
+    "image": "/photos/expanded/open-c751ceda78f2bcb0.webp"
+  },
+  {
+    "id": "open-e04031c5d5a68b5f",
+    "ro": "linoleum",
+    "ru": "линолеум",
+    "image": "/photos/expanded/open-e04031c5d5a68b5f.webp"
+  },
+  {
+    "id": "open-15bc77f5a7e4d0ef",
+    "ro": "litografie",
+    "ru": "литография",
+    "image": "/photos/expanded/open-15bc77f5a7e4d0ef.webp"
+  },
+  {
+    "id": "open-1a353bf1bda8c084",
+    "ro": "magnetofon",
+    "ru": "магнитофон",
+    "image": "/photos/expanded/open-1a353bf1bda8c084.webp"
+  },
+  {
+    "id": "open-02361d9784eec255",
+    "ro": "marmeladă",
+    "ru": "мармелад",
+    "image": "/photos/expanded/open-02361d9784eec255.webp"
+  },
+  {
+    "id": "open-25aa94ebee8800cd",
+    "ro": "matriarhat",
+    "ru": "матриархат",
+    "image": "/photos/expanded/open-25aa94ebee8800cd.webp"
+  },
+  {
+    "id": "open-11ce371ffd2ac100",
+    "ro": "matrioșka",
+    "ru": "матрёшка",
+    "image": "/photos/expanded/open-11ce371ffd2ac100.webp"
+  },
+  {
+    "id": "open-1bafc471784418c0",
+    "ro": "mausoleu",
+    "ru": "мавзолей",
+    "image": "/photos/expanded/open-1bafc471784418c0.webp"
+  },
+  {
+    "id": "open-6dcf36178722cf9b",
+    "ro": "melodramă",
+    "ru": "мелодрама",
+    "image": "/photos/expanded/open-6dcf36178722cf9b.webp"
+  },
+  {
+    "id": "open-ae5c3cd67c64e1ff",
+    "ro": "membrană",
+    "ru": "мембрана",
+    "image": "/photos/expanded/open-ae5c3cd67c64e1ff.webp"
+  },
+  {
+    "id": "open-3c5299ce6264f641",
+    "ro": "metaloid",
+    "ru": "хим. металлоид, полуметалл",
+    "image": "/photos/expanded/open-3c5299ce6264f641.webp"
+  },
+  {
+    "id": "open-5ff1c002fbd43ddf",
+    "ro": "migrație",
+    "ru": "миграция",
+    "image": "/photos/expanded/open-5ff1c002fbd43ddf.webp"
+  },
+  {
+    "id": "open-331afa52d13beabd",
+    "ro": "mistreț",
+    "ru": "кабан, вепрь, дикая свинья",
+    "image": "/photos/expanded/open-331afa52d13beabd.webp"
+  },
+  {
+    "id": "open-fc2054fe8133b07d",
+    "ro": "mobilizare",
+    "ru": "мобилизация",
+    "image": "/photos/expanded/open-fc2054fe8133b07d.webp"
+  },
+  {
+    "id": "open-e8b02bef55c4c2f0",
+    "ro": "monogamie",
+    "ru": "моногамия, единобрачие",
+    "image": "/photos/expanded/open-e8b02bef55c4c2f0.webp"
+  },
+  {
+    "id": "open-a48d00a21c84602b",
+    "ro": "mosc",
+    "ru": "мускус",
+    "image": "/photos/expanded/open-a48d00a21c84602b.webp"
+  },
+  {
+    "id": "open-40777b9cda21ad18",
+    "ro": "mozaic",
+    "ru": "мозаика",
+    "image": "/photos/expanded/open-40777b9cda21ad18.webp"
+  },
+  {
+    "id": "open-56d5617dfe4fe400",
+    "ro": "mumie",
+    "ru": "мумия",
+    "image": "/photos/expanded/open-56d5617dfe4fe400.webp"
+  },
+  {
+    "id": "open-119a6224cab3647c",
+    "ro": "mură",
+    "ru": "ежевика",
+    "image": "/photos/expanded/open-119a6224cab3647c.webp"
+  },
+  {
+    "id": "open-55ed885708721edd",
+    "ro": "olar",
+    "ru": "гончар",
+    "image": "/photos/expanded/open-55ed885708721edd.webp"
+  },
+  {
+    "id": "open-23d0c26705c5a70d",
+    "ro": "olimpiadă",
+    "ru": "олимпиада",
+    "image": "/photos/expanded/open-23d0c26705c5a70d.webp"
+  },
+  {
+    "id": "open-23663d6f06dc4819",
+    "ro": "orogeneză",
+    "ru": "геол. горообразование, орогенез",
+    "image": "/photos/expanded/open-23663d6f06dc4819.webp"
+  },
+  {
+    "id": "open-bb50d52a4169110d",
+    "ro": "pantomimă",
+    "ru": "пантомима",
+    "image": "/photos/expanded/open-bb50d52a4169110d.webp"
+  },
+  {
+    "id": "open-11fe66d148a978b5",
+    "ro": "paratrăsnet",
+    "ru": "громоотвод; молниеотвод",
+    "image": "/photos/expanded/open-11fe66d148a978b5.webp"
+  },
+  {
+    "id": "open-39c5492a44fca450",
+    "ro": "parașută",
+    "ru": "парашют",
+    "image": "/photos/expanded/open-39c5492a44fca450.webp"
+  },
+  {
+    "id": "open-edf06c0497282658",
+    "ro": "pasteurizare",
+    "ru": "пастеризация",
+    "image": "/photos/expanded/open-edf06c0497282658.webp"
+  },
+  {
+    "id": "open-d9c82be4e60e1ed8",
+    "ro": "patriotism",
+    "ru": "патриотизм",
+    "image": "/photos/expanded/open-d9c82be4e60e1ed8.webp"
+  },
+  {
+    "id": "open-458355aaf882cb5c",
+    "ro": "pedagogie",
+    "ru": "педагогика",
+    "image": "/photos/expanded/open-458355aaf882cb5c.webp"
+  },
+  {
+    "id": "open-9631bacf6148bef6",
+    "ro": "pendul",
+    "ru": "маятник",
+    "image": "/photos/expanded/open-9631bacf6148bef6.webp"
+  },
+  {
+    "id": "open-2a1515901cc4292d",
+    "ro": "pescuire",
+    "ru": "рыбалка",
+    "image": "/photos/expanded/open-2a1515901cc4292d.webp"
+  },
+  {
+    "id": "open-e07653c16854f493",
+    "ro": "pesimism",
+    "ru": "пессимизм",
+    "image": "/photos/expanded/open-e07653c16854f493.webp"
+  },
+  {
+    "id": "open-c5942e4643ab689c",
+    "ro": "plagiat",
+    "ru": "плагиат",
+    "image": "/photos/expanded/open-c5942e4643ab689c.webp"
+  },
+  {
+    "id": "open-130471894bd4a3ee",
+    "ro": "planetarium",
+    "ru": "планетарий",
+    "image": "/photos/expanded/open-130471894bd4a3ee.webp"
+  },
+  {
+    "id": "open-cf50c379e0560633",
+    "ro": "plasmă",
+    "ru": "физ. плазма; плазма крови",
+    "image": "/photos/expanded/open-cf50c379e0560633.webp"
+  },
+  {
+    "id": "open-01735c5ff1608734",
+    "ro": "porto",
+    "ru": "портвейн",
+    "image": "/photos/expanded/open-01735c5ff1608734.webp"
+  },
+  {
+    "id": "open-236f89f3c74eff3c",
+    "ro": "postmodernism",
+    "ru": "постмодернизм",
+    "image": "/photos/expanded/open-236f89f3c74eff3c.webp"
+  },
+  {
+    "id": "open-0e0f0dc0d66b3b75",
+    "ro": "poștaș",
+    "ru": "почтальон",
+    "image": "/photos/expanded/open-0e0f0dc0d66b3b75.webp"
+  },
+  {
+    "id": "open-57bf6e9626adc09a",
+    "ro": "prelată",
+    "ru": "брезент",
+    "image": "/photos/expanded/open-57bf6e9626adc09a.webp"
+  },
+  {
+    "id": "open-6df1fbde7fbc19c3",
+    "ro": "prepeliță",
+    "ru": "перепел",
+    "image": "/photos/expanded/open-6df1fbde7fbc19c3.webp"
+  },
+  {
+    "id": "open-f9392c2f87cb4094",
+    "ro": "procrastinare",
+    "ru": "прокрастинация",
+    "image": "/photos/expanded/open-f9392c2f87cb4094.webp"
+  },
+  {
+    "id": "open-f61260c55a31c034",
+    "ro": "proză",
+    "ru": "проза",
+    "image": "/photos/expanded/open-f61260c55a31c034.webp"
+  },
+  {
+    "id": "open-a1ec7c7703ba78fc",
+    "ro": "psihopatologie",
+    "ru": "психопатология",
+    "image": "/photos/expanded/open-a1ec7c7703ba78fc.webp"
+  },
+  {
+    "id": "open-cf2f170b6951d904",
+    "ro": "publicație",
+    "ru": "публикация",
+    "image": "/photos/expanded/open-cf2f170b6951d904.webp"
+  },
+  {
+    "id": "open-b19420a4eb6179ff",
+    "ro": "păstor",
+    "ru": "пастух",
+    "image": "/photos/expanded/open-b19420a4eb6179ff.webp"
+  },
+  {
+    "id": "open-b78baccd4b607fa1",
+    "ro": "rapiditate",
+    "ru": "скорость",
+    "image": "/photos/expanded/open-b78baccd4b607fa1.webp"
+  },
+  {
+    "id": "open-ba978cf0887bf2be",
+    "ro": "rubin",
+    "ru": "рубин",
+    "image": "/photos/expanded/open-ba978cf0887bf2be.webp"
+  },
+  {
+    "id": "open-7b8d85e669492787",
+    "ro": "sabotaj",
+    "ru": "саботаж",
+    "image": "/photos/expanded/open-7b8d85e669492787.webp"
+  },
+  {
+    "id": "open-e8b1b8fdfd7f046e",
+    "ro": "salcie",
+    "ru": "ботан. ива, верба (Salix)",
+    "image": "/photos/expanded/open-e8b1b8fdfd7f046e.webp"
+  },
+  {
+    "id": "open-2df84a679ae22f29",
+    "ro": "samurai",
+    "ru": "самурай",
+    "image": "/photos/expanded/open-2df84a679ae22f29.webp"
+  },
+  {
+    "id": "open-c3d8a87468449af9",
+    "ro": "sarcofag",
+    "ru": "саркофаг",
+    "image": "/photos/expanded/open-c3d8a87468449af9.webp"
+  },
+  {
+    "id": "open-f3d88c60a941cc44",
+    "ro": "sconcs",
+    "ru": "скунс",
+    "image": "/photos/expanded/open-f3d88c60a941cc44.webp"
+  },
+  {
+    "id": "open-038750191850488e",
+    "ro": "sculptor",
+    "ru": "скульптор",
+    "image": "/photos/expanded/open-038750191850488e.webp"
+  },
+  {
+    "id": "open-14d3ff869839c7fa",
+    "ro": "sexism",
+    "ru": "сексизм",
+    "image": "/photos/expanded/open-14d3ff869839c7fa.webp"
+  },
+  {
+    "id": "open-305a411709672cb7",
+    "ro": "sidef",
+    "ru": "перламутр",
+    "image": "/photos/expanded/open-305a411709672cb7.webp"
+  },
+  {
+    "id": "open-da973dcaceef26b1",
+    "ro": "silvicultură",
+    "ru": "лесоводство",
+    "image": "/photos/expanded/open-da973dcaceef26b1.webp"
+  },
+  {
+    "id": "open-5703756e238933f4",
+    "ro": "sinagogă",
+    "ru": "синагога",
+    "image": "/photos/expanded/open-5703756e238933f4.webp"
+  },
+  {
+    "id": "open-5d8b952c7e5df664",
+    "ro": "sincronizare",
+    "ru": "синхронизация",
+    "image": "/photos/expanded/open-5d8b952c7e5df664.webp"
+  },
+  {
+    "id": "open-7114d75b28f21587",
+    "ro": "soc",
+    "ru": "бузина",
+    "image": "/photos/expanded/open-7114d75b28f21587.webp"
+  },
+  {
+    "id": "open-fc5e23ab764a78e4",
+    "ro": "strănut",
+    "ru": "чихание",
+    "image": "/photos/expanded/open-fc5e23ab764a78e4.webp"
+  },
+  {
+    "id": "open-9787676ffe54195b",
+    "ro": "subcultură",
+    "ru": "субкультура",
+    "image": "/photos/expanded/open-9787676ffe54195b.webp"
+  },
+  {
+    "id": "open-02cf1cce1b9414df",
+    "ro": "sultan",
+    "ru": "султан",
+    "image": "/photos/expanded/open-02cf1cce1b9414df.webp"
+  },
+  {
+    "id": "open-e8110bdff2f03052",
+    "ro": "superputere",
+    "ru": "сверхдержава",
+    "image": "/photos/expanded/open-e8110bdff2f03052.webp"
+  },
+  {
+    "id": "open-e3fc48c49d5e4d8c",
+    "ro": "taxidermie",
+    "ru": "таксидермия",
+    "image": "/photos/expanded/open-e3fc48c49d5e4d8c.webp"
+  },
+  {
+    "id": "open-8d48f8ad8164cd0b",
+    "ro": "tensiune",
+    "ru": "напряжение, натяжение; физ., эл.-техн. напряжение; давление (кровяное); напряжённость (отношений); стресс",
+    "image": "/photos/expanded/open-8d48f8ad8164cd0b.webp"
+  },
+  {
+    "id": "open-a9429ec0dff5dec6",
+    "ro": "topograf",
+    "ru": "топограф",
+    "image": "/photos/expanded/open-a9429ec0dff5dec6.webp"
+  },
+  {
+    "id": "open-aa274f1c645e4b7f",
+    "ro": "trezorier",
+    "ru": "казначей",
+    "image": "/photos/expanded/open-aa274f1c645e4b7f.webp"
+  },
+  {
+    "id": "open-a60e7b6f8a2e7508",
+    "ro": "troc",
+    "ru": "бартер; товарообмен",
+    "image": "/photos/expanded/open-a60e7b6f8a2e7508.webp"
+  },
+  {
+    "id": "open-15ebe7fda2cfb77f",
+    "ro": "turbă",
+    "ru": "торф",
+    "image": "/photos/expanded/open-15ebe7fda2cfb77f.webp"
+  },
+  {
+    "id": "open-244b32c5454d3385",
+    "ro": "umiditate",
+    "ru": "влажность",
+    "image": "/photos/expanded/open-244b32c5454d3385.webp"
+  },
+  {
+    "id": "open-486dc6a828b3c03d",
+    "ro": "vegetarianism",
+    "ru": "вегетарианство",
+    "image": "/photos/expanded/open-486dc6a828b3c03d.webp"
+  },
+  {
+    "id": "open-2e9bdf921e95302a",
+    "ro": "vierme",
+    "ru": "зоол. червь, червяк",
+    "image": "/photos/expanded/open-2e9bdf921e95302a.webp"
+  },
+  {
+    "id": "open-f0625d5c28f33f4d",
+    "ro": "virginitate",
+    "ru": "девственность, невинность, непорочность",
+    "image": "/photos/expanded/open-f0625d5c28f33f4d.webp"
+  },
+  {
+    "id": "open-b214c2a0fc8fd3b8",
+    "ro": "virolog",
+    "ru": "вирусолог",
+    "image": "/photos/expanded/open-b214c2a0fc8fd3b8.webp"
+  },
+  {
+    "id": "open-fb778be3efc550a9",
+    "ro": "viticultură",
+    "ru": "виноградарство, виноделие",
+    "image": "/photos/expanded/open-fb778be3efc550a9.webp"
+  },
+  {
+    "id": "open-7d2959ec13f4fe3e",
+    "ro": "vițel",
+    "ru": "телёнок",
+    "image": "/photos/expanded/open-7d2959ec13f4fe3e.webp"
+  },
+  {
+    "id": "open-9c5e1f77970bece7",
+    "ro": "votcă",
+    "ru": "водка",
+    "image": "/photos/expanded/open-9c5e1f77970bece7.webp"
+  },
+  {
+    "id": "open-97886350f99ecb19",
+    "ro": "zadă",
+    "ru": "лиственница",
+    "image": "/photos/expanded/open-97886350f99ecb19.webp"
+  },
+  {
+    "id": "open-e3a5f75aa726fae3",
+    "ro": "zăgan",
+    "ru": "орнитол. бородач, ягнятник",
+    "image": "/photos/expanded/open-e3a5f75aa726fae3.webp"
+  },
+  {
+    "id": "open-e54b1876ef268b88",
+    "ro": "împărăteasă",
+    "ru": "императрица",
+    "image": "/photos/expanded/open-e54b1876ef268b88.webp"
+  },
+  {
+    "id": "open-7c376eacfa208cfe",
+    "ro": "șotron",
+    "ru": "классики (игра)",
+    "image": "/photos/expanded/open-7c376eacfa208cfe.webp"
+  }
+]

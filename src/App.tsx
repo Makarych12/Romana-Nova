@@ -42,6 +42,7 @@ import AcademyArt from "./components/AcademyArt";
 import { speak, initializeAudio, stopAudio, setAudioRate } from "./lib/audio";
 import { catalogMeta } from "./lib/vocabulary";
 import { AudioBar } from "./components/AudioControls";
+import AppUpdate from "./components/AppUpdate";
 const ConversationPlayer=lazy(()=>import("./components/ConversationPlayer"));
 const LessonPlayer = lazy(() => import("./components/LessonPlayer"));
 const AcademyPages = lazy(() => import("./pages/AcademyPages"));
@@ -353,6 +354,10 @@ export default function App() {
             </div>
           )}
           <main id="main-content" tabIndex={-1}>
+            <AppUpdate notify={notify} beforeUpdate={async () => {
+              if (!ready || !storageOK) throw Error("Progress is not ready to save");
+              await saveProgress(progress);
+            }} />
             {page === "home" ? (
               <motion.div
                 initial={{ opacity: 0 }}

@@ -22,6 +22,7 @@ import {
   audioFileCount,
 } from "../lib/audio";
 import AudioDeliveryCheck from "./AudioDeliveryCheck";
+import { checkAudioDelivery, type MediaCheck } from "../lib/media-check";
 const labels = {
   idle: "Остановлено",
   loading: "Загрузка аудио…",
@@ -114,6 +115,25 @@ export function AudioBar({
   );
 }
 const sample = "Bună ziua! Învăț limba română.";
+export function SoundCheck({ speed, notify }: { speed: number; notify: (s: string) => void }) {
+  const state = useSyncExternalStore(subscribeAudio, getAudioState, getAudioState);
+  const [result, setResult] = useState<MediaCheck | null>(null);
+  const [started, setStarted] = useState(false);
+  return <div className="sound-check">
+    <button className="secondary" onClick={() => {
+      setStarted(true);
+      setResult(null);
+      // Start MP3 synchronously: waiting for fetch first loses mobile activation.
+      speak(sample, speed, notify, "file");
+      void checkAudioDelivery("Проверка звука", sample).then(setResult);
+    }}><Volume2 size={18} /> Проверить звук</button>
+    {started && state.text === sample && <p role={state.status === "error" || result?.ok === false ? "alert" : "status"}>
+      {state.error || (result?.ok === false ? result.error : labels[state.status])}
+      {result && <small> · {result.status ? `HTTP ${result.status}` : "HTTP не получен"} · {result.url}</small>}
+      {state.status === "ended" && " · MP3 завершён. Слышимость проверьте на устройстве."}
+    </p>}
+  </div>;
+}
 export function AudioDiagnostics({
   notify,
   speed,
@@ -176,10 +196,10 @@ export function AudioDiagnostics({
           className="primary"
           onClick={() => {
             setConfirmed(false);
-            speak(sample, speed, notify);
+            speak(sample, speed, notify, "file");
           }}
         >
-          <Volume2 size={18} /> Проверить румынскую речь
+          <Volume2 size={18} /> Проверить звук
         </button>
         <button
           className="secondary"

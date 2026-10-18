@@ -2241,27 +2241,27 @@
   },
   "w12": {
     "status": "accepted",
-    "method": "contact-sheet-visual-review",
-    "reviewedAt": "2026-10-17",
-    "reason": "Фотография соответствует значению; просмотрен batch-2."
+    "method": "agent-contact-sheet-visual-review",
+    "date": "2026-10-18",
+    "notes": "Фотография просмотрена агентом; видимый предмет или действие соответствует карточке. Независимой проверки человеком нет."
   },
   "curated-cuptor": {
     "status": "accepted",
-    "method": "contact-sheet-visual-review",
-    "reviewedAt": "2026-10-17",
-    "reason": "Фотография соответствует значению; просмотрен batch-2."
+    "method": "agent-contact-sheet-visual-review",
+    "date": "2026-10-18",
+    "notes": "Фотография просмотрена агентом; видимый предмет или действие соответствует карточке. Независимой проверки человеком нет."
   },
   "w15": {
     "status": "accepted",
-    "method": "contact-sheet-visual-review",
-    "reviewedAt": "2026-10-17",
-    "reason": "Фотография соответствует значению; просмотрен batch-2."
+    "method": "agent-contact-sheet-visual-review",
+    "date": "2026-10-18",
+    "notes": "Фотография просмотрена агентом; видимый предмет или действие соответствует карточке. Независимой проверки человеком нет."
   },
   "curated-motocicleta": {
     "status": "accepted",
-    "method": "contact-sheet-visual-review",
-    "reviewedAt": "2026-10-17",
-    "reason": "Фотография соответствует значению; просмотрен batch-2."
+    "method": "agent-contact-sheet-visual-review",
+    "date": "2026-10-18",
+    "notes": "Фотография просмотрена агентом; видимый предмет или действие соответствует карточке. Независимой проверки человеком нет."
   },
   "curated-contract": {
     "status": "accepted",
@@ -2283,15 +2283,15 @@
   },
   "curated-primarie": {
     "status": "accepted",
-    "method": "contact-sheet-visual-review",
-    "reviewedAt": "2026-10-17",
-    "reason": "Фотография соответствует значению; просмотрен batch-2."
+    "method": "agent-contact-sheet-visual-review",
+    "date": "2026-10-18",
+    "notes": "Фотография просмотрена агентом; видимый предмет или действие соответствует карточке. Независимой проверки человеком нет."
   },
   "open-8a2539e2b69d9daf": {
     "status": "accepted",
-    "method": "contact-sheet-visual-review",
-    "reviewedAt": "2026-10-17",
-    "reason": "Фотография соответствует значению; просмотрен batch-2."
+    "method": "agent-contact-sheet-visual-review",
+    "date": "2026-10-18",
+    "notes": "Фотография просмотрена агентом; видимый предмет или действие соответствует карточке. Независимой проверки человеком нет."
   },
   "open-d3052463b7a5e9db": {
     "status": "rejected",
@@ -2319,15 +2319,15 @@
   },
   "open-8d53a3e3672946bd": {
     "status": "accepted",
-    "method": "contact-sheet-visual-review",
-    "reviewedAt": "2026-10-17",
-    "reason": "Фотография соответствует значению; просмотрен batch-2."
+    "method": "agent-contact-sheet-visual-review",
+    "date": "2026-10-18",
+    "notes": "Фотография просмотрена агентом; видимый предмет или действие соответствует карточке. Независимой проверки человеком нет."
   },
   "open-1f7330d04cde8888": {
     "status": "accepted",
-    "method": "contact-sheet-visual-review",
-    "reviewedAt": "2026-10-17",
-    "reason": "Фотография соответствует значению; просмотрен batch-2."
+    "method": "agent-contact-sheet-visual-review",
+    "date": "2026-10-18",
+    "notes": "Фотография просмотрена агентом; видимый предмет или действие соответствует карточке. Независимой проверки человеком нет."
   },
   "open-91a9eb5e7e990793": {
     "status": "rejected",
@@ -2337,15 +2337,15 @@
   },
   "open-bcd5e9696c0d554a": {
     "status": "accepted",
-    "method": "contact-sheet-visual-review",
-    "reviewedAt": "2026-10-17",
-    "reason": "Фотография соответствует значению; просмотрен batch-2."
+    "method": "agent-contact-sheet-visual-review",
+    "date": "2026-10-18",
+    "notes": "Фотография просмотрена агентом; видимый предмет или действие соответствует карточке. Независимой проверки человеком нет."
   },
   "open-f8d397a33fcb9725": {
     "status": "accepted",
-    "method": "contact-sheet-visual-review",
-    "reviewedAt": "2026-10-17",
-    "reason": "Фотография соответствует значению; просмотрен batch-2."
+    "method": "agent-contact-sheet-visual-review",
+    "date": "2026-10-18",
+    "notes": "Фотография просмотрена агентом; видимый предмет или действие соответствует карточке. Независимой проверки человеком нет."
   },
   "open-64879f7d6b960a01": {
     "status": "rejected",
@@ -2355,21 +2355,21 @@
   },
   "open-b91c103bb992e3e9": {
     "status": "accepted",
-    "method": "contact-sheet-visual-review",
-    "reviewedAt": "2026-10-17",
-    "reason": "Фотография соответствует значению; просмотрен batch-2."
+    "method": "agent-contact-sheet-visual-review",
+    "date": "2026-10-18",
+    "notes": "Фотография просмотрена агентом; видимый предмет или действие соответствует карточке. Независимой проверки человеком нет."
   },
   "open-cbde78cc776c50db": {
     "status": "accepted",
-    "method": "contact-sheet-visual-review",
-    "reviewedAt": "2026-10-17",
-    "reason": "Фотография соответствует значению; просмотрен batch-2."
+    "method": "agent-contact-sheet-visual-review",
+    "date": "2026-10-18",
+    "notes": "Фотография просмотрена агентом; видимый предмет или действие соответствует карточке. Независимой проверки человеком нет."
   },
   "open-353882dc8e112ae4": {
     "status": "accepted",
-    "method": "contact-sheet-visual-review",
-    "reviewedAt": "2026-10-17",
-    "reason": "Фотография соответствует значению; просмотрен batch-2."
+    "method": "agent-contact-sheet-visual-review",
+    "date": "2026-10-18",
+    "notes": "Фотография просмотрена агентом; видимый предмет или действие соответствует карточке. Независимой проверки человеком нет."
   },
   "open-2b687f9b0a248bed": {
     "status": "rejected",
@@ -2379,9 +2379,9 @@
   },
   "open-aed1e54dcffdca8d": {
     "status": "accepted",
-    "method": "contact-sheet-visual-review",
-    "reviewedAt": "2026-10-17",
-    "reason": "Фотография соответствует значению; просмотрен batch-2."
+    "method": "agent-contact-sheet-visual-review",
+    "date": "2026-10-18",
+    "notes": "Фотография просмотрена агентом; видимый предмет или действие соответствует карточке. Независимой проверки человеком нет."
   },
   "open-e35449223b54bce2": {
     "status": "rejected",
@@ -2409,9 +2409,9 @@
   },
   "open-8b18a0f9d24fedb0": {
     "status": "accepted",
-    "method": "contact-sheet-visual-review",
-    "reviewedAt": "2026-10-17",
-    "reason": "Фотография соответствует значению; просмотрен batch-2."
+    "method": "agent-contact-sheet-visual-review",
+    "date": "2026-10-18",
+    "notes": "Фотография просмотрена агентом; видимый предмет или действие соответствует карточке. Независимой проверки человеком нет."
   },
   "open-7f1f073d8bb9b2e3": {
     "status": "accepted",
@@ -2433,9 +2433,9 @@
   },
   "open-47afad612b1f9cc8": {
     "status": "accepted",
-    "method": "contact-sheet-visual-review",
-    "reviewedAt": "2026-10-17",
-    "reason": "Фотография соответствует значению; просмотрен batch-2."
+    "method": "agent-contact-sheet-visual-review",
+    "date": "2026-10-18",
+    "notes": "Фотография просмотрена агентом; видимый предмет или действие соответствует карточке. Независимой проверки человеком нет."
   },
   "open-57e7f97aa3902d64": {
     "status": "rejected",
@@ -2445,9 +2445,9 @@
   },
   "open-24aecb31f99ef151": {
     "status": "accepted",
-    "method": "contact-sheet-visual-review",
-    "reviewedAt": "2026-10-17",
-    "reason": "Фотография соответствует значению; просмотрен batch-2."
+    "method": "agent-contact-sheet-visual-review",
+    "date": "2026-10-18",
+    "notes": "Фотография просмотрена агентом; видимый предмет или действие соответствует карточке. Независимой проверки человеком нет."
   },
   "open-d5e14ba6289c57c3": {
     "status": "rejected",
@@ -2463,21 +2463,21 @@
   },
   "open-0185cfd00ea7593b": {
     "status": "accepted",
-    "method": "contact-sheet-visual-review",
-    "reviewedAt": "2026-10-17",
-    "reason": "Фотография соответствует значению; просмотрен batch-2."
+    "method": "agent-contact-sheet-visual-review",
+    "date": "2026-10-18",
+    "notes": "Фотография просмотрена агентом; видимый предмет или действие соответствует карточке. Независимой проверки человеком нет."
   },
   "open-b63cb424701d4bff": {
     "status": "accepted",
-    "method": "contact-sheet-visual-review",
-    "reviewedAt": "2026-10-17",
-    "reason": "Фотография соответствует значению; просмотрен batch-2."
+    "method": "agent-contact-sheet-visual-review",
+    "date": "2026-10-18",
+    "notes": "Фотография просмотрена агентом; видимый предмет или действие соответствует карточке. Независимой проверки человеком нет."
   },
   "open-7f1af712085feab3": {
     "status": "accepted",
-    "method": "contact-sheet-visual-review",
-    "reviewedAt": "2026-10-17",
-    "reason": "Фотография соответствует значению; просмотрен batch-2."
+    "method": "agent-contact-sheet-visual-review",
+    "date": "2026-10-18",
+    "notes": "Фотография просмотрена агентом; видимый предмет или действие соответствует карточке. Независимой проверки человеком нет."
   },
   "open-fe442c03fdd5f807": {
     "status": "rejected",
@@ -2493,9 +2493,9 @@
   },
   "open-1b8b78766119f7d2": {
     "status": "accepted",
-    "method": "contact-sheet-visual-review",
-    "reviewedAt": "2026-10-17",
-    "reason": "Фотография соответствует значению; просмотрен batch-2."
+    "method": "agent-contact-sheet-visual-review",
+    "date": "2026-10-18",
+    "notes": "Фотография просмотрена агентом; видимый предмет или действие соответствует карточке. Независимой проверки человеком нет."
   },
   "open-f0875f3e5603aed1": {
     "status": "rejected",
@@ -2523,15 +2523,15 @@
   },
   "open-ea59d5c0e31de437": {
     "status": "accepted",
-    "method": "contact-sheet-visual-review",
-    "reviewedAt": "2026-10-17",
-    "reason": "Фотография соответствует значению; просмотрен batch-2."
+    "method": "agent-contact-sheet-visual-review",
+    "date": "2026-10-18",
+    "notes": "Фотография просмотрена агентом; видимый предмет или действие соответствует карточке. Независимой проверки человеком нет."
   },
   "open-176a11f13c92823b": {
     "status": "accepted",
-    "method": "contact-sheet-visual-review",
-    "reviewedAt": "2026-10-17",
-    "reason": "Фотография соответствует значению; просмотрен batch-2."
+    "method": "agent-contact-sheet-visual-review",
+    "date": "2026-10-18",
+    "notes": "Фотография просмотрена агентом; видимый предмет или действие соответствует карточке. Независимой проверки человеком нет."
   },
   "open-f8229c61eac45b21": {
     "status": "rejected",
@@ -2541,15 +2541,15 @@
   },
   "open-9ece28e144efb66c": {
     "status": "accepted",
-    "method": "contact-sheet-visual-review",
-    "reviewedAt": "2026-10-17",
-    "reason": "Фотография соответствует значению; просмотрен batch-2."
+    "method": "agent-contact-sheet-visual-review",
+    "date": "2026-10-18",
+    "notes": "Фотография просмотрена агентом; видимый предмет или действие соответствует карточке. Независимой проверки человеком нет."
   },
   "open-924610f25ef26ec8": {
     "status": "accepted",
-    "method": "contact-sheet-visual-review",
-    "reviewedAt": "2026-10-17",
-    "reason": "Фотография соответствует значению; просмотрен batch-2."
+    "method": "agent-contact-sheet-visual-review",
+    "date": "2026-10-18",
+    "notes": "Фотография просмотрена агентом; видимый предмет или действие соответствует карточке. Независимой проверки человеком нет."
   },
   "open-e9f0a474a8a97ac3": {
     "status": "rejected",
@@ -2559,21 +2559,21 @@
   },
   "open-06f1370f52a55cbc": {
     "status": "accepted",
-    "method": "contact-sheet-visual-review",
-    "reviewedAt": "2026-10-17",
-    "reason": "Фотография соответствует значению; просмотрен batch-2."
+    "method": "agent-contact-sheet-visual-review",
+    "date": "2026-10-18",
+    "notes": "Фотография просмотрена агентом; видимый предмет или действие соответствует карточке. Независимой проверки человеком нет."
   },
   "open-2ffed73e4a674839": {
     "status": "accepted",
-    "method": "contact-sheet-visual-review",
-    "reviewedAt": "2026-10-17",
-    "reason": "Фотография соответствует значению; просмотрен batch-2."
+    "method": "agent-contact-sheet-visual-review",
+    "date": "2026-10-18",
+    "notes": "Фотография просмотрена агентом; видимый предмет или действие соответствует карточке. Независимой проверки человеком нет."
   },
   "open-478ba9965f38aaad": {
     "status": "accepted",
-    "method": "contact-sheet-visual-review",
-    "reviewedAt": "2026-10-17",
-    "reason": "Фотография соответствует значению; просмотрен batch-2."
+    "method": "agent-contact-sheet-visual-review",
+    "date": "2026-10-18",
+    "notes": "Фотография просмотрена агентом; видимый предмет или действие соответствует карточке. Независимой проверки человеком нет."
   },
   "open-8635d595910d446a": {
     "status": "rejected",
@@ -2583,15 +2583,15 @@
   },
   "open-4775ed810765803b": {
     "status": "accepted",
-    "method": "contact-sheet-visual-review",
-    "reviewedAt": "2026-10-17",
-    "reason": "Фотография соответствует значению; просмотрен batch-2."
+    "method": "agent-contact-sheet-visual-review",
+    "date": "2026-10-18",
+    "notes": "Фотография просмотрена агентом; видимый предмет или действие соответствует карточке. Независимой проверки человеком нет."
   },
   "open-3accf057bd88536a": {
     "status": "accepted",
-    "method": "contact-sheet-visual-review",
-    "reviewedAt": "2026-10-17",
-    "reason": "Фотография соответствует значению; просмотрен batch-2."
+    "method": "agent-contact-sheet-visual-review",
+    "date": "2026-10-18",
+    "notes": "Фотография просмотрена агентом; видимый предмет или действие соответствует карточке. Независимой проверки человеком нет."
   },
   "open-aa3a05d9d57c08d6": {
     "status": "accepted",
@@ -2619,15 +2619,15 @@
   },
   "open-884faea7d9b80eef": {
     "status": "accepted",
-    "method": "contact-sheet-visual-review",
-    "reviewedAt": "2026-10-17",
-    "reason": "Фотография соответствует значению; просмотрен batch-2."
+    "method": "agent-contact-sheet-visual-review",
+    "date": "2026-10-18",
+    "notes": "Фотография просмотрена агентом; видимый предмет или действие соответствует карточке. Независимой проверки человеком нет."
   },
   "open-6fe5384e1ccf8fba": {
     "status": "accepted",
-    "method": "contact-sheet-visual-review",
-    "reviewedAt": "2026-10-17",
-    "reason": "Фотография соответствует значению; просмотрен batch-2."
+    "method": "agent-contact-sheet-visual-review",
+    "date": "2026-10-18",
+    "notes": "Фотография просмотрена агентом; видимый предмет или действие соответствует карточке. Независимой проверки человеком нет."
   },
   "open-43cc23fa52b87b4c": {
     "status": "accepted",
@@ -2637,15 +2637,15 @@
   },
   "open-ac46af4054d3944d": {
     "status": "accepted",
-    "method": "contact-sheet-visual-review",
-    "reviewedAt": "2026-10-17",
-    "reason": "Фотография соответствует значению; просмотрен batch-2."
+    "method": "agent-contact-sheet-visual-review",
+    "date": "2026-10-18",
+    "notes": "Фотография просмотрена агентом; видимый предмет или действие соответствует карточке. Независимой проверки человеком нет."
   },
   "open-a32fab8f0e7562eb": {
     "status": "accepted",
-    "method": "contact-sheet-visual-review",
-    "reviewedAt": "2026-10-17",
-    "reason": "Фотография соответствует значению; просмотрен batch-2."
+    "method": "agent-contact-sheet-visual-review",
+    "date": "2026-10-18",
+    "notes": "Фотография просмотрена агентом; видимый предмет или действие соответствует карточке. Независимой проверки человеком нет."
   },
   "open-65d3ac4366abf022": {
     "status": "accepted",
@@ -2655,27 +2655,27 @@
   },
   "open-505d87159210b7cd": {
     "status": "accepted",
-    "method": "contact-sheet-visual-review",
-    "reviewedAt": "2026-10-17",
-    "reason": "Фотография соответствует значению; просмотрен batch-2."
+    "method": "agent-contact-sheet-visual-review",
+    "date": "2026-10-18",
+    "notes": "Фотография просмотрена агентом; видимый предмет или действие соответствует карточке. Независимой проверки человеком нет."
   },
   "open-b92cb4dd1f184c7e": {
     "status": "accepted",
-    "method": "contact-sheet-visual-review",
-    "reviewedAt": "2026-10-17",
-    "reason": "Фотография соответствует значению; просмотрен batch-2."
+    "method": "agent-contact-sheet-visual-review",
+    "date": "2026-10-18",
+    "notes": "Фотография просмотрена агентом; видимый предмет или действие соответствует карточке. Независимой проверки человеком нет."
   },
   "open-3526d467f3d79471": {
     "status": "accepted",
-    "method": "contact-sheet-visual-review",
-    "reviewedAt": "2026-10-17",
-    "reason": "Фотография соответствует значению; просмотрен batch-2."
+    "method": "agent-contact-sheet-visual-review",
+    "date": "2026-10-18",
+    "notes": "Фотография просмотрена агентом; видимый предмет или действие соответствует карточке. Независимой проверки человеком нет."
   },
   "open-b3a403460aab7e48": {
     "status": "accepted",
-    "method": "contact-sheet-visual-review",
-    "reviewedAt": "2026-10-17",
-    "reason": "Фотография соответствует значению; просмотрен batch-2."
+    "method": "agent-contact-sheet-visual-review",
+    "date": "2026-10-18",
+    "notes": "Фотография просмотрена агентом; видимый предмет или действие соответствует карточке. Независимой проверки человеком нет."
   },
   "open-e9968407663c810c": {
     "status": "accepted",
@@ -2697,9 +2697,9 @@
   },
   "open-bf1ff147854c7eee": {
     "status": "accepted",
-    "method": "contact-sheet-visual-review",
-    "reviewedAt": "2026-10-17",
-    "reason": "Фотография соответствует значению; просмотрен batch-2."
+    "method": "agent-contact-sheet-visual-review",
+    "date": "2026-10-18",
+    "notes": "Фотография просмотрена агентом; видимый предмет или действие соответствует карточке. Независимой проверки человеком нет."
   },
   "open-9b54f65b000676f5": {
     "status": "rejected",
@@ -2709,9 +2709,9 @@
   },
   "open-289856b4e4b71c79": {
     "status": "accepted",
-    "method": "contact-sheet-visual-review",
-    "reviewedAt": "2026-10-17",
-    "reason": "Фотография соответствует значению; просмотрен batch-2."
+    "method": "agent-contact-sheet-visual-review",
+    "date": "2026-10-18",
+    "notes": "Фотография просмотрена агентом; видимый предмет или действие соответствует карточке. Независимой проверки человеком нет."
   },
   "open-c39a7d569c97d58a": {
     "status": "accepted",
@@ -2733,15 +2733,15 @@
   },
   "open-4b77da12aa2329fe": {
     "status": "accepted",
-    "method": "contact-sheet-visual-review",
-    "reviewedAt": "2026-10-17",
-    "reason": "Фотография соответствует значению; просмотрен batch-2."
+    "method": "agent-contact-sheet-visual-review",
+    "date": "2026-10-18",
+    "notes": "Фотография просмотрена агентом; видимый предмет или действие соответствует карточке. Независимой проверки человеком нет."
   },
   "open-2a96afeef14f0a44": {
     "status": "accepted",
-    "method": "contact-sheet-visual-review",
-    "reviewedAt": "2026-10-17",
-    "reason": "Фотография соответствует значению; просмотрен batch-2."
+    "method": "agent-contact-sheet-visual-review",
+    "date": "2026-10-18",
+    "notes": "Фотография просмотрена агентом; видимый предмет или действие соответствует карточке. Независимой проверки человеком нет."
   },
   "open-3f75502c2182b03c": {
     "status": "accepted",
@@ -2751,9 +2751,9 @@
   },
   "open-1f05f2bdadcc14b6": {
     "status": "accepted",
-    "method": "contact-sheet-visual-review",
-    "reviewedAt": "2026-10-17",
-    "reason": "Фотография соответствует значению; просмотрен batch-2."
+    "method": "agent-contact-sheet-visual-review",
+    "date": "2026-10-18",
+    "notes": "Фотография просмотрена агентом; видимый предмет или действие соответствует карточке. Независимой проверки человеком нет."
   },
   "open-32687f92c724050e": {
     "status": "rejected",
@@ -2769,9 +2769,9 @@
   },
   "open-3cee866e173ffa8e": {
     "status": "accepted",
-    "method": "contact-sheet-visual-review",
-    "reviewedAt": "2026-10-17",
-    "reason": "Фотография соответствует значению; просмотрен batch-2."
+    "method": "agent-contact-sheet-visual-review",
+    "date": "2026-10-18",
+    "notes": "Фотография просмотрена агентом; видимый предмет или действие соответствует карточке. Независимой проверки человеком нет."
   },
   "open-db76c2f34ec3bbbb": {
     "status": "rejected",
@@ -2781,9 +2781,9 @@
   },
   "open-45f57fa9d037c614": {
     "status": "accepted",
-    "method": "contact-sheet-visual-review",
-    "reviewedAt": "2026-10-17",
-    "reason": "Фотография соответствует значению; просмотрен batch-2."
+    "method": "agent-contact-sheet-visual-review",
+    "date": "2026-10-18",
+    "notes": "Фотография просмотрена агентом; видимый предмет или действие соответствует карточке. Независимой проверки человеком нет."
   },
   "open-99231e173492a284": {
     "status": "rejected",
@@ -2793,15 +2793,15 @@
   },
   "open-9b89365027123ecd": {
     "status": "accepted",
-    "method": "contact-sheet-visual-review",
-    "reviewedAt": "2026-10-17",
-    "reason": "Фотография соответствует значению; просмотрен batch-2."
+    "method": "agent-contact-sheet-visual-review",
+    "date": "2026-10-18",
+    "notes": "Фотография просмотрена агентом; видимый предмет или действие соответствует карточке. Независимой проверки человеком нет."
   },
   "open-9d4ff3ed42a7be64": {
     "status": "accepted",
-    "method": "contact-sheet-visual-review",
-    "reviewedAt": "2026-10-17",
-    "reason": "Фотография соответствует значению; просмотрен batch-2."
+    "method": "agent-contact-sheet-visual-review",
+    "date": "2026-10-18",
+    "notes": "Фотография просмотрена агентом; видимый предмет или действие соответствует карточке. Независимой проверки человеком нет."
   },
   "open-f1de82484c6f4300": {
     "status": "rejected",
@@ -2811,39 +2811,39 @@
   },
   "open-538b91df37c0fed7": {
     "status": "accepted",
-    "method": "contact-sheet-visual-review",
-    "reviewedAt": "2026-10-17",
-    "reason": "Фотография соответствует значению; просмотрен batch-2."
+    "method": "agent-contact-sheet-visual-review",
+    "date": "2026-10-18",
+    "notes": "Фотография просмотрена агентом; видимый предмет или действие соответствует карточке. Независимой проверки человеком нет."
   },
   "open-22e1e0eabf8c2cba": {
     "status": "accepted",
-    "method": "contact-sheet-visual-review",
-    "reviewedAt": "2026-10-17",
-    "reason": "Фотография соответствует значению; просмотрен batch-2."
+    "method": "agent-contact-sheet-visual-review",
+    "date": "2026-10-18",
+    "notes": "Фотография просмотрена агентом; видимый предмет или действие соответствует карточке. Независимой проверки человеком нет."
   },
   "open-6ccf89d35be9636f": {
     "status": "accepted",
-    "method": "contact-sheet-visual-review",
-    "reviewedAt": "2026-10-17",
-    "reason": "Фотография соответствует значению; просмотрен batch-2."
+    "method": "agent-contact-sheet-visual-review",
+    "date": "2026-10-18",
+    "notes": "Фотография просмотрена агентом; видимый предмет или действие соответствует карточке. Независимой проверки человеком нет."
   },
   "open-5d88b4f8d72495ef": {
     "status": "accepted",
-    "method": "contact-sheet-visual-review",
-    "reviewedAt": "2026-10-17",
-    "reason": "Фотография соответствует значению; просмотрен batch-2."
+    "method": "agent-contact-sheet-visual-review",
+    "date": "2026-10-18",
+    "notes": "Фотография просмотрена агентом; видимый предмет или действие соответствует карточке. Независимой проверки человеком нет."
   },
   "open-76dd3b59c2eed5a9": {
     "status": "accepted",
-    "method": "contact-sheet-visual-review",
-    "reviewedAt": "2026-10-17",
-    "reason": "Фотография соответствует значению; просмотрен batch-2."
+    "method": "agent-contact-sheet-visual-review",
+    "date": "2026-10-18",
+    "notes": "Фотография просмотрена агентом; видимый предмет или действие соответствует карточке. Независимой проверки человеком нет."
   },
   "open-794b8c9575ffd4af": {
     "status": "accepted",
-    "method": "contact-sheet-visual-review",
-    "reviewedAt": "2026-10-17",
-    "reason": "Фотография соответствует значению; просмотрен batch-2."
+    "method": "agent-contact-sheet-visual-review",
+    "date": "2026-10-18",
+    "notes": "Фотография просмотрена агентом; видимый предмет или действие соответствует карточке. Независимой проверки человеком нет."
   },
   "open-50eb70f1f71a1461": {
     "status": "rejected",
@@ -2859,15 +2859,15 @@
   },
   "open-c70f8ded58aabf32": {
     "status": "accepted",
-    "method": "contact-sheet-visual-review",
-    "reviewedAt": "2026-10-17",
-    "reason": "Фотография соответствует значению; просмотрен batch-2."
+    "method": "agent-contact-sheet-visual-review",
+    "date": "2026-10-18",
+    "notes": "Фотография просмотрена агентом; видимый предмет или действие соответствует карточке. Независимой проверки человеком нет."
   },
   "open-90feeac9811e7780": {
     "status": "accepted",
-    "method": "contact-sheet-visual-review",
-    "reviewedAt": "2026-10-17",
-    "reason": "Фотография соответствует значению; просмотрен batch-2."
+    "method": "agent-contact-sheet-visual-review",
+    "date": "2026-10-18",
+    "notes": "Фотография просмотрена агентом; видимый предмет или действие соответствует карточке. Независимой проверки человеком нет."
   },
   "open-bd08022e8fb80701": {
     "status": "accepted",
@@ -2877,15 +2877,15 @@
   },
   "open-9c5eb8c83ce29ac1": {
     "status": "accepted",
-    "method": "contact-sheet-visual-review",
-    "reviewedAt": "2026-10-17",
-    "reason": "Фотография соответствует значению; просмотрен batch-2."
+    "method": "agent-contact-sheet-visual-review",
+    "date": "2026-10-18",
+    "notes": "Фотография просмотрена агентом; видимый предмет или действие соответствует карточке. Независимой проверки человеком нет."
   },
   "open-22bb2555a4e4767b": {
     "status": "accepted",
-    "method": "contact-sheet-visual-review",
-    "reviewedAt": "2026-10-17",
-    "reason": "Фотография соответствует значению; просмотрен batch-2."
+    "method": "agent-contact-sheet-visual-review",
+    "date": "2026-10-18",
+    "notes": "Фотография просмотрена агентом; видимый предмет или действие соответствует карточке. Независимой проверки человеком нет."
   },
   "open-3620af06d6f2d301": {
     "status": "rejected",
@@ -2901,15 +2901,15 @@
   },
   "open-62f9fda2c26bf686": {
     "status": "accepted",
-    "method": "contact-sheet-visual-review",
-    "reviewedAt": "2026-10-17",
-    "reason": "Фотография соответствует значению; просмотрен batch-2."
+    "method": "agent-contact-sheet-visual-review",
+    "date": "2026-10-18",
+    "notes": "Фотография просмотрена агентом; видимый предмет или действие соответствует карточке. Независимой проверки человеком нет."
   },
   "open-a2f6fe3b0d514a4c": {
     "status": "accepted",
-    "method": "contact-sheet-visual-review",
-    "reviewedAt": "2026-10-17",
-    "reason": "Фотография соответствует значению; просмотрен batch-2."
+    "method": "agent-contact-sheet-visual-review",
+    "date": "2026-10-18",
+    "notes": "Фотография просмотрена агентом; видимый предмет или действие соответствует карточке. Независимой проверки человеком нет."
   },
   "open-f20d5eeede953e61": {
     "status": "rejected",
@@ -2919,9 +2919,9 @@
   },
   "open-8548e7d19852495e": {
     "status": "accepted",
-    "method": "contact-sheet-visual-review",
-    "reviewedAt": "2026-10-17",
-    "reason": "Фотография соответствует значению; просмотрен batch-2."
+    "method": "agent-contact-sheet-visual-review",
+    "date": "2026-10-18",
+    "notes": "Фотография просмотрена агентом; видимый предмет или действие соответствует карточке. Независимой проверки человеком нет."
   },
   "open-30d2a49932c8ffe7": {
     "status": "rejected",
@@ -2937,9 +2937,9 @@
   },
   "open-de54c9b116dff346": {
     "status": "accepted",
-    "method": "contact-sheet-visual-review",
-    "reviewedAt": "2026-10-17",
-    "reason": "Фотография соответствует значению; просмотрен batch-2."
+    "method": "agent-contact-sheet-visual-review",
+    "date": "2026-10-18",
+    "notes": "Фотография просмотрена агентом; видимый предмет или действие соответствует карточке. Независимой проверки человеком нет."
   },
   "open-0a5e568cc97b2c3e": {
     "status": "rejected",
@@ -2961,9 +2961,9 @@
   },
   "open-fc2de03fa64f1ee1": {
     "status": "accepted",
-    "method": "contact-sheet-visual-review",
-    "reviewedAt": "2026-10-17",
-    "reason": "Фотография соответствует значению; просмотрен batch-2."
+    "method": "agent-contact-sheet-visual-review",
+    "date": "2026-10-18",
+    "notes": "Фотография просмотрена агентом; видимый предмет или действие соответствует карточке. Независимой проверки человеком нет."
   },
   "open-b2c0a4a5598e2c78": {
     "status": "accepted",
@@ -2979,9 +2979,9 @@
   },
   "open-cb37790a8586667f": {
     "status": "accepted",
-    "method": "contact-sheet-visual-review",
-    "reviewedAt": "2026-10-17",
-    "reason": "Фотография соответствует значению; просмотрен batch-2."
+    "method": "agent-contact-sheet-visual-review",
+    "date": "2026-10-18",
+    "notes": "Фотография просмотрена агентом; видимый предмет или действие соответствует карточке. Независимой проверки человеком нет."
   },
   "open-d8357a4cf00af101": {
     "status": "rejected",
@@ -2991,9 +2991,9 @@
   },
   "open-2bd639b283b8e192": {
     "status": "accepted",
-    "method": "contact-sheet-visual-review",
-    "reviewedAt": "2026-10-17",
-    "reason": "Фотография соответствует значению; просмотрен batch-2."
+    "method": "agent-contact-sheet-visual-review",
+    "date": "2026-10-18",
+    "notes": "Фотография просмотрена агентом; видимый предмет или действие соответствует карточке. Независимой проверки человеком нет."
   },
   "open-d6a07f27460d719e": {
     "status": "accepted",
@@ -3009,15 +3009,15 @@
   },
   "open-03ecab669ba200ba": {
     "status": "accepted",
-    "method": "contact-sheet-visual-review",
-    "reviewedAt": "2026-10-17",
-    "reason": "Фотография соответствует значению; просмотрен batch-2."
+    "method": "agent-contact-sheet-visual-review",
+    "date": "2026-10-18",
+    "notes": "Фотография просмотрена агентом; видимый предмет или действие соответствует карточке. Независимой проверки человеком нет."
   },
   "open-7d704b396e1f9159": {
     "status": "accepted",
-    "method": "contact-sheet-visual-review",
-    "reviewedAt": "2026-10-17",
-    "reason": "Фотография соответствует значению; просмотрен batch-2."
+    "method": "agent-contact-sheet-visual-review",
+    "date": "2026-10-18",
+    "notes": "Фотография просмотрена агентом; видимый предмет или действие соответствует карточке. Независимой проверки человеком нет."
   },
   "open-70dd2646537aee96": {
     "status": "rejected",
@@ -3039,9 +3039,9 @@
   },
   "open-842bc6fbe192e3be": {
     "status": "accepted",
-    "method": "contact-sheet-visual-review",
-    "reviewedAt": "2026-10-17",
-    "reason": "Фотография соответствует значению; просмотрен batch-2."
+    "method": "agent-contact-sheet-visual-review",
+    "date": "2026-10-18",
+    "notes": "Фотография просмотрена агентом; видимый предмет или действие соответствует карточке. Независимой проверки человеком нет."
   },
   "open-4e552786d7c77f8d": {
     "status": "rejected",
@@ -3051,9 +3051,9 @@
   },
   "open-264aa3f07859034d": {
     "status": "accepted",
-    "method": "contact-sheet-visual-review",
-    "reviewedAt": "2026-10-17",
-    "reason": "Фотография соответствует значению; просмотрен batch-2."
+    "method": "agent-contact-sheet-visual-review",
+    "date": "2026-10-18",
+    "notes": "Фотография просмотрена агентом; видимый предмет или действие соответствует карточке. Независимой проверки человеком нет."
   },
   "open-64d2fdd6d6e0a617": {
     "status": "accepted",
@@ -3075,9 +3075,9 @@
   },
   "open-f7579585f0ad72ec": {
     "status": "accepted",
-    "method": "contact-sheet-visual-review",
-    "reviewedAt": "2026-10-17",
-    "reason": "Фотография соответствует значению; просмотрен batch-2."
+    "method": "agent-contact-sheet-visual-review",
+    "date": "2026-10-18",
+    "notes": "Фотография просмотрена агентом; видимый предмет или действие соответствует карточке. Независимой проверки человеком нет."
   },
   "open-027fe02e766655a3": {
     "status": "rejected",
@@ -3105,15 +3105,15 @@
   },
   "open-f7f8d605e921ad0c": {
     "status": "accepted",
-    "method": "contact-sheet-visual-review",
-    "reviewedAt": "2026-10-17",
-    "reason": "Фотография соответствует значению; просмотрен batch-2."
+    "method": "agent-contact-sheet-visual-review",
+    "date": "2026-10-18",
+    "notes": "Фотография просмотрена агентом; видимый предмет или действие соответствует карточке. Независимой проверки человеком нет."
   },
   "open-5ebf1e08d312b8c4": {
     "status": "accepted",
-    "method": "contact-sheet-visual-review",
-    "reviewedAt": "2026-10-17",
-    "reason": "Фотография соответствует значению; просмотрен batch-2."
+    "method": "agent-contact-sheet-visual-review",
+    "date": "2026-10-18",
+    "notes": "Фотография просмотрена агентом; видимый предмет или действие соответствует карточке. Независимой проверки человеком нет."
   },
   "open-7fa6ab75dacfed0c": {
     "status": "rejected",
@@ -3123,45 +3123,45 @@
   },
   "open-504fdcd42c136b90": {
     "status": "accepted",
-    "method": "contact-sheet-visual-review",
-    "reviewedAt": "2026-10-17",
-    "reason": "Фотография соответствует значению; просмотрен batch-2."
+    "method": "agent-contact-sheet-visual-review",
+    "date": "2026-10-18",
+    "notes": "Фотография просмотрена агентом; видимый предмет или действие соответствует карточке. Независимой проверки человеком нет."
   },
   "open-2c80e939b8bed79d": {
     "status": "accepted",
-    "method": "contact-sheet-visual-review",
-    "reviewedAt": "2026-10-17",
-    "reason": "Фотография соответствует значению; просмотрен batch-2."
+    "method": "agent-contact-sheet-visual-review",
+    "date": "2026-10-18",
+    "notes": "Фотография просмотрена агентом; видимый предмет или действие соответствует карточке. Независимой проверки человеком нет."
   },
   "open-05017685ee808dfc": {
-    "status": "rejected",
-    "method": "contact-sheet-visual-review",
-    "reviewedAt": "2026-10-17",
-    "reason": "Картина, схема, неверный предмет или недостаточно однозначная связь; не используется в обучении."
+    "status": "accepted",
+    "method": "agent-contact-sheet-visual-review",
+    "date": "2026-10-18",
+    "notes": "Фотография просмотрена агентом; видимый предмет или действие соответствует карточке. Независимой проверки человеком нет."
   },
   "open-769db16d757479ac": {
     "status": "accepted",
-    "method": "contact-sheet-visual-review",
-    "reviewedAt": "2026-10-17",
-    "reason": "Фотография соответствует значению; просмотрен batch-2."
+    "method": "agent-contact-sheet-visual-review",
+    "date": "2026-10-18",
+    "notes": "Фотография просмотрена агентом; видимый предмет или действие соответствует карточке. Независимой проверки человеком нет."
   },
   "open-8d3287c6fbb605cb": {
     "status": "accepted",
-    "method": "contact-sheet-visual-review",
-    "reviewedAt": "2026-10-17",
-    "reason": "Фотография соответствует значению; просмотрен batch-2."
+    "method": "agent-contact-sheet-visual-review",
+    "date": "2026-10-18",
+    "notes": "Фотография просмотрена агентом; видимый предмет или действие соответствует карточке. Независимой проверки человеком нет."
   },
   "open-b494f88b7e090e49": {
     "status": "accepted",
-    "method": "contact-sheet-visual-review",
-    "reviewedAt": "2026-10-17",
-    "reason": "Фотография соответствует значению; просмотрен batch-2."
+    "method": "agent-contact-sheet-visual-review",
+    "date": "2026-10-18",
+    "notes": "Фотография просмотрена агентом; видимый предмет или действие соответствует карточке. Независимой проверки человеком нет."
   },
   "open-ae009899db5a5378": {
     "status": "accepted",
-    "method": "contact-sheet-visual-review",
-    "reviewedAt": "2026-10-17",
-    "reason": "Фотография соответствует значению; просмотрен batch-2."
+    "method": "agent-contact-sheet-visual-review",
+    "date": "2026-10-18",
+    "notes": "Фотография просмотрена агентом; видимый предмет или действие соответствует карточке. Независимой проверки человеком нет."
   },
   "open-7b119007b71df751": {
     "status": "rejected",
@@ -3171,9 +3171,9 @@
   },
   "open-6c74a0e849064ec7": {
     "status": "accepted",
-    "method": "contact-sheet-visual-review",
-    "reviewedAt": "2026-10-17",
-    "reason": "Фотография соответствует значению; просмотрен batch-2."
+    "method": "agent-contact-sheet-visual-review",
+    "date": "2026-10-18",
+    "notes": "Фотография просмотрена агентом; видимый предмет или действие соответствует карточке. Независимой проверки человеком нет."
   },
   "open-db4b593cedf2b826": {
     "status": "accepted",
@@ -3183,9 +3183,9 @@
   },
   "open-0b350e8823dda59a": {
     "status": "accepted",
-    "method": "contact-sheet-visual-review",
-    "reviewedAt": "2026-10-17",
-    "reason": "Фотография соответствует значению; просмотрен batch-2."
+    "method": "agent-contact-sheet-visual-review",
+    "date": "2026-10-18",
+    "notes": "Фотография просмотрена агентом; видимый предмет или действие соответствует карточке. Независимой проверки человеком нет."
   },
   "open-7dbf880be5110f59": {
     "status": "rejected",
@@ -3195,9 +3195,9 @@
   },
   "open-c4577f6f825a3cfa": {
     "status": "accepted",
-    "method": "contact-sheet-visual-review",
-    "reviewedAt": "2026-10-17",
-    "reason": "Фотография соответствует значению; просмотрен batch-2."
+    "method": "agent-contact-sheet-visual-review",
+    "date": "2026-10-18",
+    "notes": "Фотография просмотрена агентом; видимый предмет или действие соответствует карточке. Независимой проверки человеком нет."
   },
   "open-e9f2a75fba22ea69": {
     "status": "accepted",
@@ -3213,15 +3213,15 @@
   },
   "open-f25cd0ae8741146c": {
     "status": "accepted",
-    "method": "contact-sheet-visual-review",
-    "reviewedAt": "2026-10-17",
-    "reason": "Фотография соответствует значению; просмотрен batch-2."
+    "method": "agent-contact-sheet-visual-review",
+    "date": "2026-10-18",
+    "notes": "Фотография просмотрена агентом; видимый предмет или действие соответствует карточке. Независимой проверки человеком нет."
   },
   "open-4fa885d2ae38fb75": {
     "status": "accepted",
-    "method": "contact-sheet-visual-review",
-    "reviewedAt": "2026-10-17",
-    "reason": "Фотография соответствует значению; просмотрен batch-2."
+    "method": "agent-contact-sheet-visual-review",
+    "date": "2026-10-18",
+    "notes": "Фотография просмотрена агентом; видимый предмет или действие соответствует карточке. Независимой проверки человеком нет."
   },
   "open-e29f305c2984d36d": {
     "status": "rejected",
@@ -3249,39 +3249,39 @@
   },
   "open-48dd5ca12a0e5426": {
     "status": "accepted",
-    "method": "contact-sheet-visual-review",
-    "reviewedAt": "2026-10-17",
-    "reason": "Фотография соответствует значению; просмотрен batch-2."
+    "method": "agent-contact-sheet-visual-review",
+    "date": "2026-10-18",
+    "notes": "Фотография просмотрена агентом; видимый предмет или действие соответствует карточке. Независимой проверки человеком нет."
   },
   "open-a2cb9f65e3da16e6": {
     "status": "accepted",
-    "method": "contact-sheet-visual-review",
-    "reviewedAt": "2026-10-17",
-    "reason": "Фотография соответствует значению; просмотрен batch-2."
+    "method": "agent-contact-sheet-visual-review",
+    "date": "2026-10-18",
+    "notes": "Фотография просмотрена агентом; видимый предмет или действие соответствует карточке. Независимой проверки человеком нет."
   },
   "open-e358a1f44db0fbf6": {
-    "status": "rejected",
-    "method": "contact-sheet-visual-review",
-    "reviewedAt": "2026-10-17",
-    "reason": "Картина, схема, неверный предмет или недостаточно однозначная связь; не используется в обучении."
+    "status": "accepted",
+    "method": "agent-contact-sheet-visual-review",
+    "date": "2026-10-18",
+    "notes": "Фотография просмотрена агентом; видимый предмет или действие соответствует карточке. Независимой проверки человеком нет."
   },
   "open-fa5e207f7bee4326": {
     "status": "accepted",
-    "method": "contact-sheet-visual-review",
-    "reviewedAt": "2026-10-17",
-    "reason": "Фотография соответствует значению; просмотрен batch-2."
+    "method": "agent-contact-sheet-visual-review",
+    "date": "2026-10-18",
+    "notes": "Фотография просмотрена агентом; видимый предмет или действие соответствует карточке. Независимой проверки человеком нет."
   },
   "open-f739d7bb819bec1f": {
     "status": "accepted",
-    "method": "contact-sheet-visual-review",
-    "reviewedAt": "2026-10-17",
-    "reason": "Фотография соответствует значению; просмотрен batch-2."
+    "method": "agent-contact-sheet-visual-review",
+    "date": "2026-10-18",
+    "notes": "Фотография просмотрена агентом; видимый предмет или действие соответствует карточке. Независимой проверки человеком нет."
   },
   "open-a6dafbd7b9310a15": {
     "status": "accepted",
-    "method": "contact-sheet-visual-review",
-    "reviewedAt": "2026-10-17",
-    "reason": "Фотография соответствует значению; просмотрен batch-2."
+    "method": "agent-contact-sheet-visual-review",
+    "date": "2026-10-18",
+    "notes": "Фотография просмотрена агентом; видимый предмет или действие соответствует карточке. Независимой проверки человеком нет."
   },
   "open-fbcc2d9bf6ade163": {
     "status": "accepted",
@@ -3296,22 +3296,22 @@
     "reason": "Картина, схема, неверный предмет или недостаточно однозначная связь; не используется в обучении."
   },
   "open-fec95f915aa8b50d": {
-    "status": "rejected",
-    "method": "contact-sheet-visual-review",
-    "reviewedAt": "2026-10-17",
-    "reason": "Картина, схема, неверный предмет или недостаточно однозначная связь; не используется в обучении."
+    "status": "accepted",
+    "method": "agent-contact-sheet-visual-review",
+    "date": "2026-10-18",
+    "notes": "Фотография просмотрена агентом; видимый предмет или действие соответствует карточке. Независимой проверки человеком нет."
   },
   "open-c8c68876719150ba": {
     "status": "accepted",
-    "method": "contact-sheet-visual-review",
-    "reviewedAt": "2026-10-17",
-    "reason": "Фотография соответствует значению; просмотрен batch-2."
+    "method": "agent-contact-sheet-visual-review",
+    "date": "2026-10-18",
+    "notes": "Фотография просмотрена агентом; видимый предмет или действие соответствует карточке. Независимой проверки человеком нет."
   },
   "open-b4a1b8d34c7895a2": {
     "status": "accepted",
-    "method": "contact-sheet-visual-review",
-    "reviewedAt": "2026-10-17",
-    "reason": "Фотография соответствует значению; просмотрен batch-2."
+    "method": "agent-contact-sheet-visual-review",
+    "date": "2026-10-18",
+    "notes": "Фотография просмотрена агентом; видимый предмет или действие соответствует карточке. Независимой проверки человеком нет."
   },
   "open-c751ceda78f2bcb0": {
     "status": "rejected",
@@ -3321,21 +3321,21 @@
   },
   "open-89971200417638da": {
     "status": "accepted",
-    "method": "contact-sheet-visual-review",
-    "reviewedAt": "2026-10-17",
-    "reason": "Фотография соответствует значению; просмотрен batch-2."
+    "method": "agent-contact-sheet-visual-review",
+    "date": "2026-10-18",
+    "notes": "Фотография просмотрена агентом; видимый предмет или действие соответствует карточке. Независимой проверки человеком нет."
   },
   "open-e04031c5d5a68b5f": {
     "status": "accepted",
-    "method": "contact-sheet-visual-review",
-    "reviewedAt": "2026-10-17",
-    "reason": "Фотография соответствует значению; просмотрен batch-2."
+    "method": "agent-contact-sheet-visual-review",
+    "date": "2026-10-18",
+    "notes": "Фотография просмотрена агентом; видимый предмет или действие соответствует карточке. Независимой проверки человеком нет."
   },
   "open-1bafc471784418c0": {
     "status": "accepted",
-    "method": "contact-sheet-visual-review",
-    "reviewedAt": "2026-10-17",
-    "reason": "Фотография соответствует значению; просмотрен batch-2."
+    "method": "agent-contact-sheet-visual-review",
+    "date": "2026-10-18",
+    "notes": "Фотография просмотрена агентом; видимый предмет или действие соответствует карточке. Независимой проверки человеком нет."
   },
   "open-25aa94ebee8800cd": {
     "status": "rejected",
@@ -3345,27 +3345,27 @@
   },
   "open-11ce371ffd2ac100": {
     "status": "accepted",
-    "method": "contact-sheet-visual-review",
-    "reviewedAt": "2026-10-17",
-    "reason": "Фотография соответствует значению; просмотрен batch-2."
+    "method": "agent-contact-sheet-visual-review",
+    "date": "2026-10-18",
+    "notes": "Фотография просмотрена агентом; видимый предмет или действие соответствует карточке. Независимой проверки человеком нет."
   },
   "open-02361d9784eec255": {
     "status": "accepted",
-    "method": "contact-sheet-visual-review",
-    "reviewedAt": "2026-10-17",
-    "reason": "Фотография соответствует значению; просмотрен batch-2."
+    "method": "agent-contact-sheet-visual-review",
+    "date": "2026-10-18",
+    "notes": "Фотография просмотрена агентом; видимый предмет или действие соответствует карточке. Независимой проверки человеком нет."
   },
   "open-3c5299ce6264f641": {
     "status": "accepted",
-    "method": "contact-sheet-visual-review",
-    "reviewedAt": "2026-10-17",
-    "reason": "Фотография соответствует значению; просмотрен batch-2."
+    "method": "agent-contact-sheet-visual-review",
+    "date": "2026-10-18",
+    "notes": "Фотография просмотрена агентом; видимый предмет или действие соответствует карточке. Независимой проверки человеком нет."
   },
   "open-5ff1c002fbd43ddf": {
     "status": "accepted",
-    "method": "contact-sheet-visual-review",
-    "reviewedAt": "2026-10-17",
-    "reason": "Фотография соответствует значению; просмотрен batch-2."
+    "method": "agent-contact-sheet-visual-review",
+    "date": "2026-10-18",
+    "notes": "Фотография просмотрена агентом; видимый предмет или действие соответствует карточке. Независимой проверки человеком нет."
   },
   "open-e8b02bef55c4c2f0": {
     "status": "rejected",
@@ -3387,33 +3387,33 @@
   },
   "open-119a6224cab3647c": {
     "status": "accepted",
-    "method": "contact-sheet-visual-review",
-    "reviewedAt": "2026-10-17",
-    "reason": "Фотография соответствует значению; просмотрен batch-2."
+    "method": "agent-contact-sheet-visual-review",
+    "date": "2026-10-18",
+    "notes": "Фотография просмотрена агентом; видимый предмет или действие соответствует карточке. Независимой проверки человеком нет."
   },
   "open-40777b9cda21ad18": {
     "status": "accepted",
-    "method": "contact-sheet-visual-review",
-    "reviewedAt": "2026-10-17",
-    "reason": "Фотография соответствует значению; просмотрен batch-2."
+    "method": "agent-contact-sheet-visual-review",
+    "date": "2026-10-18",
+    "notes": "Фотография просмотрена агентом; видимый предмет или действие соответствует карточке. Независимой проверки человеком нет."
   },
   "open-55ed885708721edd": {
     "status": "accepted",
-    "method": "contact-sheet-visual-review",
-    "reviewedAt": "2026-10-17",
-    "reason": "Фотография соответствует значению; просмотрен batch-2."
+    "method": "agent-contact-sheet-visual-review",
+    "date": "2026-10-18",
+    "notes": "Фотография просмотрена агентом; видимый предмет или действие соответствует карточке. Независимой проверки человеком нет."
   },
   "open-bb50d52a4169110d": {
     "status": "accepted",
-    "method": "contact-sheet-visual-review",
-    "reviewedAt": "2026-10-17",
-    "reason": "Фотография соответствует значению; просмотрен batch-2."
+    "method": "agent-contact-sheet-visual-review",
+    "date": "2026-10-18",
+    "notes": "Фотография просмотрена агентом; видимый предмет или действие соответствует карточке. Независимой проверки человеком нет."
   },
   "open-39c5492a44fca450": {
     "status": "accepted",
-    "method": "contact-sheet-visual-review",
-    "reviewedAt": "2026-10-17",
-    "reason": "Фотография соответствует значению; просмотрен batch-2."
+    "method": "agent-contact-sheet-visual-review",
+    "date": "2026-10-18",
+    "notes": "Фотография просмотрена агентом; видимый предмет или действие соответствует карточке. Независимой проверки человеком нет."
   },
   "open-d9c82be4e60e1ed8": {
     "status": "rejected",
@@ -3423,14 +3423,524 @@
   },
   "open-edf06c0497282658": {
     "status": "accepted",
-    "method": "contact-sheet-visual-review",
-    "reviewedAt": "2026-10-17",
-    "reason": "Фотография соответствует значению; просмотрен batch-2."
+    "method": "agent-contact-sheet-visual-review",
+    "date": "2026-10-18",
+    "notes": "Фотография просмотрена агентом; видимый предмет или действие соответствует карточке. Независимой проверки человеком нет."
   },
   "open-c5942e4643ab689c": {
     "status": "rejected",
     "method": "contact-sheet-visual-review",
     "reviewedAt": "2026-10-17",
     "reason": "Картина, схема, неверный предмет или недостаточно однозначная связь; не используется в обучении."
+  },
+  "curated-orez": {
+    "status": "accepted",
+    "method": "agent-contact-sheet-visual-review",
+    "date": "2026-10-18",
+    "notes": "Фотография просмотрена агентом; видимый предмет или действие соответствует карточке. Независимой проверки человеком нет."
+  },
+  "curated-zahar": {
+    "status": "accepted",
+    "method": "agent-contact-sheet-visual-review",
+    "date": "2026-10-18",
+    "notes": "Фотография просмотрена агентом; видимый предмет или действие соответствует карточке. Независимой проверки человеком нет."
+  },
+  "curated-rau": {
+    "status": "accepted",
+    "method": "agent-contact-sheet-visual-review",
+    "date": "2026-10-18",
+    "notes": "Фотография просмотрена агентом; видимый предмет или действие соответствует карточке. Независимой проверки человеком нет."
+  },
+  "curated-camasa": {
+    "status": "accepted",
+    "method": "agent-contact-sheet-visual-review",
+    "date": "2026-10-18",
+    "notes": "Фотография просмотрена агентом; видимый предмет или действие соответствует карточке. Независимой проверки человеком нет."
+  },
+  "curated-geaca": {
+    "status": "accepted",
+    "method": "agent-contact-sheet-visual-review",
+    "date": "2026-10-18",
+    "notes": "Фотография просмотрена агентом; видимый предмет или действие соответствует карточке. Независимой проверки человеком нет."
+  },
+  "open-768490634b6310d0": {
+    "status": "accepted",
+    "method": "agent-contact-sheet-visual-review",
+    "date": "2026-10-18",
+    "notes": "Фотография просмотрена агентом; видимый предмет или действие соответствует карточке. Независимой проверки человеком нет."
+  },
+  "open-851cfc3d60d379af": {
+    "status": "accepted",
+    "method": "agent-contact-sheet-visual-review",
+    "date": "2026-10-18",
+    "notes": "Фотография просмотрена агентом; видимый предмет или действие соответствует карточке. Независимой проверки человеком нет."
+  },
+  "open-8db59feb4d217f26": {
+    "status": "accepted",
+    "method": "agent-contact-sheet-visual-review",
+    "date": "2026-10-18",
+    "notes": "Фотография просмотрена агентом; видимый предмет или действие соответствует карточке. Независимой проверки человеком нет."
+  },
+  "open-0389a49fe399163a": {
+    "status": "accepted",
+    "method": "agent-contact-sheet-visual-review",
+    "date": "2026-10-18",
+    "notes": "Фотография просмотрена агентом; видимый предмет или действие соответствует карточке. Независимой проверки человеком нет."
+  },
+  "open-7a72dc6962f7fdb1": {
+    "status": "accepted",
+    "method": "agent-contact-sheet-visual-review",
+    "date": "2026-10-18",
+    "notes": "Фотография просмотрена агентом; видимый предмет или действие соответствует карточке. Независимой проверки человеком нет."
+  },
+  "open-462d873ad6f6009d": {
+    "status": "accepted",
+    "method": "agent-contact-sheet-visual-review",
+    "date": "2026-10-18",
+    "notes": "Фотография просмотрена агентом; видимый предмет или действие соответствует карточке. Независимой проверки человеком нет."
+  },
+  "open-1704189573899296": {
+    "status": "accepted",
+    "method": "agent-contact-sheet-visual-review",
+    "date": "2026-10-18",
+    "notes": "Фотография просмотрена агентом; видимый предмет или действие соответствует карточке. Независимой проверки человеком нет."
+  },
+  "open-117fc29e18a86b2c": {
+    "status": "accepted",
+    "method": "agent-contact-sheet-visual-review",
+    "date": "2026-10-18",
+    "notes": "Фотография просмотрена агентом; видимый предмет или действие соответствует карточке. Независимой проверки человеком нет."
+  },
+  "open-6ebd229b088d1cfd": {
+    "status": "accepted",
+    "method": "agent-contact-sheet-visual-review",
+    "date": "2026-10-18",
+    "notes": "Фотография просмотрена агентом; видимый предмет или действие соответствует карточке. Независимой проверки человеком нет."
+  },
+  "open-6ab0d22724edd2a2": {
+    "status": "accepted",
+    "method": "agent-contact-sheet-visual-review",
+    "date": "2026-10-18",
+    "notes": "Фотография просмотрена агентом; видимый предмет или действие соответствует карточке. Независимой проверки человеком нет."
+  },
+  "open-d4c3e8a11256ab82": {
+    "status": "accepted",
+    "method": "agent-contact-sheet-visual-review",
+    "date": "2026-10-18",
+    "notes": "Фотография просмотрена агентом; видимый предмет или действие соответствует карточке. Независимой проверки человеком нет."
+  },
+  "open-d4c4814ce9ce15ca": {
+    "status": "accepted",
+    "method": "agent-contact-sheet-visual-review",
+    "date": "2026-10-18",
+    "notes": "Фотография просмотрена агентом; видимый предмет или действие соответствует карточке. Независимой проверки человеком нет."
+  },
+  "open-c226681bdfeff352": {
+    "status": "accepted",
+    "method": "agent-contact-sheet-visual-review",
+    "date": "2026-10-18",
+    "notes": "Фотография просмотрена агентом; видимый предмет или действие соответствует карточке. Независимой проверки человеком нет."
+  },
+  "open-25f870a4adf26141": {
+    "status": "accepted",
+    "method": "agent-contact-sheet-visual-review",
+    "date": "2026-10-18",
+    "notes": "Фотография просмотрена агентом; видимый предмет или действие соответствует карточке. Независимой проверки человеком нет."
+  },
+  "open-a6dcd537376bb82b": {
+    "status": "accepted",
+    "method": "agent-contact-sheet-visual-review",
+    "date": "2026-10-18",
+    "notes": "Фотография просмотрена агентом; видимый предмет или действие соответствует карточке. Независимой проверки человеком нет."
+  },
+  "open-7b5a828cc546a952": {
+    "status": "accepted",
+    "method": "agent-contact-sheet-visual-review",
+    "date": "2026-10-18",
+    "notes": "Фотография просмотрена агентом; видимый предмет или действие соответствует карточке. Независимой проверки человеком нет."
+  },
+  "open-4ebde790877e2f92": {
+    "status": "accepted",
+    "method": "agent-contact-sheet-visual-review",
+    "date": "2026-10-18",
+    "notes": "Фотография просмотрена агентом; видимый предмет или действие соответствует карточке. Независимой проверки человеком нет."
+  },
+  "open-75cf8229cc6eb7e8": {
+    "status": "accepted",
+    "method": "agent-contact-sheet-visual-review",
+    "date": "2026-10-18",
+    "notes": "Фотография просмотрена агентом; видимый предмет или действие соответствует карточке. Независимой проверки человеком нет."
+  },
+  "open-c9a57445de85e6b0": {
+    "status": "accepted",
+    "method": "agent-contact-sheet-visual-review",
+    "date": "2026-10-18",
+    "notes": "Фотография просмотрена агентом; видимый предмет или действие соответствует карточке. Независимой проверки человеком нет."
+  },
+  "open-239bcef2d7dcbcf4": {
+    "status": "accepted",
+    "method": "agent-contact-sheet-visual-review",
+    "date": "2026-10-18",
+    "notes": "Фотография просмотрена агентом; видимый предмет или действие соответствует карточке. Независимой проверки человеком нет."
+  },
+  "open-dba54fd097c1fb82": {
+    "status": "accepted",
+    "method": "agent-contact-sheet-visual-review",
+    "date": "2026-10-18",
+    "notes": "Фотография просмотрена агентом; видимый предмет или действие соответствует карточке. Независимой проверки человеком нет."
+  },
+  "open-74eae9fd0bbcb818": {
+    "status": "accepted",
+    "method": "agent-contact-sheet-visual-review",
+    "date": "2026-10-18",
+    "notes": "Фотография просмотрена агентом; видимый предмет или действие соответствует карточке. Независимой проверки человеком нет."
+  },
+  "open-10a2be0e6b6765b7": {
+    "status": "accepted",
+    "method": "agent-contact-sheet-visual-review",
+    "date": "2026-10-18",
+    "notes": "Фотография просмотрена агентом; видимый предмет или действие соответствует карточке. Независимой проверки человеком нет."
+  },
+  "open-893e6a96cf443591": {
+    "status": "accepted",
+    "method": "agent-contact-sheet-visual-review",
+    "date": "2026-10-18",
+    "notes": "Фотография просмотрена агентом; видимый предмет или действие соответствует карточке. Независимой проверки человеком нет."
+  },
+  "open-73fc099735e44b18": {
+    "status": "accepted",
+    "method": "agent-contact-sheet-visual-review",
+    "date": "2026-10-18",
+    "notes": "Фотография просмотрена агентом; видимый предмет или действие соответствует карточке. Независимой проверки человеком нет."
+  },
+  "open-15827029160dc9aa": {
+    "status": "accepted",
+    "method": "agent-contact-sheet-visual-review",
+    "date": "2026-10-18",
+    "notes": "Фотография просмотрена агентом; видимый предмет или действие соответствует карточке. Независимой проверки человеком нет."
+  },
+  "open-ae7e36be82480baa": {
+    "status": "accepted",
+    "method": "agent-contact-sheet-visual-review",
+    "date": "2026-10-18",
+    "notes": "Фотография просмотрена агентом; видимый предмет или действие соответствует карточке. Независимой проверки человеком нет."
+  },
+  "open-17874ed995e4ea0c": {
+    "status": "accepted",
+    "method": "agent-contact-sheet-visual-review",
+    "date": "2026-10-18",
+    "notes": "Фотография просмотрена агентом; видимый предмет или действие соответствует карточке. Независимой проверки человеком нет."
+  },
+  "open-e784aa958c4e67d2": {
+    "status": "accepted",
+    "method": "agent-contact-sheet-visual-review",
+    "date": "2026-10-18",
+    "notes": "Фотография просмотрена агентом; видимый предмет или действие соответствует карточке. Независимой проверки человеком нет."
+  },
+  "open-9e9255bdfa0dfa02": {
+    "status": "accepted",
+    "method": "agent-contact-sheet-visual-review",
+    "date": "2026-10-18",
+    "notes": "Фотография просмотрена агентом; видимый предмет или действие соответствует карточке. Независимой проверки человеком нет."
+  },
+  "open-68777beac958be62": {
+    "status": "accepted",
+    "method": "agent-contact-sheet-visual-review",
+    "date": "2026-10-18",
+    "notes": "Фотография просмотрена агентом; видимый предмет или действие соответствует карточке. Независимой проверки человеком нет."
+  },
+  "open-2af99a28bd255098": {
+    "status": "accepted",
+    "method": "agent-contact-sheet-visual-review",
+    "date": "2026-10-18",
+    "notes": "Фотография просмотрена агентом; видимый предмет или действие соответствует карточке. Независимой проверки человеком нет."
+  },
+  "open-23fa2b40db782a52": {
+    "status": "accepted",
+    "method": "agent-contact-sheet-visual-review",
+    "date": "2026-10-18",
+    "notes": "Фотография просмотрена агентом; видимый предмет или действие соответствует карточке. Независимой проверки человеком нет."
+  },
+  "open-f9f985e99388d7dd": {
+    "status": "accepted",
+    "method": "agent-contact-sheet-visual-review",
+    "date": "2026-10-18",
+    "notes": "Фотография просмотрена агентом; видимый предмет или действие соответствует карточке. Независимой проверки человеком нет."
+  },
+  "open-f12e2ef8b17d41fa": {
+    "status": "accepted",
+    "method": "agent-contact-sheet-visual-review",
+    "date": "2026-10-18",
+    "notes": "Фотография просмотрена агентом; видимый предмет или действие соответствует карточке. Независимой проверки человеком нет."
+  },
+  "open-e74cc67a459e9bac": {
+    "status": "accepted",
+    "method": "agent-contact-sheet-visual-review",
+    "date": "2026-10-18",
+    "notes": "Фотография просмотрена агентом; видимый предмет или действие соответствует карточке. Независимой проверки человеком нет."
+  },
+  "open-ddcdb99dd480c0f6": {
+    "status": "accepted",
+    "method": "agent-contact-sheet-visual-review",
+    "date": "2026-10-18",
+    "notes": "Фотография просмотрена агентом; видимый предмет или действие соответствует карточке. Независимой проверки человеком нет."
+  },
+  "open-64b04d795dfea875": {
+    "status": "accepted",
+    "method": "agent-contact-sheet-visual-review",
+    "date": "2026-10-18",
+    "notes": "Фотография просмотрена агентом; видимый предмет или действие соответствует карточке. Независимой проверки человеком нет."
+  },
+  "open-b66e694e27bc6706": {
+    "status": "accepted",
+    "method": "agent-contact-sheet-visual-review",
+    "date": "2026-10-18",
+    "notes": "Фотография просмотрена агентом; видимый предмет или действие соответствует карточке. Независимой проверки человеком нет."
+  },
+  "open-41cc371e1656e90d": {
+    "status": "accepted",
+    "method": "agent-contact-sheet-visual-review",
+    "date": "2026-10-18",
+    "notes": "Фотография просмотрена агентом; видимый предмет или действие соответствует карточке. Независимой проверки человеком нет."
+  },
+  "open-63b7f0fe42919a8d": {
+    "status": "accepted",
+    "method": "agent-contact-sheet-visual-review",
+    "date": "2026-10-18",
+    "notes": "Фотография просмотрена агентом; видимый предмет или действие соответствует карточке. Независимой проверки человеком нет."
+  },
+  "open-588ec307e43c03a5": {
+    "status": "accepted",
+    "method": "agent-contact-sheet-visual-review",
+    "date": "2026-10-18",
+    "notes": "Фотография просмотрена агентом; видимый предмет или действие соответствует карточке. Независимой проверки человеком нет."
+  },
+  "open-1bde8900f793a663": {
+    "status": "accepted",
+    "method": "agent-contact-sheet-visual-review",
+    "date": "2026-10-18",
+    "notes": "Фотография просмотрена агентом; видимый предмет или действие соответствует карточке. Независимой проверки человеком нет."
+  },
+  "open-329671cf3ab65e0e": {
+    "status": "accepted",
+    "method": "agent-contact-sheet-visual-review",
+    "date": "2026-10-18",
+    "notes": "Фотография просмотрена агентом; видимый предмет или действие соответствует карточке. Независимой проверки человеком нет."
+  },
+  "open-990e099e548d0996": {
+    "status": "accepted",
+    "method": "agent-contact-sheet-visual-review",
+    "date": "2026-10-18",
+    "notes": "Фотография просмотрена агентом; видимый предмет или действие соответствует карточке. Независимой проверки человеком нет."
+  },
+  "open-c46193928351cd10": {
+    "status": "accepted",
+    "method": "agent-contact-sheet-visual-review",
+    "date": "2026-10-18",
+    "notes": "Фотография просмотрена агентом; видимый предмет или действие соответствует карточке. Независимой проверки человеком нет."
+  },
+  "open-2f102bae561a1fef": {
+    "status": "accepted",
+    "method": "agent-contact-sheet-visual-review",
+    "date": "2026-10-18",
+    "notes": "Фотография просмотрена агентом; видимый предмет или действие соответствует карточке. Независимой проверки человеком нет."
+  },
+  "open-33ea37c44e33fcea": {
+    "status": "accepted",
+    "method": "agent-contact-sheet-visual-review",
+    "date": "2026-10-18",
+    "notes": "Фотография просмотрена агентом; видимый предмет или действие соответствует карточке. Независимой проверки человеком нет."
+  },
+  "open-cc86d865e47a25af": {
+    "status": "accepted",
+    "method": "agent-contact-sheet-visual-review",
+    "date": "2026-10-18",
+    "notes": "Фотография просмотрена агентом; видимый предмет или действие соответствует карточке. Независимой проверки человеком нет."
+  },
+  "open-a661e4a2ada197cc": {
+    "status": "accepted",
+    "method": "agent-contact-sheet-visual-review",
+    "date": "2026-10-18",
+    "notes": "Фотография просмотрена агентом; видимый предмет или действие соответствует карточке. Независимой проверки человеком нет."
+  },
+  "open-fafd02aa889362d1": {
+    "status": "accepted",
+    "method": "agent-contact-sheet-visual-review",
+    "date": "2026-10-18",
+    "notes": "Фотография просмотрена агентом; видимый предмет или действие соответствует карточке. Независимой проверки человеком нет."
+  },
+  "open-491dadbb1bca4831": {
+    "status": "accepted",
+    "method": "agent-contact-sheet-visual-review",
+    "date": "2026-10-18",
+    "notes": "Фотография просмотрена агентом; видимый предмет или действие соответствует карточке. Независимой проверки человеком нет."
+  },
+  "open-1a353bf1bda8c084": {
+    "status": "accepted",
+    "method": "agent-contact-sheet-visual-review",
+    "date": "2026-10-18",
+    "notes": "Фотография просмотрена агентом; видимый предмет или действие соответствует карточке. Независимой проверки человеком нет."
+  },
+  "open-331afa52d13beabd": {
+    "status": "accepted",
+    "method": "agent-contact-sheet-visual-review",
+    "date": "2026-10-18",
+    "notes": "Фотография просмотрена агентом; видимый предмет или действие соответствует карточке. Независимой проверки человеком нет."
+  },
+  "open-9631bacf6148bef6": {
+    "status": "accepted",
+    "method": "agent-contact-sheet-visual-review",
+    "date": "2026-10-18",
+    "notes": "Фотография просмотрена агентом; видимый предмет или действие соответствует карточке. Независимой проверки человеком нет."
+  },
+  "open-2a1515901cc4292d": {
+    "status": "accepted",
+    "method": "agent-contact-sheet-visual-review",
+    "date": "2026-10-18",
+    "notes": "Фотография просмотрена агентом; видимый предмет или действие соответствует карточке. Независимой проверки человеком нет."
+  },
+  "open-130471894bd4a3ee": {
+    "status": "accepted",
+    "method": "agent-contact-sheet-visual-review",
+    "date": "2026-10-18",
+    "notes": "Фотография просмотрена агентом; видимый предмет или действие соответствует карточке. Независимой проверки человеком нет."
+  },
+  "open-cf50c379e0560633": {
+    "status": "accepted",
+    "method": "agent-contact-sheet-visual-review",
+    "date": "2026-10-18",
+    "notes": "Фотография просмотрена агентом; видимый предмет или действие соответствует карточке. Независимой проверки человеком нет."
+  },
+  "open-01735c5ff1608734": {
+    "status": "accepted",
+    "method": "agent-contact-sheet-visual-review",
+    "date": "2026-10-18",
+    "notes": "Фотография просмотрена агентом; видимый предмет или действие соответствует карточке. Независимой проверки человеком нет."
+  },
+  "open-0e0f0dc0d66b3b75": {
+    "status": "accepted",
+    "method": "agent-contact-sheet-visual-review",
+    "date": "2026-10-18",
+    "notes": "Фотография просмотрена агентом; видимый предмет или действие соответствует карточке. Независимой проверки человеком нет."
+  },
+  "open-57bf6e9626adc09a": {
+    "status": "accepted",
+    "method": "agent-contact-sheet-visual-review",
+    "date": "2026-10-18",
+    "notes": "Фотография просмотрена агентом; видимый предмет или действие соответствует карточке. Независимой проверки человеком нет."
+  },
+  "open-6df1fbde7fbc19c3": {
+    "status": "accepted",
+    "method": "agent-contact-sheet-visual-review",
+    "date": "2026-10-18",
+    "notes": "Фотография просмотрена агентом; видимый предмет или действие соответствует карточке. Независимой проверки человеком нет."
+  },
+  "open-b19420a4eb6179ff": {
+    "status": "accepted",
+    "method": "agent-contact-sheet-visual-review",
+    "date": "2026-10-18",
+    "notes": "Фотография просмотрена агентом; видимый предмет или действие соответствует карточке. Независимой проверки человеком нет."
+  },
+  "open-ba978cf0887bf2be": {
+    "status": "accepted",
+    "method": "agent-contact-sheet-visual-review",
+    "date": "2026-10-18",
+    "notes": "Фотография просмотрена агентом; видимый предмет или действие соответствует карточке. Независимой проверки человеком нет."
+  },
+  "open-e8b1b8fdfd7f046e": {
+    "status": "accepted",
+    "method": "agent-contact-sheet-visual-review",
+    "date": "2026-10-18",
+    "notes": "Фотография просмотрена агентом; видимый предмет или действие соответствует карточке. Независимой проверки человеком нет."
+  },
+  "open-2df84a679ae22f29": {
+    "status": "accepted",
+    "method": "agent-contact-sheet-visual-review",
+    "date": "2026-10-18",
+    "notes": "Фотография просмотрена агентом; видимый предмет или действие соответствует карточке. Независимой проверки человеком нет."
+  },
+  "open-c3d8a87468449af9": {
+    "status": "accepted",
+    "method": "agent-contact-sheet-visual-review",
+    "date": "2026-10-18",
+    "notes": "Фотография просмотрена агентом; видимый предмет или действие соответствует карточке. Независимой проверки человеком нет."
+  },
+  "open-f3d88c60a941cc44": {
+    "status": "accepted",
+    "method": "agent-contact-sheet-visual-review",
+    "date": "2026-10-18",
+    "notes": "Фотография просмотрена агентом; видимый предмет или действие соответствует карточке. Независимой проверки человеком нет."
+  },
+  "open-038750191850488e": {
+    "status": "accepted",
+    "method": "agent-contact-sheet-visual-review",
+    "date": "2026-10-18",
+    "notes": "Фотография просмотрена агентом; видимый предмет или действие соответствует карточке. Независимой проверки человеком нет."
+  },
+  "open-305a411709672cb7": {
+    "status": "accepted",
+    "method": "agent-contact-sheet-visual-review",
+    "date": "2026-10-18",
+    "notes": "Фотография просмотрена агентом; видимый предмет или действие соответствует карточке. Независимой проверки человеком нет."
+  },
+  "open-5703756e238933f4": {
+    "status": "accepted",
+    "method": "agent-contact-sheet-visual-review",
+    "date": "2026-10-18",
+    "notes": "Фотография просмотрена агентом; видимый предмет или действие соответствует карточке. Независимой проверки человеком нет."
+  },
+  "open-7114d75b28f21587": {
+    "status": "accepted",
+    "method": "agent-contact-sheet-visual-review",
+    "date": "2026-10-18",
+    "notes": "Фотография просмотрена агентом; видимый предмет или действие соответствует карточке. Независимой проверки человеком нет."
+  },
+  "open-fc5e23ab764a78e4": {
+    "status": "accepted",
+    "method": "agent-contact-sheet-visual-review",
+    "date": "2026-10-18",
+    "notes": "Фотография просмотрена агентом; видимый предмет или действие соответствует карточке. Независимой проверки человеком нет."
+  },
+  "open-15ebe7fda2cfb77f": {
+    "status": "accepted",
+    "method": "agent-contact-sheet-visual-review",
+    "date": "2026-10-18",
+    "notes": "Фотография просмотрена агентом; видимый предмет или действие соответствует карточке. Независимой проверки человеком нет."
+  },
+  "open-2e9bdf921e95302a": {
+    "status": "accepted",
+    "method": "agent-contact-sheet-visual-review",
+    "date": "2026-10-18",
+    "notes": "Фотография просмотрена агентом; видимый предмет или действие соответствует карточке. Независимой проверки человеком нет."
+  },
+  "open-7d2959ec13f4fe3e": {
+    "status": "accepted",
+    "method": "agent-contact-sheet-visual-review",
+    "date": "2026-10-18",
+    "notes": "Фотография просмотрена агентом; видимый предмет или действие соответствует карточке. Независимой проверки человеком нет."
+  },
+  "open-9c5e1f77970bece7": {
+    "status": "accepted",
+    "method": "agent-contact-sheet-visual-review",
+    "date": "2026-10-18",
+    "notes": "Фотография просмотрена агентом; видимый предмет или действие соответствует карточке. Независимой проверки человеком нет."
+  },
+  "open-97886350f99ecb19": {
+    "status": "accepted",
+    "method": "agent-contact-sheet-visual-review",
+    "date": "2026-10-18",
+    "notes": "Фотография просмотрена агентом; видимый предмет или действие соответствует карточке. Независимой проверки человеком нет."
+  },
+  "open-e3a5f75aa726fae3": {
+    "status": "accepted",
+    "method": "agent-contact-sheet-visual-review",
+    "date": "2026-10-18",
+    "notes": "Фотография просмотрена агентом; видимый предмет или действие соответствует карточке. Независимой проверки человеком нет."
+  },
+  "open-7c376eacfa208cfe": {
+    "status": "accepted",
+    "method": "agent-contact-sheet-visual-review",
+    "date": "2026-10-18",
+    "notes": "Фотография просмотрена агентом; видимый предмет или действие соответствует карточке. Независимой проверки человеком нет."
   }
 }

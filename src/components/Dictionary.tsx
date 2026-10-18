@@ -25,6 +25,7 @@ import {
 } from "../lib/vocabulary-exercises";
 import {qualityLabels,type QualityCode} from "../lib/quality-audit";
 import SafeImage from "./SafeImage";
+import { SoundCheck } from "./AudioControls";
 const size = 24;
 export default function Dictionary({
   progress: p,
@@ -149,6 +150,7 @@ export default function Dictionary({
   }
   return (
     <>
+      <SoundCheck speed={p.speed} notify={notify} />
       <div className="content-notice">
         <BookOpen size={21} />
         <p>
@@ -232,7 +234,7 @@ export default function Dictionary({
           ["due", "К повторению"],
           ["learned", "Изученные"],
           ["difficult", "Трудные"],
-          ["photo", "С фотографиями"],
+          ["photo", `С фотографиями · ${catalogMeta.photos}`],
           ["examples", "С двумя примерами"],
           ["curated", "Учебные карточки"],
               ["reviewed","Примеры просмотрены редактором"],
